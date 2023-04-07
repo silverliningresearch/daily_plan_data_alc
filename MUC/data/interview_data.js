@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "HER",
         "AirlineCode": "X3",
         "AirlineName": "TUI fly",
-        "download_time": "07-04-2023 12:25:02"
+        "download_time": "07-04-2023 12:34:06"
     },
     {
         "InterviewId": "4",
@@ -44,6 +44,15 @@ let interview_data_raw = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "AirlineName": "KLM Royal Dutch Airline"
+    },
+    {
+        "InterviewId": "8",
+        "InterviewEndDate": "2023-04-07 05:33:19 GMT",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "AirlineName": "AIR FRANCE DENMARK c/o KLM FSSC"
     }
 ]    
 
