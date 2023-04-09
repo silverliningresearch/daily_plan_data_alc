@@ -5,7 +5,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1936",
         "Dest": "BER",
-        "download_time": "09-04-2023 11:07:31"
+        "download_time": "09-04-2023 11:37:34"
     },
     {
         "InterviewId": "16980",
@@ -1583,6 +1583,13 @@ let interview_data_raw = `[
         "Dest": "SOF"
     },
     {
+        "InterviewId": "17255",
+        "InterviewEndDate": "2023-04-09 09:08:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN"
+    },
+    {
         "InterviewId": "17256",
         "InterviewEndDate": "2023-04-09 09:05:37",
         "InterviewState": "Complete",
@@ -1592,6 +1599,13 @@ let interview_data_raw = `[
     {
         "InterviewId": "17257",
         "InterviewEndDate": "2023-04-09 09:06:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN"
+    },
+    {
+        "InterviewId": "17258",
+        "InterviewEndDate": "2023-04-09 09:10:36",
         "InterviewState": "Complete",
         "Flight": "LH 480",
         "Dest": "DEN"
@@ -1616,6 +1630,34 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 480",
         "Dest": "DEN"
+    },
+    {
+        "InterviewId": "17262",
+        "InterviewEndDate": "2023-04-09 09:30:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX"
+    },
+    {
+        "InterviewId": "17263",
+        "InterviewEndDate": "2023-04-09 09:33:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX"
+    },
+    {
+        "InterviewId": "17264",
+        "InterviewEndDate": "2023-04-09 09:32:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX"
+    },
+    {
+        "InterviewId": "17265",
+        "InterviewEndDate": "2023-04-09 09:27:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX"
     }
 ]    
 
