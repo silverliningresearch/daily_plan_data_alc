@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "EK - Emirates",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "download_time": "11-04-2023 19:56:14"
+        "download_time": "11-04-2023 21:57:27"
     },
     {
         "InterviewId": "5460",
@@ -214,6 +214,102 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5486",
+        "InterviewEndDate": "2023-04-11 18:03:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5487",
+        "InterviewEndDate": "2023-04-11 18:07:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5488",
+        "InterviewEndDate": "2023-04-11 18:09:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5489",
+        "InterviewEndDate": "2023-04-11 18:18:45",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "5490",
+        "InterviewEndDate": "2023-04-11 18:19:36",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "5491",
+        "InterviewEndDate": "2023-04-11 18:22:48",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FAO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5492",
+        "InterviewEndDate": "2023-04-11 18:47:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FAO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5493",
+        "InterviewEndDate": "2023-04-11 18:54:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FAO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5494",
+        "InterviewEndDate": "2023-04-11 18:58:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FAO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5495",
+        "InterviewEndDate": "2023-04-11 19:00:24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5496",
+        "InterviewEndDate": "2023-04-11 19:02:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5497",
+        "InterviewEndDate": "2023-04-11 19:23:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
         "AirlineCode": "LH"
     }
 ]    
