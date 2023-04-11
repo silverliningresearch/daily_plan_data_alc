@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "Lh1936",
         "Dest": "BER",
         "AirlineCode": "Lh1936",
-        "download_time": "11-04-2023 17:52:31"
+        "download_time": "11-04-2023 19:56:11"
     },
     {
         "InterviewId": "16980",
@@ -2086,6 +2086,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1988",
         "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17299",
+        "InterviewEndDate": "2023-04-11 15:54:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17300",
+        "InterviewEndDate": "2023-04-11 16:11:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17301",
+        "InterviewEndDate": "2023-04-11 16:13:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17302",
+        "InterviewEndDate": "2023-04-11 16:11:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17303",
+        "InterviewEndDate": "2023-04-11 16:14:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17304",
+        "InterviewEndDate": "2023-04-11 16:16:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17305",
+        "InterviewEndDate": "2023-04-11 16:39:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17306",
+        "InterviewEndDate": "2023-04-11 17:01:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17307",
+        "InterviewEndDate": "2023-04-11 17:02:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17308",
+        "InterviewEndDate": "2023-04-11 17:01:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17309",
+        "InterviewEndDate": "2023-04-11 17:33:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17310",
+        "InterviewEndDate": "2023-04-11 17:33:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17311",
+        "InterviewEndDate": "2023-04-11 17:34:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
