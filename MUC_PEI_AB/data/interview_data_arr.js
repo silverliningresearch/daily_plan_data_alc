@@ -1,4 +1,4 @@
-let interview_data_raw = `[
+let interview_data_arr_raw = `[
     {
         "InterviewId": "5459",
         "InterviewEndDate": "2023-04-08 11:33:38",
@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EK - Emirates",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "download_time": "11-04-2023 06:12:45"
+        "download_time": "11-04-2023 06:25:21"
     },
     {
         "InterviewId": "5460",
