@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "14-04-2023 09:35:25"
+        "download_time": "14-04-2023 11:36:50"
     },
     {
         "InterviewId": "7701",
@@ -423,6 +423,70 @@ let interview_data_raw = `[
         "Flight": "LH 1679",
         "Dest": "MUC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7760",
+        "InterviewEndDate": "2023-04-14 08:19:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7761",
+        "InterviewEndDate": "2023-04-14 08:18:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7762",
+        "InterviewEndDate": "2023-04-14 08:19:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7763",
+        "InterviewEndDate": "2023-04-14 08:54:54",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "7764",
+        "InterviewEndDate": "2023-04-14 08:55:17",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "7765",
+        "InterviewEndDate": "2023-04-14 08:50:31",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "7766",
+        "InterviewEndDate": "2023-04-14 08:51:22",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "7767",
+        "InterviewEndDate": "2023-04-14 08:51:41",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
     }
 ]    
 
