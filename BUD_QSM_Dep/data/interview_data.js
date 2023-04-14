@@ -1,236 +1,228 @@
 let interview_data_raw = `[
     {
-        "InterviewId": "1223",
-        "InterviewEndDate": "2023-04-08 12:48:18",
+        "InterviewId": "3964",
+        "InterviewEndDate": "2023-04-03 06:18:18",
         "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "TLV",
-        "AirlineCode": "W6",
-        "download_time": "14-04-2023 15:38:17"
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW",
+        "download_time": "14-04-2023 16:00:36"
     },
     {
-        "InterviewId": "1224",
-        "InterviewEndDate": "2023-04-08 12:53:30",
+        "InterviewId": "3965",
+        "InterviewEndDate": "2023-04-03 06:13:12",
         "InterviewState": "Complete",
-        "Flight": "FR - Ryanair",
-        "Dest": "TLV",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "3966",
+        "InterviewEndDate": "2023-04-03 06:17:53",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "3967",
+        "InterviewEndDate": "2023-04-04 08:22:57",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "3968",
+        "InterviewEndDate": "2023-04-06 14:30:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3969",
+        "InterviewEndDate": "2023-04-06 14:38:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3970",
+        "InterviewEndDate": "2023-04-06 14:29:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3971",
+        "InterviewEndDate": "2023-04-06 14:39:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3972",
+        "InterviewEndDate": "2023-04-06 14:41:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3973",
+        "InterviewEndDate": "2023-04-07 14:34:53",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3974",
+        "InterviewEndDate": "2023-04-07 14:36:52",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3975",
+        "InterviewEndDate": "2023-04-07 14:43:56",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3976",
+        "InterviewEndDate": "2023-04-07 14:41:42",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3977",
+        "InterviewEndDate": "2023-04-07 14:44:14",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3978",
+        "InterviewEndDate": "2023-04-07 14:57:54",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "3979",
+        "InterviewEndDate": "2023-04-07 15:00:36",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "3980",
+        "InterviewEndDate": "2023-04-07 15:01:16",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "3981",
+        "InterviewEndDate": "2023-04-07 15:57:43",
+        "InterviewState": "Complete",
+        "Flight": "LS 1322",
+        "Dest": "BHX",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "3984",
+        "InterviewEndDate": "2023-04-09 09:33:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "1225",
-        "InterviewEndDate": "2023-04-08 12:58:21",
+        "InterviewId": "3985",
+        "InterviewEndDate": "2023-04-09 09:33:01",
         "InterviewState": "Complete",
-        "Flight": "FR - Ryanair",
-        "Dest": "TLV",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "1226",
-        "InterviewEndDate": "2023-04-08 13:03:18",
+        "InterviewId": "3986",
+        "InterviewEndDate": "2023-04-09 09:31:03",
         "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
     },
     {
-        "InterviewId": "1227",
-        "InterviewEndDate": "2023-04-08 13:08:11",
+        "InterviewId": "3987",
+        "InterviewEndDate": "2023-04-09 11:40:20",
         "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "1228",
-        "InterviewEndDate": "2023-04-08 13:13:23",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "1229",
-        "InterviewEndDate": "2023-04-08 13:19:06",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "1230",
-        "InterviewEndDate": "2023-04-08 13:23:16",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "1231",
-        "InterviewEndDate": "2023-04-08 13:28:02",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "1232",
-        "InterviewEndDate": "2023-04-08 13:32:12",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "1233",
-        "InterviewEndDate": "2023-04-08 13:38:21",
-        "InterviewState": "Complete",
-        "Flight": "MS - Egyptair",
-        "Dest": "CAI",
-        "AirlineCode": "MS"
-    },
-    {
-        "InterviewId": "1234",
-        "InterviewEndDate": "2023-04-08 13:42:27",
-        "InterviewState": "Complete",
-        "Flight": "MS - Egyptair",
-        "Dest": "CAI",
-        "AirlineCode": "MS"
-    },
-    {
-        "InterviewId": "1235",
-        "InterviewEndDate": "2023-04-08 13:46:47",
-        "InterviewState": "Complete",
-        "Flight": "MS - Egyptair",
-        "Dest": "CAI",
-        "AirlineCode": "MS"
-    },
-    {
-        "InterviewId": "1236",
-        "InterviewEndDate": "2023-04-08 13:52:24",
-        "InterviewState": "Complete",
-        "Flight": "MS - Egyptair",
-        "Dest": "CAI",
-        "AirlineCode": "MS"
-    },
-    {
-        "InterviewId": "1237",
-        "InterviewEndDate": "2023-04-08 14:01:15",
-        "InterviewState": "Complete",
-        "Flight": "MS - Egyptair",
-        "Dest": "CAI",
-        "AirlineCode": "MS"
-    },
-    {
-        "InterviewId": "1238",
-        "InterviewEndDate": "2023-04-09 07:40:36",
-        "InterviewState": "Complete",
-        "Flight": "D8 - Norwegian Air International",
-        "Dest": "ARN",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewId": "1239",
-        "InterviewEndDate": "2023-04-09 07:44:18",
-        "InterviewState": "Complete",
-        "Flight": "D8 - Norwegian Air International",
-        "Dest": "ARN",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewId": "1240",
-        "InterviewEndDate": "2023-04-09 07:48:22",
-        "InterviewState": "Complete",
-        "Flight": "D8 - Norwegian Air International",
-        "Dest": "ARN",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewId": "1241",
-        "InterviewEndDate": "2023-04-09 07:53:09",
-        "InterviewState": "Complete",
-        "Flight": "D8 - Norwegian Air International",
-        "Dest": "ARN",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewId": "1242",
-        "InterviewEndDate": "2023-04-09 07:59:11",
-        "InterviewState": "Complete",
-        "Flight": "D8 - Norwegian Air International",
-        "Dest": "ARN",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewId": "1243",
-        "InterviewEndDate": "2023-04-09 08:04:59",
-        "InterviewState": "Complete",
-        "Flight": "D8 - Norwegian Air International",
-        "Dest": "ARN",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewId": "1244",
-        "InterviewEndDate": "2023-04-09 08:09:17",
-        "InterviewState": "Complete",
-        "Flight": "D8 - Norwegian Air International",
-        "Dest": "ARN",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewId": "1245",
-        "InterviewEndDate": "2023-04-09 08:20:15",
-        "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "BER",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "1246",
-        "InterviewEndDate": "2023-04-09 08:25:38",
+        "InterviewId": "3988",
+        "InterviewEndDate": "2023-04-09 11:37:54",
         "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "BER",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "1247",
-        "InterviewEndDate": "2023-04-09 08:31:24",
+        "InterviewId": "3989",
+        "InterviewEndDate": "2023-04-09 11:35:28",
         "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "BER",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "1248",
-        "InterviewEndDate": "2023-04-09 08:38:08",
+        "InterviewId": "3990",
+        "InterviewEndDate": "2023-04-09 11:34:26",
         "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "MXP",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "1249",
-        "InterviewEndDate": "2023-04-09 08:42:06",
+        "InterviewId": "3991",
+        "InterviewEndDate": "2023-04-09 11:34:15",
         "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "MXP",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "1250",
-        "InterviewEndDate": "2023-04-09 08:46:05",
+        "InterviewId": "3993",
+        "InterviewEndDate": "2023-04-09 11:44:33",
         "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "MXP",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "1251",
-        "InterviewEndDate": "2023-04-09 08:53:11",
+        "InterviewId": "3996",
+        "InterviewEndDate": "2023-04-14 04:12:09",
         "InterviewState": "Complete",
-        "Flight": "W6 - Wizzair",
-        "Dest": "MXP",
-        "AirlineCode": "W6"
+        "Flight": "BA  865",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
