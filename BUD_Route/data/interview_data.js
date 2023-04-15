@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "15-04-2023 14:39:47"
+        "download_time": "15-04-2023 15:39:51"
     },
     {
         "InterviewId": "67210",
@@ -9198,6 +9198,166 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 5254",
         "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68372",
+        "InterviewEndDate": "2023-04-15 12:43:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68373",
+        "InterviewEndDate": "2023-04-15 12:47:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68374",
+        "InterviewEndDate": "2023-04-15 12:45:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68375",
+        "InterviewEndDate": "2023-04-15 12:46:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68376",
+        "InterviewEndDate": "2023-04-15 12:51:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68377",
+        "InterviewEndDate": "2023-04-15 12:54:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68378",
+        "InterviewEndDate": "2023-04-15 12:54:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68379",
+        "InterviewEndDate": "2023-04-15 12:54:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68380",
+        "InterviewEndDate": "2023-04-15 12:54:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68381",
+        "InterviewEndDate": "2023-04-15 12:58:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68382",
+        "InterviewEndDate": "2023-04-15 13:26:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68383",
+        "InterviewEndDate": "2023-04-15 13:27:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68384",
+        "InterviewEndDate": "2023-04-15 13:28:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68385",
+        "InterviewEndDate": "2023-04-15 13:28:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68386",
+        "InterviewEndDate": "2023-04-15 13:31:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68387",
+        "InterviewEndDate": "2023-04-15 13:31:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68388",
+        "InterviewEndDate": "2023-04-15 13:33:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68389",
+        "InterviewEndDate": "2023-04-15 13:33:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68390",
+        "InterviewEndDate": "2023-04-15 13:36:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68391",
+        "InterviewEndDate": "2023-04-15 13:37:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
         "AirlineCode": "FR"
     }
 ]    
