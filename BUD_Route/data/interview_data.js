@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "15-04-2023 15:39:51"
+        "download_time": "15-04-2023 16:39:49"
     },
     {
         "InterviewId": "67210",
@@ -9358,6 +9358,254 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4277",
         "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68392",
+        "InterviewEndDate": "2023-04-15 13:44:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68393",
+        "InterviewEndDate": "2023-04-15 13:43:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68394",
+        "InterviewEndDate": "2023-04-15 13:42:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68395",
+        "InterviewEndDate": "2023-04-15 13:43:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68396",
+        "InterviewEndDate": "2023-04-15 13:43:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68397",
+        "InterviewEndDate": "2023-04-15 13:46:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68398",
+        "InterviewEndDate": "2023-04-15 13:48:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68399",
+        "InterviewEndDate": "2023-04-15 13:49:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68400",
+        "InterviewEndDate": "2023-04-15 13:48:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68401",
+        "InterviewEndDate": "2023-04-15 13:48:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68402",
+        "InterviewEndDate": "2023-04-15 13:51:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68403",
+        "InterviewEndDate": "2023-04-15 13:53:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68404",
+        "InterviewEndDate": "2023-04-15 14:10:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68405",
+        "InterviewEndDate": "2023-04-15 14:13:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68406",
+        "InterviewEndDate": "2023-04-15 14:09:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68407",
+        "InterviewEndDate": "2023-04-15 14:14:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68408",
+        "InterviewEndDate": "2023-04-15 14:14:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68409",
+        "InterviewEndDate": "2023-04-15 14:24:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68410",
+        "InterviewEndDate": "2023-04-15 14:23:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68411",
+        "InterviewEndDate": "2023-04-15 14:25:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68412",
+        "InterviewEndDate": "2023-04-15 14:24:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68413",
+        "InterviewEndDate": "2023-04-15 14:29:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68414",
+        "InterviewEndDate": "2023-04-15 14:28:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68415",
+        "InterviewEndDate": "2023-04-15 14:30:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68416",
+        "InterviewEndDate": "2023-04-15 14:28:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68417",
+        "InterviewEndDate": "2023-04-15 14:34:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68418",
+        "InterviewEndDate": "2023-04-15 14:32:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68419",
+        "InterviewEndDate": "2023-04-15 14:34:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68420",
+        "InterviewEndDate": "2023-04-15 14:35:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68421",
+        "InterviewEndDate": "2023-04-15 14:37:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68422",
+        "InterviewEndDate": "2023-04-15 14:38:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
         "AirlineCode": "FR"
     }
 ]    
