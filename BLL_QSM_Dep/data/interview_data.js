@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W63212",
         "Dest": "OTP",
         "AirlineCode": "W63212",
-        "download_time": "16-04-2023 13:39:31"
+        "download_time": "16-04-2023 14:39:30"
     },
     {
         "InterviewId": "7959",
@@ -1929,8 +1929,40 @@ let interview_data_raw = `[
         "AirlineCode": "LH839"
     },
     {
+        "InterviewId": "8388",
+        "InterviewEndDate": "2023-04-16 11:40:14",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
         "InterviewId": "8389",
         "InterviewEndDate": "2023-04-16 11:36:20",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "8390",
+        "InterviewEndDate": "2023-04-16 11:41:18",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "8391",
+        "InterviewEndDate": "2023-04-16 11:42:19",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "8392",
+        "InterviewEndDate": "2023-04-16 11:41:23",
         "InterviewState": "Complete",
         "Flight": "DY995",
         "Dest": "OSL",
@@ -1943,6 +1975,86 @@ let interview_data_raw = `[
         "Flight": "DY995",
         "Dest": "OSL",
         "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "8394",
+        "InterviewEndDate": "2023-04-16 11:40:41",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "8395",
+        "InterviewEndDate": "2023-04-16 11:41:40",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "8396",
+        "InterviewEndDate": "2023-04-16 12:24:49",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8397",
+        "InterviewEndDate": "2023-04-16 12:26:16",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8398",
+        "InterviewEndDate": "2023-04-16 12:23:59",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8399",
+        "InterviewEndDate": "2023-04-16 12:17:46",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8400",
+        "InterviewEndDate": "2023-04-16 12:23:39",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8401",
+        "InterviewEndDate": "2023-04-16 12:11:19",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8403",
+        "InterviewEndDate": "2023-04-16 12:13:01",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8404",
+        "InterviewEndDate": "2023-04-16 12:11:02",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
     }
 ]    
 
