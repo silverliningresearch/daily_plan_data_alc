@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "17-04-2023 13:39:37"
+        "download_time": "17-04-2023 14:39:39"
     },
     {
         "InterviewId": "3965",
@@ -571,6 +571,70 @@ let interview_data_raw = `[
     {
         "InterviewId": "4042",
         "InterviewEndDate": "2023-04-17 11:36:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4043",
+        "InterviewEndDate": "2023-04-17 11:47:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4044",
+        "InterviewEndDate": "2023-04-17 11:44:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4045",
+        "InterviewEndDate": "2023-04-17 11:46:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4046",
+        "InterviewEndDate": "2023-04-17 11:50:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4047",
+        "InterviewEndDate": "2023-04-17 11:51:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4048",
+        "InterviewEndDate": "2023-04-17 11:55:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4049",
+        "InterviewEndDate": "2023-04-17 11:57:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4050",
+        "InterviewEndDate": "2023-04-17 11:58:58",
         "InterviewState": "Complete",
         "Flight": "FR 4263",
         "Dest": "CRL",

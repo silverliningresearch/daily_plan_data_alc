@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "17-04-2023 13:39:58"
+        "download_time": "17-04-2023 14:39:58"
     },
     {
         "InterviewId": "67210",
@@ -11783,6 +11783,174 @@ let interview_data_raw = `[
         "Flight": "W6 2357",
         "Dest": "DXB",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "68699",
+        "InterviewEndDate": "2023-04-17 11:40:12",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68700",
+        "InterviewEndDate": "2023-04-17 11:42:08",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68701",
+        "InterviewEndDate": "2023-04-17 11:43:42",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68702",
+        "InterviewEndDate": "2023-04-17 11:49:47",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68703",
+        "InterviewEndDate": "2023-04-17 11:48:52",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68704",
+        "InterviewEndDate": "2023-04-17 11:53:08",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68705",
+        "InterviewEndDate": "2023-04-17 11:52:14",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68706",
+        "InterviewEndDate": "2023-04-17 11:53:48",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68707",
+        "InterviewEndDate": "2023-04-17 11:56:33",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68708",
+        "InterviewEndDate": "2023-04-17 12:01:13",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "68709",
+        "InterviewEndDate": "2023-04-17 12:10:52",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68710",
+        "InterviewEndDate": "2023-04-17 12:12:02",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68711",
+        "InterviewEndDate": "2023-04-17 12:14:32",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68712",
+        "InterviewEndDate": "2023-04-17 12:12:36",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68714",
+        "InterviewEndDate": "2023-04-17 12:16:37",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68715",
+        "InterviewEndDate": "2023-04-17 12:16:33",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68716",
+        "InterviewEndDate": "2023-04-17 12:18:07",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68717",
+        "InterviewEndDate": "2023-04-17 12:20:29",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68718",
+        "InterviewEndDate": "2023-04-17 12:23:28",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68719",
+        "InterviewEndDate": "2023-04-17 12:23:44",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "68720",
+        "InterviewEndDate": "2023-04-17 12:25:40",
+        "InterviewState": "Complete",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
