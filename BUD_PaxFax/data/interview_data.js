@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "17-04-2023 11:40:01"
+        "download_time": "17-04-2023 12:40:01"
     },
     {
         "InterviewId": "7701",
@@ -742,6 +742,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 8745",
         "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7805",
+        "InterviewEndDate": "2023-04-17 09:51:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7806",
+        "InterviewEndDate": "2023-04-17 09:49:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7807",
+        "InterviewEndDate": "2023-04-17 09:59:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7808",
+        "InterviewEndDate": "2023-04-17 09:55:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7809",
+        "InterviewEndDate": "2023-04-17 09:58:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7811",
+        "InterviewEndDate": "2023-04-17 10:32:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 3110",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7812",
+        "InterviewEndDate": "2023-04-17 10:35:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 3110",
+        "Dest": "PMI",
         "AirlineCode": "FR"
     }
 ]    

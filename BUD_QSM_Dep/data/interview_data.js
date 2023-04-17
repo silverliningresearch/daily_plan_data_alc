@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "17-04-2023 11:39:38"
+        "download_time": "17-04-2023 12:39:38"
     },
     {
         "InterviewId": "3965",
@@ -510,6 +510,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 3827",
         "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4035",
+        "InterviewEndDate": "2023-04-17 09:54:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4036",
+        "InterviewEndDate": "2023-04-17 09:52:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4037",
+        "InterviewEndDate": "2023-04-17 10:22:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 3110",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4038",
+        "InterviewEndDate": "2023-04-17 10:23:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 3110",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4039",
+        "InterviewEndDate": "2023-04-17 10:34:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 3110",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4040",
+        "InterviewEndDate": "2023-04-17 10:34:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 3110",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4041",
+        "InterviewEndDate": "2023-04-17 10:35:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 3110",
+        "Dest": "PMI",
         "AirlineCode": "FR"
     }
 ]    
