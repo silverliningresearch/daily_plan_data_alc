@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "17-04-2023 17:39:35"
+        "download_time": "17-04-2023 18:39:34"
     },
     {
         "InterviewId": "2740",
@@ -519,6 +519,94 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2895",
+        "InterviewEndDate": "2023-04-17 16:07:06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2902",
+        "InterviewEndDate": "2023-04-17 16:10:42",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2906",
+        "InterviewEndDate": "2023-04-17 16:13:11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2907",
+        "InterviewEndDate": "2023-04-17 16:23:58",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2909",
+        "InterviewEndDate": "2023-04-17 16:33:19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2910",
+        "InterviewEndDate": "2023-04-17 16:11:46",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2913",
+        "InterviewEndDate": "2023-04-17 16:33:12",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2917",
+        "InterviewEndDate": "2023-04-17 16:33:05",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "SSH",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "2918",
+        "InterviewEndDate": "2023-04-17 16:25:06",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "SSH",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "2920",
+        "InterviewEndDate": "2023-04-17 16:32:07",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "SSH",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "2922",
+        "InterviewEndDate": "2023-04-17 16:32:15",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "SSH",
+        "AirlineCode": "CAT"
     }
 ]    
 

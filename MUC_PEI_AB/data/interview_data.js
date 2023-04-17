@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "Lh1936",
         "Dest": "BER",
         "AirlineCode": "Lh1936",
-        "download_time": "17-04-2023 17:39:22"
+        "download_time": "17-04-2023 18:39:22"
     },
     {
         "InterviewId": "16980",
@@ -2255,6 +2255,94 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "17324",
+        "InterviewEndDate": "2023-04-17 15:39:21",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "17325",
+        "InterviewEndDate": "2023-04-17 15:41:20",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "17326",
+        "InterviewEndDate": "2023-04-17 15:40:43",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "17327",
+        "InterviewEndDate": "2023-04-17 15:43:49",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "17328",
+        "InterviewEndDate": "2023-04-17 16:10:00",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "17329",
+        "InterviewEndDate": "2023-04-17 16:12:06",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "17330",
+        "InterviewEndDate": "2023-04-17 16:12:04",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "17331",
+        "InterviewEndDate": "2023-04-17 16:19:02",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "17332",
+        "InterviewEndDate": "2023-04-17 16:23:55",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "17334",
+        "InterviewEndDate": "2023-04-17 16:26:14",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "17335",
+        "InterviewEndDate": "2023-04-17 16:27:24",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
