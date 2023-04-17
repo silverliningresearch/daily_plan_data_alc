@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W63212",
         "Dest": "OTP",
         "AirlineCode": "W63212",
-        "download_time": "17-04-2023 16:39:32"
+        "download_time": "17-04-2023 17:39:32"
     },
     {
         "InterviewId": "7959",
@@ -2255,6 +2255,54 @@ let interview_data_raw = `[
         "Flight": "SK1902",
         "Dest": "OSL",
         "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "8437",
+        "InterviewEndDate": "2023-04-17 14:51:15",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "8445",
+        "InterviewEndDate": "2023-04-17 15:05:29",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "8446",
+        "InterviewEndDate": "2023-04-17 15:12:58",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "8449",
+        "InterviewEndDate": "2023-04-17 15:08:04",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "8451",
+        "InterviewEndDate": "2023-04-17 15:05:07",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "8452",
+        "InterviewEndDate": "2023-04-17 15:08:06",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
     }
 ]    
 
