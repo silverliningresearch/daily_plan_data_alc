@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W63212",
         "Dest": "OTP",
         "AirlineCode": "W63212",
-        "download_time": "17-04-2023 15:39:34"
+        "download_time": "17-04-2023 16:39:32"
     },
     {
         "InterviewId": "7959",
@@ -2215,6 +2215,46 @@ let interview_data_raw = `[
         "Flight": "W63212",
         "Dest": "OTP",
         "AirlineCode": "W63212"
+    },
+    {
+        "InterviewId": "8432",
+        "InterviewEndDate": "2023-04-17 13:44:44",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "8433",
+        "InterviewEndDate": "2023-04-17 13:44:11",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "8434",
+        "InterviewEndDate": "2023-04-17 13:46:54",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "8435",
+        "InterviewEndDate": "2023-04-17 13:44:21",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "8436",
+        "InterviewEndDate": "2023-04-17 13:48:59",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
     }
 ]    
 
