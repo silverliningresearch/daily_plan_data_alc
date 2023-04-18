@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "18-04-2023 10:55:29"
+        "download_time": "18-04-2023 11:55:28"
     },
     {
         "InterviewId": "2740",
@@ -607,6 +607,70 @@ let interview_data_arr_raw = `[
         "Flight": "CAT - Global Reach Aviation",
         "Dest": "SSH",
         "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "2923",
+        "InterviewEndDate": "2023-04-18 09:48:13",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2924",
+        "InterviewEndDate": "2023-04-18 09:51:13",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2925",
+        "InterviewEndDate": "2023-04-18 09:44:32",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2928",
+        "InterviewEndDate": "2023-04-18 09:43:13",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2930",
+        "InterviewEndDate": "2023-04-18 09:41:28",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2931",
+        "InterviewEndDate": "2023-04-18 09:47:12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2933",
+        "InterviewEndDate": "2023-04-18 09:43:14",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "MAN",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2938",
+        "InterviewEndDate": "2023-04-18 09:52:07",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "MAN",
+        "AirlineCode": "BA"
     }
 ]    
 
