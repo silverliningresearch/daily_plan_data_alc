@@ -6,7 +6,8 @@ let interview_data_raw = `[
         "Flight": "MS915",
         "Dest": "CAI",
         "AirlineCode": "MS915",
-        "download_time": "18-04-2023 14:56:00"
+        "Terminal": "T1",
+        "download_time": "18-04-2023 15:41:03"
     },
     {
         "InterviewId": "7868",
@@ -14,7 +15,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY450",
         "Dest": "SYD",
-        "AirlineCode": "EY450"
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7870",
@@ -22,7 +24,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY450",
         "Dest": "SYD",
-        "AirlineCode": "EY450"
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7871",
@@ -30,7 +33,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7872",
@@ -38,7 +42,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7873",
@@ -46,7 +51,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY282",
         "Dest": "COK",
-        "AirlineCode": "EY282"
+        "AirlineCode": "EY282",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7874",
@@ -54,7 +60,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY282",
         "Dest": "COK",
-        "AirlineCode": "EY282"
+        "AirlineCode": "EY282",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7875",
@@ -62,7 +69,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY049",
         "Dest": "BCN",
-        "AirlineCode": "EY049"
+        "AirlineCode": "EY049",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7876",
@@ -70,7 +78,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W62982",
         "Dest": "VIE",
-        "AirlineCode": "W62982"
+        "AirlineCode": "W62982",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7877",
@@ -78,7 +87,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7033",
         "Dest": "DMM",
-        "AirlineCode": "5W7033"
+        "AirlineCode": "5W7033",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7878",
@@ -86,7 +96,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W62982",
         "Dest": "VIE",
-        "AirlineCode": "W62982"
+        "AirlineCode": "W62982",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7879",
@@ -94,7 +105,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7033",
         "Dest": "DMM",
-        "AirlineCode": "5W7033"
+        "AirlineCode": "5W7033",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7880",
@@ -102,7 +114,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W68198",
         "Dest": "CTA",
-        "AirlineCode": "W68198"
+        "AirlineCode": "W68198",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7881",
@@ -110,7 +123,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W62982",
         "Dest": "VIE",
-        "AirlineCode": "W62982"
+        "AirlineCode": "W62982",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7882",
@@ -118,7 +132,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W68450",
         "Dest": "NAP",
-        "AirlineCode": "W68450"
+        "AirlineCode": "W68450",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7883",
@@ -126,7 +141,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7033",
         "Dest": "DMM",
-        "AirlineCode": "5W7033"
+        "AirlineCode": "5W7033",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7884",
@@ -134,7 +150,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W68198",
         "Dest": "CTA",
-        "AirlineCode": "W68198"
+        "AirlineCode": "W68198",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7885",
@@ -142,7 +159,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7033",
         "Dest": "DMM",
-        "AirlineCode": "5W7033"
+        "AirlineCode": "5W7033",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7886",
@@ -150,7 +168,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W62982",
         "Dest": "VIE",
-        "AirlineCode": "W62982"
+        "AirlineCode": "W62982",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7887",
@@ -158,7 +177,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY221",
         "Dest": "KHI",
-        "AirlineCode": "EY221"
+        "AirlineCode": "EY221",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7888",
@@ -166,7 +186,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY622",
         "Dest": "SEZ",
-        "AirlineCode": "EY622"
+        "AirlineCode": "EY622",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7889",
@@ -174,7 +195,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY221",
         "Dest": "KHI",
-        "AirlineCode": "EY221"
+        "AirlineCode": "EY221",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7890",
@@ -182,7 +204,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY218",
         "Dest": "DEL",
-        "AirlineCode": "EY218"
+        "AirlineCode": "EY218",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7892",
@@ -190,7 +213,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY424",
         "Dest": "MNL",
-        "AirlineCode": "EY424"
+        "AirlineCode": "EY424",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7893",
@@ -198,7 +222,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY424",
         "Dest": "MNL",
-        "AirlineCode": "EY424"
+        "AirlineCode": "EY424",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7894",
@@ -206,7 +231,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY131",
         "Dest": "IAD",
-        "AirlineCode": "EY131"
+        "AirlineCode": "EY131",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7895",
@@ -214,7 +240,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY131",
         "Dest": "IAD",
-        "AirlineCode": "EY131"
+        "AirlineCode": "EY131",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7896",
@@ -222,7 +249,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY462",
         "Dest": "MEL",
-        "AirlineCode": "EY462"
+        "AirlineCode": "EY462",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7897",
@@ -230,7 +258,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY462",
         "Dest": "MEL",
-        "AirlineCode": "EY462"
+        "AirlineCode": "EY462",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7898",
@@ -238,7 +267,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7899",
@@ -246,7 +276,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7900",
@@ -254,7 +285,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L135",
         "Dest": "TRV",
-        "AirlineCode": "3L135"
+        "AirlineCode": "3L135",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7901",
@@ -262,7 +294,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L135",
         "Dest": "TRV",
-        "AirlineCode": "3L135"
+        "AirlineCode": "3L135",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7902",
@@ -270,7 +303,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L125",
         "Dest": "COK",
-        "AirlineCode": "3L125"
+        "AirlineCode": "3L125",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7903",
@@ -278,7 +312,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L125",
         "Dest": "COK",
-        "AirlineCode": "3L125"
+        "AirlineCode": "3L125",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7904",
@@ -286,7 +321,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY430",
         "Dest": "BKK",
-        "AirlineCode": "EY430"
+        "AirlineCode": "EY430",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7905",
@@ -294,7 +330,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY878",
         "Dest": "NRT",
-        "AirlineCode": "EY878"
+        "AirlineCode": "EY878",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7906",
@@ -302,7 +339,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY268",
         "Dest": "MAA",
-        "AirlineCode": "EY268"
+        "AirlineCode": "EY268",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7907",
@@ -310,7 +348,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY454",
         "Dest": "SYD",
-        "AirlineCode": "EY454"
+        "AirlineCode": "EY454",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7908",
@@ -318,7 +357,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY454",
         "Dest": "SYD",
-        "AirlineCode": "EY454"
+        "AirlineCode": "EY454",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7909",
@@ -326,7 +366,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY454",
         "Dest": "SYD",
-        "AirlineCode": "EY454"
+        "AirlineCode": "EY454",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7910",
@@ -334,7 +375,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY856",
         "Dest": "ICN",
-        "AirlineCode": "EY856"
+        "AirlineCode": "EY856",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7911",
@@ -342,7 +384,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY430",
         "Dest": "BKK",
-        "AirlineCode": "EY430"
+        "AirlineCode": "EY430",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7912",
@@ -350,7 +393,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY428",
         "Dest": "MNL",
-        "AirlineCode": "EY428"
+        "AirlineCode": "EY428",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7913",
@@ -358,7 +402,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY428",
         "Dest": "MNL",
-        "AirlineCode": "EY428"
+        "AirlineCode": "EY428",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7914",
@@ -366,7 +411,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7915",
@@ -374,7 +420,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7916",
@@ -382,7 +429,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY258",
         "Dest": "CCU",
-        "AirlineCode": "EY258"
+        "AirlineCode": "EY258",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7917",
@@ -390,7 +438,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY856",
         "Dest": "ICN",
-        "AirlineCode": "EY856"
+        "AirlineCode": "EY856",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7918",
@@ -398,7 +447,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY653",
         "Dest": "CAI",
-        "AirlineCode": "EY653"
+        "AirlineCode": "EY653",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7919",
@@ -406,7 +456,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY653",
         "Dest": "CAI",
-        "AirlineCode": "EY653"
+        "AirlineCode": "EY653",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7920",
@@ -414,7 +465,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7921",
@@ -422,7 +474,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7922",
@@ -430,7 +483,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY404",
         "Dest": "BKK",
-        "AirlineCode": "EY404"
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7923",
@@ -438,7 +492,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7924",
@@ -446,7 +501,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7021",
         "Dest": "KWI",
-        "AirlineCode": "5W7021"
+        "AirlineCode": "5W7021",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7925",
@@ -454,7 +510,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7926",
@@ -462,7 +519,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L135",
         "Dest": "TRV",
-        "AirlineCode": "3L135"
+        "AirlineCode": "3L135",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7927",
@@ -470,7 +528,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY241",
         "Dest": "LHE",
-        "AirlineCode": "EY241"
+        "AirlineCode": "EY241",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7928",
@@ -478,7 +537,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY241",
         "Dest": "LHE",
-        "AirlineCode": "EY241"
+        "AirlineCode": "EY241",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7929",
@@ -486,7 +546,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY284",
         "Dest": "AMD",
-        "AirlineCode": "EY284"
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7930",
@@ -494,7 +555,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY284",
         "Dest": "AMD",
-        "AirlineCode": "EY284"
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7931",
@@ -502,7 +564,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "GF547",
         "Dest": "BAH",
-        "AirlineCode": "GF547"
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7932",
@@ -510,7 +573,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "GF547",
         "Dest": "BAH",
-        "AirlineCode": "GF547"
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7933",
@@ -518,7 +582,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L141",
         "Dest": "MAA",
-        "AirlineCode": "3L141"
+        "AirlineCode": "3L141",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7935",
@@ -526,7 +591,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UK256",
         "Dest": "BOM",
-        "AirlineCode": "UK256"
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7936",
@@ -534,7 +600,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UK256",
         "Dest": "BOM",
-        "AirlineCode": "UK256"
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7937",
@@ -542,7 +609,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY015",
         "Dest": "MAN",
-        "AirlineCode": "EY015"
+        "AirlineCode": "EY015",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7938",
@@ -550,7 +618,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY015",
         "Dest": "MAN",
-        "AirlineCode": "EY015"
+        "AirlineCode": "EY015",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7940",
@@ -558,7 +627,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7941",
@@ -566,7 +636,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY045",
         "Dest": "DUB",
-        "AirlineCode": "EY045"
+        "AirlineCode": "EY045",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7942",
@@ -574,7 +645,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L061",
         "Dest": "CGP",
-        "AirlineCode": "3L061"
+        "AirlineCode": "3L061",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7943",
@@ -582,7 +654,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L063",
         "Dest": "DAC",
-        "AirlineCode": "3L063"
+        "AirlineCode": "3L063",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7944",
@@ -590,7 +663,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7107",
         "Dest": "SJJ",
-        "AirlineCode": "5W7107"
+        "AirlineCode": "5W7107",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7945",
@@ -598,7 +672,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7107",
         "Dest": "SJJ",
-        "AirlineCode": "5W7107"
+        "AirlineCode": "5W7107",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7946",
@@ -606,7 +681,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7043",
         "Dest": "BEG",
-        "AirlineCode": "5W7043"
+        "AirlineCode": "5W7043",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7947",
@@ -614,7 +690,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "IX420",
         "Dest": "COK",
-        "AirlineCode": "IX420"
+        "AirlineCode": "IX420",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7948",
@@ -622,7 +699,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "IX420",
         "Dest": "COK",
-        "AirlineCode": "IX420"
+        "AirlineCode": "IX420",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7949",
@@ -630,7 +708,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY424",
         "Dest": "MNL",
-        "AirlineCode": "EY424"
+        "AirlineCode": "EY424",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7950",
@@ -638,7 +717,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY424",
         "Dest": "MNL",
-        "AirlineCode": "EY424"
+        "AirlineCode": "EY424",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7951",
@@ -646,7 +726,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY045",
         "Dest": "DUB",
-        "AirlineCode": "EY045"
+        "AirlineCode": "EY045",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7952",
@@ -654,7 +735,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY045",
         "Dest": "DUB",
-        "AirlineCode": "EY045"
+        "AirlineCode": "EY045",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7953",
@@ -662,7 +744,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY049",
         "Dest": "BCN",
-        "AirlineCode": "EY049"
+        "AirlineCode": "EY049",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7954",
@@ -670,7 +753,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY049",
         "Dest": "BCN",
-        "AirlineCode": "EY049"
+        "AirlineCode": "EY049",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7955",
@@ -678,7 +762,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY236",
         "Dest": "BLR",
-        "AirlineCode": "EY236"
+        "AirlineCode": "EY236",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7956",
@@ -686,7 +771,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY236",
         "Dest": "BLR",
-        "AirlineCode": "EY236"
+        "AirlineCode": "EY236",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7957",
@@ -694,7 +780,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY017",
         "Dest": "LHR",
-        "AirlineCode": "EY017"
+        "AirlineCode": "EY017",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7958",
@@ -702,7 +789,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY224",
         "Dest": "DEL",
-        "AirlineCode": "EY224"
+        "AirlineCode": "EY224",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7959",
@@ -710,7 +798,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY224",
         "Dest": "DEL",
-        "AirlineCode": "EY224"
+        "AirlineCode": "EY224",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7962",
@@ -718,7 +807,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY460",
         "Dest": "MEL",
-        "AirlineCode": "EY460"
+        "AirlineCode": "EY460",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7963",
@@ -726,7 +816,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY460",
         "Dest": "MEL",
-        "AirlineCode": "EY460"
+        "AirlineCode": "EY460",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7964",
@@ -734,7 +825,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L401",
         "Dest": "HBE",
-        "AirlineCode": "3L401"
+        "AirlineCode": "3L401",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7965",
@@ -742,7 +834,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L401",
         "Dest": "HBE",
-        "AirlineCode": "3L401"
+        "AirlineCode": "3L401",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7966",
@@ -750,7 +843,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY418",
         "Dest": "KUL",
-        "AirlineCode": "EY418"
+        "AirlineCode": "EY418",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7967",
@@ -758,7 +852,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY418",
         "Dest": "KUL",
-        "AirlineCode": "EY418"
+        "AirlineCode": "EY418",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7968",
@@ -766,7 +861,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UK256",
         "Dest": "BOM",
-        "AirlineCode": "UK256"
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7970",
@@ -774,7 +870,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UK256",
         "Dest": "BOM",
-        "AirlineCode": "UK256"
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7971",
@@ -782,7 +879,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7972",
@@ -790,7 +888,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7973",
@@ -798,7 +897,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY051",
         "Dest": "GVA",
-        "AirlineCode": "EY051"
+        "AirlineCode": "EY051",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7974",
@@ -806,7 +906,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY051",
         "Dest": "GVA",
-        "AirlineCode": "EY051"
+        "AirlineCode": "EY051",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7975",
@@ -814,7 +915,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY424",
         "Dest": "MNL",
-        "AirlineCode": "EY424"
+        "AirlineCode": "EY424",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7976",
@@ -822,7 +924,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY424",
         "Dest": "MNL",
-        "AirlineCode": "EY424"
+        "AirlineCode": "EY424",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7977",
@@ -830,7 +933,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY264",
         "Dest": "CMB",
-        "AirlineCode": "EY264"
+        "AirlineCode": "EY264",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7978",
@@ -838,7 +942,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L111",
         "Dest": "AMD",
-        "AirlineCode": "3L111"
+        "AirlineCode": "3L111",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7979",
@@ -846,7 +951,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY216",
         "Dest": "BLR",
-        "AirlineCode": "EY216"
+        "AirlineCode": "EY216",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7980",
@@ -854,7 +960,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UL208",
         "Dest": "CMB",
-        "AirlineCode": "UL208"
+        "AirlineCode": "UL208",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7981",
@@ -862,7 +969,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "IX538",
         "Dest": "TRV",
-        "AirlineCode": "IX538"
+        "AirlineCode": "IX538",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7982",
@@ -870,7 +978,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY221",
         "Dest": "KHI",
-        "AirlineCode": "EY221"
+        "AirlineCode": "EY221",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7983",
@@ -878,7 +987,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY241",
         "Dest": "LHE",
-        "AirlineCode": "EY241"
+        "AirlineCode": "EY241",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7984",
@@ -886,7 +996,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY241",
         "Dest": "LHE",
-        "AirlineCode": "EY241"
+        "AirlineCode": "EY241",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7985",
@@ -894,7 +1005,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY284",
         "Dest": "AMD",
-        "AirlineCode": "EY284"
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7986",
@@ -902,7 +1014,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY430",
         "Dest": "BKK",
-        "AirlineCode": "EY430"
+        "AirlineCode": "EY430",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7987",
@@ -910,7 +1023,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY103",
         "Dest": "JFK",
-        "AirlineCode": "EY103"
+        "AirlineCode": "EY103",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7988",
@@ -918,7 +1032,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7085",
         "Dest": "TLV",
-        "AirlineCode": "5W7085"
+        "AirlineCode": "5W7085",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7989",
@@ -926,7 +1041,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L020",
         "Dest": "KWI",
-        "AirlineCode": "3L020"
+        "AirlineCode": "3L020",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7990",
@@ -934,7 +1050,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L714",
         "Dest": "TBS",
-        "AirlineCode": "3L714"
+        "AirlineCode": "3L714",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "7991",
@@ -942,7 +1059,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY077",
         "Dest": "AMS",
-        "AirlineCode": "EY077"
+        "AirlineCode": "EY077",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7992",
@@ -950,7 +1068,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY077",
         "Dest": "AMS",
-        "AirlineCode": "EY077"
+        "AirlineCode": "EY077",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7993",
@@ -958,7 +1077,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7994",
@@ -966,7 +1086,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY462",
         "Dest": "MEL",
-        "AirlineCode": "EY462"
+        "AirlineCode": "EY462",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7995",
@@ -974,7 +1095,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY462",
         "Dest": "MEL",
-        "AirlineCode": "EY462"
+        "AirlineCode": "EY462",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7996",
@@ -982,7 +1104,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7997",
@@ -990,7 +1113,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7998",
@@ -998,7 +1122,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "7999",
@@ -1006,7 +1131,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L135",
         "Dest": "TRV",
-        "AirlineCode": "3L135"
+        "AirlineCode": "3L135",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8000",
@@ -1014,7 +1140,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L135",
         "Dest": "TRV",
-        "AirlineCode": "3L135"
+        "AirlineCode": "3L135",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8001",
@@ -1022,7 +1149,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "IX716",
         "Dest": "CNN",
-        "AirlineCode": "IX716"
+        "AirlineCode": "IX716",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8002",
@@ -1030,7 +1158,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7107",
         "Dest": "SJJ",
-        "AirlineCode": "5W7107"
+        "AirlineCode": "5W7107",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8003",
@@ -1038,7 +1167,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY075",
         "Dest": "MAD",
-        "AirlineCode": "EY075"
+        "AirlineCode": "EY075",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8004",
@@ -1046,7 +1176,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY404",
         "Dest": "BKK",
-        "AirlineCode": "EY404"
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8005",
@@ -1054,7 +1185,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L101",
         "Dest": "BOM",
-        "AirlineCode": "3L101"
+        "AirlineCode": "3L101",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8006",
@@ -1062,7 +1194,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L101",
         "Dest": "BOM",
-        "AirlineCode": "3L101"
+        "AirlineCode": "3L101",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8007",
@@ -1070,7 +1203,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY404",
         "Dest": "BKK",
-        "AirlineCode": "EY404"
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8008",
@@ -1078,7 +1212,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY404",
         "Dest": "BKK",
-        "AirlineCode": "EY404"
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8009",
@@ -1086,7 +1221,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8010",
@@ -1094,7 +1230,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8011",
@@ -1102,7 +1239,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY450",
         "Dest": "SYD",
-        "AirlineCode": "EY450"
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8012",
@@ -1110,7 +1248,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY450",
         "Dest": "SYD",
-        "AirlineCode": "EY450"
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8013",
@@ -1118,7 +1257,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY622",
         "Dest": "SEZ",
-        "AirlineCode": "EY622"
+        "AirlineCode": "EY622",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8014",
@@ -1126,7 +1266,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY151",
         "Dest": "ORD",
-        "AirlineCode": "EY151"
+        "AirlineCode": "EY151",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8015",
@@ -1134,7 +1275,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY015",
         "Dest": "MAN",
-        "AirlineCode": "EY015"
+        "AirlineCode": "EY015",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8016",
@@ -1142,7 +1284,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY001",
         "Dest": "FRA",
-        "AirlineCode": "EY001"
+        "AirlineCode": "EY001",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8017",
@@ -1150,7 +1293,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8019",
@@ -1158,7 +1302,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY404",
         "Dest": "BKK",
-        "AirlineCode": "EY404"
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8020",
@@ -1166,7 +1311,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY513",
         "Dest": "AMM",
-        "AirlineCode": "EY513"
+        "AirlineCode": "EY513",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8021",
@@ -1174,7 +1320,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY513",
         "Dest": "AMM",
-        "AirlineCode": "EY513"
+        "AirlineCode": "EY513",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8022",
@@ -1182,7 +1329,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8023",
@@ -1190,7 +1338,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY025",
         "Dest": "LHR",
-        "AirlineCode": "EY025"
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8024",
@@ -1198,7 +1347,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8025",
@@ -1206,7 +1356,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8026",
@@ -1214,7 +1365,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY224",
         "Dest": "DEL",
-        "AirlineCode": "EY224"
+        "AirlineCode": "EY224",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8027",
@@ -1222,7 +1374,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY224",
         "Dest": "DEL",
-        "AirlineCode": "EY224"
+        "AirlineCode": "EY224",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8030",
@@ -1230,7 +1383,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY513",
         "Dest": "AMM",
-        "AirlineCode": "EY513"
+        "AirlineCode": "EY513",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8031",
@@ -1238,7 +1392,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY333",
         "Dest": "JED",
-        "AirlineCode": "EY333"
+        "AirlineCode": "EY333",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8032",
@@ -1246,7 +1401,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY333",
         "Dest": "JED",
-        "AirlineCode": "EY333"
+        "AirlineCode": "EY333",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8033",
@@ -1254,7 +1410,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY593",
         "Dest": "TLV",
-        "AirlineCode": "EY593"
+        "AirlineCode": "EY593",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8034",
@@ -1262,7 +1419,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY593",
         "Dest": "TLV",
-        "AirlineCode": "EY593"
+        "AirlineCode": "EY593",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8035",
@@ -1270,7 +1428,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L788",
         "Dest": "KZN",
-        "AirlineCode": "3L788"
+        "AirlineCode": "3L788",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8036",
@@ -1278,7 +1437,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L788",
         "Dest": "KZN",
-        "AirlineCode": "3L788"
+        "AirlineCode": "3L788",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8037",
@@ -1286,7 +1446,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8038",
@@ -1294,7 +1455,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "GF547",
         "Dest": "BAH",
-        "AirlineCode": "GF547"
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8039",
@@ -1302,7 +1464,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "GF547",
         "Dest": "BAH",
-        "AirlineCode": "GF547"
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8040",
@@ -1310,7 +1473,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L141",
         "Dest": "MAA",
-        "AirlineCode": "3L141"
+        "AirlineCode": "3L141",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8041",
@@ -1318,7 +1482,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L141",
         "Dest": "MAA",
-        "AirlineCode": "3L141"
+        "AirlineCode": "3L141",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8044",
@@ -1326,7 +1491,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY015",
         "Dest": "MAN",
-        "AirlineCode": "EY015"
+        "AirlineCode": "EY015",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8045",
@@ -1334,7 +1500,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY015",
         "Dest": "MAN",
-        "AirlineCode": "EY015"
+        "AirlineCode": "EY015",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8046",
@@ -1342,7 +1509,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY005",
         "Dest": "MUC",
-        "AirlineCode": "EY005"
+        "AirlineCode": "EY005",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8048",
@@ -1350,7 +1518,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY073",
         "Dest": "ZRH",
-        "AirlineCode": "EY073"
+        "AirlineCode": "EY073",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8049",
@@ -1358,7 +1527,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8050",
@@ -1366,7 +1536,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8051",
@@ -1374,7 +1545,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8052",
@@ -1382,7 +1554,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8053",
@@ -1390,7 +1563,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8054",
@@ -1398,7 +1572,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7021",
         "Dest": "KWI",
-        "AirlineCode": "5W7021"
+        "AirlineCode": "5W7021",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8055",
@@ -1406,7 +1581,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY236",
         "Dest": "BLR",
-        "AirlineCode": "EY236"
+        "AirlineCode": "EY236",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8056",
@@ -1414,7 +1590,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY236",
         "Dest": "BLR",
-        "AirlineCode": "EY236"
+        "AirlineCode": "EY236",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8057",
@@ -1422,7 +1599,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY276",
         "Dest": "HYD",
-        "AirlineCode": "EY276"
+        "AirlineCode": "EY276",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8058",
@@ -1430,7 +1608,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY017",
         "Dest": "LHR",
-        "AirlineCode": "EY017"
+        "AirlineCode": "EY017",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8059",
@@ -1438,7 +1617,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY017",
         "Dest": "LHR",
-        "AirlineCode": "EY017"
+        "AirlineCode": "EY017",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8063",
@@ -1446,7 +1626,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY073",
         "Dest": "ZRH",
-        "AirlineCode": "EY073"
+        "AirlineCode": "EY073",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8064",
@@ -1454,7 +1635,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY073",
         "Dest": "ZRH",
-        "AirlineCode": "EY073"
+        "AirlineCode": "EY073",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8067",
@@ -1462,7 +1644,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "GF543",
         "Dest": "SGN",
-        "AirlineCode": "GF543"
+        "AirlineCode": "GF543",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8068",
@@ -1470,7 +1653,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W62982",
         "Dest": "VIE",
-        "AirlineCode": "W62982"
+        "AirlineCode": "W62982",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8069",
@@ -1478,7 +1662,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W68198",
         "Dest": "CTA",
-        "AirlineCode": "W68198"
+        "AirlineCode": "W68198",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8070",
@@ -1486,7 +1671,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY460",
         "Dest": "MEL",
-        "AirlineCode": "EY460"
+        "AirlineCode": "EY460",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8071",
@@ -1494,7 +1680,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY460",
         "Dest": "MEL",
-        "AirlineCode": "EY460"
+        "AirlineCode": "EY460",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8073",
@@ -1502,7 +1689,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY284",
         "Dest": "AMD",
-        "AirlineCode": "EY284"
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8074",
@@ -1510,7 +1698,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY221",
         "Dest": "KHI",
-        "AirlineCode": "EY221"
+        "AirlineCode": "EY221",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8075",
@@ -1518,7 +1707,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY221",
         "Dest": "KHI",
-        "AirlineCode": "EY221"
+        "AirlineCode": "EY221",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8076",
@@ -1526,7 +1716,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L141",
         "Dest": "MAA",
-        "AirlineCode": "3L141"
+        "AirlineCode": "3L141",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8077",
@@ -1534,7 +1725,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L141",
         "Dest": "MAA",
-        "AirlineCode": "3L141"
+        "AirlineCode": "3L141",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8078",
@@ -1542,7 +1734,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6E1408",
         "Dest": "HYD",
-        "AirlineCode": "6E1408"
+        "AirlineCode": "6E1408",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8079",
@@ -1550,7 +1743,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6E1408",
         "Dest": "HYD",
-        "AirlineCode": "6E1408"
+        "AirlineCode": "6E1408",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8080",
@@ -1558,7 +1752,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8081",
@@ -1566,7 +1761,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY011",
         "Dest": "LHR",
-        "AirlineCode": "EY011"
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8082",
@@ -1574,7 +1770,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY031",
         "Dest": "CDG",
-        "AirlineCode": "EY031"
+        "AirlineCode": "EY031",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8083",
@@ -1582,7 +1779,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY513",
         "Dest": "AMM",
-        "AirlineCode": "EY513"
+        "AirlineCode": "EY513",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8084",
@@ -1590,7 +1788,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY513",
         "Dest": "AMM",
-        "AirlineCode": "EY513"
+        "AirlineCode": "EY513",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8085",
@@ -1598,7 +1797,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY015",
         "Dest": "MAN",
-        "AirlineCode": "EY015"
+        "AirlineCode": "EY015",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8086",
@@ -1606,7 +1806,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY031",
         "Dest": "CDG",
-        "AirlineCode": "EY031"
+        "AirlineCode": "EY031",
+        "Terminal": "T3"
     },
     {
         "InterviewId": "8087",
@@ -1614,7 +1815,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8088",
@@ -1622,7 +1824,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8090",
@@ -1630,7 +1833,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
-        "AirlineCode": "QR1045"
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8091",
@@ -1638,7 +1842,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7021",
         "Dest": "KWI",
-        "AirlineCode": "5W7021"
+        "AirlineCode": "5W7021",
+        "Terminal": "T1"
     },
     {
         "InterviewId": "8092",
@@ -1646,7 +1851,8 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W7021",
         "Dest": "KWI",
-        "AirlineCode": "5W7021"
+        "AirlineCode": "5W7021",
+        "Terminal": "T1"
     }
 ]    
 
