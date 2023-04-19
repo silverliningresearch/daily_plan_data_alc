@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "18-04-2023 16:55:33"
+        "download_time": "19-04-2023 03:35:07"
     },
     {
         "InterviewId": "2740",
@@ -679,6 +679,78 @@ let interview_data_arr_raw = `[
         "Flight": "BA - British Airways",
         "Dest": "MAN",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2942",
+        "InterviewEndDate": "2023-04-18 15:24:05",
+        "InterviewState": "Complete",
+        "Flight": "Sn",
+        "Dest": "BRU",
+        "AirlineCode": "Sn"
+    },
+    {
+        "InterviewId": "2944",
+        "InterviewEndDate": "2023-04-18 15:24:10",
+        "InterviewState": "Complete",
+        "Flight": "Sn",
+        "Dest": "BRU",
+        "AirlineCode": "Sn"
+    },
+    {
+        "InterviewId": "2946",
+        "InterviewEndDate": "2023-04-18 15:24:11",
+        "InterviewState": "Complete",
+        "Flight": "Sn",
+        "Dest": "BRU",
+        "AirlineCode": "Sn"
+    },
+    {
+        "InterviewId": "2947",
+        "InterviewEndDate": "2023-04-18 15:23:57",
+        "InterviewState": "Complete",
+        "Flight": "Sn",
+        "Dest": "BRU",
+        "AirlineCode": "Sn"
+    },
+    {
+        "InterviewId": "2948",
+        "InterviewEndDate": "2023-04-18 15:23:56",
+        "InterviewState": "Complete",
+        "Flight": "Sn",
+        "Dest": "BRU",
+        "AirlineCode": "Sn"
+    },
+    {
+        "InterviewId": "2950",
+        "InterviewEndDate": "2023-04-18 15:53:13",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "2952",
+        "InterviewEndDate": "2023-04-18 15:53:23",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "2955",
+        "InterviewEndDate": "2023-04-18 15:53:13",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "2957",
+        "InterviewEndDate": "2023-04-18 15:53:36",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
