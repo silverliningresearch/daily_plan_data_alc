@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "19-04-2023 20:34:56"
+        "download_time": "19-04-2023 21:34:56"
     },
     {
         "InterviewId": "1224",
@@ -266,11 +266,91 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "1256",
-        "InterviewEndDate": "2023-04-19 18:33:58",
+        "InterviewEndDate": "2023-04-19 18:36:53",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "CIA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1257",
+        "InterviewEndDate": "2023-04-19 18:41:58",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1258",
+        "InterviewEndDate": "2023-04-19 18:46:49",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1259",
+        "InterviewEndDate": "2023-04-19 18:52:08",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1260",
+        "InterviewEndDate": "2023-04-19 18:59:29",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1261",
+        "InterviewEndDate": "2023-04-19 19:03:59",
+        "InterviewState": "Complete",
+        "Flight": "EZS - Easyjet Switzerland",
+        "Dest": "BSL",
+        "AirlineCode": "EZS"
+    },
+    {
+        "InterviewId": "1262",
+        "InterviewEndDate": "2023-04-19 19:08:17",
+        "InterviewState": "Complete",
+        "Flight": "EZS - Easyjet Switzerland",
+        "Dest": "BSL",
+        "AirlineCode": "EZS"
+    },
+    {
+        "InterviewId": "1263",
+        "InterviewEndDate": "2023-04-19 19:12:02",
+        "InterviewState": "Complete",
+        "Flight": "EZY - EasyJet",
+        "Dest": "BSL",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "1264",
+        "InterviewEndDate": "2023-04-19 19:16:22",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1265",
+        "InterviewEndDate": "2023-04-19 19:23:47",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1266",
+        "InterviewEndDate": "2023-04-19 19:31:58",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "STR",
+        "AirlineCode": "EW"
     }
 ]    
 
