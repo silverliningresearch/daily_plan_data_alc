@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "EK - Emirates",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "download_time": "19-04-2023 16:34:40"
+        "download_time": "19-04-2023 17:34:40"
     },
     {
         "InterviewId": "5460",
@@ -310,6 +310,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5498",
+        "InterviewEndDate": "2023-04-19 14:53:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5499",
+        "InterviewEndDate": "2023-04-19 15:02:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5500",
+        "InterviewEndDate": "2023-04-19 15:11:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5501",
+        "InterviewEndDate": "2023-04-19 15:17:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5502",
+        "InterviewEndDate": "2023-04-19 15:20:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5503",
+        "InterviewEndDate": "2023-04-19 15:26:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
