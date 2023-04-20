@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "20-04-2023 17:35:31"
+        "download_time": "20-04-2023 18:35:31"
     },
     {
         "InterviewId": "7868",
@@ -2113,6 +2113,78 @@ let interview_data_raw = `[
         "Flight": "IX716",
         "Dest": "CNN",
         "AirlineCode": "IX716",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8123",
+        "InterviewEndDate": "2023-04-20 13:36:18",
+        "InterviewState": "Complete",
+        "Flight": "W62358",
+        "Dest": "BUD",
+        "AirlineCode": "W62358",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8124",
+        "InterviewEndDate": "2023-04-20 13:52:41",
+        "InterviewState": "Complete",
+        "Flight": "IX716",
+        "Dest": "CNN",
+        "AirlineCode": "IX716",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8125",
+        "InterviewEndDate": "2023-04-20 13:59:43",
+        "InterviewState": "Complete",
+        "Flight": "IX716",
+        "Dest": "CNN",
+        "AirlineCode": "IX716",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8126",
+        "InterviewEndDate": "2023-04-20 14:01:21",
+        "InterviewState": "Complete",
+        "Flight": "W62982",
+        "Dest": "VIE",
+        "AirlineCode": "W62982",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8127",
+        "InterviewEndDate": "2023-04-20 14:12:56",
+        "InterviewState": "Complete",
+        "Flight": "5W7019",
+        "Dest": "SLL",
+        "AirlineCode": "5W7019",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8128",
+        "InterviewEndDate": "2023-04-20 14:14:31",
+        "InterviewState": "Complete",
+        "Flight": "IX716",
+        "Dest": "CNN",
+        "AirlineCode": "IX716",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8129",
+        "InterviewEndDate": "2023-04-20 14:24:14",
+        "InterviewState": "Complete",
+        "Flight": "IX716",
+        "Dest": "CNN",
+        "AirlineCode": "IX716",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8130",
+        "InterviewEndDate": "2023-04-20 14:24:04",
+        "InterviewState": "Complete",
+        "Flight": "W62982",
+        "Dest": "VIE",
+        "AirlineCode": "W62982",
         "Terminal": "T1"
     }
 ]    
