@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "20-04-2023 17:34:59"
+        "download_time": "20-04-2023 18:35:00"
     },
     {
         "InterviewId": "1224",
@@ -351,6 +351,54 @@ let interview_data_arr_raw = `[
         "Flight": "EW - Eurowings",
         "Dest": "STR",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1267",
+        "InterviewEndDate": "2023-04-20 16:07:06",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "1268",
+        "InterviewEndDate": "2023-04-20 16:10:09",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "1269",
+        "InterviewEndDate": "2023-04-20 16:15:19",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "1270",
+        "InterviewEndDate": "2023-04-20 16:19:21",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1271",
+        "InterviewEndDate": "2023-04-20 16:23:06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1272",
+        "InterviewEndDate": "2023-04-20 16:26:15",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MRS",
+        "AirlineCode": "FR"
     }
 ]    
 
