@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "21-04-2023 15:34:58"
+        "download_time": "21-04-2023 16:34:58"
     },
     {
         "InterviewId": "3965",
@@ -1246,6 +1246,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 2277",
         "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4130",
+        "InterviewEndDate": "2023-04-21 13:42:37",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "4131",
+        "InterviewEndDate": "2023-04-21 13:48:39",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "4132",
+        "InterviewEndDate": "2023-04-21 13:46:53",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "4133",
+        "InterviewEndDate": "2023-04-21 13:42:29",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "4136",
+        "InterviewEndDate": "2023-04-21 14:32:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4137",
+        "InterviewEndDate": "2023-04-21 14:34:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
         "AirlineCode": "FR"
     }
 ]    
