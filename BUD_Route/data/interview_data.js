@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "21-04-2023 13:35:18"
+        "download_time": "21-04-2023 14:35:23"
     },
     {
         "InterviewId": "67210",
@@ -13534,6 +13534,158 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4247",
         "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68930",
+        "InterviewEndDate": "2023-04-21 12:08:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68931",
+        "InterviewEndDate": "2023-04-21 12:09:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68932",
+        "InterviewEndDate": "2023-04-21 12:10:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68933",
+        "InterviewEndDate": "2023-04-21 12:12:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68934",
+        "InterviewEndDate": "2023-04-21 12:13:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68935",
+        "InterviewEndDate": "2023-04-21 12:15:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68936",
+        "InterviewEndDate": "2023-04-21 12:16:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68937",
+        "InterviewEndDate": "2023-04-21 12:16:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68938",
+        "InterviewEndDate": "2023-04-21 12:18:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68939",
+        "InterviewEndDate": "2023-04-21 12:24:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68940",
+        "InterviewEndDate": "2023-04-21 12:23:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68941",
+        "InterviewEndDate": "2023-04-21 12:23:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68942",
+        "InterviewEndDate": "2023-04-21 12:24:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68943",
+        "InterviewEndDate": "2023-04-21 12:30:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68944",
+        "InterviewEndDate": "2023-04-21 12:28:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68945",
+        "InterviewEndDate": "2023-04-21 12:29:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68946",
+        "InterviewEndDate": "2023-04-21 12:32:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68947",
+        "InterviewEndDate": "2023-04-21 12:32:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "68949",
+        "InterviewEndDate": "2023-04-21 12:34:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
         "AirlineCode": "FR"
     }
 ]    
