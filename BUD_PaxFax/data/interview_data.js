@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "21-04-2023 14:35:26"
+        "download_time": "21-04-2023 15:35:23"
     },
     {
         "InterviewId": "7701",
@@ -1310,6 +1310,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 5190",
         "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7883",
+        "InterviewEndDate": "2023-04-21 12:38:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7884",
+        "InterviewEndDate": "2023-04-21 12:37:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7886",
+        "InterviewEndDate": "2023-04-21 12:51:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7887",
+        "InterviewEndDate": "2023-04-21 12:47:51",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7889",
+        "InterviewEndDate": "2023-04-21 12:45:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7890",
+        "InterviewEndDate": "2023-04-21 13:12:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7891",
+        "InterviewEndDate": "2023-04-21 13:15:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7892",
+        "InterviewEndDate": "2023-04-21 13:20:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7893",
+        "InterviewEndDate": "2023-04-21 13:20:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7894",
+        "InterviewEndDate": "2023-04-21 13:22:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
         "AirlineCode": "FR"
     }
 ]    
