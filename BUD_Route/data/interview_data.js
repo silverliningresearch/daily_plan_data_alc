@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-04-2023 16:35:17"
+        "download_time": "22-04-2023 17:35:15"
     },
     {
         "InterviewId": "67210",
@@ -15323,6 +15323,134 @@ let interview_data_raw = `[
     {
         "InterviewId": "69158",
         "InterviewEndDate": "2023-04-22 14:34:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69159",
+        "InterviewEndDate": "2023-04-22 14:35:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69160",
+        "InterviewEndDate": "2023-04-22 14:35:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69161",
+        "InterviewEndDate": "2023-04-22 14:41:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69162",
+        "InterviewEndDate": "2023-04-22 14:42:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69163",
+        "InterviewEndDate": "2023-04-22 14:40:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69164",
+        "InterviewEndDate": "2023-04-22 14:40:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69165",
+        "InterviewEndDate": "2023-04-22 14:42:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69166",
+        "InterviewEndDate": "2023-04-22 14:48:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69167",
+        "InterviewEndDate": "2023-04-22 14:44:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69168",
+        "InterviewEndDate": "2023-04-22 14:51:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69169",
+        "InterviewEndDate": "2023-04-22 14:50:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69170",
+        "InterviewEndDate": "2023-04-22 14:50:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69171",
+        "InterviewEndDate": "2023-04-22 14:51:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69172",
+        "InterviewEndDate": "2023-04-22 14:53:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69173",
+        "InterviewEndDate": "2023-04-22 14:55:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69174",
+        "InterviewEndDate": "2023-04-22 14:54:44",
         "InterviewState": "Complete",
         "Flight": "W6 2207",
         "Dest": "LTN",
