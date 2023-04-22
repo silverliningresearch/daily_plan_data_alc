@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-04-2023 10:35:17"
+        "download_time": "22-04-2023 11:35:17"
     },
     {
         "InterviewId": "67210",
@@ -14439,6 +14439,126 @@ let interview_data_raw = `[
         "Flight": "FR 8385",
         "Dest": "BCN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69043",
+        "InterviewEndDate": "2023-04-22 09:21:39",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69044",
+        "InterviewEndDate": "2023-04-22 09:21:34",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69046",
+        "InterviewEndDate": "2023-04-22 09:17:03",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69047",
+        "InterviewEndDate": "2023-04-22 09:26:13",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69048",
+        "InterviewEndDate": "2023-04-22 09:24:39",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69049",
+        "InterviewEndDate": "2023-04-22 09:23:14",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BGY",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69050",
+        "InterviewEndDate": "2023-04-22 09:24:58",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69051",
+        "InterviewEndDate": "2023-04-22 09:26:18",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69052",
+        "InterviewEndDate": "2023-04-22 09:28:48",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69053",
+        "InterviewEndDate": "2023-04-22 09:28:22",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69054",
+        "InterviewEndDate": "2023-04-22 09:29:38",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69055",
+        "InterviewEndDate": "2023-04-22 09:31:37",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69056",
+        "InterviewEndDate": "2023-04-22 09:34:58",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69057",
+        "InterviewEndDate": "2023-04-22 09:34:34",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69058",
+        "InterviewEndDate": "2023-04-22 09:34:13",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
     }
 ]    
 
