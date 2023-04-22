@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-04-2023 09:35:16"
+        "download_time": "22-04-2023 10:35:17"
     },
     {
         "InterviewId": "67210",
@@ -14227,6 +14227,214 @@ let interview_data_raw = `[
     {
         "InterviewId": "69016",
         "InterviewEndDate": "2023-04-22 07:34:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69017",
+        "InterviewEndDate": "2023-04-22 07:36:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69018",
+        "InterviewEndDate": "2023-04-22 07:36:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69019",
+        "InterviewEndDate": "2023-04-22 07:46:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69020",
+        "InterviewEndDate": "2023-04-22 07:50:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69021",
+        "InterviewEndDate": "2023-04-22 07:44:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69022",
+        "InterviewEndDate": "2023-04-22 07:44:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69023",
+        "InterviewEndDate": "2023-04-22 07:45:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69024",
+        "InterviewEndDate": "2023-04-22 07:57:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69025",
+        "InterviewEndDate": "2023-04-22 07:54:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69026",
+        "InterviewEndDate": "2023-04-22 07:55:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69027",
+        "InterviewEndDate": "2023-04-22 07:55:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69028",
+        "InterviewEndDate": "2023-04-22 07:56:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69029",
+        "InterviewEndDate": "2023-04-22 08:01:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69030",
+        "InterviewEndDate": "2023-04-22 08:01:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69031",
+        "InterviewEndDate": "2023-04-22 08:02:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69032",
+        "InterviewEndDate": "2023-04-22 08:02:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69033",
+        "InterviewEndDate": "2023-04-22 08:05:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69034",
+        "InterviewEndDate": "2023-04-22 08:08:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69035",
+        "InterviewEndDate": "2023-04-22 08:08:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69036",
+        "InterviewEndDate": "2023-04-22 08:10:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69037",
+        "InterviewEndDate": "2023-04-22 08:11:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69038",
+        "InterviewEndDate": "2023-04-22 08:12:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69039",
+        "InterviewEndDate": "2023-04-22 08:14:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69040",
+        "InterviewEndDate": "2023-04-22 08:15:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69041",
+        "InterviewEndDate": "2023-04-22 08:14:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69042",
+        "InterviewEndDate": "2023-04-22 08:15:11",
         "InterviewState": "Complete",
         "Flight": "FR 8385",
         "Dest": "BCN",
