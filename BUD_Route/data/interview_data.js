@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "23-04-2023 17:35:22"
+        "download_time": "23-04-2023 18:35:19"
     },
     {
         "InterviewId": "67210",
@@ -16594,7 +16594,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "69323",
-        "InterviewEndDate": "2023-04-23 15:28:34",
+        "InterviewEndDate": "2023-04-23 15:36:45",
         "InterviewState": "Complete",
         "Flight": "BZ  441",
         "Dest": "TLV",
@@ -16603,6 +16603,70 @@ let interview_data_raw = `[
     {
         "InterviewId": "69324",
         "InterviewEndDate": "2023-04-23 15:34:56",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69325",
+        "InterviewEndDate": "2023-04-23 15:37:58",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69326",
+        "InterviewEndDate": "2023-04-23 15:43:22",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69327",
+        "InterviewEndDate": "2023-04-23 15:43:36",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69328",
+        "InterviewEndDate": "2023-04-23 15:46:33",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69329",
+        "InterviewEndDate": "2023-04-23 15:43:02",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69330",
+        "InterviewEndDate": "2023-04-23 15:46:45",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69331",
+        "InterviewEndDate": "2023-04-23 15:54:29",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69333",
+        "InterviewEndDate": "2023-04-23 15:59:16",
         "InterviewState": "Complete",
         "Flight": "BZ  441",
         "Dest": "TLV",

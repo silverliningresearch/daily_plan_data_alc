@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "23-04-2023 19:35:36"
+        "download_time": "23-04-2023 20:35:33"
     },
     {
         "InterviewId": "4480",
@@ -1014,6 +1014,42 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY - Etihad Airways",
         "Dest": "MAN",
+        "AirlineCode": "EY",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "4596",
+        "InterviewEndDate": "2023-04-23 16:07:27",
+        "InterviewState": "Complete",
+        "Flight": "ME - Middle East Airlines",
+        "Dest": "BEY",
+        "AirlineCode": "ME",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4597",
+        "InterviewEndDate": "2023-04-23 16:14:49",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BEY",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4598",
+        "InterviewEndDate": "2023-04-23 16:21:25",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "ATH",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4599",
+        "InterviewEndDate": "2023-04-23 16:32:55",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "CDG",
         "AirlineCode": "EY",
         "Terminal": "T1"
     }
