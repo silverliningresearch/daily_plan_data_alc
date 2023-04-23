@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "23-04-2023 14:35:19"
+        "download_time": "23-04-2023 15:35:19"
     },
     {
         "InterviewId": "67210",
@@ -15967,6 +15967,358 @@ let interview_data_raw = `[
         "Flight": "MS  752",
         "Dest": "CAI",
         "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "69244",
+        "InterviewEndDate": "2023-04-23 12:41:04",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69245",
+        "InterviewEndDate": "2023-04-23 12:38:32",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69246",
+        "InterviewEndDate": "2023-04-23 12:46:36",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69247",
+        "InterviewEndDate": "2023-04-23 12:46:14",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69248",
+        "InterviewEndDate": "2023-04-23 12:38:18",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69249",
+        "InterviewEndDate": "2023-04-23 12:41:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69250",
+        "InterviewEndDate": "2023-04-23 12:53:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69251",
+        "InterviewEndDate": "2023-04-23 12:49:09",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69252",
+        "InterviewEndDate": "2023-04-23 12:45:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69253",
+        "InterviewEndDate": "2023-04-23 12:45:56",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69254",
+        "InterviewEndDate": "2023-04-23 12:46:51",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69255",
+        "InterviewEndDate": "2023-04-23 13:07:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69256",
+        "InterviewEndDate": "2023-04-23 12:59:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69257",
+        "InterviewEndDate": "2023-04-23 12:51:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69258",
+        "InterviewEndDate": "2023-04-23 12:55:09",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69259",
+        "InterviewEndDate": "2023-04-23 12:53:56",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69260",
+        "InterviewEndDate": "2023-04-23 12:54:29",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69261",
+        "InterviewEndDate": "2023-04-23 12:54:36",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69262",
+        "InterviewEndDate": "2023-04-23 12:58:11",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69263",
+        "InterviewEndDate": "2023-04-23 13:06:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69264",
+        "InterviewEndDate": "2023-04-23 12:58:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69265",
+        "InterviewEndDate": "2023-04-23 13:01:23",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69266",
+        "InterviewEndDate": "2023-04-23 13:07:08",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69267",
+        "InterviewEndDate": "2023-04-23 13:05:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69268",
+        "InterviewEndDate": "2023-04-23 13:05:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69269",
+        "InterviewEndDate": "2023-04-23 13:04:39",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69270",
+        "InterviewEndDate": "2023-04-23 13:02:16",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69271",
+        "InterviewEndDate": "2023-04-23 13:03:37",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69272",
+        "InterviewEndDate": "2023-04-23 13:09:45",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69273",
+        "InterviewEndDate": "2023-04-23 13:14:29",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69274",
+        "InterviewEndDate": "2023-04-23 13:12:31",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69275",
+        "InterviewEndDate": "2023-04-23 13:12:27",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69276",
+        "InterviewEndDate": "2023-04-23 13:10:52",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "69277",
+        "InterviewEndDate": "2023-04-23 13:14:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69278",
+        "InterviewEndDate": "2023-04-23 13:13:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69279",
+        "InterviewEndDate": "2023-04-23 13:15:51",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69280",
+        "InterviewEndDate": "2023-04-23 13:31:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69281",
+        "InterviewEndDate": "2023-04-23 13:31:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69282",
+        "InterviewEndDate": "2023-04-23 13:28:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69283",
+        "InterviewEndDate": "2023-04-23 13:29:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69284",
+        "InterviewEndDate": "2023-04-23 13:30:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69285",
+        "InterviewEndDate": "2023-04-23 13:33:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69286",
+        "InterviewEndDate": "2023-04-23 13:33:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69288",
+        "InterviewEndDate": "2023-04-23 13:34:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
     }
 ]    
 
