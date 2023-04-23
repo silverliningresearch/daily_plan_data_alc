@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "23-04-2023 16:35:19"
+        "download_time": "23-04-2023 17:35:22"
     },
     {
         "InterviewId": "67210",
@@ -16553,12 +16553,60 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "69317",
+        "InterviewEndDate": "2023-04-23 14:38:26",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69319",
+        "InterviewEndDate": "2023-04-23 14:36:08",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69320",
+        "InterviewEndDate": "2023-04-23 14:34:13",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
         "InterviewId": "69321",
         "InterviewEndDate": "2023-04-23 14:34:35",
         "InterviewState": "Complete",
         "Flight": "KL 1978",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69322",
+        "InterviewEndDate": "2023-04-23 14:42:02",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69323",
+        "InterviewEndDate": "2023-04-23 15:28:34",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "69324",
+        "InterviewEndDate": "2023-04-23 15:34:56",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
     }
 ]    
 
