@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "23-04-2023 15:35:19"
+        "download_time": "23-04-2023 16:35:19"
     },
     {
         "InterviewId": "67210",
@@ -16234,7 +16234,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "69277",
-        "InterviewEndDate": "2023-04-23 13:14:12",
+        "InterviewEndDate": "2023-04-23 14:08:41",
         "InterviewState": "Complete",
         "Flight": "W6 2327",
         "Dest": "TLV",
@@ -16313,12 +16313,252 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "69287",
+        "InterviewEndDate": "2023-04-23 13:37:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "69288",
         "InterviewEndDate": "2023-04-23 13:34:47",
         "InterviewState": "Complete",
         "Flight": "FR 8859",
         "Dest": "LIS",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69289",
+        "InterviewEndDate": "2023-04-23 13:36:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69290",
+        "InterviewEndDate": "2023-04-23 13:38:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69291",
+        "InterviewEndDate": "2023-04-23 13:38:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69292",
+        "InterviewEndDate": "2023-04-23 13:39:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69293",
+        "InterviewEndDate": "2023-04-23 13:40:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69294",
+        "InterviewEndDate": "2023-04-23 13:46:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69295",
+        "InterviewEndDate": "2023-04-23 13:46:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69296",
+        "InterviewEndDate": "2023-04-23 13:43:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69297",
+        "InterviewEndDate": "2023-04-23 13:45:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69298",
+        "InterviewEndDate": "2023-04-23 13:44:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69299",
+        "InterviewEndDate": "2023-04-23 13:51:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69300",
+        "InterviewEndDate": "2023-04-23 13:52:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69301",
+        "InterviewEndDate": "2023-04-23 13:50:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69302",
+        "InterviewEndDate": "2023-04-23 13:54:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69303",
+        "InterviewEndDate": "2023-04-23 13:50:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69304",
+        "InterviewEndDate": "2023-04-23 14:02:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69305",
+        "InterviewEndDate": "2023-04-23 13:58:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69306",
+        "InterviewEndDate": "2023-04-23 14:01:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69307",
+        "InterviewEndDate": "2023-04-23 13:56:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69308",
+        "InterviewEndDate": "2023-04-23 14:01:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69309",
+        "InterviewEndDate": "2023-04-23 14:00:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69310",
+        "InterviewEndDate": "2023-04-23 14:23:56",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69311",
+        "InterviewEndDate": "2023-04-23 14:23:12",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69312",
+        "InterviewEndDate": "2023-04-23 14:28:51",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69313",
+        "InterviewEndDate": "2023-04-23 14:29:28",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69314",
+        "InterviewEndDate": "2023-04-23 14:29:18",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69315",
+        "InterviewEndDate": "2023-04-23 14:30:52",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69316",
+        "InterviewEndDate": "2023-04-23 14:28:54",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "69321",
+        "InterviewEndDate": "2023-04-23 14:34:35",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
