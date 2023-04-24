@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "24-04-2023 22:35:36"
+        "download_time": "24-04-2023 23:35:36"
     },
     {
         "InterviewId": "7868",
@@ -2464,6 +2464,69 @@ let interview_data_raw = `[
         "Flight": "3L141",
         "Dest": "MAA",
         "AirlineCode": "3L141",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8165",
+        "InterviewEndDate": "2023-04-24 18:38:32",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8166",
+        "InterviewEndDate": "2023-04-24 18:38:05",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8167",
+        "InterviewEndDate": "2023-04-24 18:47:10",
+        "InterviewState": "Complete",
+        "Flight": "6E1408",
+        "Dest": "HYD",
+        "AirlineCode": "6E1408",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8168",
+        "InterviewEndDate": "2023-04-24 18:50:39",
+        "InterviewState": "Complete",
+        "Flight": "6E1408",
+        "Dest": "HYD",
+        "AirlineCode": "6E1408",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8169",
+        "InterviewEndDate": "2023-04-24 18:56:25",
+        "InterviewState": "Complete",
+        "Flight": "6E1408",
+        "Dest": "HYD",
+        "AirlineCode": "6E1408",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8170",
+        "InterviewEndDate": "2023-04-24 19:09:52",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8171",
+        "InterviewEndDate": "2023-04-24 19:07:15",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
         "Terminal": "T1"
     }
 ]    
