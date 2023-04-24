@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "24-04-2023 12:34:57"
+        "download_time": "24-04-2023 13:34:59"
     },
     {
         "InterviewId": "3965",
@@ -1619,6 +1619,70 @@ let interview_data_raw = `[
     {
         "InterviewId": "4179",
         "InterviewEndDate": "2023-04-24 10:22:17",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4180",
+        "InterviewEndDate": "2023-04-24 10:40:06",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4181",
+        "InterviewEndDate": "2023-04-24 10:36:53",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4182",
+        "InterviewEndDate": "2023-04-24 10:36:42",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4183",
+        "InterviewEndDate": "2023-04-24 10:38:59",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4184",
+        "InterviewEndDate": "2023-04-24 10:48:09",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4185",
+        "InterviewEndDate": "2023-04-24 10:48:06",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4186",
+        "InterviewEndDate": "2023-04-24 10:54:14",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4187",
+        "InterviewEndDate": "2023-04-24 10:55:42",
         "InterviewState": "Complete",
         "Flight": "DY 1551",
         "Dest": "OSL",
