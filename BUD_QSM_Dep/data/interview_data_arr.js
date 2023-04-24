@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "24-04-2023 10:35:01"
+        "download_time": "24-04-2023 11:35:01"
     },
     {
         "InterviewId": "1224",
@@ -559,6 +559,86 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "MAD",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1293",
+        "InterviewEndDate": "2023-04-24 08:35:13",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1294",
+        "InterviewEndDate": "2023-04-24 08:40:32",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1295",
+        "InterviewEndDate": "2023-04-24 08:46:17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1296",
+        "InterviewEndDate": "2023-04-24 09:00:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1297",
+        "InterviewEndDate": "2023-04-24 09:05:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1298",
+        "InterviewEndDate": "2023-04-24 09:10:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1299",
+        "InterviewEndDate": "2023-04-24 09:15:06",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1300",
+        "InterviewEndDate": "2023-04-24 09:19:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1301",
+        "InterviewEndDate": "2023-04-24 09:24:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1302",
+        "InterviewEndDate": "2023-04-24 09:32:51",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
     }
 ]    
 
