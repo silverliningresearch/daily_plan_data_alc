@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "24-04-2023 13:34:59"
+        "download_time": "24-04-2023 14:35:00"
     },
     {
         "InterviewId": "3965",
@@ -1687,6 +1687,78 @@ let interview_data_raw = `[
         "Flight": "DY 1551",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4188",
+        "InterviewEndDate": "2023-04-24 11:36:23",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "4189",
+        "InterviewEndDate": "2023-04-24 11:39:12",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "4190",
+        "InterviewEndDate": "2023-04-24 11:40:47",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "4191",
+        "InterviewEndDate": "2023-04-24 11:50:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4192",
+        "InterviewEndDate": "2023-04-24 11:50:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4193",
+        "InterviewEndDate": "2023-04-24 11:52:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4194",
+        "InterviewEndDate": "2023-04-24 11:47:09",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "4195",
+        "InterviewEndDate": "2023-04-24 11:47:35",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "4196",
+        "InterviewEndDate": "2023-04-24 11:59:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
     }
 ]    
 
