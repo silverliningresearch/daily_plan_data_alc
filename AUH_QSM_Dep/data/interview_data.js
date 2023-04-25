@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "25-04-2023 18:36:20"
+        "download_time": "25-04-2023 19:36:18"
     },
     {
         "InterviewId": "7868",
