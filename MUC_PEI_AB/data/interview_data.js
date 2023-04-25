@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "25-04-2023 20:34:54"
+        "download_time": "25-04-2023 21:34:55"
     },
     {
         "InterviewId": "15848",
@@ -10695,6 +10695,62 @@ let interview_data_raw = `[
         "Flight": "LH 1616",
         "Dest": "WAW",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17422",
+        "InterviewEndDate": "2023-04-25 18:42:59",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "17423",
+        "InterviewEndDate": "2023-04-25 18:43:01",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "17424",
+        "InterviewEndDate": "2023-04-25 18:44:25",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "17425",
+        "InterviewEndDate": "2023-04-25 18:48:12",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "17426",
+        "InterviewEndDate": "2023-04-25 18:48:51",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "17427",
+        "InterviewEndDate": "2023-04-25 18:50:47",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "17428",
+        "InterviewEndDate": "2023-04-25 18:52:22",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
