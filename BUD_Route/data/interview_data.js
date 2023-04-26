@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-04-2023 13:36:10"
+        "download_time": "26-04-2023 14:36:13"
     },
     {
         "InterviewId": "67210",
@@ -19799,6 +19799,78 @@ let interview_data_raw = `[
         "Flight": "FR 1243",
         "Dest": "ATH",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69746",
+        "InterviewEndDate": "2023-04-26 12:23:24",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69747",
+        "InterviewEndDate": "2023-04-26 12:21:24",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69748",
+        "InterviewEndDate": "2023-04-26 12:21:54",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69749",
+        "InterviewEndDate": "2023-04-26 12:21:07",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69750",
+        "InterviewEndDate": "2023-04-26 12:20:51",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69751",
+        "InterviewEndDate": "2023-04-26 12:29:04",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69752",
+        "InterviewEndDate": "2023-04-26 12:29:16",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69753",
+        "InterviewEndDate": "2023-04-26 12:26:59",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69754",
+        "InterviewEndDate": "2023-04-26 12:30:02",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
     }
 ]    
 
