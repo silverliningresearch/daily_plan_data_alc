@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-04-2023 12:36:14"
+        "download_time": "26-04-2023 13:36:10"
     },
     {
         "InterviewId": "67210",
@@ -19599,6 +19599,206 @@ let interview_data_raw = `[
         "Flight": "W6 2403",
         "Dest": "NYO",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69719",
+        "InterviewEndDate": "2023-04-26 10:45:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69720",
+        "InterviewEndDate": "2023-04-26 10:45:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69721",
+        "InterviewEndDate": "2023-04-26 10:43:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69722",
+        "InterviewEndDate": "2023-04-26 10:43:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69723",
+        "InterviewEndDate": "2023-04-26 10:44:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69724",
+        "InterviewEndDate": "2023-04-26 10:50:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69725",
+        "InterviewEndDate": "2023-04-26 10:52:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69726",
+        "InterviewEndDate": "2023-04-26 10:50:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69727",
+        "InterviewEndDate": "2023-04-26 10:49:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69728",
+        "InterviewEndDate": "2023-04-26 10:49:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69730",
+        "InterviewEndDate": "2023-04-26 10:58:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69731",
+        "InterviewEndDate": "2023-04-26 10:58:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69732",
+        "InterviewEndDate": "2023-04-26 10:58:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69733",
+        "InterviewEndDate": "2023-04-26 10:57:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69734",
+        "InterviewEndDate": "2023-04-26 11:08:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69735",
+        "InterviewEndDate": "2023-04-26 11:06:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69737",
+        "InterviewEndDate": "2023-04-26 11:08:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69738",
+        "InterviewEndDate": "2023-04-26 11:07:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69739",
+        "InterviewEndDate": "2023-04-26 11:07:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69740",
+        "InterviewEndDate": "2023-04-26 11:12:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69741",
+        "InterviewEndDate": "2023-04-26 11:14:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69742",
+        "InterviewEndDate": "2023-04-26 11:14:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69743",
+        "InterviewEndDate": "2023-04-26 11:14:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69744",
+        "InterviewEndDate": "2023-04-26 11:17:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "69745",
+        "InterviewEndDate": "2023-04-26 11:17:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
     }
 ]    
 
