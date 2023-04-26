@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-04-2023 15:36:13"
+        "download_time": "26-04-2023 16:36:08"
     },
     {
         "InterviewId": "67210",
@@ -19999,6 +19999,198 @@ let interview_data_raw = `[
         "Flight": "LG 5808",
         "Dest": "LUX",
         "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "69771",
+        "InterviewEndDate": "2023-04-26 13:57:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69772",
+        "InterviewEndDate": "2023-04-26 13:54:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69773",
+        "InterviewEndDate": "2023-04-26 13:54:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69774",
+        "InterviewEndDate": "2023-04-26 13:55:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69775",
+        "InterviewEndDate": "2023-04-26 14:04:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69776",
+        "InterviewEndDate": "2023-04-26 14:03:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69777",
+        "InterviewEndDate": "2023-04-26 14:02:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69778",
+        "InterviewEndDate": "2023-04-26 14:04:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69780",
+        "InterviewEndDate": "2023-04-26 14:14:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69781",
+        "InterviewEndDate": "2023-04-26 14:13:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69782",
+        "InterviewEndDate": "2023-04-26 14:13:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2397",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69783",
+        "InterviewEndDate": "2023-04-26 14:12:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69784",
+        "InterviewEndDate": "2023-04-26 14:13:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2397",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69785",
+        "InterviewEndDate": "2023-04-26 14:19:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69786",
+        "InterviewEndDate": "2023-04-26 14:19:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69787",
+        "InterviewEndDate": "2023-04-26 14:19:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69788",
+        "InterviewEndDate": "2023-04-26 14:20:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69789",
+        "InterviewEndDate": "2023-04-26 14:21:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69790",
+        "InterviewEndDate": "2023-04-26 14:23:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69791",
+        "InterviewEndDate": "2023-04-26 14:23:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69792",
+        "InterviewEndDate": "2023-04-26 14:24:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69793",
+        "InterviewEndDate": "2023-04-26 14:25:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69794",
+        "InterviewEndDate": "2023-04-26 14:27:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69795",
+        "InterviewEndDate": "2023-04-26 14:26:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2379",
+        "Dest": "CDT",
+        "AirlineCode": "W6"
     }
 ]    
 
