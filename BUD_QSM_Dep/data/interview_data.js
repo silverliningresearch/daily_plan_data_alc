@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "27-04-2023 08:35:39"
+        "download_time": "27-04-2023 09:35:44"
     },
     {
         "InterviewId": "3965",
@@ -2159,6 +2159,70 @@ let interview_data_raw = `[
         "Flight": "FR 8357",
         "Dest": "MAN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4249",
+        "InterviewEndDate": "2023-04-27 06:38:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 8357",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4250",
+        "InterviewEndDate": "2023-04-27 07:18:07",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "4251",
+        "InterviewEndDate": "2023-04-27 07:17:49",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "4252",
+        "InterviewEndDate": "2023-04-27 07:23:07",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "4253",
+        "InterviewEndDate": "2023-04-27 07:25:17",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "4254",
+        "InterviewEndDate": "2023-04-27 07:25:15",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "4255",
+        "InterviewEndDate": "2023-04-27 07:31:47",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "4256",
+        "InterviewEndDate": "2023-04-27 07:29:06",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
     }
 ]    
 
