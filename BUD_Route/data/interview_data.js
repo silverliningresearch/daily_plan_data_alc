@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "27-04-2023 12:36:12"
+        "download_time": "27-04-2023 13:36:15"
     },
     {
         "InterviewId": "67210",
@@ -20433,8 +20433,200 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "69829",
+        "InterviewEndDate": "2023-04-27 10:36:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewId": "69830",
         "InterviewEndDate": "2023-04-27 10:34:20",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69831",
+        "InterviewEndDate": "2023-04-27 10:34:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69833",
+        "InterviewEndDate": "2023-04-27 10:40:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69834",
+        "InterviewEndDate": "2023-04-27 10:37:53",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BER",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "69835",
+        "InterviewEndDate": "2023-04-27 10:38:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69836",
+        "InterviewEndDate": "2023-04-27 10:41:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69837",
+        "InterviewEndDate": "2023-04-27 10:42:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69838",
+        "InterviewEndDate": "2023-04-27 10:50:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69839",
+        "InterviewEndDate": "2023-04-27 10:50:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69840",
+        "InterviewEndDate": "2023-04-27 10:49:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69841",
+        "InterviewEndDate": "2023-04-27 10:48:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69842",
+        "InterviewEndDate": "2023-04-27 10:49:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69843",
+        "InterviewEndDate": "2023-04-27 10:54:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69844",
+        "InterviewEndDate": "2023-04-27 10:57:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69845",
+        "InterviewEndDate": "2023-04-27 10:53:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69846",
+        "InterviewEndDate": "2023-04-27 10:56:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69847",
+        "InterviewEndDate": "2023-04-27 10:54:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69848",
+        "InterviewEndDate": "2023-04-27 11:05:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69849",
+        "InterviewEndDate": "2023-04-27 11:05:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69850",
+        "InterviewEndDate": "2023-04-27 10:59:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69851",
+        "InterviewEndDate": "2023-04-27 11:03:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69852",
+        "InterviewEndDate": "2023-04-27 11:01:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69854",
+        "InterviewEndDate": "2023-04-27 11:03:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69855",
+        "InterviewEndDate": "2023-04-27 11:08:32",
         "InterviewState": "Complete",
         "Flight": "W6 2315",
         "Dest": "BER",
