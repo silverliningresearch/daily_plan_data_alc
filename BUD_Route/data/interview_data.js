@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "27-04-2023 13:36:15"
+        "download_time": "27-04-2023 14:36:16"
     },
     {
         "InterviewId": "67210",
@@ -20630,6 +20630,118 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2315",
         "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69856",
+        "InterviewEndDate": "2023-04-27 11:48:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69857",
+        "InterviewEndDate": "2023-04-27 11:51:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69858",
+        "InterviewEndDate": "2023-04-27 11:56:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69859",
+        "InterviewEndDate": "2023-04-27 11:56:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69860",
+        "InterviewEndDate": "2023-04-27 12:01:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69861",
+        "InterviewEndDate": "2023-04-27 12:01:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69862",
+        "InterviewEndDate": "2023-04-27 12:03:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69863",
+        "InterviewEndDate": "2023-04-27 12:01:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69864",
+        "InterviewEndDate": "2023-04-27 12:02:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69865",
+        "InterviewEndDate": "2023-04-27 12:07:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69866",
+        "InterviewEndDate": "2023-04-27 12:04:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69867",
+        "InterviewEndDate": "2023-04-27 12:07:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69868",
+        "InterviewEndDate": "2023-04-27 12:07:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69869",
+        "InterviewEndDate": "2023-04-27 12:08:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
         "AirlineCode": "W6"
     }
 ]    

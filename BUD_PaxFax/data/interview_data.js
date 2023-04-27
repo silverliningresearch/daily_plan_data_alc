@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "27-04-2023 13:36:21"
+        "download_time": "27-04-2023 14:36:21"
     },
     {
         "InterviewId": "7701",
@@ -2135,6 +2135,62 @@ let interview_data_raw = `[
         "Flight": "LH 1337",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7998",
+        "InterviewEndDate": "2023-04-27 12:19:43",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "7999",
+        "InterviewEndDate": "2023-04-27 12:20:12",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "8000",
+        "InterviewEndDate": "2023-04-27 12:17:33",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "8001",
+        "InterviewEndDate": "2023-04-27 12:21:41",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "8002",
+        "InterviewEndDate": "2023-04-27 12:21:39",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "8003",
+        "InterviewEndDate": "2023-04-27 12:24:36",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "8004",
+        "InterviewEndDate": "2023-04-27 12:25:25",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
     }
 ]    
 
