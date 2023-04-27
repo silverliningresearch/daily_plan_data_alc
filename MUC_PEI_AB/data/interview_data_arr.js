@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-04-2023 19:35:00"
+        "download_time": "27-04-2023 20:35:01"
     },
     {
         "InterviewId": "5174",
@@ -2311,6 +2311,54 @@ let interview_data_arr_raw = `[
         "Flight": "IB - Iberia",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "5556",
+        "InterviewEndDate": "2023-04-27 17:53:46",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "5557",
+        "InterviewEndDate": "2023-04-27 17:53:53",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "5558",
+        "InterviewEndDate": "2023-04-27 18:03:12",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5559",
+        "InterviewEndDate": "2023-04-27 18:06:41",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5560",
+        "InterviewEndDate": "2023-04-27 18:15:44",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5561",
+        "InterviewEndDate": "2023-04-27 18:16:22",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
     }
 ]    
 
