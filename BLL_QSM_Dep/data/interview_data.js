@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-04-2023 11:35:31"
+        "download_time": "27-04-2023 12:35:30"
     },
     {
         "InterviewId": "6093",
@@ -11103,6 +11103,54 @@ let interview_data_raw = `[
         "Flight": "VY1917",
         "Dest": "AGP",
         "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "8727",
+        "InterviewEndDate": "2023-04-27 10:32:04",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "8728",
+        "InterviewEndDate": "2023-04-27 10:30:51",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "8729",
+        "InterviewEndDate": "2023-04-27 10:28:00",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "8731",
+        "InterviewEndDate": "2023-04-27 10:28:43",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "8732",
+        "InterviewEndDate": "2023-04-27 10:28:10",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "8733",
+        "InterviewEndDate": "2023-04-27 10:32:43",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
     }
 ]    
 
