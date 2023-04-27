@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "27-04-2023 14:36:16"
+        "download_time": "27-04-2023 15:36:13"
     },
     {
         "InterviewId": "67210",
@@ -20742,6 +20742,246 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2393",
         "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69870",
+        "InterviewEndDate": "2023-04-27 12:36:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69871",
+        "InterviewEndDate": "2023-04-27 12:36:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69872",
+        "InterviewEndDate": "2023-04-27 12:39:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69873",
+        "InterviewEndDate": "2023-04-27 12:38:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69874",
+        "InterviewEndDate": "2023-04-27 12:38:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69875",
+        "InterviewEndDate": "2023-04-27 12:43:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69876",
+        "InterviewEndDate": "2023-04-27 12:49:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69877",
+        "InterviewEndDate": "2023-04-27 12:42:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69878",
+        "InterviewEndDate": "2023-04-27 12:48:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69879",
+        "InterviewEndDate": "2023-04-27 12:52:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69880",
+        "InterviewEndDate": "2023-04-27 12:48:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69881",
+        "InterviewEndDate": "2023-04-27 12:48:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69882",
+        "InterviewEndDate": "2023-04-27 13:00:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69883",
+        "InterviewEndDate": "2023-04-27 12:58:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69884",
+        "InterviewEndDate": "2023-04-27 12:55:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69885",
+        "InterviewEndDate": "2023-04-27 12:54:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69886",
+        "InterviewEndDate": "2023-04-27 12:59:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69887",
+        "InterviewEndDate": "2023-04-27 13:00:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69888",
+        "InterviewEndDate": "2023-04-27 13:02:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69889",
+        "InterviewEndDate": "2023-04-27 13:02:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69890",
+        "InterviewEndDate": "2023-04-27 13:09:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69891",
+        "InterviewEndDate": "2023-04-27 13:06:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69892",
+        "InterviewEndDate": "2023-04-27 13:08:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69893",
+        "InterviewEndDate": "2023-04-27 13:08:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69894",
+        "InterviewEndDate": "2023-04-27 13:08:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69895",
+        "InterviewEndDate": "2023-04-27 13:17:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69896",
+        "InterviewEndDate": "2023-04-27 13:12:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69897",
+        "InterviewEndDate": "2023-04-27 13:12:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69898",
+        "InterviewEndDate": "2023-04-27 13:15:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69899",
+        "InterviewEndDate": "2023-04-27 13:17:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
         "AirlineCode": "W6"
     }
 ]    
