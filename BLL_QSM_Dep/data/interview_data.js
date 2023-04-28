@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "28-04-2023 12:35:31"
+        "download_time": "28-04-2023 13:35:31"
     },
     {
         "InterviewId": "6093",
@@ -11583,6 +11583,54 @@ let interview_data_raw = `[
         "Flight": "FR8497",
         "Dest": "PMI",
         "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "8794",
+        "InterviewEndDate": "2023-04-28 11:26:47",
+        "InterviewState": "Complete",
+        "Flight": "FR968",
+        "Dest": "IBZ",
+        "AirlineCode": "FR968"
+    },
+    {
+        "InterviewId": "8795",
+        "InterviewEndDate": "2023-04-28 11:26:06",
+        "InterviewState": "Complete",
+        "Flight": "FR968",
+        "Dest": "IBZ",
+        "AirlineCode": "FR968"
+    },
+    {
+        "InterviewId": "8797",
+        "InterviewEndDate": "2023-04-28 11:18:46",
+        "InterviewState": "Complete",
+        "Flight": "FR968",
+        "Dest": "IBZ",
+        "AirlineCode": "FR968"
+    },
+    {
+        "InterviewId": "8798",
+        "InterviewEndDate": "2023-04-28 11:21:42",
+        "InterviewState": "Complete",
+        "Flight": "FR968",
+        "Dest": "IBZ",
+        "AirlineCode": "FR968"
+    },
+    {
+        "InterviewId": "8800",
+        "InterviewEndDate": "2023-04-28 11:17:38",
+        "InterviewState": "Complete",
+        "Flight": "FR968",
+        "Dest": "IBZ",
+        "AirlineCode": "FR968"
+    },
+    {
+        "InterviewId": "8801",
+        "InterviewEndDate": "2023-04-28 11:24:08",
+        "InterviewState": "Complete",
+        "Flight": "FR968",
+        "Dest": "IBZ",
+        "AirlineCode": "FR968"
     }
 ]    
 
