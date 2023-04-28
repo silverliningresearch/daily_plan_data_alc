@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "28-04-2023 13:36:22"
+        "download_time": "28-04-2023 14:36:21"
     },
     {
         "InterviewId": "7701",
@@ -2406,6 +2406,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 5254",
         "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8035",
+        "InterviewEndDate": "2023-04-28 12:00:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8036",
+        "InterviewEndDate": "2023-04-28 12:00:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8037",
+        "InterviewEndDate": "2023-04-28 12:01:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8038",
+        "InterviewEndDate": "2023-04-28 11:59:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8039",
+        "InterviewEndDate": "2023-04-28 12:01:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8040",
+        "InterviewEndDate": "2023-04-28 12:14:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8041",
+        "InterviewEndDate": "2023-04-28 12:15:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8042",
+        "InterviewEndDate": "2023-04-28 12:14:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8043",
+        "InterviewEndDate": "2023-04-28 12:12:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8044",
+        "InterviewEndDate": "2023-04-28 12:17:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
         "AirlineCode": "FR"
     }
 ]    
