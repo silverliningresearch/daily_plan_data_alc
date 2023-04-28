@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "28-04-2023 05:36:19"
+        "download_time": "28-04-2023 06:36:19"
     },
     {
         "InterviewId": "4480",
@@ -1349,6 +1349,69 @@ let interview_data_arr_raw = `[
         "Dest": "JED",
         "AirlineCode": "SV",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "4635",
+        "InterviewEndDate": "2023-04-28 01:51:54",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "MNL",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4637",
+        "InterviewEndDate": "2023-04-28 01:56:54",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "MNL",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4638",
+        "InterviewEndDate": "2023-04-28 02:02:50",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SYD",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4639",
+        "InterviewEndDate": "2023-04-28 02:06:02",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SYD",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4640",
+        "InterviewEndDate": "2023-04-28 02:13:01",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SYD",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4641",
+        "InterviewEndDate": "2023-04-28 02:22:27",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SYD",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4642",
+        "InterviewEndDate": "2023-04-28 02:33:03",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "AMS",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
     }
 ]    
 
