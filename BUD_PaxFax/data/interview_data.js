@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "28-04-2023 08:36:15"
+        "download_time": "28-04-2023 09:36:15"
     },
     {
         "InterviewId": "7701",
@@ -2249,8 +2249,24 @@ let interview_data_raw = `[
         "AirlineCode": "EW"
     },
     {
+        "InterviewId": "8012",
+        "InterviewEndDate": "2023-04-28 06:39:02",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "8013",
         "InterviewEndDate": "2023-04-28 06:35:46",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8014",
+        "InterviewEndDate": "2023-04-28 06:37:28",
         "InterviewState": "Complete",
         "Flight": "EW 9785",
         "Dest": "DUS",
@@ -2271,6 +2287,46 @@ let interview_data_raw = `[
         "Flight": "EW 9785",
         "Dest": "DUS",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8017",
+        "InterviewEndDate": "2023-04-28 07:04:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1335",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8018",
+        "InterviewEndDate": "2023-04-28 07:02:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1335",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8019",
+        "InterviewEndDate": "2023-04-28 07:03:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1335",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8020",
+        "InterviewEndDate": "2023-04-28 07:04:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1335",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8022",
+        "InterviewEndDate": "2023-04-28 07:05:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1335",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
