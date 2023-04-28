@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "28-04-2023 11:36:19"
+        "download_time": "28-04-2023 12:36:16"
     },
     {
         "InterviewId": "67210",
@@ -22289,12 +22289,396 @@ let interview_data_raw = `[
         "AirlineCode": "FM"
     },
     {
+        "InterviewId": "70068",
+        "InterviewEndDate": "2023-04-28 09:34:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 4134",
+        "Dest": "BRS",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "70069",
         "InterviewEndDate": "2023-04-28 09:35:32",
         "InterviewState": "Complete",
         "Flight": "FR 4134",
         "Dest": "BRS",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70070",
+        "InterviewEndDate": "2023-04-28 09:36:34",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70071",
+        "InterviewEndDate": "2023-04-28 09:39:01",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70072",
+        "InterviewEndDate": "2023-04-28 09:50:24",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70073",
+        "InterviewEndDate": "2023-04-28 09:44:09",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70074",
+        "InterviewEndDate": "2023-04-28 09:44:21",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70075",
+        "InterviewEndDate": "2023-04-28 09:50:55",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70076",
+        "InterviewEndDate": "2023-04-28 09:50:59",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70077",
+        "InterviewEndDate": "2023-04-28 09:41:49",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70078",
+        "InterviewEndDate": "2023-04-28 10:12:12",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70079",
+        "InterviewEndDate": "2023-04-28 09:42:39",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70080",
+        "InterviewEndDate": "2023-04-28 09:45:52",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70081",
+        "InterviewEndDate": "2023-04-28 09:48:08",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70082",
+        "InterviewEndDate": "2023-04-28 09:46:43",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "70083",
+        "InterviewEndDate": "2023-04-28 10:10:35",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70084",
+        "InterviewEndDate": "2023-04-28 10:11:34",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70085",
+        "InterviewEndDate": "2023-04-28 10:12:04",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70086",
+        "InterviewEndDate": "2023-04-28 09:59:52",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70087",
+        "InterviewEndDate": "2023-04-28 10:19:27",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70088",
+        "InterviewEndDate": "2023-04-28 10:14:50",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70089",
+        "InterviewEndDate": "2023-04-28 10:16:49",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70090",
+        "InterviewEndDate": "2023-04-28 10:19:19",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70091",
+        "InterviewEndDate": "2023-04-28 10:16:02",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70092",
+        "InterviewEndDate": "2023-04-28 10:16:51",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70093",
+        "InterviewEndDate": "2023-04-28 10:23:42",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70094",
+        "InterviewEndDate": "2023-04-28 10:20:41",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70095",
+        "InterviewEndDate": "2023-04-28 10:22:46",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70096",
+        "InterviewEndDate": "2023-04-28 10:23:58",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70097",
+        "InterviewEndDate": "2023-04-28 10:23:39",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70098",
+        "InterviewEndDate": "2023-04-28 10:22:13",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70099",
+        "InterviewEndDate": "2023-04-28 10:23:27",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70100",
+        "InterviewEndDate": "2023-04-28 10:23:43",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70101",
+        "InterviewEndDate": "2023-04-28 10:23:52",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70102",
+        "InterviewEndDate": "2023-04-28 10:25:01",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70103",
+        "InterviewEndDate": "2023-04-28 10:25:18",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70104",
+        "InterviewEndDate": "2023-04-28 10:29:37",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70105",
+        "InterviewEndDate": "2023-04-28 10:33:11",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70106",
+        "InterviewEndDate": "2023-04-28 10:27:21",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70107",
+        "InterviewEndDate": "2023-04-28 10:27:07",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70108",
+        "InterviewEndDate": "2023-04-28 10:31:31",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70109",
+        "InterviewEndDate": "2023-04-28 10:28:02",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70110",
+        "InterviewEndDate": "2023-04-28 10:33:00",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70111",
+        "InterviewEndDate": "2023-04-28 10:29:00",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70112",
+        "InterviewEndDate": "2023-04-28 10:32:21",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70113",
+        "InterviewEndDate": "2023-04-28 10:32:18",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "70114",
+        "InterviewEndDate": "2023-04-28 10:32:26",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70115",
+        "InterviewEndDate": "2023-04-28 10:32:16",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "70116",
+        "InterviewEndDate": "2023-04-28 10:32:39",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
     }
 ]    
 
