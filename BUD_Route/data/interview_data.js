@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "28-04-2023 09:36:10"
+        "download_time": "28-04-2023 10:36:18"
     },
     {
         "InterviewId": "67210",
@@ -21522,7 +21522,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "69970",
-        "InterviewEndDate": "2023-04-28 07:10:03",
+        "InterviewEndDate": "2023-04-28 08:00:53",
         "InterviewState": "Complete",
         "Flight": "LX 2251",
         "Dest": "ZRH",
@@ -21546,7 +21546,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "69974",
-        "InterviewEndDate": "2023-04-28 07:14:43",
+        "InterviewEndDate": "2023-04-28 07:58:31",
         "InterviewState": "Complete",
         "Flight": "LX 2251",
         "Dest": "ZRH",
@@ -21567,6 +21567,214 @@ let interview_data_raw = `[
         "Flight": "LX 2251",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "69978",
+        "InterviewEndDate": "2023-04-28 07:42:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69979",
+        "InterviewEndDate": "2023-04-28 07:43:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69980",
+        "InterviewEndDate": "2023-04-28 07:43:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69981",
+        "InterviewEndDate": "2023-04-28 07:43:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69982",
+        "InterviewEndDate": "2023-04-28 07:45:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69983",
+        "InterviewEndDate": "2023-04-28 07:49:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69984",
+        "InterviewEndDate": "2023-04-28 07:49:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69985",
+        "InterviewEndDate": "2023-04-28 07:50:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69986",
+        "InterviewEndDate": "2023-04-28 07:49:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69987",
+        "InterviewEndDate": "2023-04-28 07:52:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69988",
+        "InterviewEndDate": "2023-04-28 07:58:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69989",
+        "InterviewEndDate": "2023-04-28 07:57:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69990",
+        "InterviewEndDate": "2023-04-28 07:57:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69991",
+        "InterviewEndDate": "2023-04-28 07:57:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69992",
+        "InterviewEndDate": "2023-04-28 07:58:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69993",
+        "InterviewEndDate": "2023-04-28 08:03:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69994",
+        "InterviewEndDate": "2023-04-28 08:05:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69995",
+        "InterviewEndDate": "2023-04-28 08:05:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69996",
+        "InterviewEndDate": "2023-04-28 08:04:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69997",
+        "InterviewEndDate": "2023-04-28 08:06:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69998",
+        "InterviewEndDate": "2023-04-28 08:12:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69999",
+        "InterviewEndDate": "2023-04-28 08:11:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70000",
+        "InterviewEndDate": "2023-04-28 08:11:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70001",
+        "InterviewEndDate": "2023-04-28 08:12:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70002",
+        "InterviewEndDate": "2023-04-28 08:11:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2221",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70003",
+        "InterviewEndDate": "2023-04-28 08:35:27",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
     }
 ]    
 
