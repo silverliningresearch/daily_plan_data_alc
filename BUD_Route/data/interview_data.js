@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "28-04-2023 05:56:43"
+        "download_time": "28-04-2023 06:36:08"
     },
     {
         "InterviewId": "67210",
@@ -21107,6 +21107,118 @@ let interview_data_raw = `[
     {
         "InterviewId": "69915",
         "InterviewEndDate": "2023-04-28 03:52:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69916",
+        "InterviewEndDate": "2023-04-28 03:59:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69917",
+        "InterviewEndDate": "2023-04-28 03:58:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69918",
+        "InterviewEndDate": "2023-04-28 03:59:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69919",
+        "InterviewEndDate": "2023-04-28 03:59:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69920",
+        "InterviewEndDate": "2023-04-28 04:01:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69921",
+        "InterviewEndDate": "2023-04-28 04:04:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69922",
+        "InterviewEndDate": "2023-04-28 04:03:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69923",
+        "InterviewEndDate": "2023-04-28 04:04:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69925",
+        "InterviewEndDate": "2023-04-28 04:04:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69926",
+        "InterviewEndDate": "2023-04-28 04:08:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69927",
+        "InterviewEndDate": "2023-04-28 04:08:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69928",
+        "InterviewEndDate": "2023-04-28 04:10:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69929",
+        "InterviewEndDate": "2023-04-28 04:10:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2467",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "69930",
+        "InterviewEndDate": "2023-04-28 04:10:33",
         "InterviewState": "Complete",
         "Flight": "W6 2467",
         "Dest": "WAW",
