@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "28-04-2023 16:34:55"
+        "download_time": "28-04-2023 17:34:55"
     },
     {
         "InterviewId": "15848",
@@ -10751,6 +10751,46 @@ let interview_data_raw = `[
         "Flight": "SN 2648",
         "Dest": "BRU",
         "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "17432",
+        "InterviewEndDate": "2023-04-28 15:05:23",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "17433",
+        "InterviewEndDate": "2023-04-28 15:05:11",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "17434",
+        "InterviewEndDate": "2023-04-28 15:07:06",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "17435",
+        "InterviewEndDate": "2023-04-28 15:06:22",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "17436",
+        "InterviewEndDate": "2023-04-28 15:00:10",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
     }
 ]    
 
