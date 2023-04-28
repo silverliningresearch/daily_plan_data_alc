@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "28-04-2023 12:36:39"
+        "download_time": "28-04-2023 13:36:40"
     },
     {
         "InterviewId": "7333",
@@ -7615,12 +7615,57 @@ let interview_data_raw = `[
         "Terminal": "T1"
     },
     {
+        "InterviewId": "8245",
+        "InterviewEndDate": "2023-04-28 08:38:29",
+        "InterviewState": "Complete",
+        "Flight": "EY256",
+        "Dest": "CCU",
+        "AirlineCode": "EY256",
+        "Terminal": "T3"
+    },
+    {
         "InterviewId": "8246",
         "InterviewEndDate": "2023-04-28 08:33:35",
         "InterviewState": "Complete",
         "Flight": "EY256",
         "Dest": "CCU",
         "AirlineCode": "EY256",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8247",
+        "InterviewEndDate": "2023-04-28 08:50:15",
+        "InterviewState": "Complete",
+        "Flight": "EY238",
+        "Dest": "BLR",
+        "AirlineCode": "EY238",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8248",
+        "InterviewEndDate": "2023-04-28 08:51:37",
+        "InterviewState": "Complete",
+        "Flight": "EY238",
+        "Dest": "BLR",
+        "AirlineCode": "EY238",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8249",
+        "InterviewEndDate": "2023-04-28 09:06:48",
+        "InterviewState": "Complete",
+        "Flight": "EY317",
+        "Dest": "RUH",
+        "AirlineCode": "EY317",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8250",
+        "InterviewEndDate": "2023-04-28 09:03:48",
+        "InterviewState": "Complete",
+        "Flight": "EY317",
+        "Dest": "RUH",
+        "AirlineCode": "EY317",
         "Terminal": "T3"
     }
 ]    

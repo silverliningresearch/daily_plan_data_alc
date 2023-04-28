@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "28-04-2023 10:35:34"
+        "download_time": "28-04-2023 11:35:34"
     },
     {
         "InterviewId": "6093",
@@ -11471,6 +11471,62 @@ let interview_data_raw = `[
         "Flight": "DX062",
         "Dest": "RNN",
         "AirlineCode": "DX062"
+    },
+    {
+        "InterviewId": "8780",
+        "InterviewEndDate": "2023-04-28 09:11:26",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "8781",
+        "InterviewEndDate": "2023-04-28 09:07:25",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "8782",
+        "InterviewEndDate": "2023-04-28 09:10:45",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "8783",
+        "InterviewEndDate": "2023-04-28 09:14:12",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "8784",
+        "InterviewEndDate": "2023-04-28 09:18:16",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "8785",
+        "InterviewEndDate": "2023-04-28 09:17:59",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "8786",
+        "InterviewEndDate": "2023-04-28 09:15:41",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
     }
 ]    
 
