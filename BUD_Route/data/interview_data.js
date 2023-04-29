@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "29-04-2023 19:36:08"
+        "download_time": "29-04-2023 20:36:09"
     },
     {
         "InterviewId": "67210",
@@ -23451,6 +23451,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "70229",
         "InterviewEndDate": "2023-04-29 17:35:56",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70230",
+        "InterviewEndDate": "2023-04-29 17:38:05",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70231",
+        "InterviewEndDate": "2023-04-29 17:37:58",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70232",
+        "InterviewEndDate": "2023-04-29 17:41:08",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70233",
+        "InterviewEndDate": "2023-04-29 17:42:40",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70234",
+        "InterviewEndDate": "2023-04-29 17:45:12",
         "InterviewState": "Complete",
         "Flight": "KE  962",
         "Dest": "ICN",
