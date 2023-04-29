@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "29-04-2023 18:36:08"
+        "download_time": "29-04-2023 19:36:08"
     },
     {
         "InterviewId": "67210",
@@ -23271,6 +23271,190 @@ let interview_data_raw = `[
         "Flight": "W6 2217",
         "Dest": "BHX",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70201",
+        "InterviewEndDate": "2023-04-29 16:35:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2217",
+        "Dest": "BHX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70202",
+        "InterviewEndDate": "2023-04-29 16:37:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2217",
+        "Dest": "BHX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70203",
+        "InterviewEndDate": "2023-04-29 16:37:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2217",
+        "Dest": "BHX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70204",
+        "InterviewEndDate": "2023-04-29 16:40:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2217",
+        "Dest": "BHX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70205",
+        "InterviewEndDate": "2023-04-29 17:03:52",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70206",
+        "InterviewEndDate": "2023-04-29 16:58:31",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70208",
+        "InterviewEndDate": "2023-04-29 16:57:58",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70209",
+        "InterviewEndDate": "2023-04-29 16:58:51",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70211",
+        "InterviewEndDate": "2023-04-29 17:02:50",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70212",
+        "InterviewEndDate": "2023-04-29 17:03:13",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70214",
+        "InterviewEndDate": "2023-04-29 17:08:41",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70215",
+        "InterviewEndDate": "2023-04-29 17:08:40",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70219",
+        "InterviewEndDate": "2023-04-29 17:14:02",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70220",
+        "InterviewEndDate": "2023-04-29 17:16:14",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70221",
+        "InterviewEndDate": "2023-04-29 17:18:42",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70222",
+        "InterviewEndDate": "2023-04-29 17:26:01",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70223",
+        "InterviewEndDate": "2023-04-29 17:22:12",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70224",
+        "InterviewEndDate": "2023-04-29 17:25:26",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70225",
+        "InterviewEndDate": "2023-04-29 17:25:27",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70226",
+        "InterviewEndDate": "2023-04-29 17:30:24",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70227",
+        "InterviewEndDate": "2023-04-29 17:32:05",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70228",
+        "InterviewEndDate": "2023-04-29 17:33:31",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "70229",
+        "InterviewEndDate": "2023-04-29 17:35:56",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
     }
 ]    
 
