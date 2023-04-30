@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "30-04-2023 18:35:35"
+        "download_time": "30-04-2023 19:35:38"
     },
     {
         "InterviewId": "2077",
@@ -3383,6 +3383,62 @@ let interview_data_arr_raw = `[
         "Flight": "DK - Sunclass Airlines",
         "Dest": "RHO",
         "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "3005",
+        "InterviewEndDate": "2023-04-30 17:19:48",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "BGY",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3007",
+        "InterviewEndDate": "2023-04-30 17:17:37",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "BGY",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3008",
+        "InterviewEndDate": "2023-04-30 17:17:26",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "BGY",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3009",
+        "InterviewEndDate": "2023-04-30 17:18:52",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "BGY",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3010",
+        "InterviewEndDate": "2023-04-30 17:19:07",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "BGY",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3011",
+        "InterviewEndDate": "2023-04-30 17:16:40",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "BGY",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3012",
+        "InterviewEndDate": "2023-04-30 17:20:23",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "BGY",
+        "AirlineCode": "CAT"
     }
 ]    
 

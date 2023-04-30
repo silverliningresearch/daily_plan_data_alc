@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "30-04-2023 18:36:11"
+        "download_time": "30-04-2023 19:36:14"
     },
     {
         "InterviewId": "67210",
@@ -24441,6 +24441,14 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
+        "InterviewId": "70366",
+        "InterviewEndDate": "2023-04-30 16:35:41",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
         "InterviewId": "70367",
         "InterviewEndDate": "2023-04-30 16:28:23",
         "InterviewState": "Complete",
@@ -24479,6 +24487,158 @@ let interview_data_raw = `[
         "Flight": "AF 1495",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "70372",
+        "InterviewEndDate": "2023-04-30 16:36:23",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "70373",
+        "InterviewEndDate": "2023-04-30 16:48:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70374",
+        "InterviewEndDate": "2023-04-30 16:51:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70375",
+        "InterviewEndDate": "2023-04-30 16:49:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70376",
+        "InterviewEndDate": "2023-04-30 16:50:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70377",
+        "InterviewEndDate": "2023-04-30 16:53:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70378",
+        "InterviewEndDate": "2023-04-30 17:00:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70379",
+        "InterviewEndDate": "2023-04-30 17:17:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70380",
+        "InterviewEndDate": "2023-04-30 17:15:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70381",
+        "InterviewEndDate": "2023-04-30 16:58:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70382",
+        "InterviewEndDate": "2023-04-30 16:58:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70383",
+        "InterviewEndDate": "2023-04-30 17:15:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70384",
+        "InterviewEndDate": "2023-04-30 17:06:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70385",
+        "InterviewEndDate": "2023-04-30 17:08:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70386",
+        "InterviewEndDate": "2023-04-30 17:14:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70388",
+        "InterviewEndDate": "2023-04-30 17:14:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70389",
+        "InterviewEndDate": "2023-04-30 17:26:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70390",
+        "InterviewEndDate": "2023-04-30 17:26:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70393",
+        "InterviewEndDate": "2023-04-30 17:26:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
     }
 ]    
 
