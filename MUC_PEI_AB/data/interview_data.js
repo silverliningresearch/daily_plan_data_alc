@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "30-04-2023 14:34:55"
+        "download_time": "30-04-2023 15:34:54"
     },
     {
         "InterviewId": "15848",
@@ -11433,6 +11433,14 @@ let interview_data_raw = `[
         "AirlineCode": "SQ"
     },
     {
+        "InterviewId": "17533",
+        "InterviewEndDate": "2023-04-30 12:37:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "17534",
         "InterviewEndDate": "2023-04-30 12:34:40",
         "InterviewState": "Complete",
@@ -11446,6 +11454,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 424",
         "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17536",
+        "InterviewEndDate": "2023-04-30 12:40:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17537",
+        "InterviewEndDate": "2023-04-30 12:53:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17538",
+        "InterviewEndDate": "2023-04-30 12:51:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17539",
+        "InterviewEndDate": "2023-04-30 12:55:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17540",
+        "InterviewEndDate": "2023-04-30 12:56:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17541",
+        "InterviewEndDate": "2023-04-30 12:54:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17542",
+        "InterviewEndDate": "2023-04-30 13:01:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
         "AirlineCode": "LH"
     }
 ]    

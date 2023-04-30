@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "30-04-2023 14:35:37"
+        "download_time": "30-04-2023 15:35:35"
     },
     {
         "InterviewId": "2077",
@@ -3335,6 +3335,54 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2997",
+        "InterviewEndDate": "2023-04-30 13:01:19",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "2998",
+        "InterviewEndDate": "2023-04-30 13:02:25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "2999",
+        "InterviewEndDate": "2023-04-30 13:00:32",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "3000",
+        "InterviewEndDate": "2023-04-30 13:02:30",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "3001",
+        "InterviewEndDate": "2023-04-30 13:01:43",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "3002",
+        "InterviewEndDate": "2023-04-30 12:59:19",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "DK"
     }
 ]    
 
