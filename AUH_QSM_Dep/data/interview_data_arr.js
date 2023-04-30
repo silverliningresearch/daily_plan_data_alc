@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "30-04-2023 13:36:37"
+        "download_time": "30-04-2023 14:36:38"
     },
     {
         "InterviewId": "4226",
@@ -3895,6 +3895,69 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "LHR",
         "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4681",
+        "InterviewEndDate": "2023-04-30 09:37:35",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DMM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4682",
+        "InterviewEndDate": "2023-04-30 09:39:07",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DMM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4683",
+        "InterviewEndDate": "2023-04-30 09:41:53",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "PEW",
+        "AirlineCode": "PK",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4684",
+        "InterviewEndDate": "2023-04-30 09:43:18",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "PEW",
+        "AirlineCode": "PK",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4685",
+        "InterviewEndDate": "2023-04-30 09:48:36",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "IST",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4686",
+        "InterviewEndDate": "2023-04-30 09:52:00",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "LYP",
+        "AirlineCode": "3L",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4687",
+        "InterviewEndDate": "2023-04-30 09:53:02",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "LYP",
+        "AirlineCode": "3L",
         "Terminal": "T3"
     }
 ]    

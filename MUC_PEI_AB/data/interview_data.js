@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "30-04-2023 11:34:55"
+        "download_time": "30-04-2023 12:34:54"
     },
     {
         "InterviewId": "15848",
@@ -11323,6 +11323,110 @@ let interview_data_raw = `[
     {
         "InterviewId": "17518",
         "InterviewEndDate": "2023-04-30 09:34:18",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "17520",
+        "InterviewEndDate": "2023-04-30 09:36:11",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "17521",
+        "InterviewEndDate": "2023-04-30 09:52:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17522",
+        "InterviewEndDate": "2023-04-30 09:52:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17523",
+        "InterviewEndDate": "2023-04-30 09:41:21",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "17524",
+        "InterviewEndDate": "2023-04-30 09:51:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17525",
+        "InterviewEndDate": "2023-04-30 09:43:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17526",
+        "InterviewEndDate": "2023-04-30 09:47:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17527",
+        "InterviewEndDate": "2023-04-30 09:50:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17528",
+        "InterviewEndDate": "2023-04-30 09:41:10",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "17529",
+        "InterviewEndDate": "2023-04-30 09:51:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17530",
+        "InterviewEndDate": "2023-04-30 09:41:29",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "17531",
+        "InterviewEndDate": "2023-04-30 09:46:00",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "17532",
+        "InterviewEndDate": "2023-04-30 09:46:15",
         "InterviewState": "Complete",
         "Flight": "SQ 327",
         "Dest": "SIN",
