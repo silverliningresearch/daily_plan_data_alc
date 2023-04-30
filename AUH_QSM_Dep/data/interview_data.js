@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "30-04-2023 12:36:30"
+        "download_time": "30-04-2023 13:36:31"
     },
     {
         "InterviewId": "7333",
@@ -8611,6 +8611,78 @@ let interview_data_raw = `[
         "Flight": "EY270",
         "Dest": "MAA",
         "AirlineCode": "EY270",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8358",
+        "InterviewEndDate": "2023-04-30 08:42:46",
+        "InterviewState": "Complete",
+        "Flight": "EY270",
+        "Dest": "MAA",
+        "AirlineCode": "EY270",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8359",
+        "InterviewEndDate": "2023-04-30 08:43:07",
+        "InterviewState": "Complete",
+        "Flight": "EY270",
+        "Dest": "MAA",
+        "AirlineCode": "EY270",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8360",
+        "InterviewEndDate": "2023-04-30 08:55:19",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8361",
+        "InterviewEndDate": "2023-04-30 08:52:14",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8362",
+        "InterviewEndDate": "2023-04-30 09:03:11",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8363",
+        "InterviewEndDate": "2023-04-30 09:08:37",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8364",
+        "InterviewEndDate": "2023-04-30 09:17:44",
+        "InterviewState": "Complete",
+        "Flight": "EY224",
+        "Dest": "DEL",
+        "AirlineCode": "EY224",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8365",
+        "InterviewEndDate": "2023-04-30 09:18:15",
+        "InterviewState": "Complete",
+        "Flight": "EY224",
+        "Dest": "DEL",
+        "AirlineCode": "EY224",
         "Terminal": "T3"
     }
 ]    
