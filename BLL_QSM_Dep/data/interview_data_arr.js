@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "02-05-2023 15:35:44"
+        "download_time": "02-05-2023 16:35:44"
     },
     {
         "InterviewId": "2077",
@@ -3697,6 +3697,46 @@ let interview_data_arr_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "3060",
+        "InterviewEndDate": "2023-05-02 13:42:36",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3063",
+        "InterviewEndDate": "2023-05-02 13:36:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3064",
+        "InterviewEndDate": "2023-05-02 13:43:44",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3065",
+        "InterviewEndDate": "2023-05-02 13:35:46",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3068",
+        "InterviewEndDate": "2023-05-02 13:36:48",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "3071",
         "InterviewEndDate": "2023-05-02 13:34:08",
         "InterviewState": "Complete",
@@ -3711,6 +3751,14 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "SVQ",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3076",
+        "InterviewEndDate": "2023-05-02 13:41:14",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
     }
 ]    
 

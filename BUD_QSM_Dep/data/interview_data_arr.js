@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "02-05-2023 15:35:52"
+        "download_time": "02-05-2023 16:35:51"
     },
     {
         "InterviewId": "1224",
@@ -815,6 +815,70 @@ let interview_data_arr_raw = `[
         "Flight": "IB - Iberia",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1325",
+        "InterviewEndDate": "2023-05-02 13:39:38",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1326",
+        "InterviewEndDate": "2023-05-02 13:45:08",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1327",
+        "InterviewEndDate": "2023-05-02 14:00:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1328",
+        "InterviewEndDate": "2023-05-02 14:04:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1329",
+        "InterviewEndDate": "2023-05-02 14:08:20",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1330",
+        "InterviewEndDate": "2023-05-02 14:12:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1331",
+        "InterviewEndDate": "2023-05-02 14:16:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1332",
+        "InterviewEndDate": "2023-05-02 14:20:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
     }
 ]    
 
