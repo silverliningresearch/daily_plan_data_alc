@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "03-05-2023 14:36:28"
+        "download_time": "03-05-2023 15:36:27"
     },
     {
         "InterviewId": "67210",
@@ -25123,6 +25123,182 @@ let interview_data_raw = `[
     {
         "InterviewId": "70464",
         "InterviewEndDate": "2023-05-03 12:30:41",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70465",
+        "InterviewEndDate": "2023-05-03 12:41:13",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70466",
+        "InterviewEndDate": "2023-05-03 12:38:47",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70467",
+        "InterviewEndDate": "2023-05-03 12:38:11",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70468",
+        "InterviewEndDate": "2023-05-03 12:49:07",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70469",
+        "InterviewEndDate": "2023-05-03 12:42:46",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70470",
+        "InterviewEndDate": "2023-05-03 12:51:51",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70471",
+        "InterviewEndDate": "2023-05-03 12:51:31",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70472",
+        "InterviewEndDate": "2023-05-03 12:46:55",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70473",
+        "InterviewEndDate": "2023-05-03 12:47:26",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70474",
+        "InterviewEndDate": "2023-05-03 12:58:18",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70475",
+        "InterviewEndDate": "2023-05-03 12:58:33",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70476",
+        "InterviewEndDate": "2023-05-03 12:57:45",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70477",
+        "InterviewEndDate": "2023-05-03 12:57:28",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70478",
+        "InterviewEndDate": "2023-05-03 12:57:56",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70479",
+        "InterviewEndDate": "2023-05-03 13:09:43",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70480",
+        "InterviewEndDate": "2023-05-03 13:04:23",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70481",
+        "InterviewEndDate": "2023-05-03 13:02:39",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70482",
+        "InterviewEndDate": "2023-05-03 13:03:16",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70483",
+        "InterviewEndDate": "2023-05-03 13:03:03",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70484",
+        "InterviewEndDate": "2023-05-03 13:09:56",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70485",
+        "InterviewEndDate": "2023-05-03 13:10:48",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "70487",
+        "InterviewEndDate": "2023-05-03 13:11:55",
         "InterviewState": "Complete",
         "Flight": "EZS1566",
         "Dest": "GVA",
