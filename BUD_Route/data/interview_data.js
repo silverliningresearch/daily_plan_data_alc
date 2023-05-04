@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "04-05-2023 11:36:29"
+        "download_time": "04-05-2023 12:36:30"
     },
     {
         "InterviewId": "67210",
@@ -25697,12 +25697,220 @@ let interview_data_raw = `[
         "AirlineCode": "EI"
     },
     {
+        "InterviewId": "70537",
+        "InterviewEndDate": "2023-05-04 09:39:49",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70538",
+        "InterviewEndDate": "2023-05-04 09:41:10",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70539",
+        "InterviewEndDate": "2023-05-04 09:40:30",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
         "InterviewId": "70540",
         "InterviewEndDate": "2023-05-04 09:35:12",
         "InterviewState": "Complete",
         "Flight": "EI  673",
         "Dest": "DUB",
         "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70541",
+        "InterviewEndDate": "2023-05-04 09:41:56",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70542",
+        "InterviewEndDate": "2023-05-04 09:41:29",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70543",
+        "InterviewEndDate": "2023-05-04 09:49:39",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70544",
+        "InterviewEndDate": "2023-05-04 09:49:47",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70545",
+        "InterviewEndDate": "2023-05-04 09:47:12",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70546",
+        "InterviewEndDate": "2023-05-04 09:49:26",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70547",
+        "InterviewEndDate": "2023-05-04 09:47:00",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70548",
+        "InterviewEndDate": "2023-05-04 09:57:33",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70549",
+        "InterviewEndDate": "2023-05-04 10:00:39",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70550",
+        "InterviewEndDate": "2023-05-04 09:56:05",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70551",
+        "InterviewEndDate": "2023-05-04 10:01:51",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70552",
+        "InterviewEndDate": "2023-05-04 09:58:55",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70553",
+        "InterviewEndDate": "2023-05-04 10:06:38",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70554",
+        "InterviewEndDate": "2023-05-04 10:07:27",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70555",
+        "InterviewEndDate": "2023-05-04 10:05:47",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70556",
+        "InterviewEndDate": "2023-05-04 10:03:24",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70557",
+        "InterviewEndDate": "2023-05-04 10:04:39",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70558",
+        "InterviewEndDate": "2023-05-04 10:27:20",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "70559",
+        "InterviewEndDate": "2023-05-04 10:28:15",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "70560",
+        "InterviewEndDate": "2023-05-04 10:27:52",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "70561",
+        "InterviewEndDate": "2023-05-04 10:28:14",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "70562",
+        "InterviewEndDate": "2023-05-04 10:31:56",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "70563",
+        "InterviewEndDate": "2023-05-04 10:32:46",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
