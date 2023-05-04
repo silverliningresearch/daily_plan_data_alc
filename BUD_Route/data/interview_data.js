@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "04-05-2023 09:36:32"
+        "download_time": "04-05-2023 10:36:30"
     },
     {
         "InterviewId": "67210",
@@ -25463,6 +25463,62 @@ let interview_data_raw = `[
         "Flight": "RO  232",
         "Dest": "OTP",
         "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "70508",
+        "InterviewEndDate": "2023-05-04 08:29:03",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70509",
+        "InterviewEndDate": "2023-05-04 08:21:05",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70510",
+        "InterviewEndDate": "2023-05-04 08:22:17",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70511",
+        "InterviewEndDate": "2023-05-04 08:23:01",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70512",
+        "InterviewEndDate": "2023-05-04 08:22:33",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70514",
+        "InterviewEndDate": "2023-05-04 08:32:21",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70517",
+        "InterviewEndDate": "2023-05-04 08:32:24",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
     }
 ]    
 
