@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-05-2023 17:34:57"
+        "download_time": "04-05-2023 18:34:57"
     },
     {
         "InterviewId": "15848",
@@ -11566,6 +11566,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 117",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17551",
+        "InterviewEndDate": "2023-05-04 15:53:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17552",
+        "InterviewEndDate": "2023-05-04 15:54:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17553",
+        "InterviewEndDate": "2023-05-04 15:53:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17554",
+        "InterviewEndDate": "2023-05-04 15:58:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17555",
+        "InterviewEndDate": "2023-05-04 16:01:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17556",
+        "InterviewEndDate": "2023-05-04 16:02:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17557",
+        "InterviewEndDate": "2023-05-04 16:02:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
         "AirlineCode": "LH"
     }
 ]    
