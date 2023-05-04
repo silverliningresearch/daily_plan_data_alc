@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "04-05-2023 13:36:31"
+        "download_time": "04-05-2023 14:36:33"
     },
     {
         "InterviewId": "67210",
@@ -25983,6 +25983,78 @@ let interview_data_raw = `[
         "Flight": "BT  492",
         "Dest": "RIX",
         "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "70573",
+        "InterviewEndDate": "2023-05-04 11:45:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70574",
+        "InterviewEndDate": "2023-05-04 11:45:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70575",
+        "InterviewEndDate": "2023-05-04 11:52:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70576",
+        "InterviewEndDate": "2023-05-04 11:51:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70577",
+        "InterviewEndDate": "2023-05-04 11:54:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70578",
+        "InterviewEndDate": "2023-05-04 11:54:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70579",
+        "InterviewEndDate": "2023-05-04 12:32:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70580",
+        "InterviewEndDate": "2023-05-04 12:35:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "70582",
+        "InterviewEndDate": "2023-05-04 12:33:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
     }
 ]    
 
