@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "04-05-2023 10:36:30"
+        "download_time": "04-05-2023 11:36:29"
     },
     {
         "InterviewId": "67210",
@@ -25505,8 +25505,32 @@ let interview_data_raw = `[
         "AirlineCode": "JU"
     },
     {
+        "InterviewId": "70513",
+        "InterviewEndDate": "2023-05-04 08:40:03",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
         "InterviewId": "70514",
         "InterviewEndDate": "2023-05-04 08:32:21",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70515",
+        "InterviewEndDate": "2023-05-04 08:42:11",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70516",
+        "InterviewEndDate": "2023-05-04 08:39:24",
         "InterviewState": "Complete",
         "Flight": "JU  151",
         "Dest": "BEG",
@@ -25519,6 +25543,166 @@ let interview_data_raw = `[
         "Flight": "JU  151",
         "Dest": "BEG",
         "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70518",
+        "InterviewEndDate": "2023-05-04 08:40:44",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70519",
+        "InterviewEndDate": "2023-05-04 08:40:59",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70520",
+        "InterviewEndDate": "2023-05-04 08:49:41",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70521",
+        "InterviewEndDate": "2023-05-04 08:46:36",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70522",
+        "InterviewEndDate": "2023-05-04 08:48:06",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70523",
+        "InterviewEndDate": "2023-05-04 08:47:50",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70524",
+        "InterviewEndDate": "2023-05-04 08:52:34",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70525",
+        "InterviewEndDate": "2023-05-04 08:52:22",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70526",
+        "InterviewEndDate": "2023-05-04 09:14:40",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70527",
+        "InterviewEndDate": "2023-05-04 09:14:39",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70528",
+        "InterviewEndDate": "2023-05-04 09:13:00",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70529",
+        "InterviewEndDate": "2023-05-04 09:12:58",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70530",
+        "InterviewEndDate": "2023-05-04 08:59:54",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70531",
+        "InterviewEndDate": "2023-05-04 09:17:02",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70532",
+        "InterviewEndDate": "2023-05-04 09:18:31",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "70533",
+        "InterviewEndDate": "2023-05-04 09:30:43",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70534",
+        "InterviewEndDate": "2023-05-04 09:29:27",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70535",
+        "InterviewEndDate": "2023-05-04 09:30:57",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70536",
+        "InterviewEndDate": "2023-05-04 09:29:26",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70540",
+        "InterviewEndDate": "2023-05-04 09:35:12",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
