@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "05-05-2023 11:35:53"
+        "download_time": "05-05-2023 12:35:52"
     },
     {
         "InterviewId": "3965",
@@ -2590,6 +2590,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2281",
         "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4312",
+        "InterviewEndDate": "2023-05-05 09:38:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4313",
+        "InterviewEndDate": "2023-05-05 09:38:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4314",
+        "InterviewEndDate": "2023-05-05 09:38:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4315",
+        "InterviewEndDate": "2023-05-05 09:39:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4316",
+        "InterviewEndDate": "2023-05-05 10:25:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "NYO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4317",
+        "InterviewEndDate": "2023-05-05 10:25:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "NYO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4318",
+        "InterviewEndDate": "2023-05-05 10:27:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "NYO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4319",
+        "InterviewEndDate": "2023-05-05 10:27:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "NYO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4320",
+        "InterviewEndDate": "2023-05-05 10:24:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "NYO",
         "AirlineCode": "W6"
     }
 ]    
