@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "05-05-2023 07:36:36"
+        "download_time": "05-05-2023 08:36:33"
     },
     {
         "InterviewId": "7701",
@@ -2638,6 +2638,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 1018",
         "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8067",
+        "InterviewEndDate": "2023-05-05 06:04:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8068",
+        "InterviewEndDate": "2023-05-05 06:03:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8069",
+        "InterviewEndDate": "2023-05-05 06:03:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8070",
+        "InterviewEndDate": "2023-05-05 06:05:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8071",
+        "InterviewEndDate": "2023-05-05 06:05:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8072",
+        "InterviewEndDate": "2023-05-05 06:13:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8073",
+        "InterviewEndDate": "2023-05-05 06:17:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8074",
+        "InterviewEndDate": "2023-05-05 06:16:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8075",
+        "InterviewEndDate": "2023-05-05 06:12:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
         "AirlineCode": "FR"
     }
 ]    
