@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "06-05-2023 18:36:24"
+        "download_time": "06-05-2023 19:36:26"
     },
     {
         "InterviewId": "67210",
@@ -27630,6 +27630,214 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 7604",
         "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70783",
+        "InterviewEndDate": "2023-05-06 16:43:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70784",
+        "InterviewEndDate": "2023-05-06 16:37:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70785",
+        "InterviewEndDate": "2023-05-06 16:48:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70786",
+        "InterviewEndDate": "2023-05-06 16:42:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70787",
+        "InterviewEndDate": "2023-05-06 16:40:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70788",
+        "InterviewEndDate": "2023-05-06 16:48:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70789",
+        "InterviewEndDate": "2023-05-06 16:50:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70790",
+        "InterviewEndDate": "2023-05-06 16:53:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70791",
+        "InterviewEndDate": "2023-05-06 17:19:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70792",
+        "InterviewEndDate": "2023-05-06 17:15:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70794",
+        "InterviewEndDate": "2023-05-06 17:17:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70795",
+        "InterviewEndDate": "2023-05-06 17:18:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70796",
+        "InterviewEndDate": "2023-05-06 17:18:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70797",
+        "InterviewEndDate": "2023-05-06 17:22:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70798",
+        "InterviewEndDate": "2023-05-06 17:23:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70799",
+        "InterviewEndDate": "2023-05-06 17:23:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70800",
+        "InterviewEndDate": "2023-05-06 17:22:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70801",
+        "InterviewEndDate": "2023-05-06 17:23:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70802",
+        "InterviewEndDate": "2023-05-06 17:26:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70803",
+        "InterviewEndDate": "2023-05-06 17:26:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70804",
+        "InterviewEndDate": "2023-05-06 17:28:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70805",
+        "InterviewEndDate": "2023-05-06 17:28:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70806",
+        "InterviewEndDate": "2023-05-06 17:30:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70807",
+        "InterviewEndDate": "2023-05-06 17:32:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70808",
+        "InterviewEndDate": "2023-05-06 17:32:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70809",
+        "InterviewEndDate": "2023-05-06 17:34:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
         "AirlineCode": "FR"
     }
 ]    
