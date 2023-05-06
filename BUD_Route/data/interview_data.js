@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "06-05-2023 10:36:20"
+        "download_time": "06-05-2023 11:36:24"
     },
     {
         "InterviewId": "67210",
@@ -26719,6 +26719,110 @@ let interview_data_raw = `[
         "Flight": "FR 2277",
         "Dest": "MLA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70667",
+        "InterviewEndDate": "2023-05-06 09:17:54",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70668",
+        "InterviewEndDate": "2023-05-06 09:17:11",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70669",
+        "InterviewEndDate": "2023-05-06 09:20:25",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70670",
+        "InterviewEndDate": "2023-05-06 09:18:31",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70671",
+        "InterviewEndDate": "2023-05-06 09:17:18",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70672",
+        "InterviewEndDate": "2023-05-06 09:22:59",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70673",
+        "InterviewEndDate": "2023-05-06 09:23:21",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70674",
+        "InterviewEndDate": "2023-05-06 09:35:09",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70675",
+        "InterviewEndDate": "2023-05-06 09:24:36",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70676",
+        "InterviewEndDate": "2023-05-06 09:26:15",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70677",
+        "InterviewEndDate": "2023-05-06 09:32:32",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70678",
+        "InterviewEndDate": "2023-05-06 09:33:12",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "70679",
+        "InterviewEndDate": "2023-05-06 09:34:23",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
