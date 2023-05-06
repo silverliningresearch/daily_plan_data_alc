@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "06-05-2023 09:34:55"
+        "download_time": "06-05-2023 10:34:56"
     },
     {
         "InterviewId": "15848",
@@ -11870,6 +11870,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UA 952",
         "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17593",
+        "InterviewEndDate": "2023-05-06 07:36:00",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17594",
+        "InterviewEndDate": "2023-05-06 07:44:29",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17595",
+        "InterviewEndDate": "2023-05-06 07:38:24",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17596",
+        "InterviewEndDate": "2023-05-06 07:44:58",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17598",
+        "InterviewEndDate": "2023-05-06 08:15:25",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17599",
+        "InterviewEndDate": "2023-05-06 08:15:59",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17600",
+        "InterviewEndDate": "2023-05-06 08:16:56",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17601",
+        "InterviewEndDate": "2023-05-06 08:17:13",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17602",
+        "InterviewEndDate": "2023-05-06 08:17:49",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "17604",
+        "InterviewEndDate": "2023-05-06 08:32:54",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
         "AirlineCode": "UA"
     }
 ]    
