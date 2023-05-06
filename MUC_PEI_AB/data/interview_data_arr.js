@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-05-2023 14:35:03"
+        "download_time": "06-05-2023 15:35:01"
     },
     {
         "InterviewId": "5174",
@@ -2449,11 +2449,67 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "5578",
+        "InterviewEndDate": "2023-05-06 12:43:48",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5579",
+        "InterviewEndDate": "2023-05-06 13:17:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5580",
+        "InterviewEndDate": "2023-05-06 13:19:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "5581",
         "InterviewEndDate": "2023-05-06 12:34:44",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5582",
+        "InterviewEndDate": "2023-05-06 12:47:55",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5585",
+        "InterviewEndDate": "2023-05-06 12:53:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DBV",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5586",
+        "InterviewEndDate": "2023-05-06 13:01:29",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5587",
+        "InterviewEndDate": "2023-05-06 13:33:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ATH",
         "AirlineCode": "LH"
     }
 ]    
