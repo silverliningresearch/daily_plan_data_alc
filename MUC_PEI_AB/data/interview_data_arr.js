@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-05-2023 15:35:01"
+        "download_time": "06-05-2023 16:35:01"
     },
     {
         "InterviewId": "5174",
@@ -2449,6 +2449,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "5577",
+        "InterviewEndDate": "2023-05-06 14:04:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HER",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "5578",
         "InterviewEndDate": "2023-05-06 12:43:48",
         "InterviewState": "Complete",
@@ -2510,6 +2518,46 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5588",
+        "InterviewEndDate": "2023-05-06 13:38:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5589",
+        "InterviewEndDate": "2023-05-06 13:42:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5590",
+        "InterviewEndDate": "2023-05-06 13:54:03",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5591",
+        "InterviewEndDate": "2023-05-06 13:54:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5592",
+        "InterviewEndDate": "2023-05-06 14:04:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HER",
         "AirlineCode": "LH"
     }
 ]    
