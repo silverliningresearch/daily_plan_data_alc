@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "06-05-2023 19:36:26"
+        "download_time": "06-05-2023 20:36:24"
     },
     {
         "InterviewId": "67210",
@@ -27835,6 +27835,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "70809",
         "InterviewEndDate": "2023-05-06 17:34:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70810",
+        "InterviewEndDate": "2023-05-06 17:36:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70811",
+        "InterviewEndDate": "2023-05-06 17:36:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70812",
+        "InterviewEndDate": "2023-05-06 17:39:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70813",
+        "InterviewEndDate": "2023-05-06 17:42:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "70814",
+        "InterviewEndDate": "2023-05-06 17:41:52",
         "InterviewState": "Complete",
         "Flight": "FR 5023",
         "Dest": "PSA",
