@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "07-05-2023 13:34:57"
+        "download_time": "07-05-2023 14:34:58"
     },
     {
         "InterviewId": "15848",
@@ -12246,6 +12246,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 428",
         "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17649",
+        "InterviewEndDate": "2023-05-07 12:24:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17650",
+        "InterviewEndDate": "2023-05-07 12:25:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17651",
+        "InterviewEndDate": "2023-05-07 12:26:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17652",
+        "InterviewEndDate": "2023-05-07 12:23:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17653",
+        "InterviewEndDate": "2023-05-07 12:20:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17654",
+        "InterviewEndDate": "2023-05-07 12:26:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17655",
+        "InterviewEndDate": "2023-05-07 12:20:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
         "AirlineCode": "LH"
     }
 ]    
