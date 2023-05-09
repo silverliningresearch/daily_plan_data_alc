@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "09-05-2023 13:35:01"
+        "download_time": "09-05-2023 14:35:03"
     },
     {
         "InterviewId": "15848",
@@ -12489,12 +12489,68 @@ let interview_data_raw = `[
         "AirlineCode": "Lh1868"
     },
     {
+        "InterviewId": "17684",
+        "InterviewEndDate": "2023-05-09 11:39:47",
+        "InterviewState": "Complete",
+        "Flight": "Lh1758",
+        "Dest": "HER",
+        "AirlineCode": "Lh1758"
+    },
+    {
+        "InterviewId": "17685",
+        "InterviewEndDate": "2023-05-09 11:39:33",
+        "InterviewState": "Complete",
+        "Flight": "Lh1758",
+        "Dest": "HER",
+        "AirlineCode": "Lh1758"
+    },
+    {
+        "InterviewId": "17686",
+        "InterviewEndDate": "2023-05-09 11:39:58",
+        "InterviewState": "Complete",
+        "Flight": "Lh1758",
+        "Dest": "HER",
+        "AirlineCode": "Lh1758"
+    },
+    {
         "InterviewId": "17687",
         "InterviewEndDate": "2023-05-09 11:33:34",
         "InterviewState": "Complete",
         "Flight": "Lh1758",
         "Dest": "HER",
         "AirlineCode": "Lh1758"
+    },
+    {
+        "InterviewId": "17688",
+        "InterviewEndDate": "2023-05-09 12:03:22",
+        "InterviewState": "Complete",
+        "Flight": "Lh1710",
+        "Dest": "Lh1710",
+        "AirlineCode": "Lh1710"
+    },
+    {
+        "InterviewId": "17689",
+        "InterviewEndDate": "2023-05-09 12:07:33",
+        "InterviewState": "Complete",
+        "Flight": "Lh2418",
+        "Dest": "ARN",
+        "AirlineCode": "Lh2418"
+    },
+    {
+        "InterviewId": "17690",
+        "InterviewEndDate": "2023-05-09 12:12:36",
+        "InterviewState": "Complete",
+        "Flight": "Lh2418",
+        "Dest": "ARN",
+        "AirlineCode": "Lh2418"
+    },
+    {
+        "InterviewId": "17691",
+        "InterviewEndDate": "2023-05-09 12:12:49",
+        "InterviewState": "Complete",
+        "Flight": "Lh2418",
+        "Dest": "EMPTY",
+        "AirlineCode": "Lh2418"
     }
 ]    
 
