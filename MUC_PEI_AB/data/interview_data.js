@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "09-05-2023 14:35:03"
+        "download_time": "09-05-2023 15:35:00"
     },
     {
         "InterviewId": "15848",
@@ -12551,6 +12551,86 @@ let interview_data_raw = `[
         "Flight": "Lh2418",
         "Dest": "EMPTY",
         "AirlineCode": "Lh2418"
+    },
+    {
+        "InterviewId": "17692",
+        "InterviewEndDate": "2023-05-09 12:35:50",
+        "InterviewState": "Complete",
+        "Flight": "Lh2418",
+        "Dest": "ARN",
+        "AirlineCode": "Lh2418"
+    },
+    {
+        "InterviewId": "17694",
+        "InterviewEndDate": "2023-05-09 12:37:53",
+        "InterviewState": "Complete",
+        "Flight": "Lh1754",
+        "Dest": "ATH",
+        "AirlineCode": "Lh1754"
+    },
+    {
+        "InterviewId": "17695",
+        "InterviewEndDate": "2023-05-09 12:35:50",
+        "InterviewState": "Complete",
+        "Flight": "Lh1754",
+        "Dest": "ATH",
+        "AirlineCode": "Lh1754"
+    },
+    {
+        "InterviewId": "17696",
+        "InterviewEndDate": "2023-05-09 12:40:26",
+        "InterviewState": "Complete",
+        "Flight": "Lh1754",
+        "Dest": "ATH",
+        "AirlineCode": "Lh1754"
+    },
+    {
+        "InterviewId": "17697",
+        "InterviewEndDate": "2023-05-09 12:44:23",
+        "InterviewState": "Complete",
+        "Flight": "Lh1754",
+        "Dest": "Athens",
+        "AirlineCode": "Lh1754"
+    },
+    {
+        "InterviewId": "17698",
+        "InterviewEndDate": "2023-05-09 12:47:29",
+        "InterviewState": "Complete",
+        "Flight": "Lh1754",
+        "Dest": "ATH",
+        "AirlineCode": "Lh1754"
+    },
+    {
+        "InterviewId": "17699",
+        "InterviewEndDate": "2023-05-09 13:07:40",
+        "InterviewState": "Complete",
+        "Flight": "Lh1908",
+        "Dest": "CTA",
+        "AirlineCode": "Lh1908"
+    },
+    {
+        "InterviewId": "17701",
+        "InterviewEndDate": "2023-05-09 13:18:03",
+        "InterviewState": "Complete",
+        "Flight": "Lh1908",
+        "Dest": "CTA",
+        "AirlineCode": "Lh1908"
+    },
+    {
+        "InterviewId": "17702",
+        "InterviewEndDate": "2023-05-09 13:29:25",
+        "InterviewState": "Complete",
+        "Flight": "Lh1908",
+        "Dest": "CTA",
+        "AirlineCode": "Lh1908"
+    },
+    {
+        "InterviewId": "17703",
+        "InterviewEndDate": "2023-05-09 13:18:45",
+        "InterviewState": "Complete",
+        "Flight": "Lh1908",
+        "Dest": "CTA",
+        "AirlineCode": "Lh1908"
     }
 ]    
 
