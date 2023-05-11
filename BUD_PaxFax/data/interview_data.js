@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "11-05-2023 11:36:56"
+        "download_time": "11-05-2023 12:36:50"
     },
     {
         "InterviewId": "7701",
@@ -2905,6 +2905,14 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "8102",
+        "InterviewEndDate": "2023-05-11 09:35:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewId": "8103",
         "InterviewEndDate": "2023-05-11 09:30:59",
         "InterviewState": "Complete",
@@ -2927,6 +2935,70 @@ let interview_data_raw = `[
         "Flight": "W6 2281",
         "Dest": "CRL",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8107",
+        "InterviewEndDate": "2023-05-11 09:44:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8108",
+        "InterviewEndDate": "2023-05-11 09:43:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8109",
+        "InterviewEndDate": "2023-05-11 09:42:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8110",
+        "InterviewEndDate": "2023-05-11 09:46:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8111",
+        "InterviewEndDate": "2023-05-11 09:47:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8112",
+        "InterviewEndDate": "2023-05-11 10:19:02",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "8113",
+        "InterviewEndDate": "2023-05-11 10:24:18",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "8114",
+        "InterviewEndDate": "2023-05-11 10:22:52",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
