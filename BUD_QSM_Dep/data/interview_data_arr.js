@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "11-05-2023 08:35:59"
+        "download_time": "11-05-2023 09:36:05"
     },
     {
         "InterviewId": "1224",
@@ -1095,6 +1095,102 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MUC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "1360",
+        "InterviewEndDate": "2023-05-11 06:39:02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "1361",
+        "InterviewEndDate": "2023-05-11 06:43:16",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "1362",
+        "InterviewEndDate": "2023-05-11 06:50:33",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1363",
+        "InterviewEndDate": "2023-05-11 06:55:05",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1364",
+        "InterviewEndDate": "2023-05-11 06:59:04",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1365",
+        "InterviewEndDate": "2023-05-11 07:03:12",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1366",
+        "InterviewEndDate": "2023-05-11 07:07:16",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1367",
+        "InterviewEndDate": "2023-05-11 07:11:49",
+        "InterviewState": "Complete",
+        "Flight": "RO - Tarom",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "1368",
+        "InterviewEndDate": "2023-05-11 07:16:08",
+        "InterviewState": "Complete",
+        "Flight": "RO - Tarom",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "1369",
+        "InterviewEndDate": "2023-05-11 07:20:02",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "1370",
+        "InterviewEndDate": "2023-05-11 07:24:01",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "1371",
+        "InterviewEndDate": "2023-05-11 07:28:07",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
     }
 ]    
 
