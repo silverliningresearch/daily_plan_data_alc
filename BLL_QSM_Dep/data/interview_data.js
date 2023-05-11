@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-05-2023 18:35:44"
+        "download_time": "11-05-2023 19:35:42"
     },
     {
         "InterviewId": "6093",
@@ -13855,6 +13855,46 @@ let interview_data_raw = `[
         "Flight": "FR9752",
         "Dest": "VIE",
         "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "9189",
+        "InterviewEndDate": "2023-05-11 16:33:40",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "9190",
+        "InterviewEndDate": "2023-05-11 16:36:19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "9191",
+        "InterviewEndDate": "2023-05-11 16:37:29",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "9195",
+        "InterviewEndDate": "2023-05-11 17:34:14",
+        "InterviewState": "Complete",
+        "Flight": "NVR774",
+        "Dest": "CPH",
+        "AirlineCode": "NVR774"
+    },
+    {
+        "InterviewId": "9196",
+        "InterviewEndDate": "2023-05-11 17:32:47",
+        "InterviewState": "Complete",
+        "Flight": "NVR774",
+        "Dest": "CPH",
+        "AirlineCode": "NVR774"
     }
 ]    
 
