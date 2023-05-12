@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "12-05-2023 20:35:08"
+        "download_time": "12-05-2023 21:35:06"
     },
     {
         "InterviewId": "5174",
@@ -2895,6 +2895,62 @@ let interview_data_arr_raw = `[
         "Flight": "Marabu",
         "Dest": "HRG",
         "AirlineCode": "Marabu"
+    },
+    {
+        "InterviewId": "5643",
+        "InterviewEndDate": "2023-05-12 18:40:45",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5644",
+        "InterviewEndDate": "2023-05-12 18:43:37",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5645",
+        "InterviewEndDate": "2023-05-12 18:50:40",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5646",
+        "InterviewEndDate": "2023-05-12 18:55:04",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5647",
+        "InterviewEndDate": "2023-05-12 19:06:51",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5648",
+        "InterviewEndDate": "2023-05-12 19:10:27",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5649",
+        "InterviewEndDate": "2023-05-12 19:13:33",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 
