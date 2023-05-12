@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "12-05-2023 13:36:56"
+        "download_time": "12-05-2023 14:37:16"
     },
     {
         "InterviewId": "7701",
@@ -3167,6 +3167,86 @@ let interview_data_raw = `[
         "Flight": "FR 4247",
         "Dest": "BOH",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8137",
+        "InterviewEndDate": "2023-05-12 11:42:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8138",
+        "InterviewEndDate": "2023-05-12 11:42:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8139",
+        "InterviewEndDate": "2023-05-12 11:41:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8140",
+        "InterviewEndDate": "2023-05-12 11:54:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8141",
+        "InterviewEndDate": "2023-05-12 11:56:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8142",
+        "InterviewEndDate": "2023-05-12 11:56:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8143",
+        "InterviewEndDate": "2023-05-12 11:57:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8144",
+        "InterviewEndDate": "2023-05-12 12:31:12",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "8145",
+        "InterviewEndDate": "2023-05-12 12:27:48",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "8146",
+        "InterviewEndDate": "2023-05-12 12:29:40",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
     }
 ]    
 
