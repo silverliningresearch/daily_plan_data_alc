@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "13-05-2023 19:36:37"
+        "download_time": "13-05-2023 20:36:39"
     },
     {
         "InterviewId": "67210",
@@ -33063,6 +33063,262 @@ let interview_data_raw = `[
         "Flight": "KE  962",
         "Dest": "ICN",
         "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "71488",
+        "InterviewEndDate": "2023-05-13 17:42:14",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "71489",
+        "InterviewEndDate": "2023-05-13 17:42:14",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "71491",
+        "InterviewEndDate": "2023-05-13 17:37:29",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "71492",
+        "InterviewEndDate": "2023-05-13 17:45:52",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "71493",
+        "InterviewEndDate": "2023-05-13 17:45:51",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "71494",
+        "InterviewEndDate": "2023-05-13 18:12:20",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71495",
+        "InterviewEndDate": "2023-05-13 18:12:23",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71496",
+        "InterviewEndDate": "2023-05-13 18:12:23",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71497",
+        "InterviewEndDate": "2023-05-13 18:04:12",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71498",
+        "InterviewEndDate": "2023-05-13 18:04:12",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71499",
+        "InterviewEndDate": "2023-05-13 18:15:12",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71500",
+        "InterviewEndDate": "2023-05-13 18:15:38",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71501",
+        "InterviewEndDate": "2023-05-13 18:17:16",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71502",
+        "InterviewEndDate": "2023-05-13 18:20:12",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71503",
+        "InterviewEndDate": "2023-05-13 18:15:15",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71504",
+        "InterviewEndDate": "2023-05-13 18:20:13",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71505",
+        "InterviewEndDate": "2023-05-13 18:20:13",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71506",
+        "InterviewEndDate": "2023-05-13 18:20:13",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71507",
+        "InterviewEndDate": "2023-05-13 18:21:38",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71508",
+        "InterviewEndDate": "2023-05-13 18:26:09",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71509",
+        "InterviewEndDate": "2023-05-13 18:26:09",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71510",
+        "InterviewEndDate": "2023-05-13 18:26:11",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71511",
+        "InterviewEndDate": "2023-05-13 18:26:12",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71512",
+        "InterviewEndDate": "2023-05-13 18:27:43",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71513",
+        "InterviewEndDate": "2023-05-13 18:30:05",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71514",
+        "InterviewEndDate": "2023-05-13 18:30:05",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71515",
+        "InterviewEndDate": "2023-05-13 18:30:10",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71516",
+        "InterviewEndDate": "2023-05-13 18:30:10",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71517",
+        "InterviewEndDate": "2023-05-13 18:32:39",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71518",
+        "InterviewEndDate": "2023-05-13 18:34:28",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71519",
+        "InterviewEndDate": "2023-05-13 18:34:13",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "71520",
+        "InterviewEndDate": "2023-05-13 18:34:13",
+        "InterviewState": "Complete",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732"
     }
 ]    
 
