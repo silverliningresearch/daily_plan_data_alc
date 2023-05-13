@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "13-05-2023 09:36:38"
+        "download_time": "13-05-2023 10:36:38"
     },
     {
         "InterviewId": "67210",
@@ -30969,6 +30969,30 @@ let interview_data_raw = `[
         "AirlineCode": "KS"
     },
     {
+        "InterviewId": "71219",
+        "InterviewEndDate": "2023-05-13 07:42:47",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71220",
+        "InterviewEndDate": "2023-05-13 07:42:15",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71221",
+        "InterviewEndDate": "2023-05-13 07:43:37",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
         "InterviewId": "71222",
         "InterviewEndDate": "2023-05-13 07:20:41",
         "InterviewState": "Complete",
@@ -31071,6 +31095,278 @@ let interview_data_raw = `[
         "Flight": "FR 6712",
         "Dest": "MAD",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71235",
+        "InterviewEndDate": "2023-05-13 07:35:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71236",
+        "InterviewEndDate": "2023-05-13 07:42:57",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71237",
+        "InterviewEndDate": "2023-05-13 07:41:50",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71238",
+        "InterviewEndDate": "2023-05-13 07:37:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71239",
+        "InterviewEndDate": "2023-05-13 07:50:18",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71240",
+        "InterviewEndDate": "2023-05-13 07:37:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71241",
+        "InterviewEndDate": "2023-05-13 07:40:09",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71242",
+        "InterviewEndDate": "2023-05-13 07:36:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71243",
+        "InterviewEndDate": "2023-05-13 07:39:14",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71244",
+        "InterviewEndDate": "2023-05-13 07:39:25",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71245",
+        "InterviewEndDate": "2023-05-13 07:38:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71247",
+        "InterviewEndDate": "2023-05-13 08:00:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71248",
+        "InterviewEndDate": "2023-05-13 08:12:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71249",
+        "InterviewEndDate": "2023-05-13 08:00:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71250",
+        "InterviewEndDate": "2023-05-13 07:59:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71251",
+        "InterviewEndDate": "2023-05-13 07:54:42",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71252",
+        "InterviewEndDate": "2023-05-13 07:54:50",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71253",
+        "InterviewEndDate": "2023-05-13 07:57:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71254",
+        "InterviewEndDate": "2023-05-13 07:57:43",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71255",
+        "InterviewEndDate": "2023-05-13 07:57:37",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "71256",
+        "InterviewEndDate": "2023-05-13 08:06:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71257",
+        "InterviewEndDate": "2023-05-13 08:06:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71258",
+        "InterviewEndDate": "2023-05-13 08:19:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71259",
+        "InterviewEndDate": "2023-05-13 08:13:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71260",
+        "InterviewEndDate": "2023-05-13 08:18:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71261",
+        "InterviewEndDate": "2023-05-13 08:16:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71262",
+        "InterviewEndDate": "2023-05-13 08:16:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71264",
+        "InterviewEndDate": "2023-05-13 08:23:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71265",
+        "InterviewEndDate": "2023-05-13 08:22:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71266",
+        "InterviewEndDate": "2023-05-13 08:23:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71267",
+        "InterviewEndDate": "2023-05-13 08:24:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71268",
+        "InterviewEndDate": "2023-05-13 08:24:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71271",
+        "InterviewEndDate": "2023-05-13 08:35:21",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71273",
+        "InterviewEndDate": "2023-05-13 08:32:45",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
