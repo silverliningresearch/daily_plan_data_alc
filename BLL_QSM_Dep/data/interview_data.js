@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-05-2023 10:35:40"
+        "download_time": "13-05-2023 11:35:40"
     },
     {
         "InterviewId": "6093",
@@ -14313,6 +14313,22 @@ let interview_data_raw = `[
         "AirlineCode": "FR5165"
     },
     {
+        "InterviewId": "9260",
+        "InterviewEndDate": "2023-05-13 08:39:54",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "9261",
+        "InterviewEndDate": "2023-05-13 08:35:20",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
         "InterviewId": "9262",
         "InterviewEndDate": "2023-05-13 08:22:55",
         "InterviewState": "Complete",
@@ -14321,8 +14337,40 @@ let interview_data_raw = `[
         "AirlineCode": "DY993"
     },
     {
+        "InterviewId": "9263",
+        "InterviewEndDate": "2023-05-13 08:36:16",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "9265",
+        "InterviewEndDate": "2023-05-13 08:40:47",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
         "InterviewId": "9266",
         "InterviewEndDate": "2023-05-13 08:32:25",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "9267",
+        "InterviewEndDate": "2023-05-13 08:41:49",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "9268",
+        "InterviewEndDate": "2023-05-13 08:37:30",
         "InterviewState": "Complete",
         "Flight": "DY993",
         "Dest": "OSL",

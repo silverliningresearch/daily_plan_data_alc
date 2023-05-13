@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "13-05-2023 10:36:38"
+        "download_time": "13-05-2023 11:36:36"
     },
     {
         "InterviewId": "67210",
@@ -31353,8 +31353,24 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "71269",
+        "InterviewEndDate": "2023-05-13 08:53:45",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
         "InterviewId": "71271",
         "InterviewEndDate": "2023-05-13 08:35:21",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71272",
+        "InterviewEndDate": "2023-05-13 08:51:48",
         "InterviewState": "Complete",
         "Flight": "OS  714",
         "Dest": "VIE",
@@ -31367,6 +31383,270 @@ let interview_data_raw = `[
         "Flight": "OS  714",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71274",
+        "InterviewEndDate": "2023-05-13 08:37:34",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71275",
+        "InterviewEndDate": "2023-05-13 08:39:37",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71276",
+        "InterviewEndDate": "2023-05-13 08:53:00",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71277",
+        "InterviewEndDate": "2023-05-13 08:54:21",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71278",
+        "InterviewEndDate": "2023-05-13 08:59:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71279",
+        "InterviewEndDate": "2023-05-13 08:58:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71280",
+        "InterviewEndDate": "2023-05-13 08:54:40",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71281",
+        "InterviewEndDate": "2023-05-13 08:59:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71282",
+        "InterviewEndDate": "2023-05-13 09:00:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71283",
+        "InterviewEndDate": "2023-05-13 08:59:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71284",
+        "InterviewEndDate": "2023-05-13 08:54:50",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71285",
+        "InterviewEndDate": "2023-05-13 08:57:28",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71286",
+        "InterviewEndDate": "2023-05-13 08:57:59",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71287",
+        "InterviewEndDate": "2023-05-13 09:01:19",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71288",
+        "InterviewEndDate": "2023-05-13 09:02:43",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71289",
+        "InterviewEndDate": "2023-05-13 09:22:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71290",
+        "InterviewEndDate": "2023-05-13 09:03:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71291",
+        "InterviewEndDate": "2023-05-13 09:02:31",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71292",
+        "InterviewEndDate": "2023-05-13 09:11:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71293",
+        "InterviewEndDate": "2023-05-13 09:03:34",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71294",
+        "InterviewEndDate": "2023-05-13 09:10:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71295",
+        "InterviewEndDate": "2023-05-13 09:05:11",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71296",
+        "InterviewEndDate": "2023-05-13 09:08:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71297",
+        "InterviewEndDate": "2023-05-13 09:11:09",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "71298",
+        "InterviewEndDate": "2023-05-13 09:09:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71299",
+        "InterviewEndDate": "2023-05-13 09:08:41",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71300",
+        "InterviewEndDate": "2023-05-13 09:22:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71301",
+        "InterviewEndDate": "2023-05-13 09:11:25",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71302",
+        "InterviewEndDate": "2023-05-13 09:12:17",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71303",
+        "InterviewEndDate": "2023-05-13 09:15:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71304",
+        "InterviewEndDate": "2023-05-13 09:15:08",
+        "InterviewState": "Complete",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "71305",
+        "InterviewEndDate": "2023-05-13 09:14:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71306",
+        "InterviewEndDate": "2023-05-13 09:23:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
     }
 ]    
 
