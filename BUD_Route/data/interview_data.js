@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "13-05-2023 17:36:43"
+        "download_time": "13-05-2023 18:36:42"
     },
     {
         "InterviewId": "67210",
@@ -32681,6 +32681,14 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
+        "InterviewId": "71440",
+        "InterviewEndDate": "2023-05-13 15:58:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "71441",
         "InterviewEndDate": "2023-05-13 15:33:13",
         "InterviewState": "Complete",
@@ -32711,6 +32719,174 @@ let interview_data_raw = `[
         "Flight": "FR 5248",
         "Dest": "CAG",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71445",
+        "InterviewEndDate": "2023-05-13 15:43:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71446",
+        "InterviewEndDate": "2023-05-13 15:41:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71447",
+        "InterviewEndDate": "2023-05-13 15:39:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71448",
+        "InterviewEndDate": "2023-05-13 15:45:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71449",
+        "InterviewEndDate": "2023-05-13 15:45:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71450",
+        "InterviewEndDate": "2023-05-13 15:45:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71451",
+        "InterviewEndDate": "2023-05-13 15:50:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71452",
+        "InterviewEndDate": "2023-05-13 15:50:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71453",
+        "InterviewEndDate": "2023-05-13 15:55:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71454",
+        "InterviewEndDate": "2023-05-13 15:58:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71455",
+        "InterviewEndDate": "2023-05-13 15:59:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71456",
+        "InterviewEndDate": "2023-05-13 15:59:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71457",
+        "InterviewEndDate": "2023-05-13 16:03:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71458",
+        "InterviewEndDate": "2023-05-13 16:04:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71459",
+        "InterviewEndDate": "2023-05-13 16:06:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71460",
+        "InterviewEndDate": "2023-05-13 16:06:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71461",
+        "InterviewEndDate": "2023-05-13 16:26:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71462",
+        "InterviewEndDate": "2023-05-13 16:27:20",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71463",
+        "InterviewEndDate": "2023-05-13 16:36:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71464",
+        "InterviewEndDate": "2023-05-13 16:33:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71465",
+        "InterviewEndDate": "2023-05-13 16:29:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
     }
 ]    
 
