@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "14-05-2023 16:36:45"
+        "download_time": "14-05-2023 17:36:50"
     },
     {
         "InterviewId": "67210",
@@ -35123,6 +35123,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "71751",
         "InterviewEndDate": "2023-05-14 14:33:47",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "71752",
+        "InterviewEndDate": "2023-05-14 14:45:34",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "71753",
+        "InterviewEndDate": "2023-05-14 14:43:50",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "71754",
+        "InterviewEndDate": "2023-05-14 14:43:51",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "71755",
+        "InterviewEndDate": "2023-05-14 14:40:48",
+        "InterviewState": "Complete",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "71756",
+        "InterviewEndDate": "2023-05-14 14:40:52",
         "InterviewState": "Complete",
         "Flight": "BZ  441",
         "Dest": "TLV",

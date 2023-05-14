@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "14-05-2023 16:35:44"
+        "download_time": "14-05-2023 17:35:45"
     },
     {
         "InterviewId": "6093",
@@ -14439,6 +14439,54 @@ let interview_data_raw = `[
         "Flight": "FR4211",
         "Dest": "VNO",
         "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "9277",
+        "InterviewEndDate": "2023-05-14 14:50:22",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9278",
+        "InterviewEndDate": "2023-05-14 14:47:23",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9279",
+        "InterviewEndDate": "2023-05-14 14:46:20",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9280",
+        "InterviewEndDate": "2023-05-14 14:55:09",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9281",
+        "InterviewEndDate": "2023-05-14 14:48:31",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9282",
+        "InterviewEndDate": "2023-05-14 14:55:08",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
     }
 ]    
 
