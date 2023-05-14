@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "14-05-2023 19:35:58"
+        "download_time": "14-05-2023 20:36:01"
     },
     {
         "InterviewId": "1224",
@@ -1231,6 +1231,102 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "POZ",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1377",
+        "InterviewEndDate": "2023-05-14 17:45:34",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1378",
+        "InterviewEndDate": "2023-05-14 17:49:05",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1379",
+        "InterviewEndDate": "2023-05-14 17:52:26",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1380",
+        "InterviewEndDate": "2023-05-14 17:58:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1381",
+        "InterviewEndDate": "2023-05-14 18:03:31",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1382",
+        "InterviewEndDate": "2023-05-14 18:08:26",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1383",
+        "InterviewEndDate": "2023-05-14 18:13:43",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1384",
+        "InterviewEndDate": "2023-05-14 18:19:11",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "1385",
+        "InterviewEndDate": "2023-05-14 18:23:06",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "1386",
+        "InterviewEndDate": "2023-05-14 18:27:01",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "1387",
+        "InterviewEndDate": "2023-05-14 18:31:24",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "1388",
+        "InterviewEndDate": "2023-05-14 18:35:25",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
