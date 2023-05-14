@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "14-05-2023 09:35:02"
+        "download_time": "14-05-2023 10:35:03"
     },
     {
         "InterviewId": "15848",
@@ -13919,6 +13919,94 @@ let interview_data_raw = `[
         "Flight": "DL 131",
         "Dest": "ATL",
         "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "17915",
+        "InterviewEndDate": "2023-05-14 07:44:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1832",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17916",
+        "InterviewEndDate": "2023-05-14 08:05:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1832",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17917",
+        "InterviewEndDate": "2023-05-14 07:48:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1832",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17918",
+        "InterviewEndDate": "2023-05-14 07:42:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1832",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17922",
+        "InterviewEndDate": "2023-05-14 08:34:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17923",
+        "InterviewEndDate": "2023-05-14 08:27:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17924",
+        "InterviewEndDate": "2023-05-14 08:25:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17925",
+        "InterviewEndDate": "2023-05-14 08:24:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17926",
+        "InterviewEndDate": "2023-05-14 08:27:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17927",
+        "InterviewEndDate": "2023-05-14 08:25:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "17929",
+        "InterviewEndDate": "2023-05-14 08:27:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
     }
 ]    
 

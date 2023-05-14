@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "14-05-2023 09:36:46"
+        "download_time": "14-05-2023 10:36:46"
     },
     {
         "InterviewId": "67210",
@@ -34041,6 +34041,14 @@ let interview_data_raw = `[
         "AirlineCode": "LY"
     },
     {
+        "InterviewId": "71613",
+        "InterviewEndDate": "2023-05-14 07:37:06",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
         "InterviewId": "71614",
         "InterviewEndDate": "2023-05-14 07:31:50",
         "InterviewState": "Complete",
@@ -34063,6 +34071,62 @@ let interview_data_raw = `[
         "Flight": "LY 2366",
         "Dest": "TLV",
         "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "71617",
+        "InterviewEndDate": "2023-05-14 07:37:29",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "71618",
+        "InterviewEndDate": "2023-05-14 07:38:59",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "71619",
+        "InterviewEndDate": "2023-05-14 07:39:24",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "71620",
+        "InterviewEndDate": "2023-05-14 08:31:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2299",
+        "Dest": "DMM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71621",
+        "InterviewEndDate": "2023-05-14 08:30:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2299",
+        "Dest": "DMM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71622",
+        "InterviewEndDate": "2023-05-14 08:32:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2299",
+        "Dest": "DMM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71623",
+        "InterviewEndDate": "2023-05-14 08:32:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2299",
+        "Dest": "DMM",
+        "AirlineCode": "W6"
     }
 ]    
 
