@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "14-05-2023 12:36:43"
+        "download_time": "14-05-2023 13:36:42"
     },
     {
         "InterviewId": "67210",
@@ -32162,7 +32162,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "71375",
-        "InterviewEndDate": "2023-05-13 11:15:48",
+        "InterviewEndDate": "2023-05-14 10:58:21",
         "InterviewState": "Complete",
         "Flight": "KS 1202",
         "Dest": "OTP",
@@ -34529,12 +34529,188 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "71675",
+        "InterviewEndDate": "2023-05-14 10:38:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewId": "71676",
         "InterviewEndDate": "2023-05-14 10:35:22",
         "InterviewState": "Complete",
         "Flight": "W6 2367",
         "Dest": "ORY",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71677",
+        "InterviewEndDate": "2023-05-14 10:38:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71678",
+        "InterviewEndDate": "2023-05-14 10:36:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71679",
+        "InterviewEndDate": "2023-05-14 10:39:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71680",
+        "InterviewEndDate": "2023-05-14 10:41:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71681",
+        "InterviewEndDate": "2023-05-14 10:46:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71682",
+        "InterviewEndDate": "2023-05-14 10:42:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71683",
+        "InterviewEndDate": "2023-05-14 10:43:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71684",
+        "InterviewEndDate": "2023-05-14 10:42:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71685",
+        "InterviewEndDate": "2023-05-14 10:45:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71686",
+        "InterviewEndDate": "2023-05-14 10:46:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71687",
+        "InterviewEndDate": "2023-05-14 10:47:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "71688",
+        "InterviewEndDate": "2023-05-14 11:12:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71689",
+        "InterviewEndDate": "2023-05-14 11:11:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71690",
+        "InterviewEndDate": "2023-05-14 11:11:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71691",
+        "InterviewEndDate": "2023-05-14 11:11:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71692",
+        "InterviewEndDate": "2023-05-14 11:09:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71693",
+        "InterviewEndDate": "2023-05-14 11:13:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71694",
+        "InterviewEndDate": "2023-05-14 11:15:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71695",
+        "InterviewEndDate": "2023-05-14 11:15:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71696",
+        "InterviewEndDate": "2023-05-14 11:17:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "71697",
+        "InterviewEndDate": "2023-05-14 11:16:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
     }
 ]    
 
