@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-05-2023 18:35:50"
+        "download_time": "15-05-2023 19:35:48"
     },
     {
         "InterviewId": "6093",
@@ -14663,6 +14663,62 @@ let interview_data_raw = `[
         "Flight": "FR5165",
         "Dest": "STN",
         "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "9312",
+        "InterviewEndDate": "2023-05-15 16:53:45",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "9313",
+        "InterviewEndDate": "2023-05-15 16:55:09",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "9314",
+        "InterviewEndDate": "2023-05-15 16:59:31",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "9315",
+        "InterviewEndDate": "2023-05-15 16:56:32",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "9316",
+        "InterviewEndDate": "2023-05-15 17:30:50",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9318",
+        "InterviewEndDate": "2023-05-15 17:31:01",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9319",
+        "InterviewEndDate": "2023-05-15 17:28:21",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
     }
 ]    
 
