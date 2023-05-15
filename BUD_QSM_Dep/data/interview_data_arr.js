@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "15-05-2023 17:36:06"
+        "download_time": "15-05-2023 18:36:08"
     },
     {
         "InterviewId": "1224",
@@ -1351,6 +1351,46 @@ let interview_data_arr_raw = `[
         "Flight": "LS - Jet2.com",
         "Dest": "MAN",
         "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1392",
+        "InterviewEndDate": "2023-05-15 16:18:05",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1393",
+        "InterviewEndDate": "2023-05-15 16:23:03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1394",
+        "InterviewEndDate": "2023-05-15 16:26:23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1395",
+        "InterviewEndDate": "2023-05-15 16:30:25",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1396",
+        "InterviewEndDate": "2023-05-15 16:34:50",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
     }
 ]    
 
