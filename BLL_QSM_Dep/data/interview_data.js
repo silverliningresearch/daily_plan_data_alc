@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-05-2023 08:35:51"
+        "download_time": "16-05-2023 09:35:54"
     },
     {
         "InterviewId": "6093",
@@ -14807,6 +14807,54 @@ let interview_data_raw = `[
         "Flight": "W43696",
         "Dest": "IAS",
         "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "9330",
+        "InterviewEndDate": "2023-05-16 07:17:50",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "9331",
+        "InterviewEndDate": "2023-05-16 07:22:15",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "9332",
+        "InterviewEndDate": "2023-05-16 07:16:49",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "9333",
+        "InterviewEndDate": "2023-05-16 07:16:55",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "9334",
+        "InterviewEndDate": "2023-05-16 07:18:37",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "9335",
+        "InterviewEndDate": "2023-05-16 07:22:24",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
     }
 ]    
 
