@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "18-05-2023 10:36:09"
+        "download_time": "18-05-2023 11:36:09"
     },
     {
         "InterviewId": "3965",
@@ -3374,6 +3374,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR  839",
         "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4418",
+        "InterviewEndDate": "2023-05-18 08:44:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4419",
+        "InterviewEndDate": "2023-05-18 08:43:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4420",
+        "InterviewEndDate": "2023-05-18 08:45:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4421",
+        "InterviewEndDate": "2023-05-18 08:52:20",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4422",
+        "InterviewEndDate": "2023-05-18 08:46:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4423",
+        "InterviewEndDate": "2023-05-18 09:04:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4424",
+        "InterviewEndDate": "2023-05-18 08:52:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4426",
+        "InterviewEndDate": "2023-05-18 09:31:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4427",
+        "InterviewEndDate": "2023-05-18 09:35:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4428",
+        "InterviewEndDate": "2023-05-18 09:33:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
         "AirlineCode": "FR"
     }
 ]    

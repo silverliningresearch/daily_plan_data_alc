@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "18-05-2023 10:35:06"
+        "download_time": "18-05-2023 11:35:08"
     },
     {
         "InterviewId": "15848",
@@ -14591,6 +14591,102 @@ let interview_data_raw = `[
         "Flight": "Lh1812",
         "Dest": "BCN",
         "AirlineCode": "Lh1812"
+    },
+    {
+        "InterviewId": "18018",
+        "InterviewEndDate": "2023-05-18 08:42:53",
+        "InterviewState": "Complete",
+        "Flight": "Lh2272",
+        "Dest": "NCE",
+        "AirlineCode": "Lh2272"
+    },
+    {
+        "InterviewId": "18019",
+        "InterviewEndDate": "2023-05-18 08:43:15",
+        "InterviewState": "Complete",
+        "Flight": "Lh2272",
+        "Dest": "NCE",
+        "AirlineCode": "Lh2272"
+    },
+    {
+        "InterviewId": "18020",
+        "InterviewEndDate": "2023-05-18 08:45:09",
+        "InterviewState": "Complete",
+        "Flight": "Lh2272",
+        "Dest": "NCE",
+        "AirlineCode": "Lh2272"
+    },
+    {
+        "InterviewId": "18022",
+        "InterviewEndDate": "2023-05-18 08:38:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18023",
+        "InterviewEndDate": "2023-05-18 08:48:47",
+        "InterviewState": "Complete",
+        "Flight": "Lh2272",
+        "Dest": "NCE",
+        "AirlineCode": "Lh2272"
+    },
+    {
+        "InterviewId": "18024",
+        "InterviewEndDate": "2023-05-18 08:51:29",
+        "InterviewState": "Complete",
+        "Flight": "Lh2272",
+        "Dest": "NCE",
+        "AirlineCode": "Lh2272"
+    },
+    {
+        "InterviewId": "18025",
+        "InterviewEndDate": "2023-05-18 08:50:02",
+        "InterviewState": "Complete",
+        "Flight": "Lh2272",
+        "Dest": "NCE",
+        "AirlineCode": "Lh2272"
+    },
+    {
+        "InterviewId": "18026",
+        "InterviewEndDate": "2023-05-18 08:52:32",
+        "InterviewState": "Complete",
+        "Flight": "Lh2272",
+        "Dest": "NCE",
+        "AirlineCode": "Lh2272"
+    },
+    {
+        "InterviewId": "18027",
+        "InterviewEndDate": "2023-05-18 09:10:00",
+        "InterviewState": "Complete",
+        "Flight": "Lh1726",
+        "Dest": "ZAG",
+        "AirlineCode": "Lh1726"
+    },
+    {
+        "InterviewId": "18028",
+        "InterviewEndDate": "2023-05-18 09:14:36",
+        "InterviewState": "Complete",
+        "Flight": "Lh1726",
+        "Dest": "ZAG",
+        "AirlineCode": "Lh1726"
+    },
+    {
+        "InterviewId": "18029",
+        "InterviewEndDate": "2023-05-18 09:14:30",
+        "InterviewState": "Complete",
+        "Flight": "Lh1726",
+        "Dest": "ZAG",
+        "AirlineCode": "Lh1726"
+    },
+    {
+        "InterviewId": "18030",
+        "InterviewEndDate": "2023-05-18 09:15:30",
+        "InterviewState": "Complete",
+        "Flight": "Lh1726",
+        "Dest": "ZAG",
+        "AirlineCode": "Lh1726"
     }
 ]    
 
