@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "18-05-2023 21:37:33"
+        "download_time": "18-05-2023 22:37:35"
     },
     {
         "InterviewId": "4226",
@@ -5588,6 +5588,42 @@ let interview_data_arr_raw = `[
         "Dest": "SJJ",
         "AirlineCode": "5W",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4873",
+        "InterviewEndDate": "2023-05-18 17:40:06",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "SJJ",
+        "AirlineCode": "5W",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4874",
+        "InterviewEndDate": "2023-05-18 17:44:03",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "SJJ",
+        "AirlineCode": "5W",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4875",
+        "InterviewEndDate": "2023-05-18 17:55:09",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "SJJ",
+        "AirlineCode": "5W",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4876",
+        "InterviewEndDate": "2023-05-18 18:12:05",
+        "InterviewState": "Complete",
+        "Flight": "UL - Srilankan Airlines",
+        "Dest": "CMB",
+        "AirlineCode": "UL",
+        "Terminal": "T1"
     }
 ]    
 
