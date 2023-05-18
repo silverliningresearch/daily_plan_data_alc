@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "18-05-2023 13:35:06"
+        "download_time": "18-05-2023 14:35:07"
     },
     {
         "InterviewId": "15848",
@@ -14775,6 +14775,70 @@ let interview_data_raw = `[
         "Flight": "Lh1624",
         "Dest": "KRK",
         "AirlineCode": "Lh1624"
+    },
+    {
+        "InterviewId": "18042",
+        "InterviewEndDate": "2023-05-18 12:01:19",
+        "InterviewState": "Complete",
+        "Flight": "Lh2288",
+        "Dest": "BRU",
+        "AirlineCode": "Lh2288"
+    },
+    {
+        "InterviewId": "18044",
+        "InterviewEndDate": "2023-05-18 11:54:29",
+        "InterviewState": "Complete",
+        "Flight": "Lh2288",
+        "Dest": "BRU",
+        "AirlineCode": "Lh2288"
+    },
+    {
+        "InterviewId": "18045",
+        "InterviewEndDate": "2023-05-18 12:02:41",
+        "InterviewState": "Complete",
+        "Flight": "Lh2288",
+        "Dest": "BRU",
+        "AirlineCode": "Lh2288"
+    },
+    {
+        "InterviewId": "18046",
+        "InterviewEndDate": "2023-05-18 12:07:16",
+        "InterviewState": "Complete",
+        "Flight": "Lh2288",
+        "Dest": "BRU",
+        "AirlineCode": "Lh2288"
+    },
+    {
+        "InterviewId": "18048",
+        "InterviewEndDate": "2023-05-18 12:25:28",
+        "InterviewState": "Complete",
+        "Flight": "Lh1878",
+        "Dest": "NAP",
+        "AirlineCode": "Lh1878"
+    },
+    {
+        "InterviewId": "18049",
+        "InterviewEndDate": "2023-05-18 12:30:19",
+        "InterviewState": "Complete",
+        "Flight": "Lh1878",
+        "Dest": "NAP",
+        "AirlineCode": "Lh1878"
+    },
+    {
+        "InterviewId": "18051",
+        "InterviewEndDate": "2023-05-18 12:23:15",
+        "InterviewState": "Complete",
+        "Flight": "Lh1878",
+        "Dest": "NAP",
+        "AirlineCode": "Lh1878"
+    },
+    {
+        "InterviewId": "18052",
+        "InterviewEndDate": "2023-05-18 12:22:41",
+        "InterviewState": "Complete",
+        "Flight": "Lh1878",
+        "Dest": "NAP",
+        "AirlineCode": "Lh1878"
     }
 ]    
 
