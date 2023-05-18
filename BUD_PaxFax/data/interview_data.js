@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "18-05-2023 11:37:19"
+        "download_time": "18-05-2023 12:37:17"
     },
     {
         "InterviewId": "7701",
@@ -3886,6 +3886,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR  839",
         "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8236",
+        "InterviewEndDate": "2023-05-18 09:42:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8237",
+        "InterviewEndDate": "2023-05-18 09:44:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8238",
+        "InterviewEndDate": "2023-05-18 09:43:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8239",
+        "InterviewEndDate": "2023-05-18 09:45:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8240",
+        "InterviewEndDate": "2023-05-18 09:49:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 4271",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8241",
+        "InterviewEndDate": "2023-05-18 10:10:18",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8242",
+        "InterviewEndDate": "2023-05-18 10:13:31",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8243",
+        "InterviewEndDate": "2023-05-18 10:13:46",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8244",
+        "InterviewEndDate": "2023-05-18 10:09:07",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
         "AirlineCode": "FR"
     }
 ]    
