@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "18-05-2023 09:35:04"
+        "download_time": "18-05-2023 10:35:06"
     },
     {
         "InterviewId": "15848",
@@ -14497,12 +14497,100 @@ let interview_data_raw = `[
         "AirlineCode": "Lo352"
     },
     {
+        "InterviewId": "18003",
+        "InterviewEndDate": "2023-05-18 07:35:27",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
         "InterviewId": "18005",
         "InterviewEndDate": "2023-05-18 07:32:28",
         "InterviewState": "Complete",
         "Flight": "A3  501",
         "Dest": "SKG",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "18006",
+        "InterviewEndDate": "2023-05-18 07:41:11",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "18007",
+        "InterviewEndDate": "2023-05-18 07:57:19",
+        "InterviewState": "Complete",
+        "Flight": "Lh2440",
+        "Dest": "CPH",
+        "AirlineCode": "Lh2440"
+    },
+    {
+        "InterviewId": "18008",
+        "InterviewEndDate": "2023-05-18 07:53:28",
+        "InterviewState": "Complete",
+        "Flight": "Lh2440",
+        "Dest": "CPH",
+        "AirlineCode": "Lh2440"
+    },
+    {
+        "InterviewId": "18009",
+        "InterviewEndDate": "2023-05-18 07:54:22",
+        "InterviewState": "Complete",
+        "Flight": "LH2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH2440"
+    },
+    {
+        "InterviewId": "18012",
+        "InterviewEndDate": "2023-05-18 07:59:46",
+        "InterviewState": "Complete",
+        "Flight": "Lh2440",
+        "Dest": "CPH",
+        "AirlineCode": "Lh2440"
+    },
+    {
+        "InterviewId": "18013",
+        "InterviewEndDate": "2023-05-18 08:12:38",
+        "InterviewState": "Complete",
+        "Flight": "Lh1812",
+        "Dest": "BCN",
+        "AirlineCode": "Lh1812"
+    },
+    {
+        "InterviewId": "18014",
+        "InterviewEndDate": "2023-05-18 08:16:22",
+        "InterviewState": "Complete",
+        "Flight": "Lh1812",
+        "Dest": "BCN",
+        "AirlineCode": "Lh1812"
+    },
+    {
+        "InterviewId": "18015",
+        "InterviewEndDate": "2023-05-18 08:19:51",
+        "InterviewState": "Complete",
+        "Flight": "Lh1812",
+        "Dest": "BCN",
+        "AirlineCode": "Lh1812"
+    },
+    {
+        "InterviewId": "18016",
+        "InterviewEndDate": "2023-05-18 08:19:36",
+        "InterviewState": "Complete",
+        "Flight": "Lh1812",
+        "Dest": "BCN",
+        "AirlineCode": "Lh1812"
+    },
+    {
+        "InterviewId": "18017",
+        "InterviewEndDate": "2023-05-18 08:18:17",
+        "InterviewState": "Complete",
+        "Flight": "Lh1812",
+        "Dest": "BCN",
+        "AirlineCode": "Lh1812"
     }
 ]    
 
