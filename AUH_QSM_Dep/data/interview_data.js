@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "18-05-2023 18:37:32"
+        "download_time": "18-05-2023 19:37:42"
     },
     {
         "InterviewId": "7333",
@@ -10978,6 +10978,60 @@ let interview_data_raw = `[
         "Flight": "3L121",
         "Dest": "CCJ",
         "AirlineCode": "3L121",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8640",
+        "InterviewEndDate": "2023-05-18 14:42:23",
+        "InterviewState": "Complete",
+        "Flight": "W64432",
+        "Dest": "SOF",
+        "AirlineCode": "W64432",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8641",
+        "InterviewEndDate": "2023-05-18 14:39:51",
+        "InterviewState": "Complete",
+        "Flight": "W64432",
+        "Dest": "SOF",
+        "AirlineCode": "W64432",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8642",
+        "InterviewEndDate": "2023-05-18 14:55:15",
+        "InterviewState": "Complete",
+        "Flight": "ME419",
+        "Dest": "BEY",
+        "AirlineCode": "ME419",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8643",
+        "InterviewEndDate": "2023-05-18 14:55:40",
+        "InterviewState": "Complete",
+        "Flight": "ME419",
+        "Dest": "BEY",
+        "AirlineCode": "ME419",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8644",
+        "InterviewEndDate": "2023-05-18 15:06:17",
+        "InterviewState": "Complete",
+        "Flight": "W62358",
+        "Dest": "BUD",
+        "AirlineCode": "W62358",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8645",
+        "InterviewEndDate": "2023-05-18 15:34:46",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
         "Terminal": "T1"
     }
 ]    
