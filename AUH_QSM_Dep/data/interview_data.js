@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "19-05-2023 14:37:40"
+        "download_time": "19-05-2023 15:37:39"
     },
     {
         "InterviewId": "7333",
@@ -11204,6 +11204,42 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "EY653",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8666",
+        "InterviewEndDate": "2023-05-19 10:47:08",
+        "InterviewState": "Complete",
+        "Flight": "5W7087",
+        "Dest": "NQZ",
+        "AirlineCode": "5W7087",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8667",
+        "InterviewEndDate": "2023-05-19 11:02:28",
+        "InterviewState": "Complete",
+        "Flight": "5W7087",
+        "Dest": "NQZ",
+        "AirlineCode": "5W7087",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8668",
+        "InterviewEndDate": "2023-05-19 11:10:12",
+        "InterviewState": "Complete",
+        "Flight": "MS915",
+        "Dest": "CAI",
+        "AirlineCode": "MS915",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "8669",
+        "InterviewEndDate": "2023-05-19 11:20:52",
+        "InterviewState": "Complete",
+        "Flight": "5W7033",
+        "Dest": "DMM",
+        "AirlineCode": "5W7033",
+        "Terminal": "T1"
     }
 ]    
 

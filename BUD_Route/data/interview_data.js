@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-05-2023 12:37:11"
+        "download_time": "19-05-2023 13:37:11"
     },
     {
         "InterviewId": "67210",
@@ -40319,6 +40319,182 @@ let interview_data_raw = `[
         "Flight": "PC  332",
         "Dest": "SAW",
         "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72424",
+        "InterviewEndDate": "2023-05-19 10:39:42",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72425",
+        "InterviewEndDate": "2023-05-19 10:45:41",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72426",
+        "InterviewEndDate": "2023-05-19 10:38:26",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72427",
+        "InterviewEndDate": "2023-05-19 10:45:19",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72428",
+        "InterviewEndDate": "2023-05-19 10:44:26",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72429",
+        "InterviewEndDate": "2023-05-19 10:43:10",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72430",
+        "InterviewEndDate": "2023-05-19 10:44:37",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72431",
+        "InterviewEndDate": "2023-05-19 10:51:36",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72432",
+        "InterviewEndDate": "2023-05-19 10:53:26",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72433",
+        "InterviewEndDate": "2023-05-19 10:57:43",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72434",
+        "InterviewEndDate": "2023-05-19 10:51:33",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72435",
+        "InterviewEndDate": "2023-05-19 10:56:52",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72436",
+        "InterviewEndDate": "2023-05-19 10:56:11",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72437",
+        "InterviewEndDate": "2023-05-19 11:02:33",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72438",
+        "InterviewEndDate": "2023-05-19 10:59:27",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72439",
+        "InterviewEndDate": "2023-05-19 11:00:35",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72440",
+        "InterviewEndDate": "2023-05-19 10:59:19",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72441",
+        "InterviewEndDate": "2023-05-19 11:04:25",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72442",
+        "InterviewEndDate": "2023-05-19 11:07:57",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "72443",
+        "InterviewEndDate": "2023-05-19 11:32:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 5097",
+        "Dest": "AMM",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72444",
+        "InterviewEndDate": "2023-05-19 11:35:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 5097",
+        "Dest": "AMM",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72447",
+        "InterviewEndDate": "2023-05-19 11:31:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5097",
+        "Dest": "AMM",
+        "AirlineCode": "FR"
     }
 ]    
 
