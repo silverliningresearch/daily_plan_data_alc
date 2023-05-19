@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-05-2023 16:37:07"
+        "download_time": "19-05-2023 17:37:05"
     },
     {
         "InterviewId": "67210",
@@ -40859,6 +40859,134 @@ let interview_data_raw = `[
     {
         "InterviewId": "72493",
         "InterviewEndDate": "2023-05-19 14:34:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72494",
+        "InterviewEndDate": "2023-05-19 14:39:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 8393",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72495",
+        "InterviewEndDate": "2023-05-19 14:39:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72496",
+        "InterviewEndDate": "2023-05-19 14:39:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72497",
+        "InterviewEndDate": "2023-05-19 14:39:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72498",
+        "InterviewEndDate": "2023-05-19 14:40:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72499",
+        "InterviewEndDate": "2023-05-19 14:44:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72500",
+        "InterviewEndDate": "2023-05-19 14:44:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72501",
+        "InterviewEndDate": "2023-05-19 14:44:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72502",
+        "InterviewEndDate": "2023-05-19 14:44:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72503",
+        "InterviewEndDate": "2023-05-19 14:46:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72504",
+        "InterviewEndDate": "2023-05-19 14:49:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72505",
+        "InterviewEndDate": "2023-05-19 14:49:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72506",
+        "InterviewEndDate": "2023-05-19 14:52:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72507",
+        "InterviewEndDate": "2023-05-19 14:52:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72508",
+        "InterviewEndDate": "2023-05-19 14:52:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72509",
+        "InterviewEndDate": "2023-05-19 14:54:10",
         "InterviewState": "Complete",
         "Flight": "W6 2377",
         "Dest": "BCN",
