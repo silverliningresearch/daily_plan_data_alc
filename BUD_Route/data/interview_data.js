@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-05-2023 17:37:05"
+        "download_time": "19-05-2023 18:37:06"
     },
     {
         "InterviewId": "67210",
@@ -40991,6 +40991,246 @@ let interview_data_raw = `[
         "Flight": "W6 2377",
         "Dest": "BCN",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72510",
+        "InterviewEndDate": "2023-05-19 16:05:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72511",
+        "InterviewEndDate": "2023-05-19 16:02:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72512",
+        "InterviewEndDate": "2023-05-19 16:04:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72513",
+        "InterviewEndDate": "2023-05-19 15:58:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72514",
+        "InterviewEndDate": "2023-05-19 16:00:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72515",
+        "InterviewEndDate": "2023-05-19 16:01:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72516",
+        "InterviewEndDate": "2023-05-19 16:05:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72517",
+        "InterviewEndDate": "2023-05-19 16:09:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72518",
+        "InterviewEndDate": "2023-05-19 16:10:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72519",
+        "InterviewEndDate": "2023-05-19 16:09:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72520",
+        "InterviewEndDate": "2023-05-19 16:10:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72521",
+        "InterviewEndDate": "2023-05-19 16:16:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72522",
+        "InterviewEndDate": "2023-05-19 16:16:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72523",
+        "InterviewEndDate": "2023-05-19 16:18:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72524",
+        "InterviewEndDate": "2023-05-19 16:17:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72525",
+        "InterviewEndDate": "2023-05-19 16:17:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72526",
+        "InterviewEndDate": "2023-05-19 16:21:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72527",
+        "InterviewEndDate": "2023-05-19 16:22:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72528",
+        "InterviewEndDate": "2023-05-19 16:22:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72529",
+        "InterviewEndDate": "2023-05-19 16:25:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72530",
+        "InterviewEndDate": "2023-05-19 16:25:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72531",
+        "InterviewEndDate": "2023-05-19 16:26:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72532",
+        "InterviewEndDate": "2023-05-19 16:28:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72533",
+        "InterviewEndDate": "2023-05-19 16:27:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72534",
+        "InterviewEndDate": "2023-05-19 16:29:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72535",
+        "InterviewEndDate": "2023-05-19 16:29:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72536",
+        "InterviewEndDate": "2023-05-19 16:30:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72537",
+        "InterviewEndDate": "2023-05-19 16:32:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72538",
+        "InterviewEndDate": "2023-05-19 16:33:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72539",
+        "InterviewEndDate": "2023-05-19 16:33:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
     }
 ]    
 
