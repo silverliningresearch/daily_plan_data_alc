@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "19-05-2023 07:35:04"
+        "download_time": "19-05-2023 08:35:05"
     },
     {
         "InterviewId": "15848",
@@ -14887,6 +14887,86 @@ let interview_data_raw = `[
         "Flight": "Lh2134",
         "Dest": "FMO",
         "AirlineCode": "Lh2134"
+    },
+    {
+        "InterviewId": "18059",
+        "InterviewEndDate": "2023-05-19 05:46:48",
+        "InterviewState": "Complete",
+        "Flight": "Lh2316",
+        "Dest": "LUX",
+        "AirlineCode": "Lh2316"
+    },
+    {
+        "InterviewId": "18060",
+        "InterviewEndDate": "2023-05-19 05:50:22",
+        "InterviewState": "Complete",
+        "Flight": "Lh2316",
+        "Dest": "LUX",
+        "AirlineCode": "Lh2316"
+    },
+    {
+        "InterviewId": "18062",
+        "InterviewEndDate": "2023-05-19 05:50:41",
+        "InterviewState": "Complete",
+        "Flight": "Lh2316",
+        "Dest": "LUX",
+        "AirlineCode": "Lh2316"
+    },
+    {
+        "InterviewId": "18063",
+        "InterviewEndDate": "2023-05-19 05:53:31",
+        "InterviewState": "Complete",
+        "Flight": "Lh2316",
+        "Dest": "LUX",
+        "AirlineCode": "Lh2316"
+    },
+    {
+        "InterviewId": "18064",
+        "InterviewEndDate": "2023-05-19 06:01:41",
+        "InterviewState": "Complete",
+        "Flight": "Lh2316",
+        "Dest": "LUX",
+        "AirlineCode": "Lh2316"
+    },
+    {
+        "InterviewId": "18065",
+        "InterviewEndDate": "2023-05-19 06:18:56",
+        "InterviewState": "Complete",
+        "Flight": "OU4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU4439"
+    },
+    {
+        "InterviewId": "18066",
+        "InterviewEndDate": "2023-05-19 06:19:42",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "18067",
+        "InterviewEndDate": "2023-05-19 06:27:08",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "18068",
+        "InterviewEndDate": "2023-05-19 06:20:40",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "18070",
+        "InterviewEndDate": "2023-05-19 06:32:41",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
     }
 ]    
 
