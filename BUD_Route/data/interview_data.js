@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-05-2023 19:37:01"
+        "download_time": "19-05-2023 20:37:02"
     },
     {
         "InterviewId": "67210",
@@ -41297,6 +41297,14 @@ let interview_data_raw = `[
         "AirlineCode": "LS"
     },
     {
+        "InterviewId": "72548",
+        "InterviewEndDate": "2023-05-19 17:36:57",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
         "InterviewId": "72549",
         "InterviewEndDate": "2023-05-19 17:33:34",
         "InterviewState": "Complete",
@@ -41315,6 +41323,54 @@ let interview_data_raw = `[
     {
         "InterviewId": "72551",
         "InterviewEndDate": "2023-05-19 17:34:25",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "72552",
+        "InterviewEndDate": "2023-05-19 17:36:56",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "72553",
+        "InterviewEndDate": "2023-05-19 17:37:36",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "72554",
+        "InterviewEndDate": "2023-05-19 17:39:08",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "72555",
+        "InterviewEndDate": "2023-05-19 17:39:07",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "72556",
+        "InterviewEndDate": "2023-05-19 17:40:59",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "72557",
+        "InterviewEndDate": "2023-05-19 17:40:59",
         "InterviewState": "Complete",
         "Flight": "LS  432",
         "Dest": "LBA",
