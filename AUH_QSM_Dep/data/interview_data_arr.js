@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "19-05-2023 12:37:49"
+        "download_time": "19-05-2023 13:37:50"
     },
     {
         "InterviewId": "4226",
@@ -5632,6 +5632,60 @@ let interview_data_arr_raw = `[
         "Flight": "TK - Turkish Airlines",
         "Dest": "IST",
         "AirlineCode": "TK",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4879",
+        "InterviewEndDate": "2023-05-19 08:42:43",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "SLL",
+        "AirlineCode": "3L",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "4880",
+        "InterviewEndDate": "2023-05-19 08:46:23",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "AQJ",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "4881",
+        "InterviewEndDate": "2023-05-19 08:52:36",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "AMM",
+        "AirlineCode": "5W",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4882",
+        "InterviewEndDate": "2023-05-19 08:58:52",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "AMM",
+        "AirlineCode": "5W",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4883",
+        "InterviewEndDate": "2023-05-19 09:26:30",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "4885",
+        "InterviewEndDate": "2023-05-19 09:36:10",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DMM",
+        "AirlineCode": "EY",
         "Terminal": "T3"
     }
 ]    

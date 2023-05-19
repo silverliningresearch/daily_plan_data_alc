@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "19-05-2023 10:35:07"
+        "download_time": "19-05-2023 11:35:07"
     },
     {
         "InterviewId": "15848",
@@ -15023,6 +15023,78 @@ let interview_data_raw = `[
         "Flight": "Lh2058",
         "Dest": "HAM",
         "AirlineCode": "Lh2058"
+    },
+    {
+        "InterviewId": "18080",
+        "InterviewEndDate": "2023-05-19 08:39:44",
+        "InterviewState": "Complete",
+        "Flight": "Lh2058",
+        "Dest": "HAM",
+        "AirlineCode": "Lh2058"
+    },
+    {
+        "InterviewId": "18081",
+        "InterviewEndDate": "2023-05-19 08:44:50",
+        "InterviewState": "Complete",
+        "Flight": "Lh2058",
+        "Dest": "HAM",
+        "AirlineCode": "Lh2058"
+    },
+    {
+        "InterviewId": "18082",
+        "InterviewEndDate": "2023-05-19 08:38:36",
+        "InterviewState": "Complete",
+        "Flight": "Lh2058",
+        "Dest": "HAM",
+        "AirlineCode": "Lh2058"
+    },
+    {
+        "InterviewId": "18083",
+        "InterviewEndDate": "2023-05-19 09:09:09",
+        "InterviewState": "Complete",
+        "Flight": "Lh2384",
+        "Dest": "GVA",
+        "AirlineCode": "Lh2384"
+    },
+    {
+        "InterviewId": "18084",
+        "InterviewEndDate": "2023-05-19 09:06:05",
+        "InterviewState": "Complete",
+        "Flight": "Lh2384",
+        "Dest": "GVA",
+        "AirlineCode": "Lh2384"
+    },
+    {
+        "InterviewId": "18085",
+        "InterviewEndDate": "2023-05-19 09:12:17",
+        "InterviewState": "Complete",
+        "Flight": "Lh2384",
+        "Dest": "GVA",
+        "AirlineCode": "Lh2384"
+    },
+    {
+        "InterviewId": "18086",
+        "InterviewEndDate": "2023-05-19 09:12:30",
+        "InterviewState": "Complete",
+        "Flight": "Lh2384",
+        "Dest": "GVA",
+        "AirlineCode": "Lh2384"
+    },
+    {
+        "InterviewId": "18087",
+        "InterviewEndDate": "2023-05-19 09:09:53",
+        "InterviewState": "Complete",
+        "Flight": "Lh2384",
+        "Dest": "GVA",
+        "AirlineCode": "Lh2384"
+    },
+    {
+        "InterviewId": "18090",
+        "InterviewEndDate": "2023-05-19 09:34:18",
+        "InterviewState": "Complete",
+        "Flight": "Lh105",
+        "Dest": "FRA",
+        "AirlineCode": "Lh105"
     }
 ]    
 
