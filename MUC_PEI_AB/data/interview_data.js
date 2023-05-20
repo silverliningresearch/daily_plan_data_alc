@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-05-2023 07:35:02"
+        "download_time": "20-05-2023 08:35:03"
     },
     {
         "InterviewId": "15848",
@@ -15207,6 +15207,78 @@ let interview_data_raw = `[
         "Flight": "Lh2516",
         "Dest": "DUB",
         "AirlineCode": "Lh2516"
+    },
+    {
+        "InterviewId": "18107",
+        "InterviewEndDate": "2023-05-20 05:57:53",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "18108",
+        "InterviewEndDate": "2023-05-20 05:59:51",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "18109",
+        "InterviewEndDate": "2023-05-20 05:59:44",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "18110",
+        "InterviewEndDate": "2023-05-20 06:07:43",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "18111",
+        "InterviewEndDate": "2023-05-20 05:40:42",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "DUB",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "18112",
+        "InterviewEndDate": "2023-05-20 05:58:13",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "18113",
+        "InterviewEndDate": "2023-05-20 06:18:31",
+        "InterviewState": "Complete",
+        "Flight": "Ua031",
+        "Dest": "EWR",
+        "AirlineCode": "Ua031"
+    },
+    {
+        "InterviewId": "18114",
+        "InterviewEndDate": "2023-05-20 06:16:51",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "18115",
+        "InterviewEndDate": "2023-05-20 06:20:13",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
     }
 ]    
 
