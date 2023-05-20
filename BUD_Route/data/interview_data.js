@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "20-05-2023 15:37:05"
+        "download_time": "20-05-2023 16:37:01"
     },
     {
         "InterviewId": "67210",
@@ -42241,12 +42241,212 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
+        "InterviewId": "72669",
+        "InterviewEndDate": "2023-05-20 13:44:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "72670",
         "InterviewEndDate": "2023-05-20 13:03:04",
         "InterviewState": "Complete",
         "Flight": "LO 2001",
         "Dest": "ICN",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "72671",
+        "InterviewEndDate": "2023-05-20 13:41:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72672",
+        "InterviewEndDate": "2023-05-20 13:44:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72673",
+        "InterviewEndDate": "2023-05-20 13:54:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72674",
+        "InterviewEndDate": "2023-05-20 13:45:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72675",
+        "InterviewEndDate": "2023-05-20 13:47:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72676",
+        "InterviewEndDate": "2023-05-20 13:49:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72677",
+        "InterviewEndDate": "2023-05-20 13:50:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72678",
+        "InterviewEndDate": "2023-05-20 13:50:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72679",
+        "InterviewEndDate": "2023-05-20 13:56:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 3718",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72680",
+        "InterviewEndDate": "2023-05-20 13:52:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72681",
+        "InterviewEndDate": "2023-05-20 13:54:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72682",
+        "InterviewEndDate": "2023-05-20 13:55:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72683",
+        "InterviewEndDate": "2023-05-20 13:56:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72684",
+        "InterviewEndDate": "2023-05-20 13:58:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72685",
+        "InterviewEndDate": "2023-05-20 14:01:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72686",
+        "InterviewEndDate": "2023-05-20 14:03:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72687",
+        "InterviewEndDate": "2023-05-20 14:01:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72688",
+        "InterviewEndDate": "2023-05-20 14:06:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72689",
+        "InterviewEndDate": "2023-05-20 14:04:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72690",
+        "InterviewEndDate": "2023-05-20 14:10:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72691",
+        "InterviewEndDate": "2023-05-20 14:08:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72692",
+        "InterviewEndDate": "2023-05-20 14:08:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72693",
+        "InterviewEndDate": "2023-05-20 14:09:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "72694",
+        "InterviewEndDate": "2023-05-20 14:10:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
     }
 ]    
 
