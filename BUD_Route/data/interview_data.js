@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-05-2023 18:37:21"
+        "download_time": "22-05-2023 19:37:10"
     },
     {
         "InterviewId": "67210",
@@ -43331,6 +43331,62 @@ let interview_data_raw = `[
     {
         "InterviewId": "72807",
         "InterviewEndDate": "2023-05-22 16:35:48",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "72808",
+        "InterviewEndDate": "2023-05-22 16:37:24",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "72809",
+        "InterviewEndDate": "2023-05-22 16:37:49",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "72810",
+        "InterviewEndDate": "2023-05-22 16:39:31",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "72811",
+        "InterviewEndDate": "2023-05-22 16:39:48",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "72812",
+        "InterviewEndDate": "2023-05-22 16:42:05",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "72813",
+        "InterviewEndDate": "2023-05-22 16:43:16",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "72814",
+        "InterviewEndDate": "2023-05-22 16:43:37",
         "InterviewState": "Complete",
         "Flight": "AF 1495",
         "Dest": "CDG",
