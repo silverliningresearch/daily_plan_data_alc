@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-05-2023 20:35:14"
+        "download_time": "22-05-2023 21:35:16"
     },
     {
         "InterviewId": "5174",
@@ -3359,6 +3359,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "IAD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5706",
+        "InterviewEndDate": "2023-05-22 18:56:10",
+        "InterviewState": "Complete",
+        "Flight": "Ek",
+        "Dest": "DXB",
+        "AirlineCode": "Ek"
+    },
+    {
+        "InterviewId": "5707",
+        "InterviewEndDate": "2023-05-22 18:58:12",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "5708",
+        "InterviewEndDate": "2023-05-22 19:00:55",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "5709",
+        "InterviewEndDate": "2023-05-22 19:06:39",
+        "InterviewState": "Complete",
+        "Flight": "EI - Aer Lingus",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "5710",
+        "InterviewEndDate": "2023-05-22 19:12:00",
+        "InterviewState": "Complete",
+        "Flight": "EI - Aer Lingus",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "5711",
+        "InterviewEndDate": "2023-05-22 19:18:00",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "5712",
+        "InterviewEndDate": "2023-05-22 19:25:55",
+        "InterviewState": "Complete",
+        "Flight": "EI - Aer Lingus",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
