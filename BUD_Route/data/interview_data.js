@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "23-05-2023 12:37:26"
+        "download_time": "23-05-2023 13:37:31"
     },
     {
         "InterviewId": "67210",
@@ -44366,6 +44366,262 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2205",
         "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72944",
+        "InterviewEndDate": "2023-05-23 10:51:48",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72945",
+        "InterviewEndDate": "2023-05-23 10:51:11",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72946",
+        "InterviewEndDate": "2023-05-23 10:48:48",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72947",
+        "InterviewEndDate": "2023-05-23 10:48:48",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72948",
+        "InterviewEndDate": "2023-05-23 10:48:52",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72949",
+        "InterviewEndDate": "2023-05-23 11:02:25",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72950",
+        "InterviewEndDate": "2023-05-23 11:13:17",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72951",
+        "InterviewEndDate": "2023-05-23 11:22:31",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72952",
+        "InterviewEndDate": "2023-05-23 11:13:07",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72953",
+        "InterviewEndDate": "2023-05-23 11:11:51",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72954",
+        "InterviewEndDate": "2023-05-23 11:13:11",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72955",
+        "InterviewEndDate": "2023-05-23 11:15:05",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72956",
+        "InterviewEndDate": "2023-05-23 11:24:30",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72957",
+        "InterviewEndDate": "2023-05-23 11:28:20",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72958",
+        "InterviewEndDate": "2023-05-23 11:24:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72959",
+        "InterviewEndDate": "2023-05-23 11:23:29",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72960",
+        "InterviewEndDate": "2023-05-23 11:22:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72961",
+        "InterviewEndDate": "2023-05-23 11:24:22",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72962",
+        "InterviewEndDate": "2023-05-23 11:24:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72963",
+        "InterviewEndDate": "2023-05-23 11:23:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72964",
+        "InterviewEndDate": "2023-05-23 11:21:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72965",
+        "InterviewEndDate": "2023-05-23 11:27:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72966",
+        "InterviewEndDate": "2023-05-23 11:26:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72967",
+        "InterviewEndDate": "2023-05-23 11:28:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72968",
+        "InterviewEndDate": "2023-05-23 11:30:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72970",
+        "InterviewEndDate": "2023-05-23 11:30:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72972",
+        "InterviewEndDate": "2023-05-23 11:35:42",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72974",
+        "InterviewEndDate": "2023-05-23 11:35:27",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "72975",
+        "InterviewEndDate": "2023-05-23 11:32:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72977",
+        "InterviewEndDate": "2023-05-23 11:33:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72978",
+        "InterviewEndDate": "2023-05-23 11:34:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "72980",
+        "InterviewEndDate": "2023-05-23 11:36:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
         "AirlineCode": "W6"
     }
 ]    
