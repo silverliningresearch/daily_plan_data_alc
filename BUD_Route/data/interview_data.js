@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "23-05-2023 17:37:22"
+        "download_time": "23-05-2023 18:37:22"
     },
     {
         "InterviewId": "67210",
@@ -45431,6 +45431,70 @@ let interview_data_raw = `[
         "Flight": "FR 2794",
         "Dest": "CPH",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73078",
+        "InterviewEndDate": "2023-05-23 15:37:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73079",
+        "InterviewEndDate": "2023-05-23 15:40:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73080",
+        "InterviewEndDate": "2023-05-23 15:42:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73081",
+        "InterviewEndDate": "2023-05-23 15:52:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73082",
+        "InterviewEndDate": "2023-05-23 15:50:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73083",
+        "InterviewEndDate": "2023-05-23 15:58:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73084",
+        "InterviewEndDate": "2023-05-23 15:56:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73085",
+        "InterviewEndDate": "2023-05-23 15:53:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
     }
 ]    
 
