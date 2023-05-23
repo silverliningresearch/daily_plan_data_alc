@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "23-05-2023 16:37:30"
+        "download_time": "23-05-2023 17:37:22"
     },
     {
         "InterviewId": "67210",
@@ -45246,6 +45246,190 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 2273",
         "Dest": "AGP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73055",
+        "InterviewEndDate": "2023-05-23 14:43:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73056",
+        "InterviewEndDate": "2023-05-23 14:45:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73057",
+        "InterviewEndDate": "2023-05-23 14:47:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73058",
+        "InterviewEndDate": "2023-05-23 14:48:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73059",
+        "InterviewEndDate": "2023-05-23 14:50:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73060",
+        "InterviewEndDate": "2023-05-23 14:50:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73061",
+        "InterviewEndDate": "2023-05-23 14:51:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73062",
+        "InterviewEndDate": "2023-05-23 14:52:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73063",
+        "InterviewEndDate": "2023-05-23 14:53:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73064",
+        "InterviewEndDate": "2023-05-23 14:55:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73065",
+        "InterviewEndDate": "2023-05-23 14:56:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73066",
+        "InterviewEndDate": "2023-05-23 14:57:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73067",
+        "InterviewEndDate": "2023-05-23 14:58:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73068",
+        "InterviewEndDate": "2023-05-23 14:58:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73069",
+        "InterviewEndDate": "2023-05-23 14:58:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73070",
+        "InterviewEndDate": "2023-05-23 15:00:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73071",
+        "InterviewEndDate": "2023-05-23 15:03:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73072",
+        "InterviewEndDate": "2023-05-23 15:04:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73073",
+        "InterviewEndDate": "2023-05-23 15:04:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73074",
+        "InterviewEndDate": "2023-05-23 15:04:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73075",
+        "InterviewEndDate": "2023-05-23 15:06:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73076",
+        "InterviewEndDate": "2023-05-23 15:07:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73077",
+        "InterviewEndDate": "2023-05-23 15:07:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 2794",
+        "Dest": "CPH",
         "AirlineCode": "FR"
     }
 ]    
