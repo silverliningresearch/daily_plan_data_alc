@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "23-05-2023 11:37:39"
+        "download_time": "23-05-2023 12:37:36"
     },
     {
         "InterviewId": "7701",
@@ -4327,6 +4327,70 @@ let interview_data_raw = `[
         "Flight": "AF 1295",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8304",
+        "InterviewEndDate": "2023-05-23 09:45:44",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8305",
+        "InterviewEndDate": "2023-05-23 09:45:51",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8306",
+        "InterviewEndDate": "2023-05-23 09:45:10",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8307",
+        "InterviewEndDate": "2023-05-23 09:43:46",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8308",
+        "InterviewEndDate": "2023-05-23 09:45:46",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8310",
+        "InterviewEndDate": "2023-05-23 10:15:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2397",
+        "Dest": "FNC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8311",
+        "InterviewEndDate": "2023-05-23 10:25:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2397",
+        "Dest": "FNC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8312",
+        "InterviewEndDate": "2023-05-23 10:19:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2397",
+        "Dest": "FNC",
+        "AirlineCode": "W6"
     }
 ]    
 
