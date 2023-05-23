@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-05-2023 07:35:50"
+        "download_time": "23-05-2023 08:35:57"
     },
     {
         "InterviewId": "6093",
@@ -15015,6 +15015,54 @@ let interview_data_raw = `[
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "9357",
+        "InterviewEndDate": "2023-05-23 06:10:09",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9358",
+        "InterviewEndDate": "2023-05-23 06:08:04",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9360",
+        "InterviewEndDate": "2023-05-23 05:58:35",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9361",
+        "InterviewEndDate": "2023-05-23 05:59:45",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9362",
+        "InterviewEndDate": "2023-05-23 06:03:08",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9363",
+        "InterviewEndDate": "2023-05-23 06:03:59",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
     }
 ]    
 
