@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "24-05-2023 08:37:22"
+        "download_time": "24-05-2023 09:37:24"
     },
     {
         "InterviewId": "67210",
@@ -45615,6 +45615,182 @@ let interview_data_raw = `[
         "Flight": "RO  232",
         "Dest": "OTP",
         "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73102",
+        "InterviewEndDate": "2023-05-24 06:37:52",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73103",
+        "InterviewEndDate": "2023-05-24 06:38:21",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73104",
+        "InterviewEndDate": "2023-05-24 06:39:16",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73105",
+        "InterviewEndDate": "2023-05-24 06:40:22",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73106",
+        "InterviewEndDate": "2023-05-24 06:41:18",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73107",
+        "InterviewEndDate": "2023-05-24 06:43:03",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73108",
+        "InterviewEndDate": "2023-05-24 06:42:58",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73109",
+        "InterviewEndDate": "2023-05-24 06:44:34",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73110",
+        "InterviewEndDate": "2023-05-24 06:45:33",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73111",
+        "InterviewEndDate": "2023-05-24 06:46:26",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73112",
+        "InterviewEndDate": "2023-05-24 06:58:02",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73113",
+        "InterviewEndDate": "2023-05-24 06:57:36",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73114",
+        "InterviewEndDate": "2023-05-24 06:59:08",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73115",
+        "InterviewEndDate": "2023-05-24 07:20:04",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73116",
+        "InterviewEndDate": "2023-05-24 07:21:57",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73117",
+        "InterviewEndDate": "2023-05-24 07:21:59",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73118",
+        "InterviewEndDate": "2023-05-24 07:24:14",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73119",
+        "InterviewEndDate": "2023-05-24 07:29:51",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73120",
+        "InterviewEndDate": "2023-05-24 07:31:56",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73121",
+        "InterviewEndDate": "2023-05-24 07:35:09",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73122",
+        "InterviewEndDate": "2023-05-24 07:35:09",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "73123",
+        "InterviewEndDate": "2023-05-24 07:35:28",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
     }
 ]    
 

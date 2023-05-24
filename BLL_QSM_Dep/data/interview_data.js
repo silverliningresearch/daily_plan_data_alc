@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "24-05-2023 08:35:53"
+        "download_time": "24-05-2023 09:35:56"
     },
     {
         "InterviewId": "6093",
@@ -15233,12 +15233,52 @@ let interview_data_raw = `[
         "AirlineCode": "FR2801"
     },
     {
+        "InterviewId": "9386",
+        "InterviewEndDate": "2023-05-24 06:41:41",
+        "InterviewState": "Complete",
+        "Flight": "GL765",
+        "Dest": "SFJ",
+        "AirlineCode": "GL765"
+    },
+    {
+        "InterviewId": "9387",
+        "InterviewEndDate": "2023-05-24 06:36:04",
+        "InterviewState": "Complete",
+        "Flight": "GL765",
+        "Dest": "SFJ",
+        "AirlineCode": "GL765"
+    },
+    {
         "InterviewId": "9388",
         "InterviewEndDate": "2023-05-24 06:32:39",
         "InterviewState": "Complete",
         "Flight": "GL765",
         "Dest": "SFJ",
         "AirlineCode": "GL765"
+    },
+    {
+        "InterviewId": "9391",
+        "InterviewEndDate": "2023-05-24 07:08:32",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9394",
+        "InterviewEndDate": "2023-05-24 07:05:31",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9397",
+        "InterviewEndDate": "2023-05-24 07:06:44",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
     }
 ]    
 
