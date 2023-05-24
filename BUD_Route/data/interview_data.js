@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "24-05-2023 11:37:31"
+        "download_time": "24-05-2023 12:37:28"
     },
     {
         "InterviewId": "67210",
@@ -46163,6 +46163,78 @@ let interview_data_raw = `[
     {
         "InterviewId": "73172",
         "InterviewEndDate": "2023-05-24 09:35:58",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73173",
+        "InterviewEndDate": "2023-05-24 09:41:42",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73174",
+        "InterviewEndDate": "2023-05-24 09:41:03",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73175",
+        "InterviewEndDate": "2023-05-24 09:39:41",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73176",
+        "InterviewEndDate": "2023-05-24 09:41:26",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73177",
+        "InterviewEndDate": "2023-05-24 09:45:03",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73178",
+        "InterviewEndDate": "2023-05-24 09:45:25",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73179",
+        "InterviewEndDate": "2023-05-24 09:49:34",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73180",
+        "InterviewEndDate": "2023-05-24 09:48:44",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "73181",
+        "InterviewEndDate": "2023-05-24 09:47:32",
         "InterviewState": "Complete",
         "Flight": "FM  870",
         "Dest": "PVG",
