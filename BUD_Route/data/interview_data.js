@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "25-05-2023 19:29:31"
+        "download_time": "25-05-2023 20:29:29"
     },
     {
         "InterviewId": "67210",
@@ -48559,6 +48559,174 @@ let interview_data_raw = `[
         "Flight": "A3  879",
         "Dest": "ATH",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "73485",
+        "InterviewEndDate": "2023-05-25 17:43:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73486",
+        "InterviewEndDate": "2023-05-25 17:39:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73487",
+        "InterviewEndDate": "2023-05-25 17:42:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73488",
+        "InterviewEndDate": "2023-05-25 17:42:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73489",
+        "InterviewEndDate": "2023-05-25 17:38:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73490",
+        "InterviewEndDate": "2023-05-25 17:46:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73491",
+        "InterviewEndDate": "2023-05-25 17:46:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73492",
+        "InterviewEndDate": "2023-05-25 17:46:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73493",
+        "InterviewEndDate": "2023-05-25 17:47:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73494",
+        "InterviewEndDate": "2023-05-25 17:48:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73495",
+        "InterviewEndDate": "2023-05-25 17:50:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73496",
+        "InterviewEndDate": "2023-05-25 17:50:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73497",
+        "InterviewEndDate": "2023-05-25 17:51:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73498",
+        "InterviewEndDate": "2023-05-25 17:53:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73499",
+        "InterviewEndDate": "2023-05-25 17:53:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73500",
+        "InterviewEndDate": "2023-05-25 17:56:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73501",
+        "InterviewEndDate": "2023-05-25 17:56:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73502",
+        "InterviewEndDate": "2023-05-25 17:56:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73503",
+        "InterviewEndDate": "2023-05-25 17:57:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73504",
+        "InterviewEndDate": "2023-05-25 17:57:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73505",
+        "InterviewEndDate": "2023-05-25 17:59:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
     }
 ]    
 
