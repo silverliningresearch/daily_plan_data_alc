@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-05-2023 10:28:07"
+        "download_time": "25-05-2023 11:28:06"
     },
     {
         "InterviewId": "6093",
@@ -15711,6 +15711,78 @@ let interview_data_raw = `[
         "Flight": "FR5134",
         "Dest": "DUB",
         "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "9495",
+        "InterviewEndDate": "2023-05-25 08:37:55",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9496",
+        "InterviewEndDate": "2023-05-25 08:44:10",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9497",
+        "InterviewEndDate": "2023-05-25 08:44:18",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9498",
+        "InterviewEndDate": "2023-05-25 08:44:56",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9499",
+        "InterviewEndDate": "2023-05-25 08:44:43",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9500",
+        "InterviewEndDate": "2023-05-25 08:43:31",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9501",
+        "InterviewEndDate": "2023-05-25 08:45:27",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9502",
+        "InterviewEndDate": "2023-05-25 09:06:41",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9505",
+        "InterviewEndDate": "2023-05-25 09:19:05",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
     }
 ]    
 

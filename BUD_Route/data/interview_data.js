@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "25-05-2023 10:29:42"
+        "download_time": "25-05-2023 11:29:39"
     },
     {
         "InterviewId": "67210",
@@ -47239,6 +47239,62 @@ let interview_data_raw = `[
         "Flight": "FR 1018",
         "Dest": "EDI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73316",
+        "InterviewEndDate": "2023-05-25 09:22:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73317",
+        "InterviewEndDate": "2023-05-25 09:24:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73318",
+        "InterviewEndDate": "2023-05-25 09:20:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73319",
+        "InterviewEndDate": "2023-05-25 09:23:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73320",
+        "InterviewEndDate": "2023-05-25 09:21:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73321",
+        "InterviewEndDate": "2023-05-25 09:26:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73323",
+        "InterviewEndDate": "2023-05-25 09:27:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
     }
 ]    
 
