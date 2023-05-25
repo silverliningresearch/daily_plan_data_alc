@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "25-05-2023 05:29:21"
+        "download_time": "25-05-2023 06:29:27"
     },
     {
         "InterviewId": "67210",
@@ -46686,6 +46686,214 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 9566",
         "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73240",
+        "InterviewEndDate": "2023-05-25 03:31:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73241",
+        "InterviewEndDate": "2023-05-25 03:31:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73242",
+        "InterviewEndDate": "2023-05-25 03:32:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73243",
+        "InterviewEndDate": "2023-05-25 03:32:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73244",
+        "InterviewEndDate": "2023-05-25 03:31:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73245",
+        "InterviewEndDate": "2023-05-25 03:36:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73246",
+        "InterviewEndDate": "2023-05-25 03:36:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73247",
+        "InterviewEndDate": "2023-05-25 03:39:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73248",
+        "InterviewEndDate": "2023-05-25 03:37:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73249",
+        "InterviewEndDate": "2023-05-25 03:38:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73250",
+        "InterviewEndDate": "2023-05-25 03:40:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73251",
+        "InterviewEndDate": "2023-05-25 03:42:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73252",
+        "InterviewEndDate": "2023-05-25 03:42:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73253",
+        "InterviewEndDate": "2023-05-25 03:46:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73254",
+        "InterviewEndDate": "2023-05-25 03:46:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73255",
+        "InterviewEndDate": "2023-05-25 03:47:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73256",
+        "InterviewEndDate": "2023-05-25 03:50:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73257",
+        "InterviewEndDate": "2023-05-25 03:48:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73258",
+        "InterviewEndDate": "2023-05-25 04:20:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73259",
+        "InterviewEndDate": "2023-05-25 04:27:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73260",
+        "InterviewEndDate": "2023-05-25 04:20:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73261",
+        "InterviewEndDate": "2023-05-25 04:21:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73263",
+        "InterviewEndDate": "2023-05-25 04:27:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73264",
+        "InterviewEndDate": "2023-05-25 04:28:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73265",
+        "InterviewEndDate": "2023-05-25 04:27:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "73266",
+        "InterviewEndDate": "2023-05-25 04:24:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
         "AirlineCode": "FR"
     }
 ]    
