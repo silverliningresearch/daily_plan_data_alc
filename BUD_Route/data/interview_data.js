@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "25-05-2023 09:29:42"
+        "download_time": "25-05-2023 10:29:42"
     },
     {
         "InterviewId": "67210",
@@ -47155,6 +47155,86 @@ let interview_data_raw = `[
     {
         "InterviewId": "73305",
         "InterviewEndDate": "2023-05-25 07:28:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73306",
+        "InterviewEndDate": "2023-05-25 07:28:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73307",
+        "InterviewEndDate": "2023-05-25 07:31:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73308",
+        "InterviewEndDate": "2023-05-25 07:31:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73309",
+        "InterviewEndDate": "2023-05-25 07:32:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73310",
+        "InterviewEndDate": "2023-05-25 07:33:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73311",
+        "InterviewEndDate": "2023-05-25 07:34:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73312",
+        "InterviewEndDate": "2023-05-25 07:35:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73313",
+        "InterviewEndDate": "2023-05-25 07:41:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73314",
+        "InterviewEndDate": "2023-05-25 07:38:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73315",
+        "InterviewEndDate": "2023-05-25 07:39:06",
         "InterviewState": "Complete",
         "Flight": "FR 1018",
         "Dest": "EDI",
