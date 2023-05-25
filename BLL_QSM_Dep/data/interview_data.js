@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-05-2023 07:28:01"
+        "download_time": "25-05-2023 08:27:59"
     },
     {
         "InterviewId": "6093",
@@ -15545,6 +15545,30 @@ let interview_data_raw = `[
         "AirlineCode": "FR4723"
     },
     {
+        "InterviewId": "9472",
+        "InterviewEndDate": "2023-05-25 05:30:05",
+        "InterviewState": "Complete",
+        "Flight": "BIX3126",
+        "Dest": "TFS",
+        "AirlineCode": "BIX3126"
+    },
+    {
+        "InterviewId": "9473",
+        "InterviewEndDate": "2023-05-25 05:31:52",
+        "InterviewState": "Complete",
+        "Flight": "BIX3126",
+        "Dest": "TFS",
+        "AirlineCode": "BIX3126"
+    },
+    {
+        "InterviewId": "9474",
+        "InterviewEndDate": "2023-05-25 05:31:33",
+        "InterviewState": "Complete",
+        "Flight": "BIX3126",
+        "Dest": "TFS",
+        "AirlineCode": "BIX3126"
+    },
+    {
         "InterviewId": "9475",
         "InterviewEndDate": "2023-05-25 05:25:28",
         "InterviewState": "Complete",
@@ -15555,6 +15579,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "9476",
         "InterviewEndDate": "2023-05-25 05:24:05",
+        "InterviewState": "Complete",
+        "Flight": "BIX3126",
+        "Dest": "TFS",
+        "AirlineCode": "BIX3126"
+    },
+    {
+        "InterviewId": "9478",
+        "InterviewEndDate": "2023-05-25 05:28:27",
         "InterviewState": "Complete",
         "Flight": "BIX3126",
         "Dest": "TFS",
