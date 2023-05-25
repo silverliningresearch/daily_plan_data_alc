@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "25-05-2023 04:29:20"
+        "download_time": "25-05-2023 05:29:21"
     },
     {
         "InterviewId": "67210",
@@ -46582,6 +46582,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4255",
         "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73227",
+        "InterviewEndDate": "2023-05-25 03:14:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73228",
+        "InterviewEndDate": "2023-05-25 03:14:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73229",
+        "InterviewEndDate": "2023-05-25 03:16:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73230",
+        "InterviewEndDate": "2023-05-25 03:10:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73231",
+        "InterviewEndDate": "2023-05-25 03:11:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73232",
+        "InterviewEndDate": "2023-05-25 03:15:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73233",
+        "InterviewEndDate": "2023-05-25 03:16:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73234",
+        "InterviewEndDate": "2023-05-25 03:23:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73235",
+        "InterviewEndDate": "2023-05-25 03:20:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73236",
+        "InterviewEndDate": "2023-05-25 03:20:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73237",
+        "InterviewEndDate": "2023-05-25 03:21:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73238",
+        "InterviewEndDate": "2023-05-25 03:26:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73239",
+        "InterviewEndDate": "2023-05-25 03:26:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
         "AirlineCode": "FR"
     }
 ]    
