@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-05-2023 20:29:33"
+        "download_time": "26-05-2023 21:29:29"
     },
     {
         "InterviewId": "67210",
@@ -50854,6 +50854,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EW 7783",
         "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73783",
+        "InterviewEndDate": "2023-05-26 18:46:57",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73784",
+        "InterviewEndDate": "2023-05-26 18:51:07",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73785",
+        "InterviewEndDate": "2023-05-26 18:56:31",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73786",
+        "InterviewEndDate": "2023-05-26 18:49:23",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73787",
+        "InterviewEndDate": "2023-05-26 18:50:56",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73788",
+        "InterviewEndDate": "2023-05-26 18:56:00",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73789",
+        "InterviewEndDate": "2023-05-26 18:56:14",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73790",
+        "InterviewEndDate": "2023-05-26 18:56:03",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
         "AirlineCode": "EW"
     }
 ]    
