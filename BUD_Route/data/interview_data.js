@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-05-2023 17:29:44"
+        "download_time": "26-05-2023 18:29:41"
     },
     {
         "InterviewId": "67210",
@@ -50353,12 +50353,188 @@ let interview_data_raw = `[
         "AirlineCode": "RO"
     },
     {
+        "InterviewId": "73715",
+        "InterviewEndDate": "2023-05-26 15:43:02",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
         "InterviewId": "73717",
         "InterviewEndDate": "2023-05-26 15:20:17",
         "InterviewState": "Complete",
         "Flight": "RO  238",
         "Dest": "OTP",
         "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73718",
+        "InterviewEndDate": "2023-05-26 15:31:11",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73719",
+        "InterviewEndDate": "2023-05-26 15:29:38",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73720",
+        "InterviewEndDate": "2023-05-26 15:46:09",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73721",
+        "InterviewEndDate": "2023-05-26 15:37:39",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73722",
+        "InterviewEndDate": "2023-05-26 15:46:56",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73723",
+        "InterviewEndDate": "2023-05-26 16:08:42",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "73725",
+        "InterviewEndDate": "2023-05-26 15:46:46",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "73729",
+        "InterviewEndDate": "2023-05-26 16:06:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73730",
+        "InterviewEndDate": "2023-05-26 16:08:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73731",
+        "InterviewEndDate": "2023-05-26 16:15:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73732",
+        "InterviewEndDate": "2023-05-26 16:14:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73733",
+        "InterviewEndDate": "2023-05-26 16:16:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73734",
+        "InterviewEndDate": "2023-05-26 16:15:09",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "73735",
+        "InterviewEndDate": "2023-05-26 16:18:26",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "73736",
+        "InterviewEndDate": "2023-05-26 16:21:14",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "73737",
+        "InterviewEndDate": "2023-05-26 16:20:46",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "73738",
+        "InterviewEndDate": "2023-05-26 16:25:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73739",
+        "InterviewEndDate": "2023-05-26 16:25:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73740",
+        "InterviewEndDate": "2023-05-26 16:25:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73741",
+        "InterviewEndDate": "2023-05-26 16:27:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73742",
+        "InterviewEndDate": "2023-05-26 16:27:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
