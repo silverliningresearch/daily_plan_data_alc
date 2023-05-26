@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-05-2023 18:29:41"
+        "download_time": "26-05-2023 19:29:31"
     },
     {
         "InterviewId": "67210",
@@ -50490,7 +50490,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "73737",
-        "InterviewEndDate": "2023-05-26 16:20:46",
+        "InterviewEndDate": "2023-05-26 16:39:48",
         "InterviewState": "Complete",
         "Flight": "AY 1256",
         "Dest": "HEL",
@@ -50535,6 +50535,86 @@ let interview_data_raw = `[
         "Flight": "LH 1341",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73743",
+        "InterviewEndDate": "2023-05-26 16:45:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73744",
+        "InterviewEndDate": "2023-05-26 16:44:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73745",
+        "InterviewEndDate": "2023-05-26 16:56:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73746",
+        "InterviewEndDate": "2023-05-26 16:59:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73747",
+        "InterviewEndDate": "2023-05-26 17:06:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1341",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "73748",
+        "InterviewEndDate": "2023-05-26 17:26:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73749",
+        "InterviewEndDate": "2023-05-26 17:27:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73750",
+        "InterviewEndDate": "2023-05-26 17:27:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73751",
+        "InterviewEndDate": "2023-05-26 17:28:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73752",
+        "InterviewEndDate": "2023-05-26 17:28:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
     }
 ]    
 
