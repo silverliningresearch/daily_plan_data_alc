@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "26-05-2023 06:29:44"
+        "download_time": "26-05-2023 07:29:43"
     },
     {
         "InterviewId": "7701",
@@ -4910,6 +4910,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2335",
         "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8389",
+        "InterviewEndDate": "2023-05-26 04:48:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8390",
+        "InterviewEndDate": "2023-05-26 04:50:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8391",
+        "InterviewEndDate": "2023-05-26 04:51:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8392",
+        "InterviewEndDate": "2023-05-26 04:54:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8394",
+        "InterviewEndDate": "2023-05-26 04:57:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8396",
+        "InterviewEndDate": "2023-05-26 04:55:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
         "AirlineCode": "W6"
     }
 ]    
