@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "26-05-2023 15:28:26"
+        "download_time": "26-05-2023 16:28:25"
     },
     {
         "InterviewId": "1224",
@@ -1423,6 +1423,118 @@ let interview_data_arr_raw = `[
         "Flight": "TK - Turkish Airlines",
         "Dest": "SAW",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1401",
+        "InterviewEndDate": "2023-05-26 13:33:28",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1402",
+        "InterviewEndDate": "2023-05-26 13:37:21",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1403",
+        "InterviewEndDate": "2023-05-26 13:42:33",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1404",
+        "InterviewEndDate": "2023-05-26 13:46:20",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1405",
+        "InterviewEndDate": "2023-05-26 13:49:45",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1406",
+        "InterviewEndDate": "2023-05-26 13:54:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1407",
+        "InterviewEndDate": "2023-05-26 13:58:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1408",
+        "InterviewEndDate": "2023-05-26 14:02:03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1409",
+        "InterviewEndDate": "2023-05-26 14:06:21",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1410",
+        "InterviewEndDate": "2023-05-26 14:09:08",
+        "InterviewState": "Complete",
+        "Flight": "EZS - Easyjet Switzerland",
+        "Dest": "GVA",
+        "AirlineCode": "EZS"
+    },
+    {
+        "InterviewId": "1411",
+        "InterviewEndDate": "2023-05-26 14:12:24",
+        "InterviewState": "Complete",
+        "Flight": "EZS - Easyjet Switzerland",
+        "Dest": "GVA",
+        "AirlineCode": "EZS"
+    },
+    {
+        "InterviewId": "1412",
+        "InterviewEndDate": "2023-05-26 14:17:57",
+        "InterviewState": "Complete",
+        "Flight": "EZY - EasyJet",
+        "Dest": "GVA",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "1413",
+        "InterviewEndDate": "2023-05-26 14:22:12",
+        "InterviewState": "Complete",
+        "Flight": "EZS - Easyjet Switzerland",
+        "Dest": "GVA",
+        "AirlineCode": "EZS"
+    },
+    {
+        "InterviewId": "1414",
+        "InterviewEndDate": "2023-05-26 14:26:01",
+        "InterviewState": "Complete",
+        "Flight": "EZS - Easyjet Switzerland",
+        "Dest": "GVA",
+        "AirlineCode": "EZS"
     }
 ]    
 
