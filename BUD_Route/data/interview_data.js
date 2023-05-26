@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-05-2023 13:29:35"
+        "download_time": "26-05-2023 14:29:45"
     },
     {
         "InterviewId": "67210",
@@ -49921,6 +49921,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "73659",
+        "InterviewEndDate": "2023-05-26 11:29:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "73660",
         "InterviewEndDate": "2023-05-26 11:27:11",
         "InterviewState": "Complete",
@@ -49950,6 +49958,158 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 5254",
         "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73664",
+        "InterviewEndDate": "2023-05-26 11:32:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73665",
+        "InterviewEndDate": "2023-05-26 11:33:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73666",
+        "InterviewEndDate": "2023-05-26 11:35:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73667",
+        "InterviewEndDate": "2023-05-26 12:02:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73668",
+        "InterviewEndDate": "2023-05-26 11:55:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73670",
+        "InterviewEndDate": "2023-05-26 11:55:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73671",
+        "InterviewEndDate": "2023-05-26 12:02:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73672",
+        "InterviewEndDate": "2023-05-26 11:56:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73673",
+        "InterviewEndDate": "2023-05-26 12:05:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73674",
+        "InterviewEndDate": "2023-05-26 12:05:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73675",
+        "InterviewEndDate": "2023-05-26 12:01:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73676",
+        "InterviewEndDate": "2023-05-26 12:08:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73677",
+        "InterviewEndDate": "2023-05-26 12:06:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73678",
+        "InterviewEndDate": "2023-05-26 12:15:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73679",
+        "InterviewEndDate": "2023-05-26 12:20:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73680",
+        "InterviewEndDate": "2023-05-26 12:22:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73681",
+        "InterviewEndDate": "2023-05-26 12:22:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73682",
+        "InterviewEndDate": "2023-05-26 12:25:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73687",
+        "InterviewEndDate": "2023-05-26 12:29:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
         "AirlineCode": "FR"
     }
 ]    
