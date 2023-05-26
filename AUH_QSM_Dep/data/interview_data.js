@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "26-05-2023 21:30:03"
+        "download_time": "26-05-2023 22:30:04"
     },
     {
         "InterviewId": "7333",
@@ -12427,6 +12427,150 @@ let interview_data_raw = `[
         "Flight": "EY286",
         "Dest": "AMD",
         "AirlineCode": "EY286",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8809",
+        "InterviewEndDate": "2023-05-26 17:33:45",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8810",
+        "InterviewEndDate": "2023-05-26 17:29:51",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8811",
+        "InterviewEndDate": "2023-05-26 17:30:46",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8812",
+        "InterviewEndDate": "2023-05-26 17:40:36",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8813",
+        "InterviewEndDate": "2023-05-26 17:47:28",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8814",
+        "InterviewEndDate": "2023-05-26 17:46:55",
+        "InterviewState": "Complete",
+        "Flight": "EY474",
+        "Dest": "CGK",
+        "AirlineCode": "EY474",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8815",
+        "InterviewEndDate": "2023-05-26 17:41:51",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8816",
+        "InterviewEndDate": "2023-05-26 17:49:18",
+        "InterviewState": "Complete",
+        "Flight": "EY001",
+        "Dest": "FRA",
+        "AirlineCode": "EY001",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8817",
+        "InterviewEndDate": "2023-05-26 18:03:06",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8818",
+        "InterviewEndDate": "2023-05-26 18:02:59",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8820",
+        "InterviewEndDate": "2023-05-26 18:13:01",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8821",
+        "InterviewEndDate": "2023-05-26 18:07:25",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8822",
+        "InterviewEndDate": "2023-05-26 18:28:18",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8823",
+        "InterviewEndDate": "2023-05-26 18:25:10",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8824",
+        "InterviewEndDate": "2023-05-26 18:24:22",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8825",
+        "InterviewEndDate": "2023-05-26 18:28:36",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
         "Terminal": "T3"
     }
 ]    

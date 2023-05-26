@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-05-2023 19:29:31"
+        "download_time": "26-05-2023 20:29:33"
     },
     {
         "InterviewId": "67210",
@@ -50615,6 +50615,246 @@ let interview_data_raw = `[
         "Flight": "FR 3306",
         "Dest": "BER",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73753",
+        "InterviewEndDate": "2023-05-26 17:40:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73754",
+        "InterviewEndDate": "2023-05-26 17:38:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73755",
+        "InterviewEndDate": "2023-05-26 17:39:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73756",
+        "InterviewEndDate": "2023-05-26 17:37:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73757",
+        "InterviewEndDate": "2023-05-26 17:33:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 3306",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73758",
+        "InterviewEndDate": "2023-05-26 17:49:45",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73759",
+        "InterviewEndDate": "2023-05-26 17:48:34",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73760",
+        "InterviewEndDate": "2023-05-26 17:47:31",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73761",
+        "InterviewEndDate": "2023-05-26 17:50:22",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73762",
+        "InterviewEndDate": "2023-05-26 17:52:04",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73763",
+        "InterviewEndDate": "2023-05-26 18:09:28",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73764",
+        "InterviewEndDate": "2023-05-26 17:52:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73765",
+        "InterviewEndDate": "2023-05-26 17:59:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73766",
+        "InterviewEndDate": "2023-05-26 17:59:43",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73767",
+        "InterviewEndDate": "2023-05-26 17:57:36",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73768",
+        "InterviewEndDate": "2023-05-26 17:57:49",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73769",
+        "InterviewEndDate": "2023-05-26 18:13:44",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73770",
+        "InterviewEndDate": "2023-05-26 18:09:36",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73771",
+        "InterviewEndDate": "2023-05-26 18:12:15",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73772",
+        "InterviewEndDate": "2023-05-26 18:08:32",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73773",
+        "InterviewEndDate": "2023-05-26 18:14:30",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73774",
+        "InterviewEndDate": "2023-05-26 18:18:59",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73775",
+        "InterviewEndDate": "2023-05-26 18:26:20",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73776",
+        "InterviewEndDate": "2023-05-26 18:18:04",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73777",
+        "InterviewEndDate": "2023-05-26 18:19:22",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73778",
+        "InterviewEndDate": "2023-05-26 18:18:52",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73779",
+        "InterviewEndDate": "2023-05-26 18:26:13",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73780",
+        "InterviewEndDate": "2023-05-26 18:26:38",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73781",
+        "InterviewEndDate": "2023-05-26 18:24:01",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "73782",
+        "InterviewEndDate": "2023-05-26 18:25:33",
+        "InterviewState": "Complete",
+        "Flight": "EW 7783",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
     }
 ]    
 
