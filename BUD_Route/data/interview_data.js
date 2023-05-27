@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "27-05-2023 18:29:28"
+        "download_time": "27-05-2023 19:29:25"
     },
     {
         "InterviewId": "67210",
@@ -52091,6 +52091,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "73939",
         "InterviewEndDate": "2023-05-27 16:28:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73940",
+        "InterviewEndDate": "2023-05-27 16:30:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73941",
+        "InterviewEndDate": "2023-05-27 16:30:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73942",
+        "InterviewEndDate": "2023-05-27 16:32:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73943",
+        "InterviewEndDate": "2023-05-27 16:32:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "73944",
+        "InterviewEndDate": "2023-05-27 16:33:16",
         "InterviewState": "Complete",
         "Flight": "FR 6278",
         "Dest": "CTA",
