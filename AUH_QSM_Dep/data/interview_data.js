@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "27-05-2023 09:29:57"
+        "download_time": "27-05-2023 10:30:02"
     },
     {
         "InterviewId": "7333",
@@ -12706,6 +12706,87 @@ let interview_data_raw = `[
         "Flight": "EY513",
         "Dest": "AMM",
         "AirlineCode": "EY513",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8843",
+        "InterviewEndDate": "2023-05-27 05:40:01",
+        "InterviewState": "Complete",
+        "Flight": "EY450",
+        "Dest": "SYD",
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8844",
+        "InterviewEndDate": "2023-05-27 05:34:25",
+        "InterviewState": "Complete",
+        "Flight": "EY450",
+        "Dest": "SYD",
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8845",
+        "InterviewEndDate": "2023-05-27 05:46:08",
+        "InterviewState": "Complete",
+        "Flight": "EY450",
+        "Dest": "SYD",
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8846",
+        "InterviewEndDate": "2023-05-27 05:43:54",
+        "InterviewState": "Complete",
+        "Flight": "EY450",
+        "Dest": "SYD",
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8847",
+        "InterviewEndDate": "2023-05-27 06:02:18",
+        "InterviewState": "Complete",
+        "Flight": "EY025",
+        "Dest": "LHR",
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8848",
+        "InterviewEndDate": "2023-05-27 05:59:44",
+        "InterviewState": "Complete",
+        "Flight": "EY025",
+        "Dest": "LHR",
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8849",
+        "InterviewEndDate": "2023-05-27 06:07:24",
+        "InterviewState": "Complete",
+        "Flight": "EY025",
+        "Dest": "LHR",
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8850",
+        "InterviewEndDate": "2023-05-27 06:12:11",
+        "InterviewState": "Complete",
+        "Flight": "EY025",
+        "Dest": "LHR",
+        "AirlineCode": "EY025",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8851",
+        "InterviewEndDate": "2023-05-27 06:13:52",
+        "InterviewState": "Complete",
+        "Flight": "EY025",
+        "Dest": "LHR",
+        "AirlineCode": "EY025",
         "Terminal": "T3"
     }
 ]    
