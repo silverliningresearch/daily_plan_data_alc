@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "27-05-2023 13:30:09"
+        "download_time": "27-05-2023 14:30:10"
     },
     {
         "InterviewId": "4226",
@@ -6353,6 +6353,42 @@ let interview_data_arr_raw = `[
         "Dest": "LHE",
         "AirlineCode": "EY",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4961",
+        "InterviewEndDate": "2023-05-27 09:33:22",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MUX",
+        "AirlineCode": "3L",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4962",
+        "InterviewEndDate": "2023-05-27 09:38:56",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MUX",
+        "AirlineCode": "3L",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "4963",
+        "InterviewEndDate": "2023-05-27 09:46:31",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "MED",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "4964",
+        "InterviewEndDate": "2023-05-27 09:49:48",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "MED",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
     }
 ]    
 
