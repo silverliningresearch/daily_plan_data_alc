@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "30-05-2023 01:30:05"
+        "download_time": "30-05-2023 02:30:09"
     },
     {
         "InterviewId": "7333",
@@ -13462,6 +13462,78 @@ let interview_data_raw = `[
         "Flight": "EY015",
         "Dest": "MAN",
         "AirlineCode": "EY015",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8930",
+        "InterviewEndDate": "2023-05-29 21:30:20",
+        "InterviewState": "Complete",
+        "Flight": "EY011",
+        "Dest": "LHR",
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8931",
+        "InterviewEndDate": "2023-05-29 21:31:09",
+        "InterviewState": "Complete",
+        "Flight": "EY011",
+        "Dest": "MAN",
+        "AirlineCode": "EY011",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8932",
+        "InterviewEndDate": "2023-05-29 21:41:55",
+        "InterviewState": "Complete",
+        "Flight": "EY424",
+        "Dest": "MNL",
+        "AirlineCode": "EY424",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8933",
+        "InterviewEndDate": "2023-05-29 21:48:13",
+        "InterviewState": "Complete",
+        "Flight": "EY424",
+        "Dest": "MNL",
+        "AirlineCode": "EY424",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8934",
+        "InterviewEndDate": "2023-05-29 22:05:31",
+        "InterviewState": "Complete",
+        "Flight": "EY057",
+        "Dest": "BRU",
+        "AirlineCode": "EY057",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8935",
+        "InterviewEndDate": "2023-05-29 22:08:59",
+        "InterviewState": "Complete",
+        "Flight": "EY057",
+        "Dest": "BRU",
+        "AirlineCode": "EY057",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8936",
+        "InterviewEndDate": "2023-05-29 22:19:36",
+        "InterviewState": "Complete",
+        "Flight": "EY073",
+        "Dest": "ZRH",
+        "AirlineCode": "EY073",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "8937",
+        "InterviewEndDate": "2023-05-29 22:20:01",
+        "InterviewState": "Complete",
+        "Flight": "EY073",
+        "Dest": "ZRH",
+        "AirlineCode": "EY073",
         "Terminal": "T3"
     }
 ]    
