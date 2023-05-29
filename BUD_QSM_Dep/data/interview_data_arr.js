@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "29-05-2023 14:28:27"
+        "download_time": "29-05-2023 15:28:24"
     },
     {
         "InterviewId": "1224",
@@ -1535,6 +1535,70 @@ let interview_data_arr_raw = `[
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "GVA",
         "AirlineCode": "EZS"
+    },
+    {
+        "InterviewId": "1415",
+        "InterviewEndDate": "2023-05-29 12:32:02",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1416",
+        "InterviewEndDate": "2023-05-29 12:36:21",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1417",
+        "InterviewEndDate": "2023-05-29 12:40:17",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1418",
+        "InterviewEndDate": "2023-05-29 12:44:35",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "1419",
+        "InterviewEndDate": "2023-05-29 12:48:23",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "1420",
+        "InterviewEndDate": "2023-05-29 12:52:13",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "1421",
+        "InterviewEndDate": "2023-05-29 12:55:31",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "1422",
+        "InterviewEndDate": "2023-05-29 13:00:48",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
