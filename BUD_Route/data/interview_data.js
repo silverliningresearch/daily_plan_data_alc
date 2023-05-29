@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "29-05-2023 19:29:38"
+        "download_time": "29-05-2023 20:29:41"
     },
     {
         "InterviewId": "67210",
@@ -53367,6 +53367,206 @@ let interview_data_raw = `[
         "Flight": "KE  962",
         "Dest": "ICN",
         "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "74106",
+        "InterviewEndDate": "2023-05-29 17:34:23",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "74107",
+        "InterviewEndDate": "2023-05-29 17:34:02",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "74108",
+        "InterviewEndDate": "2023-05-29 17:51:33",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74109",
+        "InterviewEndDate": "2023-05-29 17:50:30",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74110",
+        "InterviewEndDate": "2023-05-29 17:52:26",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74111",
+        "InterviewEndDate": "2023-05-29 17:53:06",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74112",
+        "InterviewEndDate": "2023-05-29 17:54:46",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74113",
+        "InterviewEndDate": "2023-05-29 18:02:02",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74114",
+        "InterviewEndDate": "2023-05-29 18:03:03",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74115",
+        "InterviewEndDate": "2023-05-29 18:06:37",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74116",
+        "InterviewEndDate": "2023-05-29 18:04:41",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74117",
+        "InterviewEndDate": "2023-05-29 18:04:10",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74118",
+        "InterviewEndDate": "2023-05-29 18:09:29",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74119",
+        "InterviewEndDate": "2023-05-29 18:09:29",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74120",
+        "InterviewEndDate": "2023-05-29 18:12:08",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74121",
+        "InterviewEndDate": "2023-05-29 18:10:07",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74122",
+        "InterviewEndDate": "2023-05-29 18:12:08",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74123",
+        "InterviewEndDate": "2023-05-29 18:18:37",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74124",
+        "InterviewEndDate": "2023-05-29 18:19:30",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74125",
+        "InterviewEndDate": "2023-05-29 18:17:40",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74127",
+        "InterviewEndDate": "2023-05-29 18:17:58",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74128",
+        "InterviewEndDate": "2023-05-29 18:28:16",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74129",
+        "InterviewEndDate": "2023-05-29 18:22:48",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74130",
+        "InterviewEndDate": "2023-05-29 18:24:30",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "74131",
+        "InterviewEndDate": "2023-05-29 18:27:17",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
     }
 ]    
 
