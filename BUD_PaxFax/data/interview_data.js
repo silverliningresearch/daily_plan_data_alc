@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "29-05-2023 09:29:52"
+        "download_time": "29-05-2023 10:30:04"
     },
     {
         "InterviewId": "7701",
@@ -5239,6 +5239,70 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8436",
+        "InterviewEndDate": "2023-05-29 07:38:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8437",
+        "InterviewEndDate": "2023-05-29 07:40:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8438",
+        "InterviewEndDate": "2023-05-29 07:40:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8439",
+        "InterviewEndDate": "2023-05-29 07:38:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8440",
+        "InterviewEndDate": "2023-05-29 07:46:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8441",
+        "InterviewEndDate": "2023-05-29 08:09:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8442",
+        "InterviewEndDate": "2023-05-29 08:08:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8443",
+        "InterviewEndDate": "2023-05-29 08:22:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
     }
 ]    
 
