@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "30-05-2023 10:28:19"
+        "download_time": "30-05-2023 11:28:17"
     },
     {
         "InterviewId": "2077",
@@ -4622,6 +4622,78 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3253",
+        "InterviewEndDate": "2023-05-30 08:41:20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3254",
+        "InterviewEndDate": "2023-05-30 08:55:02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PDL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3255",
+        "InterviewEndDate": "2023-05-30 08:38:19",
+        "InterviewState": "Complete",
+        "Flight": "Fr",
+        "Dest": "PDL",
+        "AirlineCode": "Fr"
+    },
+    {
+        "InterviewId": "3257",
+        "InterviewEndDate": "2023-05-30 08:37:00",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3261",
+        "InterviewEndDate": "2023-05-30 09:13:12",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3262",
+        "InterviewEndDate": "2023-05-30 09:12:42",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3263",
+        "InterviewEndDate": "2023-05-30 09:14:08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3264",
+        "InterviewEndDate": "2023-05-30 09:12:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3265",
+        "InterviewEndDate": "2023-05-30 09:10:09",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
         "AirlineCode": "FR"
     }
 ]    
