@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "30-05-2023 16:29:53"
+        "download_time": "30-05-2023 17:29:55"
     },
     {
         "InterviewId": "67210",
@@ -54583,6 +54583,254 @@ let interview_data_raw = `[
         "Flight": "FR 3330",
         "Dest": "PFO",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74271",
+        "InterviewEndDate": "2023-05-30 14:54:01",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74272",
+        "InterviewEndDate": "2023-05-30 14:51:41",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74273",
+        "InterviewEndDate": "2023-05-30 14:49:46",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74274",
+        "InterviewEndDate": "2023-05-30 14:47:29",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74275",
+        "InterviewEndDate": "2023-05-30 14:49:46",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74276",
+        "InterviewEndDate": "2023-05-30 14:58:25",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74277",
+        "InterviewEndDate": "2023-05-30 14:54:03",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74278",
+        "InterviewEndDate": "2023-05-30 14:56:02",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74279",
+        "InterviewEndDate": "2023-05-30 14:58:25",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74280",
+        "InterviewEndDate": "2023-05-30 14:58:25",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74281",
+        "InterviewEndDate": "2023-05-30 15:02:25",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74282",
+        "InterviewEndDate": "2023-05-30 15:02:22",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74283",
+        "InterviewEndDate": "2023-05-30 15:02:27",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "74284",
+        "InterviewEndDate": "2023-05-30 15:11:55",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74285",
+        "InterviewEndDate": "2023-05-30 15:11:55",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74286",
+        "InterviewEndDate": "2023-05-30 15:10:36",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74287",
+        "InterviewEndDate": "2023-05-30 15:08:50",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74288",
+        "InterviewEndDate": "2023-05-30 15:08:57",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74289",
+        "InterviewEndDate": "2023-05-30 15:16:24",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74290",
+        "InterviewEndDate": "2023-05-30 15:16:37",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74291",
+        "InterviewEndDate": "2023-05-30 15:14:32",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74292",
+        "InterviewEndDate": "2023-05-30 15:18:08",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74293",
+        "InterviewEndDate": "2023-05-30 15:18:08",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "74294",
+        "InterviewEndDate": "2023-05-30 15:23:34",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "74295",
+        "InterviewEndDate": "2023-05-30 15:23:13",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "74296",
+        "InterviewEndDate": "2023-05-30 15:23:13",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "74297",
+        "InterviewEndDate": "2023-05-30 15:26:02",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "74298",
+        "InterviewEndDate": "2023-05-30 15:26:02",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "74299",
+        "InterviewEndDate": "2023-05-30 15:28:50",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "74300",
+        "InterviewEndDate": "2023-05-30 15:28:55",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "74301",
+        "InterviewEndDate": "2023-05-30 15:28:55",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
     }
 ]    
 
