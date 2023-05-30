@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "30-05-2023 07:28:01"
+        "download_time": "30-05-2023 08:28:02"
     },
     {
         "InterviewId": "6093",
@@ -15913,6 +15913,22 @@ let interview_data_raw = `[
         "AirlineCode": "BA8245"
     },
     {
+        "InterviewId": "9530",
+        "InterviewEndDate": "2023-05-30 05:32:11",
+        "InterviewState": "Complete",
+        "Flight": "BA8245",
+        "Dest": "MAN",
+        "AirlineCode": "BA8245"
+    },
+    {
+        "InterviewId": "9531",
+        "InterviewEndDate": "2023-05-30 05:34:02",
+        "InterviewState": "Complete",
+        "Flight": "BA8245",
+        "Dest": "MAN",
+        "AirlineCode": "BA8245"
+    },
+    {
         "InterviewId": "9532",
         "InterviewEndDate": "2023-05-30 05:26:29",
         "InterviewState": "Complete",
@@ -15943,6 +15959,46 @@ let interview_data_raw = `[
         "Flight": "BA8245",
         "Dest": "MAN",
         "AirlineCode": "BA8245"
+    },
+    {
+        "InterviewId": "9536",
+        "InterviewEndDate": "2023-05-30 06:12:26",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9537",
+        "InterviewEndDate": "2023-05-30 06:17:10",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9538",
+        "InterviewEndDate": "2023-05-30 06:15:49",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9539",
+        "InterviewEndDate": "2023-05-30 06:08:32",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "9540",
+        "InterviewEndDate": "2023-05-30 06:16:53",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
     }
 ]    
 
