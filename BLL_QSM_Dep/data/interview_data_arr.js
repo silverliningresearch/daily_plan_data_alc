@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "30-05-2023 11:28:17"
+        "download_time": "30-05-2023 12:28:18"
     },
     {
         "InterviewId": "2077",
@@ -4695,6 +4695,62 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BGY",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3266",
+        "InterviewEndDate": "2023-05-30 09:41:10",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3268",
+        "InterviewEndDate": "2023-05-30 09:44:21",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "ORY",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3269",
+        "InterviewEndDate": "2023-05-30 09:42:59",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3270",
+        "InterviewEndDate": "2023-05-30 09:44:31",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3271",
+        "InterviewEndDate": "2023-05-30 09:41:42",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3272",
+        "InterviewEndDate": "2023-05-30 09:42:24",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3273",
+        "InterviewEndDate": "2023-05-30 09:40:02",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
