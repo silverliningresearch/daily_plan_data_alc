@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "31-05-2023 17:27:18"
+        "download_time": "31-05-2023 18:27:19"
     },
     {
         "InterviewId": "15848",
@@ -15815,6 +15815,70 @@ let interview_data_raw = `[
         "Flight": "LH 1982",
         "Dest": "CGN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18194",
+        "InterviewEndDate": "2023-05-31 15:58:20",
+        "InterviewState": "Complete",
+        "Flight": "BA  961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18195",
+        "InterviewEndDate": "2023-05-31 15:53:37",
+        "InterviewState": "Complete",
+        "Flight": "BA  961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18196",
+        "InterviewEndDate": "2023-05-31 15:51:48",
+        "InterviewState": "Complete",
+        "Flight": "BA  961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18197",
+        "InterviewEndDate": "2023-05-31 15:50:53",
+        "InterviewState": "Complete",
+        "Flight": "BA  961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18198",
+        "InterviewEndDate": "2023-05-31 16:21:05",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18199",
+        "InterviewEndDate": "2023-05-31 16:18:51",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18200",
+        "InterviewEndDate": "2023-05-31 16:18:26",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18201",
+        "InterviewEndDate": "2023-05-31 16:17:10",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
