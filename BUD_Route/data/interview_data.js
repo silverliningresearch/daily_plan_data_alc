@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "31-05-2023 11:29:58"
+        "download_time": "31-05-2023 12:29:55"
     },
     {
         "InterviewId": "67210",
@@ -55618,7 +55618,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "74401",
-        "InterviewEndDate": "2023-05-31 09:15:14",
+        "InterviewEndDate": "2023-05-31 10:01:28",
         "InterviewState": "Complete",
         "Flight": "W6 2441",
         "Dest": "ATH",
@@ -55655,6 +55655,78 @@ let interview_data_raw = `[
         "Flight": "CA  436",
         "Dest": "CKG",
         "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "74406",
+        "InterviewEndDate": "2023-05-31 09:36:02",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "74407",
+        "InterviewEndDate": "2023-05-31 09:35:59",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "74408",
+        "InterviewEndDate": "2023-05-31 09:33:13",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "74409",
+        "InterviewEndDate": "2023-05-31 09:33:24",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "74410",
+        "InterviewEndDate": "2023-05-31 10:00:30",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "74418",
+        "InterviewEndDate": "2023-05-31 10:28:24",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74419",
+        "InterviewEndDate": "2023-05-31 10:25:17",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74421",
+        "InterviewEndDate": "2023-05-31 10:28:59",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "74423",
+        "InterviewEndDate": "2023-05-31 10:28:18",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
