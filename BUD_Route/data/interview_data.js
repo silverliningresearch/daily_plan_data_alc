@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "31-05-2023 15:29:54"
+        "download_time": "31-05-2023 16:29:55"
     },
     {
         "InterviewId": "67210",
@@ -56395,6 +56395,86 @@ let interview_data_raw = `[
     {
         "InterviewId": "74504",
         "InterviewEndDate": "2023-05-31 13:26:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74505",
+        "InterviewEndDate": "2023-05-31 13:31:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74506",
+        "InterviewEndDate": "2023-05-31 13:32:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74507",
+        "InterviewEndDate": "2023-05-31 13:31:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74508",
+        "InterviewEndDate": "2023-05-31 13:32:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74509",
+        "InterviewEndDate": "2023-05-31 13:33:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74510",
+        "InterviewEndDate": "2023-05-31 13:37:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74511",
+        "InterviewEndDate": "2023-05-31 13:36:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74512",
+        "InterviewEndDate": "2023-05-31 13:40:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74513",
+        "InterviewEndDate": "2023-05-31 13:40:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 4255",
+        "Dest": "NUE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74514",
+        "InterviewEndDate": "2023-05-31 13:41:13",
         "InterviewState": "Complete",
         "Flight": "FR 4255",
         "Dest": "NUE",
