@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "31-05-2023 14:28:25"
+        "download_time": "31-05-2023 15:28:25"
     },
     {
         "InterviewId": "3965",
@@ -4478,6 +4478,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2441",
         "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4562",
+        "InterviewEndDate": "2023-05-31 12:51:20",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4563",
+        "InterviewEndDate": "2023-05-31 12:53:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4564",
+        "InterviewEndDate": "2023-05-31 12:56:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4565",
+        "InterviewEndDate": "2023-05-31 12:56:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4566",
+        "InterviewEndDate": "2023-05-31 13:00:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4567",
+        "InterviewEndDate": "2023-05-31 13:08:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4568",
+        "InterviewEndDate": "2023-05-31 13:10:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4569",
+        "InterviewEndDate": "2023-05-31 13:10:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4570",
+        "InterviewEndDate": "2023-05-31 13:12:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4571",
+        "InterviewEndDate": "2023-05-31 13:09:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
         "AirlineCode": "W6"
     }
 ]    
