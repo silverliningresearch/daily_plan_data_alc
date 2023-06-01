@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "01-06-2023 16:30:13"
+        "download_time": "01-06-2023 17:30:13"
     },
     {
         "InterviewId": "67210",
@@ -57747,6 +57747,102 @@ let interview_data_raw = `[
     {
         "InterviewId": "74675",
         "InterviewEndDate": "2023-06-01 14:29:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74676",
+        "InterviewEndDate": "2023-06-01 14:31:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74677",
+        "InterviewEndDate": "2023-06-01 14:32:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74678",
+        "InterviewEndDate": "2023-06-01 14:36:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74679",
+        "InterviewEndDate": "2023-06-01 14:37:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74680",
+        "InterviewEndDate": "2023-06-01 14:37:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74681",
+        "InterviewEndDate": "2023-06-01 14:39:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74682",
+        "InterviewEndDate": "2023-06-01 14:39:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74683",
+        "InterviewEndDate": "2023-06-01 14:40:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74684",
+        "InterviewEndDate": "2023-06-01 14:43:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74685",
+        "InterviewEndDate": "2023-06-01 14:42:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74686",
+        "InterviewEndDate": "2023-06-01 14:45:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74687",
+        "InterviewEndDate": "2023-06-01 14:44:47",
         "InterviewState": "Complete",
         "Flight": "FR 4216",
         "Dest": "RHO",
