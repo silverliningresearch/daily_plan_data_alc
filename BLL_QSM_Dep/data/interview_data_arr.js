@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "01-06-2023 10:28:19"
+        "download_time": "01-06-2023 11:28:19"
     },
     {
         "InterviewId": "2077",
@@ -4838,6 +4838,118 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3292",
+        "InterviewEndDate": "2023-06-01 08:34:11",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3293",
+        "InterviewEndDate": "2023-06-01 08:30:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3294",
+        "InterviewEndDate": "2023-06-01 08:32:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3295",
+        "InterviewEndDate": "2023-06-01 08:34:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3296",
+        "InterviewEndDate": "2023-06-01 08:37:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3297",
+        "InterviewEndDate": "2023-06-01 09:03:05",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "AGP",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "3299",
+        "InterviewEndDate": "2023-06-01 09:00:38",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "AGP",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "3300",
+        "InterviewEndDate": "2023-06-01 08:59:22",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "AGP",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "3301",
+        "InterviewEndDate": "2023-06-01 08:59:17",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "AGP",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "3302",
+        "InterviewEndDate": "2023-06-01 09:27:17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3303",
+        "InterviewEndDate": "2023-06-01 09:26:55",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3304",
+        "InterviewEndDate": "2023-06-01 09:26:15",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3305",
+        "InterviewEndDate": "2023-06-01 09:23:42",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3306",
+        "InterviewEndDate": "2023-06-01 09:25:10",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
         "AirlineCode": "FR"
     }
 ]    
