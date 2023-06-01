@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "01-06-2023 13:28:09"
+        "download_time": "01-06-2023 14:28:09"
     },
     {
         "InterviewId": "6093",
@@ -16199,6 +16199,86 @@ let interview_data_raw = `[
         "Flight": "AY986",
         "Dest": "HEL",
         "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9566",
+        "InterviewEndDate": "2023-06-01 11:49:44",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9567",
+        "InterviewEndDate": "2023-06-01 12:01:51",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9568",
+        "InterviewEndDate": "2023-06-01 11:58:44",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9569",
+        "InterviewEndDate": "2023-06-01 11:57:12",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9570",
+        "InterviewEndDate": "2023-06-01 11:52:50",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9571",
+        "InterviewEndDate": "2023-06-01 11:53:43",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9572",
+        "InterviewEndDate": "2023-06-01 11:48:36",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9573",
+        "InterviewEndDate": "2023-06-01 11:53:46",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "9575",
+        "InterviewEndDate": "2023-06-01 12:27:47",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "9576",
+        "InterviewEndDate": "2023-06-01 12:26:39",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
     }
 ]    
 
