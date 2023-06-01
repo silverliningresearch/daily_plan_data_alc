@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "01-06-2023 14:30:02"
+        "download_time": "01-06-2023 15:29:59"
     },
     {
         "InterviewId": "67210",
@@ -57303,6 +57303,270 @@ let interview_data_raw = `[
         "Flight": "TK 7747",
         "Dest": "SAW",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "74620",
+        "InterviewEndDate": "2023-06-01 12:34:27",
+        "InterviewState": "Complete",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "74621",
+        "InterviewEndDate": "2023-06-01 12:32:04",
+        "InterviewState": "Complete",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "74622",
+        "InterviewEndDate": "2023-06-01 12:32:06",
+        "InterviewState": "Complete",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "74623",
+        "InterviewEndDate": "2023-06-01 12:31:26",
+        "InterviewState": "Complete",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "74624",
+        "InterviewEndDate": "2023-06-01 12:51:16",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74625",
+        "InterviewEndDate": "2023-06-01 12:50:37",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74626",
+        "InterviewEndDate": "2023-06-01 12:50:28",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74627",
+        "InterviewEndDate": "2023-06-01 12:49:10",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74628",
+        "InterviewEndDate": "2023-06-01 12:45:50",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74629",
+        "InterviewEndDate": "2023-06-01 12:52:41",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74630",
+        "InterviewEndDate": "2023-06-01 12:54:48",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74631",
+        "InterviewEndDate": "2023-06-01 12:54:34",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74632",
+        "InterviewEndDate": "2023-06-01 12:57:53",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74633",
+        "InterviewEndDate": "2023-06-01 12:58:14",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74634",
+        "InterviewEndDate": "2023-06-01 13:03:17",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74635",
+        "InterviewEndDate": "2023-06-01 13:06:21",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74636",
+        "InterviewEndDate": "2023-06-01 13:06:39",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74637",
+        "InterviewEndDate": "2023-06-01 13:05:29",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74638",
+        "InterviewEndDate": "2023-06-01 13:06:08",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74639",
+        "InterviewEndDate": "2023-06-01 13:10:31",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74640",
+        "InterviewEndDate": "2023-06-01 13:10:17",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74641",
+        "InterviewEndDate": "2023-06-01 13:12:35",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74642",
+        "InterviewEndDate": "2023-06-01 13:15:16",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74643",
+        "InterviewEndDate": "2023-06-01 13:15:39",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74644",
+        "InterviewEndDate": "2023-06-01 13:17:15",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74645",
+        "InterviewEndDate": "2023-06-01 13:18:19",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74646",
+        "InterviewEndDate": "2023-06-01 13:19:41",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74647",
+        "InterviewEndDate": "2023-06-01 13:20:13",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74648",
+        "InterviewEndDate": "2023-06-01 13:20:37",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74649",
+        "InterviewEndDate": "2023-06-01 13:22:35",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74650",
+        "InterviewEndDate": "2023-06-01 13:25:06",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74651",
+        "InterviewEndDate": "2023-06-01 13:25:14",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "74652",
+        "InterviewEndDate": "2023-06-01 13:27:19",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
     }
 ]    
 
