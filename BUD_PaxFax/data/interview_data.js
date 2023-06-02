@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "02-06-2023 10:30:13"
+        "download_time": "02-06-2023 11:30:10"
     },
     {
         "InterviewId": "7701",
@@ -5567,6 +5567,70 @@ let interview_data_raw = `[
         "Flight": "FR 4752",
         "Dest": "AHO",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8478",
+        "InterviewEndDate": "2023-06-02 08:36:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8479",
+        "InterviewEndDate": "2023-06-02 08:34:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8480",
+        "InterviewEndDate": "2023-06-02 08:34:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8481",
+        "InterviewEndDate": "2023-06-02 08:45:15",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "8482",
+        "InterviewEndDate": "2023-06-02 08:51:06",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "8483",
+        "InterviewEndDate": "2023-06-02 08:45:07",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "8484",
+        "InterviewEndDate": "2023-06-02 08:55:08",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "8485",
+        "InterviewEndDate": "2023-06-02 08:52:20",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
