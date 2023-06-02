@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "02-06-2023 08:29:49"
+        "download_time": "02-06-2023 09:29:55"
     },
     {
         "InterviewId": "67210",
@@ -57846,6 +57846,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4216",
         "Dest": "RHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74688",
+        "InterviewEndDate": "2023-06-02 06:35:05",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "74690",
+        "InterviewEndDate": "2023-06-02 06:44:05",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "74691",
+        "InterviewEndDate": "2023-06-02 06:41:45",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "74692",
+        "InterviewEndDate": "2023-06-02 06:43:21",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "74693",
+        "InterviewEndDate": "2023-06-02 06:47:18",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "74694",
+        "InterviewEndDate": "2023-06-02 07:11:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74695",
+        "InterviewEndDate": "2023-06-02 07:11:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74696",
+        "InterviewEndDate": "2023-06-02 07:12:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74697",
+        "InterviewEndDate": "2023-06-02 07:13:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74698",
+        "InterviewEndDate": "2023-06-02 07:14:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74699",
+        "InterviewEndDate": "2023-06-02 07:17:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74700",
+        "InterviewEndDate": "2023-06-02 07:18:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
         "AirlineCode": "FR"
     }
 ]    
