@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "02-06-2023 11:28:29"
+        "download_time": "02-06-2023 12:28:30"
     },
     {
         "InterviewId": "1224",
@@ -1599,6 +1599,46 @@ let interview_data_arr_raw = `[
         "Flight": "EK - Emirates",
         "Dest": "DXB",
         "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "1423",
+        "InterviewEndDate": "2023-06-02 09:46:52",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1424",
+        "InterviewEndDate": "2023-06-02 09:50:09",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1425",
+        "InterviewEndDate": "2023-06-02 09:54:03",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1426",
+        "InterviewEndDate": "2023-06-02 09:57:05",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1427",
+        "InterviewEndDate": "2023-06-02 09:59:46",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
