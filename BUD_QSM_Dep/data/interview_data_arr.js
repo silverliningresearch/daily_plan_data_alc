@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "02-06-2023 13:28:32"
+        "download_time": "02-06-2023 14:28:30"
     },
     {
         "InterviewId": "1224",
@@ -1639,6 +1639,86 @@ let interview_data_arr_raw = `[
         "Flight": "AF - Air France",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1428",
+        "InterviewEndDate": "2023-06-02 11:39:40",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "1429",
+        "InterviewEndDate": "2023-06-02 11:45:27",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "1430",
+        "InterviewEndDate": "2023-06-02 11:49:05",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1431",
+        "InterviewEndDate": "2023-06-02 11:53:30",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1432",
+        "InterviewEndDate": "2023-06-02 11:58:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1433",
+        "InterviewEndDate": "2023-06-02 12:02:25",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1434",
+        "InterviewEndDate": "2023-06-02 12:06:48",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1435",
+        "InterviewEndDate": "2023-06-02 12:11:06",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1436",
+        "InterviewEndDate": "2023-06-02 12:16:57",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1437",
+        "InterviewEndDate": "2023-06-02 12:22:26",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
     }
 ]    
 
