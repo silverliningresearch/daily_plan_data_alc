@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-06-2023 16:27:38"
+        "download_time": "02-06-2023 17:27:18"
     },
     {
         "InterviewId": "15848",
@@ -15911,6 +15911,54 @@ let interview_data_raw = `[
         "Flight": "LH  123",
         "Dest": "MAD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18206",
+        "InterviewEndDate": "2023-06-02 14:44:05",
+        "InterviewState": "Complete",
+        "Flight": "EZY2198",
+        "Dest": "MAN",
+        "AirlineCode": "EZY2198"
+    },
+    {
+        "InterviewId": "18207",
+        "InterviewEndDate": "2023-06-02 14:59:06",
+        "InterviewState": "Complete",
+        "Flight": "EZY2198",
+        "Dest": "MAN",
+        "AirlineCode": "EZY2198"
+    },
+    {
+        "InterviewId": "18208",
+        "InterviewEndDate": "2023-06-02 14:56:35",
+        "InterviewState": "Complete",
+        "Flight": "EZY2198",
+        "Dest": "MAN",
+        "AirlineCode": "EZY2198"
+    },
+    {
+        "InterviewId": "18209",
+        "InterviewEndDate": "2023-06-02 14:50:47",
+        "InterviewState": "Complete",
+        "Flight": "EZY2198",
+        "Dest": "MAN",
+        "AirlineCode": "EZY2198"
+    },
+    {
+        "InterviewId": "18210",
+        "InterviewEndDate": "2023-06-02 14:56:56",
+        "InterviewState": "Complete",
+        "Flight": "EZY2198",
+        "Dest": "MAN",
+        "AirlineCode": "EZY2198"
+    },
+    {
+        "InterviewId": "18211",
+        "InterviewEndDate": "2023-06-02 15:02:11",
+        "InterviewState": "Complete",
+        "Flight": "EZY2198",
+        "Dest": "MAN",
+        "AirlineCode": "EZY2198"
     }
 ]    
 
