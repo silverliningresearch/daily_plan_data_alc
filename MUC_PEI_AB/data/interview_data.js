@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-06-2023 18:27:17"
+        "download_time": "02-06-2023 19:27:14"
     },
     {
         "InterviewId": "15848",
@@ -15959,6 +15959,78 @@ let interview_data_raw = `[
         "Flight": "EZY2198",
         "Dest": "MAN",
         "AirlineCode": "EZY2198"
+    },
+    {
+        "InterviewId": "18214",
+        "InterviewEndDate": "2023-06-02 16:38:51",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18215",
+        "InterviewEndDate": "2023-06-02 16:34:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18216",
+        "InterviewEndDate": "2023-06-02 16:30:07",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18217",
+        "InterviewEndDate": "2023-06-02 17:10:58",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18218",
+        "InterviewEndDate": "2023-06-02 17:06:08",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18219",
+        "InterviewEndDate": "2023-06-02 17:11:20",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18220",
+        "InterviewEndDate": "2023-06-02 17:10:33",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18221",
+        "InterviewEndDate": "2023-06-02 17:09:30",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "18222",
+        "InterviewEndDate": "2023-06-02 17:20:52",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
