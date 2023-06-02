@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-06-2023 20:27:14"
+        "download_time": "02-06-2023 21:27:15"
     },
     {
         "InterviewId": "15848",
@@ -16033,6 +16033,30 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "18223",
+        "InterviewEndDate": "2023-06-02 18:27:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "18224",
+        "InterviewEndDate": "2023-06-02 18:31:14",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "18225",
+        "InterviewEndDate": "2023-06-02 18:29:27",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
         "InterviewId": "18226",
         "InterviewEndDate": "2023-06-02 18:25:42",
         "InterviewState": "Complete",
@@ -16047,6 +16071,30 @@ let interview_data_raw = `[
         "Flight": "KL 1800",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "18229",
+        "InterviewEndDate": "2023-06-02 18:46:08",
+        "InterviewState": "Complete",
+        "Flight": "BZ 292",
+        "Dest": "HER",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "18231",
+        "InterviewEndDate": "2023-06-02 18:54:37",
+        "InterviewState": "Complete",
+        "Flight": "BZ 292",
+        "Dest": "HER",
+        "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "18232",
+        "InterviewEndDate": "2023-06-02 18:50:43",
+        "InterviewState": "Complete",
+        "Flight": "BZ 292",
+        "Dest": "HER",
+        "AirlineCode": "BZ"
     }
 ]    
 
