@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "03-06-2023 11:29:44"
+        "download_time": "03-06-2023 12:29:40"
     },
     {
         "InterviewId": "67210",
@@ -57943,6 +57943,102 @@ let interview_data_raw = `[
         "Flight": "FR 8054",
         "Dest": "CFU",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74702",
+        "InterviewEndDate": "2023-06-03 10:07:41",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74703",
+        "InterviewEndDate": "2023-06-03 10:07:43",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74704",
+        "InterviewEndDate": "2023-06-03 10:09:37",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74705",
+        "InterviewEndDate": "2023-06-03 10:09:38",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74706",
+        "InterviewEndDate": "2023-06-03 10:10:49",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74707",
+        "InterviewEndDate": "2023-06-03 10:15:45",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74708",
+        "InterviewEndDate": "2023-06-03 10:15:47",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74709",
+        "InterviewEndDate": "2023-06-03 10:16:58",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74710",
+        "InterviewEndDate": "2023-06-03 10:20:01",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74711",
+        "InterviewEndDate": "2023-06-03 10:20:04",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74714",
+        "InterviewEndDate": "2023-06-03 10:26:37",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74715",
+        "InterviewEndDate": "2023-06-03 10:26:29",
+        "InterviewState": "Complete",
+        "Flight": "KS 2202",
+        "Dest": "CLJ",
+        "AirlineCode": "KS"
     }
 ]    
 
