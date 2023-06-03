@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "03-06-2023 15:29:38"
+        "download_time": "03-06-2023 16:29:47"
     },
     {
         "InterviewId": "67210",
@@ -58071,6 +58071,86 @@ let interview_data_raw = `[
         "Flight": "W6 2233",
         "Dest": "TIA",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74718",
+        "InterviewEndDate": "2023-06-03 14:08:19",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74719",
+        "InterviewEndDate": "2023-06-03 14:04:57",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74720",
+        "InterviewEndDate": "2023-06-03 14:10:00",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74721",
+        "InterviewEndDate": "2023-06-03 14:09:58",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74722",
+        "InterviewEndDate": "2023-06-03 14:06:07",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74724",
+        "InterviewEndDate": "2023-06-03 14:25:25",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74725",
+        "InterviewEndDate": "2023-06-03 14:21:27",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74726",
+        "InterviewEndDate": "2023-06-03 14:21:39",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74727",
+        "InterviewEndDate": "2023-06-03 14:29:23",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "74728",
+        "InterviewEndDate": "2023-06-03 14:28:43",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
     }
 ]    
 
