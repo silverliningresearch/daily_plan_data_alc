@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-06-2023 13:28:01"
+        "download_time": "04-06-2023 14:28:01"
     },
     {
         "InterviewId": "6093",
@@ -16785,8 +16785,56 @@ let interview_data_raw = `[
         "AirlineCode": "LH2435"
     },
     {
+        "InterviewId": "9643",
+        "InterviewEndDate": "2023-06-04 11:30:50",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "9644",
+        "InterviewEndDate": "2023-06-04 11:28:45",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "9645",
+        "InterviewEndDate": "2023-06-04 11:30:19",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "9646",
+        "InterviewEndDate": "2023-06-04 11:33:09",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
         "InterviewId": "9647",
         "InterviewEndDate": "2023-06-04 11:27:19",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "9648",
+        "InterviewEndDate": "2023-06-04 11:30:04",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "9649",
+        "InterviewEndDate": "2023-06-04 11:32:08",
         "InterviewState": "Complete",
         "Flight": "DY995",
         "Dest": "OSL",
