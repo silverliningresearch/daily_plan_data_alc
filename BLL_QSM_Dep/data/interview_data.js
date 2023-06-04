@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-06-2023 10:28:03"
+        "download_time": "04-06-2023 11:27:59"
     },
     {
         "InterviewId": "6093",
@@ -16591,6 +16591,78 @@ let interview_data_raw = `[
         "Flight": "LH837",
         "Dest": "FRA",
         "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "9618",
+        "InterviewEndDate": "2023-06-04 09:02:56",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9619",
+        "InterviewEndDate": "2023-06-04 09:00:55",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9620",
+        "InterviewEndDate": "2023-06-04 09:06:11",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9621",
+        "InterviewEndDate": "2023-06-04 08:53:16",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9622",
+        "InterviewEndDate": "2023-06-04 08:52:29",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9623",
+        "InterviewEndDate": "2023-06-04 08:50:42",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9624",
+        "InterviewEndDate": "2023-06-04 08:57:53",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9625",
+        "InterviewEndDate": "2023-06-04 08:57:07",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "9633",
+        "InterviewEndDate": "2023-06-04 09:24:18",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
     }
 ]    
 
