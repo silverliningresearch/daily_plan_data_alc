@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-06-2023 20:27:17"
+        "download_time": "04-06-2023 21:27:14"
     },
     {
         "InterviewId": "15848",
@@ -16303,6 +16303,62 @@ let interview_data_raw = `[
         "Flight": "Lh1714",
         "Dest": "TIA",
         "AirlineCode": "Lh1714"
+    },
+    {
+        "InterviewId": "18264",
+        "InterviewEndDate": "2023-06-04 19:02:43",
+        "InterviewState": "Complete",
+        "Flight": "Lh586",
+        "Dest": "CAI",
+        "AirlineCode": "Lh586"
+    },
+    {
+        "InterviewId": "18265",
+        "InterviewEndDate": "2023-06-04 18:53:08",
+        "InterviewState": "Complete",
+        "Flight": "Lh586",
+        "Dest": "CAI",
+        "AirlineCode": "Lh586"
+    },
+    {
+        "InterviewId": "18266",
+        "InterviewEndDate": "2023-06-04 18:57:01",
+        "InterviewState": "Complete",
+        "Flight": "Lh586",
+        "Dest": "CAI",
+        "AirlineCode": "Lh586"
+    },
+    {
+        "InterviewId": "18267",
+        "InterviewEndDate": "2023-06-04 19:08:49",
+        "InterviewState": "Complete",
+        "Flight": "Lh586",
+        "Dest": "CAI",
+        "AirlineCode": "Lh586"
+    },
+    {
+        "InterviewId": "18268",
+        "InterviewEndDate": "2023-06-04 18:49:48",
+        "InterviewState": "Complete",
+        "Flight": "Lh586",
+        "Dest": "CAI",
+        "AirlineCode": "Lh586"
+    },
+    {
+        "InterviewId": "18269",
+        "InterviewEndDate": "2023-06-04 19:24:41",
+        "InterviewState": "Complete",
+        "Flight": "Lh790",
+        "Dest": "SIN",
+        "AirlineCode": "Lh790"
+    },
+    {
+        "InterviewId": "18272",
+        "InterviewEndDate": "2023-06-04 19:22:04",
+        "InterviewState": "Complete",
+        "Flight": "Lh790",
+        "Dest": "SIN",
+        "AirlineCode": "Lh790"
     }
 ]    
 
