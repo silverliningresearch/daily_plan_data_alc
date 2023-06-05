@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "05-06-2023 18:31:36"
+        "download_time": "05-06-2023 19:30:48"
     },
     {
         "InterviewId": "7333",
@@ -14204,12 +14204,66 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "9016",
-        "InterviewEndDate": "2023-06-05 07:13:43",
+        "InterviewEndDate": "2023-06-05 14:34:39",
         "InterviewState": "Complete",
         "Flight": "QR1045",
         "Dest": "DOH",
         "AirlineCode": "QR1045",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9017",
+        "InterviewEndDate": "2023-06-05 14:48:12",
+        "InterviewState": "Complete",
+        "Flight": "EY258",
+        "Dest": "CCU",
+        "AirlineCode": "EY258",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9018",
+        "InterviewEndDate": "2023-06-05 14:52:37",
+        "InterviewState": "Complete",
+        "Flight": "EY454",
+        "Dest": "SYD",
+        "AirlineCode": "EY454",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9019",
+        "InterviewEndDate": "2023-06-05 14:48:22",
+        "InterviewState": "Complete",
+        "Flight": "EY856",
+        "Dest": "ICN",
+        "AirlineCode": "EY856",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9020",
+        "InterviewEndDate": "2023-06-05 14:54:13",
+        "InterviewState": "Complete",
+        "Flight": "EY856",
+        "Dest": "ICN",
+        "AirlineCode": "EY856",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9021",
+        "InterviewEndDate": "2023-06-05 15:17:10",
+        "InterviewState": "Complete",
+        "Flight": "EY474",
+        "Dest": "CGK",
+        "AirlineCode": "EY474",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9022",
+        "InterviewEndDate": "2023-06-05 15:20:06",
+        "InterviewState": "Complete",
+        "Flight": "EY474",
+        "Dest": "CGK",
+        "AirlineCode": "EY474",
+        "Terminal": "T3"
     }
 ]    
 
