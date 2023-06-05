@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "05-06-2023 10:27:21"
+        "download_time": "05-06-2023 11:27:21"
     },
     {
         "InterviewId": "15848",
@@ -16527,6 +16527,54 @@ let interview_data_raw = `[
         "Flight": "A3803",
         "Dest": "ATH",
         "AirlineCode": "A3803"
+    },
+    {
+        "InterviewId": "18294",
+        "InterviewEndDate": "2023-06-05 08:34:24",
+        "InterviewState": "Complete",
+        "Flight": "Lh2096",
+        "Dest": "HAJ",
+        "AirlineCode": "Lh2096"
+    },
+    {
+        "InterviewId": "18295",
+        "InterviewEndDate": "2023-06-05 08:31:28",
+        "InterviewState": "Complete",
+        "Flight": "Lh2096",
+        "Dest": "HAJ",
+        "AirlineCode": "Lh2096"
+    },
+    {
+        "InterviewId": "18296",
+        "InterviewEndDate": "2023-06-05 08:28:26",
+        "InterviewState": "Complete",
+        "Flight": "Lh2096",
+        "Dest": "HAJ",
+        "AirlineCode": "Lh2096"
+    },
+    {
+        "InterviewId": "18297",
+        "InterviewEndDate": "2023-06-05 08:58:34",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "18298",
+        "InterviewEndDate": "2023-06-05 09:07:46",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "18299",
+        "InterviewEndDate": "2023-06-05 09:02:43",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
     }
 ]    
 
