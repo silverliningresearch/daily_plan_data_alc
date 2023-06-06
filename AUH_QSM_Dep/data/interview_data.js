@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "06-06-2023 22:30:34"
+        "download_time": "06-06-2023 23:30:35"
     },
     {
         "InterviewId": "7333",
@@ -14353,6 +14353,60 @@ let interview_data_raw = `[
         "Flight": "EY395",
         "Dest": "CAI",
         "AirlineCode": "EY395",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9033",
+        "InterviewEndDate": "2023-06-06 18:47:33",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9034",
+        "InterviewEndDate": "2023-06-06 18:48:09",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9035",
+        "InterviewEndDate": "2023-06-06 18:59:47",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9036",
+        "InterviewEndDate": "2023-06-06 19:00:52",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9037",
+        "InterviewEndDate": "2023-06-06 19:11:54",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9038",
+        "InterviewEndDate": "2023-06-06 19:14:11",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
         "Terminal": "T1"
     }
 ]    
