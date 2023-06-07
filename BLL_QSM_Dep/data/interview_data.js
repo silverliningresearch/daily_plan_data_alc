@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-06-2023 16:28:36"
+        "download_time": "07-06-2023 17:28:22"
     },
     {
         "InterviewId": "6093",
@@ -16903,6 +16903,70 @@ let interview_data_raw = `[
         "Flight": "SK1498",
         "Dest": "ARN",
         "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "9658",
+        "InterviewEndDate": "2023-06-07 14:44:25",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9659",
+        "InterviewEndDate": "2023-06-07 14:42:58",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9660",
+        "InterviewEndDate": "2023-06-07 14:44:43",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9661",
+        "InterviewEndDate": "2023-06-07 14:40:38",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9662",
+        "InterviewEndDate": "2023-06-07 14:45:48",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9663",
+        "InterviewEndDate": "2023-06-07 14:44:11",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9664",
+        "InterviewEndDate": "2023-06-07 14:49:52",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "9665",
+        "InterviewEndDate": "2023-06-07 14:48:50",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
     }
 ]    
 
