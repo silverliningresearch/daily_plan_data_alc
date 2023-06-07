@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-06-2023 14:28:13"
+        "download_time": "07-06-2023 15:28:16"
     },
     {
         "InterviewId": "6093",
@@ -16839,6 +16839,62 @@ let interview_data_raw = `[
         "Flight": "DY995",
         "Dest": "OSL",
         "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "9650",
+        "InterviewEndDate": "2023-06-07 13:20:20",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "9651",
+        "InterviewEndDate": "2023-06-07 13:27:49",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "9652",
+        "InterviewEndDate": "2023-06-07 13:26:15",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "9653",
+        "InterviewEndDate": "2023-06-07 13:27:10",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "9655",
+        "InterviewEndDate": "2023-06-07 13:24:16",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "9656",
+        "InterviewEndDate": "2023-06-07 13:24:00",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "9657",
+        "InterviewEndDate": "2023-06-07 13:27:29",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
     }
 ]    
 
