@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-06-2023 20:28:06"
+        "download_time": "07-06-2023 21:28:05"
     },
     {
         "InterviewId": "6093",
@@ -17103,6 +17103,70 @@ let interview_data_raw = `[
         "Flight": "LO468",
         "Dest": "WAW",
         "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "9684",
+        "InterviewEndDate": "2023-06-07 18:57:26",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "9685",
+        "InterviewEndDate": "2023-06-07 18:56:07",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "9686",
+        "InterviewEndDate": "2023-06-07 18:54:40",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "9687",
+        "InterviewEndDate": "2023-06-07 18:54:39",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "9688",
+        "InterviewEndDate": "2023-06-07 18:53:54",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "9689",
+        "InterviewEndDate": "2023-06-07 18:56:14",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "9690",
+        "InterviewEndDate": "2023-06-07 19:01:55",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "9691",
+        "InterviewEndDate": "2023-06-07 19:07:00",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
     }
 ]    
 
