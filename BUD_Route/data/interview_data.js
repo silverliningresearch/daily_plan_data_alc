@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "08-06-2023 10:30:16"
+        "download_time": "08-06-2023 11:30:16"
     },
     {
         "InterviewId": "67210",
@@ -58759,6 +58759,174 @@ let interview_data_raw = `[
         "Flight": "EZY8732",
         "Dest": "LGW",
         "AirlineCode": "EZY8732"
+    },
+    {
+        "InterviewId": "74807",
+        "InterviewEndDate": "2023-06-08 08:31:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74808",
+        "InterviewEndDate": "2023-06-08 08:30:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74809",
+        "InterviewEndDate": "2023-06-08 08:39:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74810",
+        "InterviewEndDate": "2023-06-08 08:40:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74811",
+        "InterviewEndDate": "2023-06-08 08:40:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74812",
+        "InterviewEndDate": "2023-06-08 08:39:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74813",
+        "InterviewEndDate": "2023-06-08 08:41:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74814",
+        "InterviewEndDate": "2023-06-08 08:48:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74815",
+        "InterviewEndDate": "2023-06-08 08:47:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74816",
+        "InterviewEndDate": "2023-06-08 08:48:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74817",
+        "InterviewEndDate": "2023-06-08 08:48:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74818",
+        "InterviewEndDate": "2023-06-08 08:48:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74819",
+        "InterviewEndDate": "2023-06-08 08:55:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74820",
+        "InterviewEndDate": "2023-06-08 08:54:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74822",
+        "InterviewEndDate": "2023-06-08 08:54:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74823",
+        "InterviewEndDate": "2023-06-08 09:00:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74824",
+        "InterviewEndDate": "2023-06-08 08:53:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74825",
+        "InterviewEndDate": "2023-06-08 09:00:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74826",
+        "InterviewEndDate": "2023-06-08 08:58:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74827",
+        "InterviewEndDate": "2023-06-08 08:58:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74828",
+        "InterviewEndDate": "2023-06-08 08:58:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
     }
 ]    
 
