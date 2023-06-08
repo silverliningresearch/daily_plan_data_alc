@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "08-06-2023 16:30:24"
+        "download_time": "08-06-2023 17:30:14"
     },
     {
         "InterviewId": "67210",
@@ -59075,6 +59075,190 @@ let interview_data_raw = `[
     {
         "InterviewId": "74847",
         "InterviewEndDate": "2023-06-08 14:03:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74848",
+        "InterviewEndDate": "2023-06-08 14:31:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74849",
+        "InterviewEndDate": "2023-06-08 14:29:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74850",
+        "InterviewEndDate": "2023-06-08 14:32:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74852",
+        "InterviewEndDate": "2023-06-08 14:29:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74853",
+        "InterviewEndDate": "2023-06-08 14:33:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74854",
+        "InterviewEndDate": "2023-06-08 14:35:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74855",
+        "InterviewEndDate": "2023-06-08 14:36:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74856",
+        "InterviewEndDate": "2023-06-08 14:42:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74857",
+        "InterviewEndDate": "2023-06-08 14:40:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74858",
+        "InterviewEndDate": "2023-06-08 14:39:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74859",
+        "InterviewEndDate": "2023-06-08 14:42:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74860",
+        "InterviewEndDate": "2023-06-08 14:46:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74861",
+        "InterviewEndDate": "2023-06-08 14:47:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74862",
+        "InterviewEndDate": "2023-06-08 14:46:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74863",
+        "InterviewEndDate": "2023-06-08 14:48:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74864",
+        "InterviewEndDate": "2023-06-08 14:48:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74865",
+        "InterviewEndDate": "2023-06-08 14:50:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74866",
+        "InterviewEndDate": "2023-06-08 14:49:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74867",
+        "InterviewEndDate": "2023-06-08 14:54:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74868",
+        "InterviewEndDate": "2023-06-08 14:54:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74869",
+        "InterviewEndDate": "2023-06-08 14:57:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74870",
+        "InterviewEndDate": "2023-06-08 14:56:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2225",
+        "Dest": "EDI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74871",
+        "InterviewEndDate": "2023-06-08 14:55:17",
         "InterviewState": "Complete",
         "Flight": "W6 2225",
         "Dest": "EDI",
