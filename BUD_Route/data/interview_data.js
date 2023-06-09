@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "09-06-2023 09:30:27"
+        "download_time": "09-06-2023 10:30:31"
     },
     {
         "InterviewId": "67210",
@@ -59291,6 +59291,94 @@ let interview_data_raw = `[
     {
         "InterviewId": "74875",
         "InterviewEndDate": "2023-06-09 07:29:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74876",
+        "InterviewEndDate": "2023-06-09 07:35:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74877",
+        "InterviewEndDate": "2023-06-09 07:35:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74878",
+        "InterviewEndDate": "2023-06-09 07:34:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74879",
+        "InterviewEndDate": "2023-06-09 07:34:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74880",
+        "InterviewEndDate": "2023-06-09 07:37:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74881",
+        "InterviewEndDate": "2023-06-09 07:38:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74882",
+        "InterviewEndDate": "2023-06-09 07:41:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74883",
+        "InterviewEndDate": "2023-06-09 07:40:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74884",
+        "InterviewEndDate": "2023-06-09 07:41:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74885",
+        "InterviewEndDate": "2023-06-09 07:43:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74886",
+        "InterviewEndDate": "2023-06-09 07:44:55",
         "InterviewState": "Complete",
         "Flight": "W6 2281",
         "Dest": "CRL",

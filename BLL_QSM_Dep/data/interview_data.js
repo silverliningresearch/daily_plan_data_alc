@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-06-2023 09:28:13"
+        "download_time": "09-06-2023 10:28:15"
     },
     {
         "InterviewId": "6093",
@@ -17409,12 +17409,92 @@ let interview_data_raw = `[
         "AirlineCode": "KL1342"
     },
     {
+        "InterviewId": "9724",
+        "InterviewEndDate": "2023-06-09 07:33:26",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
         "InterviewId": "9725",
         "InterviewEndDate": "2023-06-09 07:25:36",
         "InterviewState": "Complete",
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9726",
+        "InterviewEndDate": "2023-06-09 07:29:43",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9727",
+        "InterviewEndDate": "2023-06-09 08:14:29",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9728",
+        "InterviewEndDate": "2023-06-09 08:13:02",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9729",
+        "InterviewEndDate": "2023-06-09 08:07:05",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9730",
+        "InterviewEndDate": "2023-06-09 08:02:16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9731",
+        "InterviewEndDate": "2023-06-09 08:15:16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9732",
+        "InterviewEndDate": "2023-06-09 08:17:10",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9733",
+        "InterviewEndDate": "2023-06-09 08:15:13",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9734",
+        "InterviewEndDate": "2023-06-09 08:21:59",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
     }
 ]    
 
