@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "09-06-2023 13:30:22"
+        "download_time": "09-06-2023 14:30:36"
     },
     {
         "InterviewId": "67210",
@@ -59713,6 +59713,22 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "74928",
+        "InterviewEndDate": "2023-06-09 11:38:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74929",
+        "InterviewEndDate": "2023-06-09 11:31:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "74931",
         "InterviewEndDate": "2023-06-09 11:14:03",
         "InterviewState": "Complete",
@@ -59723,6 +59739,150 @@ let interview_data_raw = `[
     {
         "InterviewId": "74932",
         "InterviewEndDate": "2023-06-09 11:16:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74933",
+        "InterviewEndDate": "2023-06-09 11:38:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74934",
+        "InterviewEndDate": "2023-06-09 11:41:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74935",
+        "InterviewEndDate": "2023-06-09 11:44:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74936",
+        "InterviewEndDate": "2023-06-09 11:45:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74937",
+        "InterviewEndDate": "2023-06-09 11:46:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74938",
+        "InterviewEndDate": "2023-06-09 11:49:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74939",
+        "InterviewEndDate": "2023-06-09 11:48:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74940",
+        "InterviewEndDate": "2023-06-09 11:54:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74941",
+        "InterviewEndDate": "2023-06-09 11:57:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74942",
+        "InterviewEndDate": "2023-06-09 11:57:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74943",
+        "InterviewEndDate": "2023-06-09 11:54:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74944",
+        "InterviewEndDate": "2023-06-09 11:53:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74945",
+        "InterviewEndDate": "2023-06-09 12:06:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74946",
+        "InterviewEndDate": "2023-06-09 12:00:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74947",
+        "InterviewEndDate": "2023-06-09 12:06:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74948",
+        "InterviewEndDate": "2023-06-09 12:01:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74949",
+        "InterviewEndDate": "2023-06-09 12:03:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 4269",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "74950",
+        "InterviewEndDate": "2023-06-09 12:03:59",
         "InterviewState": "Complete",
         "Flight": "FR 4269",
         "Dest": "TLV",
