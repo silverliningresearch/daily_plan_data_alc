@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-06-2023 08:28:10"
+        "download_time": "09-06-2023 09:28:13"
     },
     {
         "InterviewId": "6093",
@@ -17295,6 +17295,126 @@ let interview_data_raw = `[
         "Flight": "JTD557",
         "Dest": "CHQ",
         "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9710",
+        "InterviewEndDate": "2023-06-09 06:51:05",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9711",
+        "InterviewEndDate": "2023-06-09 06:53:55",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9712",
+        "InterviewEndDate": "2023-06-09 06:55:46",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9713",
+        "InterviewEndDate": "2023-06-09 06:56:59",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9714",
+        "InterviewEndDate": "2023-06-09 06:50:23",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9715",
+        "InterviewEndDate": "2023-06-09 06:50:15",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9716",
+        "InterviewEndDate": "2023-06-09 06:47:02",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9717",
+        "InterviewEndDate": "2023-06-09 06:47:51",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9718",
+        "InterviewEndDate": "2023-06-09 06:57:10",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "9719",
+        "InterviewEndDate": "2023-06-09 07:21:59",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9720",
+        "InterviewEndDate": "2023-06-09 07:20:14",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9721",
+        "InterviewEndDate": "2023-06-09 07:23:55",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9722",
+        "InterviewEndDate": "2023-06-09 07:23:07",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9723",
+        "InterviewEndDate": "2023-06-09 07:26:03",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9725",
+        "InterviewEndDate": "2023-06-09 07:25:36",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
     }
 ]    
 
