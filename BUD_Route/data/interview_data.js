@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "09-06-2023 15:30:28"
+        "download_time": "09-06-2023 16:30:46"
     },
     {
         "InterviewId": "67210",
@@ -60023,6 +60023,86 @@ let interview_data_raw = `[
         "Flight": "W6 2327",
         "Dest": "TLV",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "74969",
+        "InterviewEndDate": "2023-06-09 14:14:04",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74970",
+        "InterviewEndDate": "2023-06-09 14:14:03",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74971",
+        "InterviewEndDate": "2023-06-09 14:12:20",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74972",
+        "InterviewEndDate": "2023-06-09 14:12:07",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74973",
+        "InterviewEndDate": "2023-06-09 14:12:06",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74976",
+        "InterviewEndDate": "2023-06-09 14:19:42",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74977",
+        "InterviewEndDate": "2023-06-09 14:17:43",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74978",
+        "InterviewEndDate": "2023-06-09 14:19:45",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74979",
+        "InterviewEndDate": "2023-06-09 14:21:36",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "74981",
+        "InterviewEndDate": "2023-06-09 14:29:58",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
     }
 ]    
 
