@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-06-2023 06:28:07"
+        "download_time": "09-06-2023 07:28:06"
     },
     {
         "InterviewId": "6093",
@@ -17231,6 +17231,70 @@ let interview_data_raw = `[
         "Flight": "FR3685",
         "Dest": "KRK",
         "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "9701",
+        "InterviewEndDate": "2023-06-09 04:36:50",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9702",
+        "InterviewEndDate": "2023-06-09 04:52:22",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9703",
+        "InterviewEndDate": "2023-06-09 04:49:05",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9704",
+        "InterviewEndDate": "2023-06-09 04:48:44",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9705",
+        "InterviewEndDate": "2023-06-09 04:43:52",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9706",
+        "InterviewEndDate": "2023-06-09 04:40:33",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9707",
+        "InterviewEndDate": "2023-06-09 04:52:55",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "9709",
+        "InterviewEndDate": "2023-06-09 05:05:43",
+        "InterviewState": "Complete",
+        "Flight": "JTD557",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD557"
     }
 ]    
 
