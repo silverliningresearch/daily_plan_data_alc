@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "10-06-2023 16:30:12"
+        "download_time": "10-06-2023 17:30:26"
     },
     {
         "InterviewId": "67210",
@@ -61971,6 +61971,118 @@ let interview_data_raw = `[
     {
         "InterviewId": "75221",
         "InterviewEndDate": "2023-06-10 14:29:10",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75222",
+        "InterviewEndDate": "2023-06-10 14:30:47",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75223",
+        "InterviewEndDate": "2023-06-10 14:30:17",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75224",
+        "InterviewEndDate": "2023-06-10 14:32:19",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75225",
+        "InterviewEndDate": "2023-06-10 14:32:08",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75226",
+        "InterviewEndDate": "2023-06-10 14:33:49",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75227",
+        "InterviewEndDate": "2023-06-10 14:34:05",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75228",
+        "InterviewEndDate": "2023-06-10 14:35:17",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75229",
+        "InterviewEndDate": "2023-06-10 14:36:52",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75230",
+        "InterviewEndDate": "2023-06-10 14:38:14",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75231",
+        "InterviewEndDate": "2023-06-10 14:38:44",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75232",
+        "InterviewEndDate": "2023-06-10 14:39:12",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75233",
+        "InterviewEndDate": "2023-06-10 14:40:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75234",
+        "InterviewEndDate": "2023-06-10 14:43:19",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "75235",
+        "InterviewEndDate": "2023-06-10 14:41:29",
         "InterviewState": "Complete",
         "Flight": "KL 1978",
         "Dest": "AMS",
