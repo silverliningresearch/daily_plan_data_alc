@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "10-06-2023 11:28:42"
+        "download_time": "10-06-2023 12:28:42"
     },
     {
         "InterviewId": "1224",
@@ -1759,6 +1759,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BCN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1443",
+        "InterviewEndDate": "2023-06-10 09:45:07",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "1444",
+        "InterviewEndDate": "2023-06-10 09:49:04",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "1445",
+        "InterviewEndDate": "2023-06-10 09:54:22",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "1446",
+        "InterviewEndDate": "2023-06-10 09:58:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "1447",
+        "InterviewEndDate": "2023-06-10 10:03:20",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
