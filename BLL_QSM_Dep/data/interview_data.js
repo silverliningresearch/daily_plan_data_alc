@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-06-2023 17:28:08"
+        "download_time": "11-06-2023 18:28:09"
     },
     {
         "InterviewId": "6093",
@@ -17759,6 +17759,70 @@ let interview_data_raw = `[
         "Flight": "SK1904",
         "Dest": "OSL",
         "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "9771",
+        "InterviewEndDate": "2023-06-11 15:50:33",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
+    },
+    {
+        "InterviewId": "9772",
+        "InterviewEndDate": "2023-06-11 16:00:20",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
+    },
+    {
+        "InterviewId": "9773",
+        "InterviewEndDate": "2023-06-11 15:51:31",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
+    },
+    {
+        "InterviewId": "9774",
+        "InterviewEndDate": "2023-06-11 15:47:19",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
+    },
+    {
+        "InterviewId": "9775",
+        "InterviewEndDate": "2023-06-11 15:54:07",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
+    },
+    {
+        "InterviewId": "9776",
+        "InterviewEndDate": "2023-06-11 15:51:43",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
+    },
+    {
+        "InterviewId": "9777",
+        "InterviewEndDate": "2023-06-11 15:51:11",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
+    },
+    {
+        "InterviewId": "9778",
+        "InterviewEndDate": "2023-06-11 15:51:53",
+        "InterviewState": "Complete",
+        "Flight": "NVR761",
+        "Dest": "RHO",
+        "AirlineCode": "NVR761"
     }
 ]    
 
