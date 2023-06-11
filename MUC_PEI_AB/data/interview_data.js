@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-06-2023 07:27:15"
+        "download_time": "11-06-2023 08:27:17"
     },
     {
         "InterviewId": "15848",
@@ -17007,6 +17007,110 @@ let interview_data_raw = `[
         "Flight": "NMA7491",
         "Dest": "HRG",
         "AirlineCode": "NMA7491"
+    },
+    {
+        "InterviewId": "18365",
+        "InterviewEndDate": "2023-06-11 05:31:12",
+        "InterviewState": "Complete",
+        "Flight": "NMA7491",
+        "Dest": "HRG",
+        "AirlineCode": "NMA7491"
+    },
+    {
+        "InterviewId": "18366",
+        "InterviewEndDate": "2023-06-11 05:36:27",
+        "InterviewState": "Complete",
+        "Flight": "NMA7491",
+        "Dest": "HRG",
+        "AirlineCode": "NMA7491"
+    },
+    {
+        "InterviewId": "18367",
+        "InterviewEndDate": "2023-06-11 05:39:41",
+        "InterviewState": "Complete",
+        "Flight": "NMA7491",
+        "Dest": "HRG",
+        "AirlineCode": "NMA7491"
+    },
+    {
+        "InterviewId": "18368",
+        "InterviewEndDate": "2023-06-11 05:39:48",
+        "InterviewState": "Complete",
+        "Flight": "NMA7491",
+        "Dest": "HRG",
+        "AirlineCode": "NMA7491"
+    },
+    {
+        "InterviewId": "18371",
+        "InterviewEndDate": "2023-06-11 05:43:39",
+        "InterviewState": "Complete",
+        "Flight": "NMA7491",
+        "Dest": "HRG",
+        "AirlineCode": "NMA7491"
+    },
+    {
+        "InterviewId": "18372",
+        "InterviewEndDate": "2023-06-11 05:44:15",
+        "InterviewState": "Complete",
+        "Flight": "NMA7491",
+        "Dest": "HRG",
+        "AirlineCode": "NMA7491"
+    },
+    {
+        "InterviewId": "18373",
+        "InterviewEndDate": "2023-06-11 06:03:55",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "18374",
+        "InterviewEndDate": "2023-06-11 06:11:29",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "18375",
+        "InterviewEndDate": "2023-06-11 06:11:49",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "18376",
+        "InterviewEndDate": "2023-06-11 06:10:46",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "18377",
+        "InterviewEndDate": "2023-06-11 06:18:58",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "18378",
+        "InterviewEndDate": "2023-06-11 06:19:28",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "18379",
+        "InterviewEndDate": "2023-06-11 06:18:32",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
     }
 ]    
 
