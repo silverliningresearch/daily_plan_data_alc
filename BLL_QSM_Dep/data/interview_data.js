@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-06-2023 21:28:06"
+        "download_time": "11-06-2023 22:28:09"
     },
     {
         "InterviewId": "6093",
@@ -18015,6 +18015,70 @@ let interview_data_raw = `[
         "Flight": "FR997",
         "Dest": "MAD",
         "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "9803",
+        "InterviewEndDate": "2023-06-11 19:30:44",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9804",
+        "InterviewEndDate": "2023-06-11 19:30:59",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9805",
+        "InterviewEndDate": "2023-06-11 19:31:24",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9806",
+        "InterviewEndDate": "2023-06-11 19:46:13",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9807",
+        "InterviewEndDate": "2023-06-11 19:40:13",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9808",
+        "InterviewEndDate": "2023-06-11 19:43:01",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9809",
+        "InterviewEndDate": "2023-06-11 19:40:41",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "9810",
+        "InterviewEndDate": "2023-06-11 19:43:38",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
     }
 ]    
 
