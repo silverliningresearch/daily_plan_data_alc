@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-06-2023 14:28:04"
+        "download_time": "11-06-2023 15:28:06"
     },
     {
         "InterviewId": "6093",
@@ -17623,6 +17623,70 @@ let interview_data_raw = `[
         "Flight": "FR8497",
         "Dest": "PMI",
         "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9752",
+        "InterviewEndDate": "2023-06-11 13:08:35",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "9754",
+        "InterviewEndDate": "2023-06-11 13:15:16",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "9755",
+        "InterviewEndDate": "2023-06-11 13:10:20",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "9756",
+        "InterviewEndDate": "2023-06-11 13:16:22",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "9757",
+        "InterviewEndDate": "2023-06-11 13:17:17",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "9758",
+        "InterviewEndDate": "2023-06-11 13:15:12",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "9760",
+        "InterviewEndDate": "2023-06-11 13:17:29",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "9761",
+        "InterviewEndDate": "2023-06-11 13:11:20",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
     }
 ]    
 
