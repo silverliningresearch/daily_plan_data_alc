@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-06-2023 06:27:18"
+        "download_time": "11-06-2023 07:27:15"
     },
     {
         "InterviewId": "15848",
@@ -16959,6 +16959,54 @@ let interview_data_raw = `[
         "Flight": "XQ 987",
         "Dest": "ADB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18358",
+        "InterviewEndDate": "2023-06-11 04:31:31",
+        "InterviewState": "Complete",
+        "Flight": "XQ 987",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18359",
+        "InterviewEndDate": "2023-06-11 04:46:42",
+        "InterviewState": "Complete",
+        "Flight": "XQ 987",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18360",
+        "InterviewEndDate": "2023-06-11 04:49:35",
+        "InterviewState": "Complete",
+        "Flight": "XQ 987",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18361",
+        "InterviewEndDate": "2023-06-11 04:49:24",
+        "InterviewState": "Complete",
+        "Flight": "XQ 987",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18362",
+        "InterviewEndDate": "2023-06-11 04:52:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ 987",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18364",
+        "InterviewEndDate": "2023-06-11 05:21:03",
+        "InterviewState": "Complete",
+        "Flight": "NMA7491",
+        "Dest": "HRG",
+        "AirlineCode": "NMA7491"
     }
 ]    
 
