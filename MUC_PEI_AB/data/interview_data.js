@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-06-2023 10:27:17"
+        "download_time": "11-06-2023 11:27:17"
     },
     {
         "InterviewId": "15848",
@@ -17179,6 +17179,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "18389",
         "InterviewEndDate": "2023-06-11 08:20:44",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18390",
+        "InterviewEndDate": "2023-06-11 08:27:27",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18391",
+        "InterviewEndDate": "2023-06-11 08:27:12",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18392",
+        "InterviewEndDate": "2023-06-11 08:29:41",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18393",
+        "InterviewEndDate": "2023-06-11 08:37:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18394",
+        "InterviewEndDate": "2023-06-11 08:49:22",
         "InterviewState": "Complete",
         "Flight": "XQ 715",
         "Dest": "ESB",
