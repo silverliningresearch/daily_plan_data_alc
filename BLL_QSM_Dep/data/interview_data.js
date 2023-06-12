@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "12-06-2023 20:28:13"
+        "download_time": "12-06-2023 21:28:12"
     },
     {
         "InterviewId": "6093",
@@ -18143,6 +18143,70 @@ let interview_data_raw = `[
         "Flight": "FR5165",
         "Dest": "STN",
         "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "9820",
+        "InterviewEndDate": "2023-06-12 18:36:38",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9821",
+        "InterviewEndDate": "2023-06-12 18:33:13",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9822",
+        "InterviewEndDate": "2023-06-12 18:35:12",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9823",
+        "InterviewEndDate": "2023-06-12 18:37:01",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9824",
+        "InterviewEndDate": "2023-06-12 18:41:23",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9825",
+        "InterviewEndDate": "2023-06-12 18:38:54",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9826",
+        "InterviewEndDate": "2023-06-12 18:44:44",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9827",
+        "InterviewEndDate": "2023-06-12 18:40:59",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
     }
 ]    
 
