@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-06-2023 19:30:30"
+        "download_time": "12-06-2023 20:30:30"
     },
     {
         "InterviewId": "67210",
@@ -63015,6 +63015,94 @@ let interview_data_raw = `[
         "Flight": "FR 6521",
         "Dest": "ZAD",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75354",
+        "InterviewEndDate": "2023-06-12 17:52:18",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75355",
+        "InterviewEndDate": "2023-06-12 17:47:56",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75356",
+        "InterviewEndDate": "2023-06-12 17:48:36",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75357",
+        "InterviewEndDate": "2023-06-12 17:50:39",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75358",
+        "InterviewEndDate": "2023-06-12 17:49:08",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75359",
+        "InterviewEndDate": "2023-06-12 17:57:09",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75360",
+        "InterviewEndDate": "2023-06-12 17:54:57",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75361",
+        "InterviewEndDate": "2023-06-12 17:54:21",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75362",
+        "InterviewEndDate": "2023-06-12 17:54:33",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75363",
+        "InterviewEndDate": "2023-06-12 17:57:26",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "75366",
+        "InterviewEndDate": "2023-06-12 17:59:36",
+        "InterviewState": "Complete",
+        "Flight": "LO  532",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
