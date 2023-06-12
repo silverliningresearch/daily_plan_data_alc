@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-06-2023 16:30:42"
+        "download_time": "12-06-2023 18:30:28"
     },
     {
         "InterviewId": "67210",
@@ -62623,6 +62623,118 @@ let interview_data_raw = `[
         "Flight": "W6 2371",
         "Dest": "MAD",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75303",
+        "InterviewEndDate": "2023-06-12 15:53:03",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75304",
+        "InterviewEndDate": "2023-06-12 15:53:20",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75305",
+        "InterviewEndDate": "2023-06-12 15:50:50",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75306",
+        "InterviewEndDate": "2023-06-12 15:57:47",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75307",
+        "InterviewEndDate": "2023-06-12 15:57:56",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75308",
+        "InterviewEndDate": "2023-06-12 15:58:25",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75309",
+        "InterviewEndDate": "2023-06-12 15:58:06",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75310",
+        "InterviewEndDate": "2023-06-12 16:02:04",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75311",
+        "InterviewEndDate": "2023-06-12 16:01:34",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75312",
+        "InterviewEndDate": "2023-06-12 16:06:28",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75313",
+        "InterviewEndDate": "2023-06-12 16:03:02",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75314",
+        "InterviewEndDate": "2023-06-12 16:03:18",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75315",
+        "InterviewEndDate": "2023-06-12 16:05:24",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75316",
+        "InterviewEndDate": "2023-06-12 16:06:35",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
