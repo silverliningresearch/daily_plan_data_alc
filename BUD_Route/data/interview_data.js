@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-06-2023 18:30:28"
+        "download_time": "12-06-2023 19:30:30"
     },
     {
         "InterviewId": "67210",
@@ -62735,6 +62735,286 @@ let interview_data_raw = `[
         "Flight": "SN 2826",
         "Dest": "BRU",
         "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "75317",
+        "InterviewEndDate": "2023-06-12 16:43:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75318",
+        "InterviewEndDate": "2023-06-12 16:41:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75319",
+        "InterviewEndDate": "2023-06-12 16:41:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75321",
+        "InterviewEndDate": "2023-06-12 16:34:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75322",
+        "InterviewEndDate": "2023-06-12 16:40:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75323",
+        "InterviewEndDate": "2023-06-12 16:46:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75324",
+        "InterviewEndDate": "2023-06-12 17:01:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75325",
+        "InterviewEndDate": "2023-06-12 16:54:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75326",
+        "InterviewEndDate": "2023-06-12 16:54:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75327",
+        "InterviewEndDate": "2023-06-12 16:55:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75328",
+        "InterviewEndDate": "2023-06-12 16:54:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75329",
+        "InterviewEndDate": "2023-06-12 17:00:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75330",
+        "InterviewEndDate": "2023-06-12 17:00:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75331",
+        "InterviewEndDate": "2023-06-12 16:59:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75332",
+        "InterviewEndDate": "2023-06-12 17:00:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75333",
+        "InterviewEndDate": "2023-06-12 17:11:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75334",
+        "InterviewEndDate": "2023-06-12 17:07:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75335",
+        "InterviewEndDate": "2023-06-12 17:07:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75336",
+        "InterviewEndDate": "2023-06-12 17:06:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75337",
+        "InterviewEndDate": "2023-06-12 17:12:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75338",
+        "InterviewEndDate": "2023-06-12 17:12:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75339",
+        "InterviewEndDate": "2023-06-12 17:15:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75340",
+        "InterviewEndDate": "2023-06-12 17:15:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75341",
+        "InterviewEndDate": "2023-06-12 17:21:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75342",
+        "InterviewEndDate": "2023-06-12 17:16:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75343",
+        "InterviewEndDate": "2023-06-12 17:17:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75344",
+        "InterviewEndDate": "2023-06-12 17:19:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75345",
+        "InterviewEndDate": "2023-06-12 17:21:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75346",
+        "InterviewEndDate": "2023-06-12 17:21:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75347",
+        "InterviewEndDate": "2023-06-12 17:21:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75348",
+        "InterviewEndDate": "2023-06-12 17:25:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75349",
+        "InterviewEndDate": "2023-06-12 17:25:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75350",
+        "InterviewEndDate": "2023-06-12 17:27:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75351",
+        "InterviewEndDate": "2023-06-12 17:28:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "75352",
+        "InterviewEndDate": "2023-06-12 17:26:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
     }
 ]    
 
