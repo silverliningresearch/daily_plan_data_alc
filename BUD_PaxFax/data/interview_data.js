@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "12-06-2023 12:30:55"
+        "download_time": "12-06-2023 13:31:00"
     },
     {
         "InterviewId": "7701",
@@ -6086,6 +6086,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2467",
         "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8548",
+        "InterviewEndDate": "2023-06-12 10:57:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8549",
+        "InterviewEndDate": "2023-06-12 10:57:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8550",
+        "InterviewEndDate": "2023-06-12 11:01:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8551",
+        "InterviewEndDate": "2023-06-12 10:58:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8552",
+        "InterviewEndDate": "2023-06-12 11:00:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8554",
+        "InterviewEndDate": "2023-06-12 11:05:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
         "AirlineCode": "W6"
     }
 ]    
