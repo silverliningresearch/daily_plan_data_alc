@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "13-06-2023 09:28:28"
+        "download_time": "13-06-2023 10:28:34"
     },
     {
         "InterviewId": "2077",
@@ -5015,6 +5015,38 @@ let interview_data_arr_raw = `[
         "Flight": "WF - Widereoe's Flyveselskab",
         "Dest": "BGO",
         "AirlineCode": "WF"
+    },
+    {
+        "InterviewId": "3324",
+        "InterviewEndDate": "2023-06-13 08:26:40",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3325",
+        "InterviewEndDate": "2023-06-13 08:25:39",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3326",
+        "InterviewEndDate": "2023-06-13 08:26:09",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3327",
+        "InterviewEndDate": "2023-06-13 08:23:50",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
     }
 ]    
 
