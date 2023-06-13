@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-06-2023 15:28:20"
+        "download_time": "13-06-2023 16:28:58"
     },
     {
         "InterviewId": "6093",
@@ -18407,6 +18407,70 @@ let interview_data_raw = `[
         "Flight": "OS322",
         "Dest": "VIE",
         "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "9861",
+        "InterviewEndDate": "2023-06-13 13:52:31",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "9862",
+        "InterviewEndDate": "2023-06-13 13:55:24",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "9863",
+        "InterviewEndDate": "2023-06-13 13:54:19",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "9864",
+        "InterviewEndDate": "2023-06-13 13:52:31",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "9865",
+        "InterviewEndDate": "2023-06-13 13:48:36",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "9867",
+        "InterviewEndDate": "2023-06-13 13:45:41",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "9868",
+        "InterviewEndDate": "2023-06-13 13:47:23",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "9869",
+        "InterviewEndDate": "2023-06-13 13:45:58",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
     }
 ]    
 

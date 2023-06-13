@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "13-06-2023 15:29:01"
+        "download_time": "13-06-2023 16:29:30"
     },
     {
         "InterviewId": "1224",
@@ -1951,6 +1951,54 @@ let interview_data_arr_raw = `[
         "Flight": "IB - Iberia",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1467",
+        "InterviewEndDate": "2023-06-13 13:30:11",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1468",
+        "InterviewEndDate": "2023-06-13 13:36:07",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "1469",
+        "InterviewEndDate": "2023-06-13 13:40:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1470",
+        "InterviewEndDate": "2023-06-13 13:43:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1471",
+        "InterviewEndDate": "2023-06-13 13:47:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1472",
+        "InterviewEndDate": "2023-06-13 13:53:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
     }
 ]    
 
