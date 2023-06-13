@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-06-2023 13:28:19"
+        "download_time": "13-06-2023 14:28:28"
     },
     {
         "InterviewId": "6093",
@@ -18271,6 +18271,118 @@ let interview_data_raw = `[
         "Flight": "FR3761",
         "Dest": "CRL",
         "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9837",
+        "InterviewEndDate": "2023-06-13 11:34:55",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9839",
+        "InterviewEndDate": "2023-06-13 11:38:47",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9840",
+        "InterviewEndDate": "2023-06-13 11:34:00",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9841",
+        "InterviewEndDate": "2023-06-13 11:45:59",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9842",
+        "InterviewEndDate": "2023-06-13 11:41:45",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9843",
+        "InterviewEndDate": "2023-06-13 11:44:24",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9844",
+        "InterviewEndDate": "2023-06-13 11:37:18",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "9845",
+        "InterviewEndDate": "2023-06-13 12:01:32",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "9846",
+        "InterviewEndDate": "2023-06-13 12:04:56",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "9847",
+        "InterviewEndDate": "2023-06-13 12:08:43",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "9848",
+        "InterviewEndDate": "2023-06-13 12:06:23",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "9849",
+        "InterviewEndDate": "2023-06-13 12:03:45",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "9851",
+        "InterviewEndDate": "2023-06-13 12:10:34",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "9852",
+        "InterviewEndDate": "2023-06-13 12:06:30",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
     }
 ]    
 
