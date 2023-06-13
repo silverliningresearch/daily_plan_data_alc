@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-06-2023 12:28:18"
+        "download_time": "13-06-2023 13:28:19"
     },
     {
         "InterviewId": "6093",
@@ -18207,6 +18207,70 @@ let interview_data_raw = `[
         "Flight": "FR3755",
         "Dest": "ALC",
         "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "9828",
+        "InterviewEndDate": "2023-06-13 11:10:29",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9829",
+        "InterviewEndDate": "2023-06-13 11:09:07",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9830",
+        "InterviewEndDate": "2023-06-13 11:10:56",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9831",
+        "InterviewEndDate": "2023-06-13 11:03:29",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9832",
+        "InterviewEndDate": "2023-06-13 11:09:22",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9833",
+        "InterviewEndDate": "2023-06-13 11:09:26",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9834",
+        "InterviewEndDate": "2023-06-13 11:10:01",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "9835",
+        "InterviewEndDate": "2023-06-13 11:07:45",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
     }
 ]    
 
