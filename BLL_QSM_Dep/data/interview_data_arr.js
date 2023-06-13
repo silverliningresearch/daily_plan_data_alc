@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "13-06-2023 11:28:32"
+        "download_time": "13-06-2023 12:28:30"
     },
     {
         "InterviewId": "2077",
@@ -5095,6 +5095,54 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "VNO",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3339",
+        "InterviewEndDate": "2023-06-13 09:38:48",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3340",
+        "InterviewEndDate": "2023-06-13 09:37:23",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3341",
+        "InterviewEndDate": "2023-06-13 09:36:48",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3343",
+        "InterviewEndDate": "2023-06-13 09:36:03",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3344",
+        "InterviewEndDate": "2023-06-13 09:36:40",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3345",
+        "InterviewEndDate": "2023-06-13 09:34:04",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
