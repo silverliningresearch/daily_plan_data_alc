@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "13-06-2023 10:28:34"
+        "download_time": "13-06-2023 11:28:32"
     },
     {
         "InterviewId": "2077",
@@ -5017,6 +5017,22 @@ let interview_data_arr_raw = `[
         "AirlineCode": "WF"
     },
     {
+        "InterviewId": "3322",
+        "InterviewEndDate": "2023-06-13 08:27:53",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3323",
+        "InterviewEndDate": "2023-06-13 08:27:44",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "3324",
         "InterviewEndDate": "2023-06-13 08:26:40",
         "InterviewState": "Complete",
@@ -5046,6 +5062,38 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3328",
+        "InterviewEndDate": "2023-06-13 08:35:32",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3334",
+        "InterviewEndDate": "2023-06-13 08:56:37",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VNO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3335",
+        "InterviewEndDate": "2023-06-13 08:53:39",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VNO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3336",
+        "InterviewEndDate": "2023-06-13 08:55:22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VNO",
         "AirlineCode": "FR"
     }
 ]    
