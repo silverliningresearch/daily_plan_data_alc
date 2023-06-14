@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "14-06-2023 19:28:41"
+        "download_time": "14-06-2023 20:28:54"
     },
     {
         "InterviewId": "1224",
@@ -1999,6 +1999,62 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "NAP",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1473",
+        "InterviewEndDate": "2023-06-14 18:07:07",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1474",
+        "InterviewEndDate": "2023-06-14 18:10:00",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1475",
+        "InterviewEndDate": "2023-06-14 18:14:01",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1476",
+        "InterviewEndDate": "2023-06-14 18:18:10",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1477",
+        "InterviewEndDate": "2023-06-14 18:21:12",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1478",
+        "InterviewEndDate": "2023-06-14 18:24:31",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1479",
+        "InterviewEndDate": "2023-06-14 18:28:02",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 
