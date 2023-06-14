@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "14-06-2023 10:27:23"
+        "download_time": "14-06-2023 11:27:23"
     },
     {
         "InterviewId": "15848",
@@ -17399,6 +17399,78 @@ let interview_data_raw = `[
         "Flight": "Lh1794",
         "Dest": "PMI",
         "AirlineCode": "Lh1794"
+    },
+    {
+        "InterviewId": "18421",
+        "InterviewEndDate": "2023-06-14 08:27:45",
+        "InterviewState": "Complete",
+        "Flight": "Lh1794",
+        "Dest": "PMI",
+        "AirlineCode": "Lh1794"
+    },
+    {
+        "InterviewId": "18422",
+        "InterviewEndDate": "2023-06-14 08:38:07",
+        "InterviewState": "Complete",
+        "Flight": "Lh1794",
+        "Dest": "PMI",
+        "AirlineCode": "Lh1794"
+    },
+    {
+        "InterviewId": "18423",
+        "InterviewEndDate": "2023-06-14 08:58:33",
+        "InterviewState": "Complete",
+        "Flight": "SN 2644",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "18425",
+        "InterviewEndDate": "2023-06-14 08:59:41",
+        "InterviewState": "Complete",
+        "Flight": "Sn2644",
+        "Dest": "BRU",
+        "AirlineCode": "Sn2644"
+    },
+    {
+        "InterviewId": "18426",
+        "InterviewEndDate": "2023-06-14 09:01:01",
+        "InterviewState": "Complete",
+        "Flight": "SN 2644",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "18428",
+        "InterviewEndDate": "2023-06-14 09:09:09",
+        "InterviewState": "Complete",
+        "Flight": "Sn2644",
+        "Dest": "BRU",
+        "AirlineCode": "Sn2644"
+    },
+    {
+        "InterviewId": "18429",
+        "InterviewEndDate": "2023-06-14 09:16:25",
+        "InterviewState": "Complete",
+        "Flight": "Sn2644",
+        "Dest": "BRU",
+        "AirlineCode": "Sn2644"
+    },
+    {
+        "InterviewId": "18430",
+        "InterviewEndDate": "2023-06-14 09:17:44",
+        "InterviewState": "Complete",
+        "Flight": "Sn2644",
+        "Dest": "BRU",
+        "AirlineCode": "Sn2644"
+    },
+    {
+        "InterviewId": "18431",
+        "InterviewEndDate": "2023-06-14 09:26:12",
+        "InterviewState": "Complete",
+        "Flight": "Sn2644",
+        "Dest": "BRU",
+        "AirlineCode": "Sn2644"
     }
 ]    
 
