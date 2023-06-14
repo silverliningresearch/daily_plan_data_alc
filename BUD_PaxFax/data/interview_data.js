@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "14-06-2023 04:30:20"
+        "download_time": "14-06-2023 05:30:20"
     },
     {
         "InterviewId": "7701",
@@ -6262,6 +6262,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2315",
         "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8572",
+        "InterviewEndDate": "2023-06-14 02:50:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2201",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8573",
+        "InterviewEndDate": "2023-06-14 02:48:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2201",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8574",
+        "InterviewEndDate": "2023-06-14 02:50:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2201",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8575",
+        "InterviewEndDate": "2023-06-14 02:52:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2201",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8576",
+        "InterviewEndDate": "2023-06-14 02:46:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2201",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8577",
+        "InterviewEndDate": "2023-06-14 03:11:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2333",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8578",
+        "InterviewEndDate": "2023-06-14 03:09:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2333",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8580",
+        "InterviewEndDate": "2023-06-14 03:09:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2333",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8581",
+        "InterviewEndDate": "2023-06-14 03:11:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2333",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8582",
+        "InterviewEndDate": "2023-06-14 03:08:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2333",
+        "Dest": "MXP",
         "AirlineCode": "W6"
     }
 ]    
