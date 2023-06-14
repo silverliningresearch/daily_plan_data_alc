@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-06-2023 07:27:27"
+        "download_time": "14-06-2023 08:27:29"
     },
     {
         "InterviewId": "5174",
@@ -3937,6 +3937,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "5784",
+        "InterviewEndDate": "2023-06-14 05:45:39",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
         "InterviewId": "5785",
         "InterviewEndDate": "2023-06-14 05:17:25",
         "InterviewState": "Complete",
@@ -3967,6 +3975,86 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BOM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5789",
+        "InterviewEndDate": "2023-06-14 05:35:03",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5790",
+        "InterviewEndDate": "2023-06-14 05:41:18",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "5791",
+        "InterviewEndDate": "2023-06-14 05:40:39",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "5792",
+        "InterviewEndDate": "2023-06-14 05:57:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "WRO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5793",
+        "InterviewEndDate": "2023-06-14 05:59:59",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "5794",
+        "InterviewEndDate": "2023-06-14 05:58:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5795",
+        "InterviewEndDate": "2023-06-14 06:16:32",
+        "InterviewState": "Complete",
+        "Flight": "LG - Luxair",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "5796",
+        "InterviewEndDate": "2023-06-14 06:17:10",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5797",
+        "InterviewEndDate": "2023-06-14 06:16:22",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "5798",
+        "InterviewEndDate": "2023-06-14 06:24:24",
+        "InterviewState": "Complete",
+        "Flight": "LG - Luxair",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
     }
 ]    
 
