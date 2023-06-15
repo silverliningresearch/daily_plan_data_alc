@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "15-06-2023 19:27:20"
+        "download_time": "15-06-2023 20:27:19"
     },
     {
         "InterviewId": "15848",
@@ -17639,6 +17639,62 @@ let interview_data_raw = `[
         "Flight": "IB 3193",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18457",
+        "InterviewEndDate": "2023-06-15 17:43:26",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "18458",
+        "InterviewEndDate": "2023-06-15 17:48:30",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "18459",
+        "InterviewEndDate": "2023-06-15 17:53:35",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "18460",
+        "InterviewEndDate": "2023-06-15 17:57:55",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "18463",
+        "InterviewEndDate": "2023-06-15 18:04:41",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "18464",
+        "InterviewEndDate": "2023-06-15 18:09:56",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "18465",
+        "InterviewEndDate": "2023-06-15 18:10:41",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 

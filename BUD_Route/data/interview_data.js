@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "15-06-2023 19:30:34"
+        "download_time": "15-06-2023 20:30:39"
     },
     {
         "InterviewId": "67210",
@@ -65987,6 +65987,150 @@ let interview_data_raw = `[
     {
         "InterviewId": "75737",
         "InterviewEndDate": "2023-06-15 17:26:38",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75738",
+        "InterviewEndDate": "2023-06-15 17:31:28",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75739",
+        "InterviewEndDate": "2023-06-15 17:31:45",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75740",
+        "InterviewEndDate": "2023-06-15 17:33:04",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75741",
+        "InterviewEndDate": "2023-06-15 17:35:40",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75742",
+        "InterviewEndDate": "2023-06-15 17:35:03",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75743",
+        "InterviewEndDate": "2023-06-15 17:41:41",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75744",
+        "InterviewEndDate": "2023-06-15 17:41:16",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75745",
+        "InterviewEndDate": "2023-06-15 17:40:27",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75746",
+        "InterviewEndDate": "2023-06-15 17:43:23",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75747",
+        "InterviewEndDate": "2023-06-15 17:43:59",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75748",
+        "InterviewEndDate": "2023-06-15 17:47:55",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75749",
+        "InterviewEndDate": "2023-06-15 17:47:56",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75750",
+        "InterviewEndDate": "2023-06-15 17:50:09",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75751",
+        "InterviewEndDate": "2023-06-15 17:50:07",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75752",
+        "InterviewEndDate": "2023-06-15 17:51:27",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75753",
+        "InterviewEndDate": "2023-06-15 17:57:00",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75754",
+        "InterviewEndDate": "2023-06-15 17:59:40",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "75755",
+        "InterviewEndDate": "2023-06-15 17:56:06",
         "InterviewState": "Complete",
         "Flight": "KE  962",
         "Dest": "ICN",

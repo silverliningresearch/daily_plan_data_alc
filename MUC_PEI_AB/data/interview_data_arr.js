@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-06-2023 19:27:28"
+        "download_time": "15-06-2023 20:27:28"
     },
     {
         "InterviewId": "5174",
@@ -4335,6 +4335,38 @@ let interview_data_arr_raw = `[
         "Flight": "WY - Oman Air",
         "Dest": "MCT",
         "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "5839",
+        "InterviewEndDate": "2023-06-15 17:35:31",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "5840",
+        "InterviewEndDate": "2023-06-15 17:35:27",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "5841",
+        "InterviewEndDate": "2023-06-15 18:10:09",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5842",
+        "InterviewEndDate": "2023-06-15 18:10:39",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
