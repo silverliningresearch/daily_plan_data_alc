@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-06-2023 17:27:36"
+        "download_time": "15-06-2023 18:27:32"
     },
     {
         "InterviewId": "5174",
@@ -4143,6 +4143,150 @@ let interview_data_arr_raw = `[
         "Flight": "DE - Condor Flugdienst",
         "Dest": "FNC",
         "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "5815",
+        "InterviewEndDate": "2023-06-15 15:30:59",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "EMPTY",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5816",
+        "InterviewEndDate": "2023-06-15 15:31:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "EMPTY",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5817",
+        "InterviewEndDate": "2023-06-15 15:42:11",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "EMPTY",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5818",
+        "InterviewEndDate": "2023-06-15 15:42:02",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "EMPTY",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5819",
+        "InterviewEndDate": "2023-06-15 15:42:06",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5820",
+        "InterviewEndDate": "2023-06-15 15:49:27",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "EMPTY",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5821",
+        "InterviewEndDate": "2023-06-15 15:49:17",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "EMPTY",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5822",
+        "InterviewEndDate": "2023-06-15 15:50:35",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5823",
+        "InterviewEndDate": "2023-06-15 15:54:00",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5824",
+        "InterviewEndDate": "2023-06-15 15:55:35",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "5825",
+        "InterviewEndDate": "2023-06-15 15:59:13",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5826",
+        "InterviewEndDate": "2023-06-15 16:06:05",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "5827",
+        "InterviewEndDate": "2023-06-15 16:10:37",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5828",
+        "InterviewEndDate": "2023-06-15 16:09:17",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "5829",
+        "InterviewEndDate": "2023-06-15 16:10:34",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5830",
+        "InterviewEndDate": "2023-06-15 16:20:29",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5831",
+        "InterviewEndDate": "2023-06-15 16:16:20",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "5832",
+        "InterviewEndDate": "2023-06-15 16:20:34",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
