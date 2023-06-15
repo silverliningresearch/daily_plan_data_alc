@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-06-2023 08:28:18"
+        "download_time": "15-06-2023 09:28:21"
     },
     {
         "InterviewId": "6093",
@@ -18535,6 +18535,78 @@ let interview_data_raw = `[
         "Flight": "AF1765",
         "Dest": "CDG",
         "AirlineCode": "AF1765"
+    },
+    {
+        "InterviewId": "9878",
+        "InterviewEndDate": "2023-06-15 06:56:00",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "9879",
+        "InterviewEndDate": "2023-06-15 06:52:46",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9880",
+        "InterviewEndDate": "2023-06-15 06:54:48",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9881",
+        "InterviewEndDate": "2023-06-15 06:59:06",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9882",
+        "InterviewEndDate": "2023-06-15 07:04:33",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9884",
+        "InterviewEndDate": "2023-06-15 07:02:55",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9885",
+        "InterviewEndDate": "2023-06-15 07:01:00",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9886",
+        "InterviewEndDate": "2023-06-15 07:09:37",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "9887",
+        "InterviewEndDate": "2023-06-15 07:27:46",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
     }
 ]    
 
