@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-06-2023 13:28:18"
+        "download_time": "15-06-2023 14:28:25"
     },
     {
         "InterviewId": "6093",
@@ -18839,6 +18839,70 @@ let interview_data_raw = `[
         "Flight": "OG911",
         "Dest": "KEF",
         "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "9921",
+        "InterviewEndDate": "2023-06-15 11:52:48",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "9922",
+        "InterviewEndDate": "2023-06-15 11:55:57",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "9923",
+        "InterviewEndDate": "2023-06-15 11:54:28",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "9924",
+        "InterviewEndDate": "2023-06-15 11:56:33",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "9925",
+        "InterviewEndDate": "2023-06-15 11:44:01",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "9926",
+        "InterviewEndDate": "2023-06-15 11:45:26",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "9927",
+        "InterviewEndDate": "2023-06-15 11:42:02",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "9928",
+        "InterviewEndDate": "2023-06-15 11:48:54",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
     }
 ]    
 
