@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-06-2023 11:28:21"
+        "download_time": "15-06-2023 12:28:29"
     },
     {
         "InterviewId": "6093",
@@ -18727,6 +18727,118 @@ let interview_data_raw = `[
         "Flight": "LH837",
         "Dest": "FRA",
         "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "9905",
+        "InterviewEndDate": "2023-06-15 09:38:25",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9906",
+        "InterviewEndDate": "2023-06-15 09:40:47",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9907",
+        "InterviewEndDate": "2023-06-15 09:39:50",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9908",
+        "InterviewEndDate": "2023-06-15 09:44:50",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9909",
+        "InterviewEndDate": "2023-06-15 09:33:45",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9911",
+        "InterviewEndDate": "2023-06-15 09:38:45",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9912",
+        "InterviewEndDate": "2023-06-15 09:40:26",
+        "InterviewState": "Complete",
+        "Flight": "GQ7424",
+        "Dest": "ZTH",
+        "AirlineCode": "GQ7424"
+    },
+    {
+        "InterviewId": "9913",
+        "InterviewEndDate": "2023-06-15 10:01:34",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "9914",
+        "InterviewEndDate": "2023-06-15 10:04:10",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "9915",
+        "InterviewEndDate": "2023-06-15 10:07:39",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "9916",
+        "InterviewEndDate": "2023-06-15 10:09:06",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "9917",
+        "InterviewEndDate": "2023-06-15 10:10:32",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "9918",
+        "InterviewEndDate": "2023-06-15 10:13:31",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "9919",
+        "InterviewEndDate": "2023-06-15 10:14:38",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
     }
 ]    
 
