@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "17-06-2023 03:30:14"
+        "download_time": "17-06-2023 04:30:15"
     },
     {
         "InterviewId": "67210",
@@ -66202,7 +66202,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "75764",
-        "InterviewEndDate": "2023-06-15 19:43:53",
+        "InterviewEndDate": "2023-06-17 01:35:38",
         "InterviewState": "Complete",
         "Flight": "FZ 1406",
         "Dest": "DXB",
@@ -67223,6 +67223,238 @@ let interview_data_raw = `[
         "Flight": "OS  722",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "75893",
+        "InterviewEndDate": "2023-06-17 01:43:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75894",
+        "InterviewEndDate": "2023-06-17 01:43:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75895",
+        "InterviewEndDate": "2023-06-17 01:45:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75896",
+        "InterviewEndDate": "2023-06-17 01:45:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75897",
+        "InterviewEndDate": "2023-06-17 01:46:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75898",
+        "InterviewEndDate": "2023-06-17 01:50:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75899",
+        "InterviewEndDate": "2023-06-17 01:50:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75900",
+        "InterviewEndDate": "2023-06-17 01:53:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75901",
+        "InterviewEndDate": "2023-06-17 01:53:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75902",
+        "InterviewEndDate": "2023-06-17 01:53:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75903",
+        "InterviewEndDate": "2023-06-17 02:02:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75905",
+        "InterviewEndDate": "2023-06-17 02:04:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75907",
+        "InterviewEndDate": "2023-06-17 02:02:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75908",
+        "InterviewEndDate": "2023-06-17 02:06:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75910",
+        "InterviewEndDate": "2023-06-17 02:06:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75911",
+        "InterviewEndDate": "2023-06-17 02:07:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75912",
+        "InterviewEndDate": "2023-06-17 02:12:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75913",
+        "InterviewEndDate": "2023-06-17 02:13:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75914",
+        "InterviewEndDate": "2023-06-17 02:13:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75915",
+        "InterviewEndDate": "2023-06-17 02:11:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75916",
+        "InterviewEndDate": "2023-06-17 02:11:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75917",
+        "InterviewEndDate": "2023-06-17 02:23:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75918",
+        "InterviewEndDate": "2023-06-17 02:22:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75919",
+        "InterviewEndDate": "2023-06-17 02:20:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75921",
+        "InterviewEndDate": "2023-06-17 02:21:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75922",
+        "InterviewEndDate": "2023-06-17 02:21:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75923",
+        "InterviewEndDate": "2023-06-17 02:24:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75924",
+        "InterviewEndDate": "2023-06-17 02:25:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75925",
+        "InterviewEndDate": "2023-06-17 02:25:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
     }
 ]    
 
