@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "17-06-2023 09:27:19"
+        "download_time": "17-06-2023 10:27:20"
     },
     {
         "InterviewId": "15848",
@@ -17807,6 +17807,70 @@ let interview_data_raw = `[
         "Flight": "QR 060",
         "Dest": "DOH",
         "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "18481",
+        "InterviewEndDate": "2023-06-17 07:28:32",
+        "InterviewState": "Complete",
+        "Flight": "XC 6104",
+        "Dest": "AYT",
+        "AirlineCode": "XC"
+    },
+    {
+        "InterviewId": "18482",
+        "InterviewEndDate": "2023-06-17 07:27:37",
+        "InterviewState": "Complete",
+        "Flight": "XC 6104",
+        "Dest": "AYT",
+        "AirlineCode": "XC"
+    },
+    {
+        "InterviewId": "18483",
+        "InterviewEndDate": "2023-06-17 07:29:13",
+        "InterviewState": "Complete",
+        "Flight": "XC 6104",
+        "Dest": "AYT",
+        "AirlineCode": "XC"
+    },
+    {
+        "InterviewId": "18484",
+        "InterviewEndDate": "2023-06-17 07:37:05",
+        "InterviewState": "Complete",
+        "Flight": "XC 6104",
+        "Dest": "AYT",
+        "AirlineCode": "XC"
+    },
+    {
+        "InterviewId": "18485",
+        "InterviewEndDate": "2023-06-17 07:29:46",
+        "InterviewState": "Complete",
+        "Flight": "XC 6104",
+        "Dest": "AYT",
+        "AirlineCode": "XC"
+    },
+    {
+        "InterviewId": "18486",
+        "InterviewEndDate": "2023-06-17 07:36:26",
+        "InterviewState": "Complete",
+        "Flight": "XC 6104",
+        "Dest": "AYT",
+        "AirlineCode": "XC"
+    },
+    {
+        "InterviewId": "18488",
+        "InterviewEndDate": "2023-06-17 07:41:07",
+        "InterviewState": "Complete",
+        "Flight": "XC 6104",
+        "Dest": "AYT",
+        "AirlineCode": "XC"
+    },
+    {
+        "InterviewId": "18493",
+        "InterviewEndDate": "2023-06-17 07:54:06",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
     }
 ]    
 

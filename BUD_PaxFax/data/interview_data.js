@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "17-06-2023 09:30:39"
+        "download_time": "17-06-2023 10:30:36"
     },
     {
         "InterviewId": "7701",
@@ -6719,6 +6719,70 @@ let interview_data_raw = `[
         "Flight": "FR 4275",
         "Dest": "MRS",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8637",
+        "InterviewEndDate": "2023-06-17 07:31:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8638",
+        "InterviewEndDate": "2023-06-17 07:32:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8639",
+        "InterviewEndDate": "2023-06-17 07:49:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8640",
+        "InterviewEndDate": "2023-06-17 07:55:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8641",
+        "InterviewEndDate": "2023-06-17 07:49:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8642",
+        "InterviewEndDate": "2023-06-17 07:49:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8643",
+        "InterviewEndDate": "2023-06-17 07:58:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8644",
+        "InterviewEndDate": "2023-06-17 07:56:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6"
     }
 ]    
 
