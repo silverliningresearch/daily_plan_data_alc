@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "17-06-2023 11:27:19"
+        "download_time": "17-06-2023 12:27:20"
     },
     {
         "InterviewId": "15848",
@@ -17935,6 +17935,86 @@ let interview_data_raw = `[
         "Flight": "MBU6810",
         "Dest": "OLB",
         "AirlineCode": "MBU6810"
+    },
+    {
+        "InterviewId": "18500",
+        "InterviewEndDate": "2023-06-17 09:31:18",
+        "InterviewState": "Complete",
+        "Flight": "MBU6522",
+        "Dest": "LPA",
+        "AirlineCode": "MBU6522"
+    },
+    {
+        "InterviewId": "18501",
+        "InterviewEndDate": "2023-06-17 09:58:03",
+        "InterviewState": "Complete",
+        "Flight": "MBU6522",
+        "Dest": "LPA",
+        "AirlineCode": "MBU6522"
+    },
+    {
+        "InterviewId": "18502",
+        "InterviewEndDate": "2023-06-17 09:58:55",
+        "InterviewState": "Complete",
+        "Flight": "MBU6522",
+        "Dest": "LPA",
+        "AirlineCode": "MBU6522"
+    },
+    {
+        "InterviewId": "18503",
+        "InterviewEndDate": "2023-06-17 10:00:37",
+        "InterviewState": "Complete",
+        "Flight": "MBU6522",
+        "Dest": "LPA",
+        "AirlineCode": "MBU6522"
+    },
+    {
+        "InterviewId": "18505",
+        "InterviewEndDate": "2023-06-17 10:21:37",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18506",
+        "InterviewEndDate": "2023-06-17 10:20:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18507",
+        "InterviewEndDate": "2023-06-17 10:10:59",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "18508",
+        "InterviewEndDate": "2023-06-17 10:21:35",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "18509",
+        "InterviewEndDate": "2023-06-17 10:16:09",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "18510",
+        "InterviewEndDate": "2023-06-17 10:24:11",
+        "InterviewState": "Complete",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
     }
 ]    
 
