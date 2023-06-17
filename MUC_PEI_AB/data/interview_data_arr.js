@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "17-06-2023 13:27:27"
+        "download_time": "17-06-2023 14:27:27"
     },
     {
         "InterviewId": "5174",
@@ -4367,6 +4367,54 @@ let interview_data_arr_raw = `[
         "Flight": "AF - Air France",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5843",
+        "InterviewEndDate": "2023-06-17 12:03:35",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5844",
+        "InterviewEndDate": "2023-06-17 12:20:16",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5845",
+        "InterviewEndDate": "2023-06-17 12:03:12",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5846",
+        "InterviewEndDate": "2023-06-17 12:17:27",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5847",
+        "InterviewEndDate": "2023-06-17 12:18:18",
+        "InterviewState": "Complete",
+        "Flight": "CX - Cathay Pacific Airways",
+        "Dest": "KEF",
+        "AirlineCode": "CX"
+    },
+    {
+        "InterviewId": "5848",
+        "InterviewEndDate": "2023-06-17 12:22:05",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
     }
 ]    
 
