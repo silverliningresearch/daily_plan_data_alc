@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "17-06-2023 18:30:22"
+        "download_time": "17-06-2023 19:30:15"
     },
     {
         "InterviewId": "67210",
@@ -68913,11 +68913,91 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "76110",
+        "InterviewEndDate": "2023-06-17 16:30:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76111",
+        "InterviewEndDate": "2023-06-17 16:30:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "76112",
         "InterviewEndDate": "2023-06-17 16:26:44",
         "InterviewState": "Complete",
         "Flight": "FR 6278",
         "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76114",
+        "InterviewEndDate": "2023-06-17 16:33:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76115",
+        "InterviewEndDate": "2023-06-17 16:35:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76116",
+        "InterviewEndDate": "2023-06-17 16:35:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76117",
+        "InterviewEndDate": "2023-06-17 16:44:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76118",
+        "InterviewEndDate": "2023-06-17 16:42:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76119",
+        "InterviewEndDate": "2023-06-17 17:14:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76120",
+        "InterviewEndDate": "2023-06-17 17:13:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2409",
+        "Dest": "MMX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76124",
+        "InterviewEndDate": "2023-06-17 17:27:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
         "AirlineCode": "FR"
     }
 ]    
