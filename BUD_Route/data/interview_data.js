@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "17-06-2023 04:30:15"
+        "download_time": "17-06-2023 05:30:11"
     },
     {
         "InterviewId": "67210",
@@ -67442,7 +67442,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "75924",
-        "InterviewEndDate": "2023-06-17 02:25:37",
+        "InterviewEndDate": "2023-06-17 02:40:21",
         "InterviewState": "Complete",
         "Flight": "W6 2247",
         "Dest": "KUT",
@@ -67454,6 +67454,158 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2247",
         "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75926",
+        "InterviewEndDate": "2023-06-17 02:30:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75927",
+        "InterviewEndDate": "2023-06-17 02:30:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75928",
+        "InterviewEndDate": "2023-06-17 02:31:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75929",
+        "InterviewEndDate": "2023-06-17 02:43:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75930",
+        "InterviewEndDate": "2023-06-17 02:53:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75931",
+        "InterviewEndDate": "2023-06-17 02:55:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75932",
+        "InterviewEndDate": "2023-06-17 02:53:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75933",
+        "InterviewEndDate": "2023-06-17 02:51:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75934",
+        "InterviewEndDate": "2023-06-17 02:52:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75935",
+        "InterviewEndDate": "2023-06-17 03:01:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75936",
+        "InterviewEndDate": "2023-06-17 03:01:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75937",
+        "InterviewEndDate": "2023-06-17 03:01:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75938",
+        "InterviewEndDate": "2023-06-17 03:03:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75939",
+        "InterviewEndDate": "2023-06-17 03:03:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75940",
+        "InterviewEndDate": "2023-06-17 03:08:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75941",
+        "InterviewEndDate": "2023-06-17 03:07:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75942",
+        "InterviewEndDate": "2023-06-17 03:09:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75943",
+        "InterviewEndDate": "2023-06-17 03:10:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "75944",
+        "InterviewEndDate": "2023-06-17 03:11:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
         "AirlineCode": "W6"
     }
 ]    
