@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "17-06-2023 14:27:27"
+        "download_time": "17-06-2023 15:27:27"
     },
     {
         "InterviewId": "5174",
@@ -4415,6 +4415,86 @@ let interview_data_arr_raw = `[
         "Flight": "AY - Finnair",
         "Dest": "KEF",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5849",
+        "InterviewEndDate": "2023-06-17 12:25:18",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnaira",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5850",
+        "InterviewEndDate": "2023-06-17 12:28:43",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5851",
+        "InterviewEndDate": "2023-06-17 12:37:09",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "5852",
+        "InterviewEndDate": "2023-06-17 12:43:00",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "CHQ",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "5853",
+        "InterviewEndDate": "2023-06-17 12:48:33",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "CHQ",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "5854",
+        "InterviewEndDate": "2023-06-17 12:52:22",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "CHQ",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "5856",
+        "InterviewEndDate": "2023-06-17 13:07:50",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5857",
+        "InterviewEndDate": "2023-06-17 13:08:56",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5858",
+        "InterviewEndDate": "2023-06-17 13:21:30",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5859",
+        "InterviewEndDate": "2023-06-17 13:14:55",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
