@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "18-06-2023 15:30:39"
+        "download_time": "18-06-2023 16:30:35"
     },
     {
         "InterviewId": "67210",
@@ -69663,6 +69663,286 @@ let interview_data_raw = `[
         "Flight": "W6 2273",
         "Dest": "EIN",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76205",
+        "InterviewEndDate": "2023-06-18 13:37:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76206",
+        "InterviewEndDate": "2023-06-18 13:40:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76207",
+        "InterviewEndDate": "2023-06-18 13:42:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76208",
+        "InterviewEndDate": "2023-06-18 13:42:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76209",
+        "InterviewEndDate": "2023-06-18 13:45:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76210",
+        "InterviewEndDate": "2023-06-18 13:45:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76211",
+        "InterviewEndDate": "2023-06-18 13:45:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76212",
+        "InterviewEndDate": "2023-06-18 13:47:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76213",
+        "InterviewEndDate": "2023-06-18 13:47:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76214",
+        "InterviewEndDate": "2023-06-18 13:49:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76215",
+        "InterviewEndDate": "2023-06-18 13:58:08",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76216",
+        "InterviewEndDate": "2023-06-18 13:59:49",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76217",
+        "InterviewEndDate": "2023-06-18 13:59:12",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76218",
+        "InterviewEndDate": "2023-06-18 13:59:43",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76219",
+        "InterviewEndDate": "2023-06-18 14:00:11",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76220",
+        "InterviewEndDate": "2023-06-18 14:02:49",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76221",
+        "InterviewEndDate": "2023-06-18 14:03:00",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76222",
+        "InterviewEndDate": "2023-06-18 14:03:43",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76223",
+        "InterviewEndDate": "2023-06-18 14:03:14",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76224",
+        "InterviewEndDate": "2023-06-18 14:04:57",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76225",
+        "InterviewEndDate": "2023-06-18 14:06:15",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76226",
+        "InterviewEndDate": "2023-06-18 14:10:18",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76227",
+        "InterviewEndDate": "2023-06-18 14:15:02",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76228",
+        "InterviewEndDate": "2023-06-18 14:11:35",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76229",
+        "InterviewEndDate": "2023-06-18 14:10:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76230",
+        "InterviewEndDate": "2023-06-18 14:15:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76231",
+        "InterviewEndDate": "2023-06-18 14:15:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76232",
+        "InterviewEndDate": "2023-06-18 14:15:50",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76233",
+        "InterviewEndDate": "2023-06-18 14:17:14",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76234",
+        "InterviewEndDate": "2023-06-18 14:20:56",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76235",
+        "InterviewEndDate": "2023-06-18 14:20:11",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76236",
+        "InterviewEndDate": "2023-06-18 14:22:58",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76237",
+        "InterviewEndDate": "2023-06-18 14:24:53",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76238",
+        "InterviewEndDate": "2023-06-18 14:25:08",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76239",
+        "InterviewEndDate": "2023-06-18 14:26:13",
+        "InterviewState": "Complete",
+        "Flight": "EW 2783",
+        "Dest": "STR",
+        "AirlineCode": "EW"
     }
 ]    
 
