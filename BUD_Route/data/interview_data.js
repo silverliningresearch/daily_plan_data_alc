@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "18-06-2023 08:30:25"
+        "download_time": "18-06-2023 09:30:33"
     },
     {
         "InterviewId": "67210",
@@ -69127,6 +69127,46 @@ let interview_data_raw = `[
         "Flight": "FR 3827",
         "Dest": "BLQ",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76140",
+        "InterviewEndDate": "2023-06-18 07:28:23",
+        "InterviewState": "Complete",
+        "Flight": "D8 4488",
+        "Dest": "ARN",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "76141",
+        "InterviewEndDate": "2023-06-18 07:22:03",
+        "InterviewState": "Complete",
+        "Flight": "D8 4488",
+        "Dest": "ARN",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "76142",
+        "InterviewEndDate": "2023-06-18 07:14:39",
+        "InterviewState": "Complete",
+        "Flight": "D8 4488",
+        "Dest": "ARN",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "76143",
+        "InterviewEndDate": "2023-06-18 07:19:13",
+        "InterviewState": "Complete",
+        "Flight": "D8 4488",
+        "Dest": "ARN",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "76144",
+        "InterviewEndDate": "2023-06-18 07:26:52",
+        "InterviewState": "Complete",
+        "Flight": "D8 4488",
+        "Dest": "ARN",
+        "AirlineCode": "D8"
     }
 ]    
 
