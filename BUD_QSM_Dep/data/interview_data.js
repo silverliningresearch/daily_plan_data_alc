@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "18-06-2023 12:28:50"
+        "download_time": "18-06-2023 13:28:53"
     },
     {
         "InterviewId": "3965",
@@ -6143,6 +6143,70 @@ let interview_data_raw = `[
         "Flight": "FR 2968",
         "Dest": "LPA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4773",
+        "InterviewEndDate": "2023-06-18 10:43:18",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "4774",
+        "InterviewEndDate": "2023-06-18 10:44:40",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "4775",
+        "InterviewEndDate": "2023-06-18 10:43:39",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "4776",
+        "InterviewEndDate": "2023-06-18 10:47:43",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "4777",
+        "InterviewEndDate": "2023-06-18 10:38:24",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "4778",
+        "InterviewEndDate": "2023-06-18 10:50:02",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "4779",
+        "InterviewEndDate": "2023-06-18 10:55:24",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "4780",
+        "InterviewEndDate": "2023-06-18 10:53:34",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
     }
 ]    
 

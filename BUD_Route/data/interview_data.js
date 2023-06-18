@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "18-06-2023 12:30:38"
+        "download_time": "18-06-2023 13:30:43"
     },
     {
         "InterviewId": "67210",
@@ -69415,6 +69415,54 @@ let interview_data_raw = `[
         "Flight": "FR 2968",
         "Dest": "LPA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76174",
+        "InterviewEndDate": "2023-06-18 10:48:37",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "76175",
+        "InterviewEndDate": "2023-06-18 10:51:34",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "76176",
+        "InterviewEndDate": "2023-06-18 10:55:37",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "76177",
+        "InterviewEndDate": "2023-06-18 10:55:21",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "76178",
+        "InterviewEndDate": "2023-06-18 10:57:56",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
+    },
+    {
+        "InterviewId": "76179",
+        "InterviewEndDate": "2023-06-18 10:57:31",
+        "InterviewState": "Complete",
+        "Flight": "EZS1218",
+        "Dest": "BSL",
+        "AirlineCode": "EZS1218"
     }
 ]    
 
