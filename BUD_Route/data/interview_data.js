@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-06-2023 09:31:03"
+        "download_time": "19-06-2023 10:31:17"
     },
     {
         "InterviewId": "67210",
@@ -70415,6 +70415,214 @@ let interview_data_raw = `[
         "Flight": "W6 2363",
         "Dest": "AHO",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76302",
+        "InterviewEndDate": "2023-06-19 07:47:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76303",
+        "InterviewEndDate": "2023-06-19 07:45:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76304",
+        "InterviewEndDate": "2023-06-19 07:37:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76305",
+        "InterviewEndDate": "2023-06-19 07:42:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76306",
+        "InterviewEndDate": "2023-06-19 07:45:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76307",
+        "InterviewEndDate": "2023-06-19 07:47:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76308",
+        "InterviewEndDate": "2023-06-19 07:49:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76309",
+        "InterviewEndDate": "2023-06-19 07:50:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76310",
+        "InterviewEndDate": "2023-06-19 07:54:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76311",
+        "InterviewEndDate": "2023-06-19 07:54:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76312",
+        "InterviewEndDate": "2023-06-19 07:54:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76313",
+        "InterviewEndDate": "2023-06-19 07:55:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76314",
+        "InterviewEndDate": "2023-06-19 07:58:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76315",
+        "InterviewEndDate": "2023-06-19 08:00:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76316",
+        "InterviewEndDate": "2023-06-19 08:00:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76317",
+        "InterviewEndDate": "2023-06-19 08:00:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2363",
+        "Dest": "AHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76318",
+        "InterviewEndDate": "2023-06-19 08:16:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76319",
+        "InterviewEndDate": "2023-06-19 08:16:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76320",
+        "InterviewEndDate": "2023-06-19 08:17:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76322",
+        "InterviewEndDate": "2023-06-19 08:20:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76323",
+        "InterviewEndDate": "2023-06-19 08:24:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76324",
+        "InterviewEndDate": "2023-06-19 08:24:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76325",
+        "InterviewEndDate": "2023-06-19 08:23:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76326",
+        "InterviewEndDate": "2023-06-19 08:26:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76327",
+        "InterviewEndDate": "2023-06-19 08:27:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76330",
+        "InterviewEndDate": "2023-06-19 08:30:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
