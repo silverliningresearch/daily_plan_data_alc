@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-06-2023 10:31:17"
+        "download_time": "19-06-2023 11:31:07"
     },
     {
         "InterviewId": "67210",
@@ -70617,12 +70617,220 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "76328",
+        "InterviewEndDate": "2023-06-19 08:29:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76329",
+        "InterviewEndDate": "2023-06-19 08:30:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "76330",
         "InterviewEndDate": "2023-06-19 08:30:15",
         "InterviewState": "Complete",
         "Flight": "LH 1337",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76331",
+        "InterviewEndDate": "2023-06-19 08:31:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76332",
+        "InterviewEndDate": "2023-06-19 08:35:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76333",
+        "InterviewEndDate": "2023-06-19 08:34:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76334",
+        "InterviewEndDate": "2023-06-19 08:37:55",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76335",
+        "InterviewEndDate": "2023-06-19 08:39:03",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76336",
+        "InterviewEndDate": "2023-06-19 08:42:18",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76337",
+        "InterviewEndDate": "2023-06-19 08:40:56",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76338",
+        "InterviewEndDate": "2023-06-19 08:45:20",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76339",
+        "InterviewEndDate": "2023-06-19 08:45:22",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76340",
+        "InterviewEndDate": "2023-06-19 08:45:20",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76341",
+        "InterviewEndDate": "2023-06-19 08:48:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76342",
+        "InterviewEndDate": "2023-06-19 08:50:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76344",
+        "InterviewEndDate": "2023-06-19 08:54:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "76346",
+        "InterviewEndDate": "2023-06-19 09:11:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76347",
+        "InterviewEndDate": "2023-06-19 09:13:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76348",
+        "InterviewEndDate": "2023-06-19 09:10:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76349",
+        "InterviewEndDate": "2023-06-19 09:11:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76350",
+        "InterviewEndDate": "2023-06-19 09:11:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2229",
+        "Dest": "SKP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76351",
+        "InterviewEndDate": "2023-06-19 09:15:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2229",
+        "Dest": "SKP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76352",
+        "InterviewEndDate": "2023-06-19 09:17:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2229",
+        "Dest": "SKP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76353",
+        "InterviewEndDate": "2023-06-19 09:17:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2229",
+        "Dest": "SKP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76354",
+        "InterviewEndDate": "2023-06-19 09:19:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76355",
+        "InterviewEndDate": "2023-06-19 09:19:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76356",
+        "InterviewEndDate": "2023-06-19 09:28:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
     }
 ]    
 
