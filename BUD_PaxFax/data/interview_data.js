@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "19-06-2023 12:31:21"
+        "download_time": "19-06-2023 13:31:13"
     },
     {
         "InterviewId": "7701",
@@ -6847,6 +6847,54 @@ let interview_data_raw = `[
         "Flight": "W6 2363",
         "Dest": "AHO",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8653",
+        "InterviewEndDate": "2023-06-19 10:41:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8654",
+        "InterviewEndDate": "2023-06-19 10:43:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8655",
+        "InterviewEndDate": "2023-06-19 10:43:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8656",
+        "InterviewEndDate": "2023-06-19 10:48:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8657",
+        "InterviewEndDate": "2023-06-19 10:52:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8658",
+        "InterviewEndDate": "2023-06-19 10:51:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
     }
 ]    
 
