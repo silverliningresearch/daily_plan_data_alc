@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-06-2023 15:28:25"
+        "download_time": "19-06-2023 16:28:51"
     },
     {
         "InterviewId": "6093",
@@ -18913,12 +18913,52 @@ let interview_data_raw = `[
         "AirlineCode": "W43212"
     },
     {
-        "InterviewId": "9934",
-        "InterviewEndDate": "2023-06-19 13:20:12",
+        "InterviewId": "9930",
+        "InterviewEndDate": "2023-06-19 13:29:08",
         "InterviewState": "Complete",
         "Flight": "W43212",
         "Dest": "OTP",
         "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "9932",
+        "InterviewEndDate": "2023-06-19 13:36:14",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "9933",
+        "InterviewEndDate": "2023-06-19 13:36:17",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "9934",
+        "InterviewEndDate": "2023-06-19 13:28:41",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "9935",
+        "InterviewEndDate": "2023-06-19 13:32:39",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "9938",
+        "InterviewEndDate": "2023-06-19 14:28:06",
+        "InterviewState": "Complete",
+        "Flight": "JTD579",
+        "Dest": "AYT",
+        "AirlineCode": "JTD579"
     }
 ]    
 
