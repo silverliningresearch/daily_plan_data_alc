@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-06-2023 05:30:40"
+        "download_time": "19-06-2023 06:30:49"
     },
     {
         "InterviewId": "67210",
@@ -70031,6 +70031,222 @@ let interview_data_raw = `[
         "Flight": "FR 9566",
         "Dest": "BFS",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76251",
+        "InterviewEndDate": "2023-06-19 03:32:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76252",
+        "InterviewEndDate": "2023-06-19 03:34:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76253",
+        "InterviewEndDate": "2023-06-19 03:30:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76254",
+        "InterviewEndDate": "2023-06-19 03:33:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76255",
+        "InterviewEndDate": "2023-06-19 03:52:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76256",
+        "InterviewEndDate": "2023-06-19 03:51:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76257",
+        "InterviewEndDate": "2023-06-19 03:47:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76258",
+        "InterviewEndDate": "2023-06-19 03:49:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76259",
+        "InterviewEndDate": "2023-06-19 03:49:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76260",
+        "InterviewEndDate": "2023-06-19 03:53:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76261",
+        "InterviewEndDate": "2023-06-19 03:52:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76262",
+        "InterviewEndDate": "2023-06-19 03:56:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76263",
+        "InterviewEndDate": "2023-06-19 03:56:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76264",
+        "InterviewEndDate": "2023-06-19 03:56:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76265",
+        "InterviewEndDate": "2023-06-19 03:57:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76266",
+        "InterviewEndDate": "2023-06-19 04:11:14",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76267",
+        "InterviewEndDate": "2023-06-19 04:10:30",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76268",
+        "InterviewEndDate": "2023-06-19 04:11:26",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76269",
+        "InterviewEndDate": "2023-06-19 04:10:11",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76270",
+        "InterviewEndDate": "2023-06-19 04:06:42",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76271",
+        "InterviewEndDate": "2023-06-19 04:13:01",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76272",
+        "InterviewEndDate": "2023-06-19 04:20:15",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76273",
+        "InterviewEndDate": "2023-06-19 04:20:31",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76274",
+        "InterviewEndDate": "2023-06-19 04:19:42",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76275",
+        "InterviewEndDate": "2023-06-19 04:22:06",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76276",
+        "InterviewEndDate": "2023-06-19 04:23:18",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "76277",
+        "InterviewEndDate": "2023-06-19 04:25:17",
+        "InterviewState": "Complete",
+        "Flight": "OS  718",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
