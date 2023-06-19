@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-06-2023 19:30:55"
+        "download_time": "19-06-2023 20:31:02"
     },
     {
         "InterviewId": "67210",
@@ -71735,6 +71735,214 @@ let interview_data_raw = `[
         "Flight": "AF 1495",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76482",
+        "InterviewEndDate": "2023-06-19 18:14:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76483",
+        "InterviewEndDate": "2023-06-19 18:11:59",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76484",
+        "InterviewEndDate": "2023-06-19 18:12:27",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76485",
+        "InterviewEndDate": "2023-06-19 18:14:13",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76486",
+        "InterviewEndDate": "2023-06-19 18:11:52",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76487",
+        "InterviewEndDate": "2023-06-19 17:53:30",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76488",
+        "InterviewEndDate": "2023-06-19 17:53:28",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76489",
+        "InterviewEndDate": "2023-06-19 17:55:14",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76490",
+        "InterviewEndDate": "2023-06-19 17:54:19",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76491",
+        "InterviewEndDate": "2023-06-19 18:01:41",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76492",
+        "InterviewEndDate": "2023-06-19 17:57:15",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76493",
+        "InterviewEndDate": "2023-06-19 18:02:33",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76494",
+        "InterviewEndDate": "2023-06-19 18:01:21",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76495",
+        "InterviewEndDate": "2023-06-19 18:02:01",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76496",
+        "InterviewEndDate": "2023-06-19 18:06:14",
+        "InterviewState": "Complete",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "76497",
+        "InterviewEndDate": "2023-06-19 18:19:37",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76498",
+        "InterviewEndDate": "2023-06-19 18:23:03",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76499",
+        "InterviewEndDate": "2023-06-19 18:19:49",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76500",
+        "InterviewEndDate": "2023-06-19 18:21:29",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76501",
+        "InterviewEndDate": "2023-06-19 18:21:52",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76502",
+        "InterviewEndDate": "2023-06-19 18:24:08",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76503",
+        "InterviewEndDate": "2023-06-19 18:23:49",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76504",
+        "InterviewEndDate": "2023-06-19 18:28:15",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76505",
+        "InterviewEndDate": "2023-06-19 18:27:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76506",
+        "InterviewEndDate": "2023-06-19 18:28:55",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76507",
+        "InterviewEndDate": "2023-06-19 18:29:34",
+        "InterviewState": "Complete",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
     }
 ]    
 
