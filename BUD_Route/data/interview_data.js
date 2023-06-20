@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "20-06-2023 10:31:07"
+        "download_time": "20-06-2023 11:31:07"
     },
     {
         "InterviewId": "67210",
@@ -71826,7 +71826,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "76493",
-        "InterviewEndDate": "2023-06-20 08:30:47",
+        "InterviewEndDate": "2023-06-20 08:30:48",
         "InterviewState": "Complete",
         "Flight": "TK 1038",
         "Dest": "IST",
@@ -72513,6 +72513,30 @@ let interview_data_raw = `[
         "AirlineCode": "JU"
     },
     {
+        "InterviewId": "76579",
+        "InterviewEndDate": "2023-06-20 08:35:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76580",
+        "InterviewEndDate": "2023-06-20 08:31:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76581",
+        "InterviewEndDate": "2023-06-20 08:31:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "76582",
         "InterviewEndDate": "2023-06-20 08:29:05",
         "InterviewState": "Complete",
@@ -72527,6 +72551,318 @@ let interview_data_raw = `[
         "Flight": "FR 7770",
         "Dest": "PVK",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76584",
+        "InterviewEndDate": "2023-06-20 08:33:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76585",
+        "InterviewEndDate": "2023-06-20 08:35:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76586",
+        "InterviewEndDate": "2023-06-20 08:36:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76587",
+        "InterviewEndDate": "2023-06-20 08:36:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76588",
+        "InterviewEndDate": "2023-06-20 08:46:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76589",
+        "InterviewEndDate": "2023-06-20 08:43:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76590",
+        "InterviewEndDate": "2023-06-20 08:44:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76591",
+        "InterviewEndDate": "2023-06-20 08:46:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76592",
+        "InterviewEndDate": "2023-06-20 08:48:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76593",
+        "InterviewEndDate": "2023-06-20 08:48:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76594",
+        "InterviewEndDate": "2023-06-20 08:50:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76595",
+        "InterviewEndDate": "2023-06-20 08:49:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76596",
+        "InterviewEndDate": "2023-06-20 08:52:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76597",
+        "InterviewEndDate": "2023-06-20 08:59:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76598",
+        "InterviewEndDate": "2023-06-20 08:52:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76599",
+        "InterviewEndDate": "2023-06-20 09:00:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76600",
+        "InterviewEndDate": "2023-06-20 09:00:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76601",
+        "InterviewEndDate": "2023-06-20 08:52:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76602",
+        "InterviewEndDate": "2023-06-20 08:53:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76603",
+        "InterviewEndDate": "2023-06-20 08:59:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76604",
+        "InterviewEndDate": "2023-06-20 09:04:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76605",
+        "InterviewEndDate": "2023-06-20 09:04:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76606",
+        "InterviewEndDate": "2023-06-20 09:07:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76607",
+        "InterviewEndDate": "2023-06-20 09:15:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76608",
+        "InterviewEndDate": "2023-06-20 09:09:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76610",
+        "InterviewEndDate": "2023-06-20 09:17:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76611",
+        "InterviewEndDate": "2023-06-20 09:16:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76612",
+        "InterviewEndDate": "2023-06-20 09:14:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76613",
+        "InterviewEndDate": "2023-06-20 09:21:13",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76614",
+        "InterviewEndDate": "2023-06-20 09:21:57",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76615",
+        "InterviewEndDate": "2023-06-20 09:25:45",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76616",
+        "InterviewEndDate": "2023-06-20 09:25:59",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76617",
+        "InterviewEndDate": "2023-06-20 09:21:53",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76618",
+        "InterviewEndDate": "2023-06-20 09:20:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76619",
+        "InterviewEndDate": "2023-06-20 09:21:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76620",
+        "InterviewEndDate": "2023-06-20 09:19:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76621",
+        "InterviewEndDate": "2023-06-20 09:23:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76622",
+        "InterviewEndDate": "2023-06-20 09:24:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2295",
+        "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76623",
+        "InterviewEndDate": "2023-06-20 09:29:24",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
