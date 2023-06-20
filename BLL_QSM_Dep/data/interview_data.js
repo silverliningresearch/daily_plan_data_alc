@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-06-2023 20:28:23"
+        "download_time": "20-06-2023 21:28:24"
     },
     {
         "InterviewId": "6093",
@@ -19215,6 +19215,62 @@ let interview_data_raw = `[
         "Flight": "FR2532",
         "Dest": "AGP",
         "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9985",
+        "InterviewEndDate": "2023-06-20 18:45:55",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9986",
+        "InterviewEndDate": "2023-06-20 18:50:33",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9987",
+        "InterviewEndDate": "2023-06-20 18:46:05",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9988",
+        "InterviewEndDate": "2023-06-20 18:43:39",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9989",
+        "InterviewEndDate": "2023-06-20 19:01:56",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9990",
+        "InterviewEndDate": "2023-06-20 18:56:52",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9991",
+        "InterviewEndDate": "2023-06-20 18:54:28",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
     }
 ]    
 
