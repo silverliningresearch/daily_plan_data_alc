@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "20-06-2023 17:28:37"
+        "download_time": "20-06-2023 18:28:36"
     },
     {
         "InterviewId": "2077",
@@ -5279,6 +5279,46 @@ let interview_data_arr_raw = `[
         "Flight": "DY - Norwegian Air Schuttle",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "3381",
+        "InterviewEndDate": "2023-06-20 15:34:27",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3382",
+        "InterviewEndDate": "2023-06-20 15:33:40",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3383",
+        "InterviewEndDate": "2023-06-20 15:37:04",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3384",
+        "InterviewEndDate": "2023-06-20 15:31:51",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3385",
+        "InterviewEndDate": "2023-06-20 15:30:47",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
