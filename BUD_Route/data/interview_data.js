@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "20-06-2023 15:31:15"
+        "download_time": "20-06-2023 16:31:08"
     },
     {
         "InterviewId": "67210",
@@ -73618,7 +73618,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "76719",
-        "InterviewEndDate": "2023-06-20 12:24:18",
+        "InterviewEndDate": "2023-06-20 13:34:31",
         "InterviewState": "Complete",
         "Flight": "MS  752",
         "Dest": "CAI",
@@ -73639,6 +73639,70 @@ let interview_data_raw = `[
         "Flight": "MS  752",
         "Dest": "CAI",
         "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "76722",
+        "InterviewEndDate": "2023-06-20 13:45:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76723",
+        "InterviewEndDate": "2023-06-20 13:41:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76724",
+        "InterviewEndDate": "2023-06-20 13:45:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76725",
+        "InterviewEndDate": "2023-06-20 13:43:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76726",
+        "InterviewEndDate": "2023-06-20 13:41:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2427",
+        "Dest": "KEF",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76727",
+        "InterviewEndDate": "2023-06-20 14:17:41",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "76728",
+        "InterviewEndDate": "2023-06-20 14:27:32",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76729",
+        "InterviewEndDate": "2023-06-20 14:29:45",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 

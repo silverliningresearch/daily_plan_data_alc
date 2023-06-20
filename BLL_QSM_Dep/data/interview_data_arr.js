@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "20-06-2023 15:28:51"
+        "download_time": "20-06-2023 16:28:43"
     },
     {
         "InterviewId": "2077",
@@ -5183,6 +5183,70 @@ let interview_data_arr_raw = `[
         "Flight": "SN - Brussels Airlines",
         "Dest": "CRL",
         "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3360",
+        "InterviewEndDate": "2023-06-20 13:44:01",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "PMI",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3361",
+        "InterviewEndDate": "2023-06-20 13:43:30",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "PMI",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3362",
+        "InterviewEndDate": "2023-06-20 13:43:46",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "PMI",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3363",
+        "InterviewEndDate": "2023-06-20 13:43:49",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "PMI",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3364",
+        "InterviewEndDate": "2023-06-20 13:44:55",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "PMI",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3368",
+        "InterviewEndDate": "2023-06-20 13:58:35",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "GDN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3369",
+        "InterviewEndDate": "2023-06-20 14:00:51",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "GDN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3370",
+        "InterviewEndDate": "2023-06-20 13:57:21",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "GDN",
+        "AirlineCode": "FR"
     }
 ]    
 
