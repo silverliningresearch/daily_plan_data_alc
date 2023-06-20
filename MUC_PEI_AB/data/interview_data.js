@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-06-2023 18:27:26"
+        "download_time": "20-06-2023 19:27:23"
     },
     {
         "InterviewId": "15848",
@@ -18686,6 +18686,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1988",
         "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18606",
+        "InterviewEndDate": "2023-06-20 16:49:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18607",
+        "InterviewEndDate": "2023-06-20 16:53:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18608",
+        "InterviewEndDate": "2023-06-20 16:56:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18609",
+        "InterviewEndDate": "2023-06-20 17:15:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18610",
+        "InterviewEndDate": "2023-06-20 17:15:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18611",
+        "InterviewEndDate": "2023-06-20 17:20:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18612",
+        "InterviewEndDate": "2023-06-20 17:22:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18613",
+        "InterviewEndDate": "2023-06-20 17:21:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
