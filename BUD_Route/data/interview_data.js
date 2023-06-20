@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "20-06-2023 07:30:51"
+        "download_time": "20-06-2023 08:31:09"
     },
     {
         "InterviewId": "67210",
@@ -72243,6 +72243,78 @@ let interview_data_raw = `[
     {
         "InterviewId": "76545",
         "InterviewEndDate": "2023-06-20 05:29:19",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76546",
+        "InterviewEndDate": "2023-06-20 05:34:13",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76547",
+        "InterviewEndDate": "2023-06-20 05:35:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76548",
+        "InterviewEndDate": "2023-06-20 05:35:24",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76549",
+        "InterviewEndDate": "2023-06-20 05:36:24",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76550",
+        "InterviewEndDate": "2023-06-20 05:34:30",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76551",
+        "InterviewEndDate": "2023-06-20 05:41:53",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76552",
+        "InterviewEndDate": "2023-06-20 05:41:51",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76553",
+        "InterviewEndDate": "2023-06-20 05:41:59",
+        "InterviewState": "Complete",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "76554",
+        "InterviewEndDate": "2023-06-20 05:43:31",
         "InterviewState": "Complete",
         "Flight": "EW 2781",
         "Dest": "STR",
