@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "20-06-2023 11:31:07"
+        "download_time": "20-06-2023 12:31:03"
     },
     {
         "InterviewId": "67210",
@@ -72863,6 +72863,430 @@ let interview_data_raw = `[
         "Flight": "AF 1295",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76624",
+        "InterviewEndDate": "2023-06-20 09:28:44",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76625",
+        "InterviewEndDate": "2023-06-20 09:39:02",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76626",
+        "InterviewEndDate": "2023-06-20 09:37:49",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76627",
+        "InterviewEndDate": "2023-06-20 09:34:44",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76628",
+        "InterviewEndDate": "2023-06-20 09:35:33",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76629",
+        "InterviewEndDate": "2023-06-20 09:36:24",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76630",
+        "InterviewEndDate": "2023-06-20 09:33:12",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76631",
+        "InterviewEndDate": "2023-06-20 09:37:45",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76632",
+        "InterviewEndDate": "2023-06-20 09:35:06",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76633",
+        "InterviewEndDate": "2023-06-20 09:35:38",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76634",
+        "InterviewEndDate": "2023-06-20 09:36:31",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76635",
+        "InterviewEndDate": "2023-06-20 09:43:05",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76636",
+        "InterviewEndDate": "2023-06-20 09:41:55",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76637",
+        "InterviewEndDate": "2023-06-20 09:42:42",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76638",
+        "InterviewEndDate": "2023-06-20 09:48:35",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76639",
+        "InterviewEndDate": "2023-06-20 09:46:01",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76640",
+        "InterviewEndDate": "2023-06-20 09:53:53",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76641",
+        "InterviewEndDate": "2023-06-20 09:41:13",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76642",
+        "InterviewEndDate": "2023-06-20 09:43:14",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76643",
+        "InterviewEndDate": "2023-06-20 09:43:42",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76644",
+        "InterviewEndDate": "2023-06-20 09:44:02",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76645",
+        "InterviewEndDate": "2023-06-20 09:53:08",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76646",
+        "InterviewEndDate": "2023-06-20 09:49:38",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76647",
+        "InterviewEndDate": "2023-06-20 09:46:15",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76648",
+        "InterviewEndDate": "2023-06-20 09:52:11",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76649",
+        "InterviewEndDate": "2023-06-20 09:48:54",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76650",
+        "InterviewEndDate": "2023-06-20 09:52:55",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76651",
+        "InterviewEndDate": "2023-06-20 09:49:33",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76652",
+        "InterviewEndDate": "2023-06-20 09:52:45",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76653",
+        "InterviewEndDate": "2023-06-20 09:55:37",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76654",
+        "InterviewEndDate": "2023-06-20 09:53:42",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76655",
+        "InterviewEndDate": "2023-06-20 09:53:52",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76656",
+        "InterviewEndDate": "2023-06-20 09:55:07",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "76657",
+        "InterviewEndDate": "2023-06-20 09:58:06",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76658",
+        "InterviewEndDate": "2023-06-20 09:57:44",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76659",
+        "InterviewEndDate": "2023-06-20 09:57:42",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76660",
+        "InterviewEndDate": "2023-06-20 10:00:56",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76661",
+        "InterviewEndDate": "2023-06-20 10:01:27",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76662",
+        "InterviewEndDate": "2023-06-20 10:05:59",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "76663",
+        "InterviewEndDate": "2023-06-20 10:30:16",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76664",
+        "InterviewEndDate": "2023-06-20 10:14:09",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76665",
+        "InterviewEndDate": "2023-06-20 10:13:45",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76666",
+        "InterviewEndDate": "2023-06-20 10:17:37",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76667",
+        "InterviewEndDate": "2023-06-20 10:10:40",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76668",
+        "InterviewEndDate": "2023-06-20 10:14:30",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76669",
+        "InterviewEndDate": "2023-06-20 10:28:47",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76670",
+        "InterviewEndDate": "2023-06-20 10:27:41",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76671",
+        "InterviewEndDate": "2023-06-20 10:28:10",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76672",
+        "InterviewEndDate": "2023-06-20 10:30:20",
+        "InterviewState": "Complete",
+        "Flight": "KS 1202",
+        "Dest": "OTP",
+        "AirlineCode": "KS"
+    },
+    {
+        "InterviewId": "76673",
+        "InterviewEndDate": "2023-06-20 10:23:49",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "76674",
+        "InterviewEndDate": "2023-06-20 10:25:18",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "76675",
+        "InterviewEndDate": "2023-06-20 10:25:20",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "76676",
+        "InterviewEndDate": "2023-06-20 10:29:11",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     }
 ]    
 
