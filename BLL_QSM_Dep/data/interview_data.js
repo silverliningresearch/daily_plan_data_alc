@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-06-2023 19:28:22"
+        "download_time": "20-06-2023 20:28:23"
     },
     {
         "InterviewId": "6093",
@@ -19143,6 +19143,78 @@ let interview_data_raw = `[
         "Flight": "TK1488",
         "Dest": "IST",
         "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "9976",
+        "InterviewEndDate": "2023-06-20 17:45:06",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9977",
+        "InterviewEndDate": "2023-06-20 18:18:21",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9978",
+        "InterviewEndDate": "2023-06-20 18:25:38",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9979",
+        "InterviewEndDate": "2023-06-20 18:19:53",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9980",
+        "InterviewEndDate": "2023-06-20 18:17:02",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9981",
+        "InterviewEndDate": "2023-06-20 18:25:39",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9982",
+        "InterviewEndDate": "2023-06-20 18:11:18",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9983",
+        "InterviewEndDate": "2023-06-20 18:14:39",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "9984",
+        "InterviewEndDate": "2023-06-20 18:24:08",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
     }
 ]    
 
