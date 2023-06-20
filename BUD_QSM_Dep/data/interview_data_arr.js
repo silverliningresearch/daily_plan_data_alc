@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "20-06-2023 12:28:58"
+        "download_time": "20-06-2023 13:28:57"
     },
     {
         "InterviewId": "1224",
@@ -2159,6 +2159,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "EDI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1493",
+        "InterviewEndDate": "2023-06-20 10:52:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1494",
+        "InterviewEndDate": "2023-06-20 10:56:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1495",
+        "InterviewEndDate": "2023-06-20 11:00:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizzair",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1496",
+        "InterviewEndDate": "2023-06-20 11:04:29",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "1497",
+        "InterviewEndDate": "2023-06-20 11:09:56",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     }
 ]    
 
