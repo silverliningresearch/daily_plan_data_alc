@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "20-06-2023 09:31:12"
+        "download_time": "20-06-2023 10:31:07"
     },
     {
         "InterviewId": "67210",
@@ -71826,7 +71826,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "76493",
-        "InterviewEndDate": "2023-06-19 18:02:33",
+        "InterviewEndDate": "2023-06-20 08:30:47",
         "InterviewState": "Complete",
         "Flight": "TK 1038",
         "Dest": "IST",
@@ -72393,8 +72393,32 @@ let interview_data_raw = `[
         "AirlineCode": "JU"
     },
     {
+        "InterviewId": "76564",
+        "InterviewEndDate": "2023-06-20 07:35:15",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
         "InterviewId": "76565",
         "InterviewEndDate": "2023-06-20 07:29:48",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76566",
+        "InterviewEndDate": "2023-06-20 07:32:40",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76567",
+        "InterviewEndDate": "2023-06-20 07:32:57",
         "InterviewState": "Complete",
         "Flight": "JU  151",
         "Dest": "BEG",
@@ -72407,6 +72431,102 @@ let interview_data_raw = `[
         "Flight": "JU  151",
         "Dest": "BEG",
         "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76569",
+        "InterviewEndDate": "2023-06-20 07:42:56",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76570",
+        "InterviewEndDate": "2023-06-20 07:40:50",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76571",
+        "InterviewEndDate": "2023-06-20 07:41:36",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76572",
+        "InterviewEndDate": "2023-06-20 07:39:09",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76573",
+        "InterviewEndDate": "2023-06-20 07:48:01",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76574",
+        "InterviewEndDate": "2023-06-20 07:55:10",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76575",
+        "InterviewEndDate": "2023-06-20 07:48:04",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76576",
+        "InterviewEndDate": "2023-06-20 07:49:35",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76577",
+        "InterviewEndDate": "2023-06-20 07:52:18",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76578",
+        "InterviewEndDate": "2023-06-20 07:55:13",
+        "InterviewState": "Complete",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "76582",
+        "InterviewEndDate": "2023-06-20 08:29:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76583",
+        "InterviewEndDate": "2023-06-20 08:28:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
     }
 ]    
 
