@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "20-06-2023 16:31:08"
+        "download_time": "20-06-2023 17:30:55"
     },
     {
         "InterviewId": "67210",
@@ -73703,6 +73703,158 @@ let interview_data_raw = `[
         "Flight": "KL 1978",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76730",
+        "InterviewEndDate": "2023-06-20 14:35:15",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76731",
+        "InterviewEndDate": "2023-06-20 14:34:02",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76732",
+        "InterviewEndDate": "2023-06-20 14:35:37",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76733",
+        "InterviewEndDate": "2023-06-20 14:35:03",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76734",
+        "InterviewEndDate": "2023-06-20 14:35:37",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76735",
+        "InterviewEndDate": "2023-06-20 14:38:22",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76736",
+        "InterviewEndDate": "2023-06-20 14:40:11",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76737",
+        "InterviewEndDate": "2023-06-20 14:41:46",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "76738",
+        "InterviewEndDate": "2023-06-20 14:56:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76739",
+        "InterviewEndDate": "2023-06-20 14:55:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76740",
+        "InterviewEndDate": "2023-06-20 14:56:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76741",
+        "InterviewEndDate": "2023-06-20 14:59:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76742",
+        "InterviewEndDate": "2023-06-20 14:59:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76743",
+        "InterviewEndDate": "2023-06-20 15:00:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76744",
+        "InterviewEndDate": "2023-06-20 15:00:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76745",
+        "InterviewEndDate": "2023-06-20 15:02:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "76750",
+        "InterviewEndDate": "2023-06-20 15:28:14",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "76751",
+        "InterviewEndDate": "2023-06-20 15:28:57",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "76752",
+        "InterviewEndDate": "2023-06-20 15:30:13",
+        "InterviewState": "Complete",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
     }
 ]    
 

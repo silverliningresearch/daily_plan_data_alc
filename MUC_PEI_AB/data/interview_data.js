@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-06-2023 16:27:29"
+        "download_time": "20-06-2023 17:27:25"
     },
     {
         "InterviewId": "15848",
@@ -18558,6 +18558,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2442",
         "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18591",
+        "InterviewEndDate": "2023-06-20 14:27:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18592",
+        "InterviewEndDate": "2023-06-20 14:27:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18593",
+        "InterviewEndDate": "2023-06-20 14:27:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18594",
+        "InterviewEndDate": "2023-06-20 14:58:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18595",
+        "InterviewEndDate": "2023-06-20 15:03:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18596",
+        "InterviewEndDate": "2023-06-20 15:08:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18597",
+        "InterviewEndDate": "2023-06-20 15:18:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18598",
+        "InterviewEndDate": "2023-06-20 15:22:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
         "AirlineCode": "LH"
     }
 ]    
