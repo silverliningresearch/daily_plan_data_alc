@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "20-06-2023 21:28:34"
+        "download_time": "21-06-2023 16:30:12"
     },
     {
         "InterviewId": "2077",
@@ -5319,6 +5319,150 @@ let interview_data_arr_raw = `[
         "Flight": "AF - AIR FRANCE",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3388",
+        "InterviewEndDate": "2023-06-21 09:46:12",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Hava Tasimaciligi",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "3389",
+        "InterviewEndDate": "2023-06-21 08:59:41",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Hava Tasimaciligi",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "3395",
+        "InterviewEndDate": "2023-06-21 09:53:28",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "3398",
+        "InterviewEndDate": "2023-06-21 09:49:34",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3399",
+        "InterviewEndDate": "2023-06-21 09:50:01",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3400",
+        "InterviewEndDate": "2023-06-21 09:51:03",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3401",
+        "InterviewEndDate": "2023-06-21 09:58:22",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3402",
+        "InterviewEndDate": "2023-06-21 09:55:15",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3403",
+        "InterviewEndDate": "2023-06-21 10:16:15",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "3404",
+        "InterviewEndDate": "2023-06-21 10:34:18",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "3405",
+        "InterviewEndDate": "2023-06-21 10:33:10",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "3406",
+        "InterviewEndDate": "2023-06-21 10:19:36",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "3407",
+        "InterviewEndDate": "2023-06-21 10:21:15",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "3408",
+        "InterviewEndDate": "2023-06-21 10:20:23",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "3415",
+        "InterviewEndDate": "2023-06-21 13:49:40",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "RHO",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3416",
+        "InterviewEndDate": "2023-06-21 13:50:23",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "RHO",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3418",
+        "InterviewEndDate": "2023-06-21 13:51:55",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "RHO",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3420",
+        "InterviewEndDate": "2023-06-21 13:55:23",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "RHO",
+        "AirlineCode": "JTD"
     }
 ]    
 

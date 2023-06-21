@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "20-06-2023 23:31:30"
+        "download_time": "21-06-2023 18:33:35"
     },
     {
         "InterviewId": "7333",
@@ -16036,6 +16036,195 @@ let interview_data_raw = `[
         "Flight": "5W7013",
         "Dest": "EVN",
         "AirlineCode": "5W7013",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9228",
+        "InterviewEndDate": "2023-06-20 21:15:55",
+        "InterviewState": "Complete",
+        "Flight": "EY399",
+        "Dest": "DOH",
+        "AirlineCode": "EY399",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9229",
+        "InterviewEndDate": "2023-06-20 21:22:02",
+        "InterviewState": "Complete",
+        "Flight": "EY399",
+        "Dest": "DOH",
+        "AirlineCode": "EY399",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9230",
+        "InterviewEndDate": "2023-06-20 21:28:23",
+        "InterviewState": "Complete",
+        "Flight": "EY323",
+        "Dest": "DMM",
+        "AirlineCode": "EY323",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9231",
+        "InterviewEndDate": "2023-06-20 21:35:13",
+        "InterviewState": "Complete",
+        "Flight": "EY323",
+        "Dest": "DMM",
+        "AirlineCode": "EY323",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9232",
+        "InterviewEndDate": "2023-06-20 21:42:37",
+        "InterviewState": "Complete",
+        "Flight": "EY474",
+        "Dest": "CGK",
+        "AirlineCode": "EY474",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9233",
+        "InterviewEndDate": "2023-06-20 21:50:27",
+        "InterviewState": "Complete",
+        "Flight": "EY474",
+        "Dest": "CGK",
+        "AirlineCode": "EY474",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9234",
+        "InterviewEndDate": "2023-06-20 21:57:15",
+        "InterviewState": "Complete",
+        "Flight": "EY049",
+        "Dest": "BCN",
+        "AirlineCode": "EY049",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9235",
+        "InterviewEndDate": "2023-06-20 22:03:47",
+        "InterviewState": "Complete",
+        "Flight": "EY049",
+        "Dest": "BCN",
+        "AirlineCode": "EY049",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9236",
+        "InterviewEndDate": "2023-06-20 22:12:05",
+        "InterviewState": "Complete",
+        "Flight": "EY049",
+        "Dest": "BCN",
+        "AirlineCode": "EY049",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9237",
+        "InterviewEndDate": "2023-06-20 22:19:31",
+        "InterviewState": "Complete",
+        "Flight": "EY081",
+        "Dest": "MXP",
+        "AirlineCode": "EY081",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9238",
+        "InterviewEndDate": "2023-06-20 22:26:10",
+        "InterviewState": "Complete",
+        "Flight": "EY081",
+        "Dest": "MXP",
+        "AirlineCode": "EY081",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9239",
+        "InterviewEndDate": "2023-06-20 22:44:44",
+        "InterviewState": "Complete",
+        "Flight": "MS917",
+        "Dest": "CAI",
+        "AirlineCode": "MS917",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9240",
+        "InterviewEndDate": "2023-06-20 22:50:04",
+        "InterviewState": "Complete",
+        "Flight": "MS917",
+        "Dest": "CAI",
+        "AirlineCode": "MS917",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9241",
+        "InterviewEndDate": "2023-06-21 11:06:17",
+        "InterviewState": "Complete",
+        "Flight": "MS915",
+        "Dest": "CAI",
+        "AirlineCode": "MS915",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9242",
+        "InterviewEndDate": "2023-06-21 10:56:42",
+        "InterviewState": "Complete",
+        "Flight": "MS915",
+        "Dest": "CAI",
+        "AirlineCode": "MS915",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9243",
+        "InterviewEndDate": "2023-06-21 11:42:20",
+        "InterviewState": "Complete",
+        "Flight": "MS915",
+        "Dest": "CAI",
+        "AirlineCode": "MS915",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9244",
+        "InterviewEndDate": "2023-06-21 11:15:40",
+        "InterviewState": "Complete",
+        "Flight": "MS915",
+        "Dest": "CAI",
+        "AirlineCode": "MS915",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9245",
+        "InterviewEndDate": "2023-06-21 11:57:16",
+        "InterviewState": "Complete",
+        "Flight": "QR1051",
+        "Dest": "DOH",
+        "AirlineCode": "QR1051",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9246",
+        "InterviewEndDate": "2023-06-21 12:01:48",
+        "InterviewState": "Complete",
+        "Flight": "QR1051",
+        "Dest": "DOH",
+        "AirlineCode": "QR1051",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9247",
+        "InterviewEndDate": "2023-06-21 12:52:26",
+        "InterviewState": "Complete",
+        "Flight": "W62982",
+        "Dest": "VIE",
+        "AirlineCode": "W62982",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9248",
+        "InterviewEndDate": "2023-06-21 13:33:10",
+        "InterviewState": "Complete",
+        "Flight": "3L251",
+        "Dest": "MCT",
+        "AirlineCode": "3L251",
         "Terminal": "T1"
     }
 ]    

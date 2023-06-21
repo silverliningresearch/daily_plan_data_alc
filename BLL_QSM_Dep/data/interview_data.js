@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-06-2023 21:28:24"
+        "download_time": "21-06-2023 16:29:56"
     },
     {
         "InterviewId": "6093",
@@ -19271,6 +19271,70 @@ let interview_data_raw = `[
         "Flight": "FR7997",
         "Dest": "PSA",
         "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "9992",
+        "InterviewEndDate": "2023-06-21 11:54:24",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "9993",
+        "InterviewEndDate": "2023-06-21 13:05:28",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "9994",
+        "InterviewEndDate": "2023-06-21 11:54:41",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "9995",
+        "InterviewEndDate": "2023-06-21 11:56:55",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "9996",
+        "InterviewEndDate": "2023-06-21 11:55:07",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "9997",
+        "InterviewEndDate": "2023-06-21 11:53:26",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "9998",
+        "InterviewEndDate": "2023-06-21 11:50:52",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "9999",
+        "InterviewEndDate": "2023-06-21 11:47:39",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
     }
 ]    
 
