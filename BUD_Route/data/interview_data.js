@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "21-06-2023 17:32:47"
+        "download_time": "21-06-2023 18:32:36"
     },
     {
         "InterviewId": "67210",
@@ -75614,6 +75614,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2431",
         "Dest": "AYT",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76976",
+        "InterviewEndDate": "2023-06-21 15:44:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76977",
+        "InterviewEndDate": "2023-06-21 15:42:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76978",
+        "InterviewEndDate": "2023-06-21 15:48:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76979",
+        "InterviewEndDate": "2023-06-21 15:50:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76980",
+        "InterviewEndDate": "2023-06-21 15:47:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76981",
+        "InterviewEndDate": "2023-06-21 15:47:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76982",
+        "InterviewEndDate": "2023-06-21 15:49:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "76983",
+        "InterviewEndDate": "2023-06-21 15:51:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2479",
+        "Dest": "BOJ",
         "AirlineCode": "W6"
     }
 ]    
