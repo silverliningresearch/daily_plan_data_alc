@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "21-06-2023 20:33:22"
+        "download_time": "21-06-2023 21:33:09"
     },
     {
         "InterviewId": "7333",
@@ -16279,6 +16279,69 @@ let interview_data_raw = `[
         "Flight": "EY377",
         "Dest": "BAH",
         "AirlineCode": "EY377",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9255",
+        "InterviewEndDate": "2023-06-21 16:39:11",
+        "InterviewState": "Complete",
+        "Flight": "EY377",
+        "Dest": "BAH",
+        "AirlineCode": "EY377",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9256",
+        "InterviewEndDate": "2023-06-21 16:46:52",
+        "InterviewState": "Complete",
+        "Flight": "EY216",
+        "Dest": "BLR",
+        "AirlineCode": "EY216",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9257",
+        "InterviewEndDate": "2023-06-21 16:46:14",
+        "InterviewState": "Complete",
+        "Flight": "EY216",
+        "Dest": "BLR",
+        "AirlineCode": "EY216",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9258",
+        "InterviewEndDate": "2023-06-21 16:48:35",
+        "InterviewState": "Complete",
+        "Flight": "EY216",
+        "Dest": "BLR",
+        "AirlineCode": "EY216",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9259",
+        "InterviewEndDate": "2023-06-21 17:01:11",
+        "InterviewState": "Complete",
+        "Flight": "EY878",
+        "Dest": "NRT",
+        "AirlineCode": "EY878",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9260",
+        "InterviewEndDate": "2023-06-21 17:08:41",
+        "InterviewState": "Complete",
+        "Flight": "EY878",
+        "Dest": "NRT",
+        "AirlineCode": "EY878",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9261",
+        "InterviewEndDate": "2023-06-21 17:11:11",
+        "InterviewState": "Complete",
+        "Flight": "EY878",
+        "Dest": "NRT",
+        "AirlineCode": "EY878",
         "Terminal": "T3"
     }
 ]    
