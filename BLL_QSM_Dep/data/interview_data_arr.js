@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "21-06-2023 16:30:12"
+        "download_time": "21-06-2023 17:30:07"
     },
     {
         "InterviewId": "2077",
@@ -5463,6 +5463,38 @@ let interview_data_arr_raw = `[
         "Flight": "JTD - Jettime",
         "Dest": "RHO",
         "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3422",
+        "InterviewEndDate": "2023-06-21 15:00:51",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3423",
+        "InterviewEndDate": "2023-06-21 15:01:01",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3424",
+        "InterviewEndDate": "2023-06-21 15:01:02",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3425",
+        "InterviewEndDate": "2023-06-21 15:02:42",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
