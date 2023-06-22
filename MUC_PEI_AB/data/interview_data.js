@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-06-2023 19:28:43"
+        "download_time": "22-06-2023 20:28:43"
     },
     {
         "InterviewId": "15848",
@@ -18985,6 +18985,14 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
+        "InterviewId": "18652",
+        "InterviewEndDate": "2023-06-22 17:34:33",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
         "InterviewId": "18653",
         "InterviewEndDate": "2023-06-22 17:26:16",
         "InterviewState": "Complete",
@@ -18999,6 +19007,38 @@ let interview_data_raw = `[
         "Flight": "IB 8715",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18655",
+        "InterviewEndDate": "2023-06-22 17:28:51",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "18656",
+        "InterviewEndDate": "2023-06-22 17:44:53",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "18657",
+        "InterviewEndDate": "2023-06-22 18:05:16",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "18658",
+        "InterviewEndDate": "2023-06-22 18:05:12",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
