@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "22-06-2023 22:30:17"
+        "download_time": "22-06-2023 23:30:24"
     },
     {
         "InterviewId": "1224",
@@ -2279,6 +2279,46 @@ let interview_data_arr_raw = `[
         "Flight": "LX - Swiss International",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "1508",
+        "InterviewEndDate": "2023-06-22 20:54:09",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "1509",
+        "InterviewEndDate": "2023-06-22 20:57:37",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "1510",
+        "InterviewEndDate": "2023-06-22 21:01:23",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "1511",
+        "InterviewEndDate": "2023-06-22 21:05:18",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "1512",
+        "InterviewEndDate": "2023-06-22 21:11:10",
+        "InterviewState": "Complete",
+        "Flight": "LY - El-Al",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
     }
 ]    
 
