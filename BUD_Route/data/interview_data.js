@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-06-2023 08:32:30"
+        "download_time": "22-06-2023 09:32:46"
     },
     {
         "InterviewId": "67210",
@@ -75947,6 +75947,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "77019",
         "InterviewEndDate": "2023-06-22 06:27:02",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "77020",
+        "InterviewEndDate": "2023-06-22 06:35:13",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "77021",
+        "InterviewEndDate": "2023-06-22 06:38:33",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "77022",
+        "InterviewEndDate": "2023-06-22 06:38:18",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "77023",
+        "InterviewEndDate": "2023-06-22 06:42:19",
+        "InterviewState": "Complete",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "77024",
+        "InterviewEndDate": "2023-06-22 06:43:17",
         "InterviewState": "Complete",
         "Flight": "RO  232",
         "Dest": "OTP",
