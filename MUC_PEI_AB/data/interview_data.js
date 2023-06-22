@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-06-2023 18:28:47"
+        "download_time": "22-06-2023 19:28:43"
     },
     {
         "InterviewId": "15848",
@@ -18931,6 +18931,70 @@ let interview_data_raw = `[
     {
         "InterviewId": "18645",
         "InterviewEndDate": "2023-06-22 16:28:26",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18646",
+        "InterviewEndDate": "2023-06-22 16:44:37",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18647",
+        "InterviewEndDate": "2023-06-22 16:40:37",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18648",
+        "InterviewEndDate": "2023-06-22 16:49:52",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18649",
+        "InterviewEndDate": "2023-06-22 16:47:57",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18650",
+        "InterviewEndDate": "2023-06-22 17:01:42",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "18651",
+        "InterviewEndDate": "2023-06-22 17:27:56",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "18653",
+        "InterviewEndDate": "2023-06-22 17:26:16",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "18654",
+        "InterviewEndDate": "2023-06-22 17:13:38",
         "InterviewState": "Complete",
         "Flight": "IB 8715",
         "Dest": "MAD",
