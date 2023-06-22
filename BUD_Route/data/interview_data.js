@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-06-2023 21:32:33"
+        "download_time": "22-06-2023 22:32:18"
     },
     {
         "InterviewId": "67210",
@@ -77551,6 +77551,198 @@ let interview_data_raw = `[
         "Flight": "EW 7783",
         "Dest": "HAM",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77226",
+        "InterviewEndDate": "2023-06-22 19:38:37",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77227",
+        "InterviewEndDate": "2023-06-22 19:38:38",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77228",
+        "InterviewEndDate": "2023-06-22 19:42:46",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77229",
+        "InterviewEndDate": "2023-06-22 19:42:39",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77230",
+        "InterviewEndDate": "2023-06-22 19:54:59",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77231",
+        "InterviewEndDate": "2023-06-22 19:53:38",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77232",
+        "InterviewEndDate": "2023-06-22 19:53:42",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77233",
+        "InterviewEndDate": "2023-06-22 19:56:12",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77234",
+        "InterviewEndDate": "2023-06-22 20:01:39",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77235",
+        "InterviewEndDate": "2023-06-22 20:02:14",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77236",
+        "InterviewEndDate": "2023-06-22 20:02:10",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77237",
+        "InterviewEndDate": "2023-06-22 20:04:31",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77238",
+        "InterviewEndDate": "2023-06-22 20:04:32",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77239",
+        "InterviewEndDate": "2023-06-22 20:10:38",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77240",
+        "InterviewEndDate": "2023-06-22 20:10:42",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77241",
+        "InterviewEndDate": "2023-06-22 20:15:24",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77242",
+        "InterviewEndDate": "2023-06-22 20:12:45",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77243",
+        "InterviewEndDate": "2023-06-22 20:16:49",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "77244",
+        "InterviewEndDate": "2023-06-22 20:24:27",
+        "InterviewState": "Complete",
+        "Flight": "LY 2368",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "77245",
+        "InterviewEndDate": "2023-06-22 20:23:56",
+        "InterviewState": "Complete",
+        "Flight": "LY 2368",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "77246",
+        "InterviewEndDate": "2023-06-22 20:25:08",
+        "InterviewState": "Complete",
+        "Flight": "LY 2368",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "77247",
+        "InterviewEndDate": "2023-06-22 20:26:15",
+        "InterviewState": "Complete",
+        "Flight": "LY 2368",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "77248",
+        "InterviewEndDate": "2023-06-22 20:25:06",
+        "InterviewState": "Complete",
+        "Flight": "LY 2368",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "77250",
+        "InterviewEndDate": "2023-06-22 20:30:19",
+        "InterviewState": "Complete",
+        "Flight": "LY 2368",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
     }
 ]    
 
