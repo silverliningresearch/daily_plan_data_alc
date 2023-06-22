@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "22-06-2023 20:30:18"
+        "download_time": "22-06-2023 21:30:27"
     },
     {
         "InterviewId": "1224",
@@ -2239,6 +2239,46 @@ let interview_data_arr_raw = `[
         "Flight": "JU - Air Serbia",
         "Dest": "BEG",
         "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "1503",
+        "InterviewEndDate": "2023-06-22 19:08:35",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "1504",
+        "InterviewEndDate": "2023-06-22 19:13:30",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "1505",
+        "InterviewEndDate": "2023-06-22 19:17:30",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "1506",
+        "InterviewEndDate": "2023-06-22 19:22:24",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "1507",
+        "InterviewEndDate": "2023-06-22 19:26:28",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     }
 ]    
 
