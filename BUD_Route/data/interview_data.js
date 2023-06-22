@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-06-2023 11:33:01"
+        "download_time": "22-06-2023 12:32:47"
     },
     {
         "InterviewId": "67210",
@@ -76129,12 +76129,92 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "77042",
+        "InterviewEndDate": "2023-06-22 09:32:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "77043",
         "InterviewEndDate": "2023-06-22 09:32:01",
         "InterviewState": "Complete",
         "Flight": "FR 5023",
         "Dest": "PSA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77044",
+        "InterviewEndDate": "2023-06-22 09:34:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77045",
+        "InterviewEndDate": "2023-06-22 09:35:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77046",
+        "InterviewEndDate": "2023-06-22 09:37:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77047",
+        "InterviewEndDate": "2023-06-22 09:36:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77048",
+        "InterviewEndDate": "2023-06-22 09:37:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77049",
+        "InterviewEndDate": "2023-06-22 10:21:05",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "77050",
+        "InterviewEndDate": "2023-06-22 10:20:35",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "77051",
+        "InterviewEndDate": "2023-06-22 10:23:53",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "77056",
+        "InterviewEndDate": "2023-06-22 10:27:13",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
