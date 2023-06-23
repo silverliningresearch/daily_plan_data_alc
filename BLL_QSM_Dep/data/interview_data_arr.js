@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "23-06-2023 09:30:03"
+        "download_time": "23-06-2023 10:30:05"
     },
     {
         "InterviewId": "2077",
@@ -5521,6 +5521,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "3435",
+        "InterviewEndDate": "2023-06-23 07:39:54",
+        "InterviewState": "Complete",
+        "Flight": "FR - RyanairFri",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "3437",
         "InterviewEndDate": "2023-06-23 07:25:32",
         "InterviewState": "Complete",
@@ -5543,6 +5551,70 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BCN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3443",
+        "InterviewEndDate": "2023-06-23 07:52:30",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3447",
+        "InterviewEndDate": "2023-06-23 07:50:35",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3448",
+        "InterviewEndDate": "2023-06-23 07:50:11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3451",
+        "InterviewEndDate": "2023-06-23 08:26:54",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3452",
+        "InterviewEndDate": "2023-06-23 08:24:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3453",
+        "InterviewEndDate": "2023-06-23 08:23:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3454",
+        "InterviewEndDate": "2023-06-23 08:23:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3455",
+        "InterviewEndDate": "2023-06-23 08:23:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
