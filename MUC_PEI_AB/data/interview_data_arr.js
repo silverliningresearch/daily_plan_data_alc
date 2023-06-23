@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "23-06-2023 19:28:57"
+        "download_time": "23-06-2023 20:28:56"
     },
     {
         "InterviewId": "5174",
@@ -4729,6 +4729,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "A3"
     },
     {
+        "InterviewId": "5895",
+        "InterviewEndDate": "2023-06-23 17:32:43",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
         "InterviewId": "5896",
         "InterviewEndDate": "2023-06-23 17:17:00",
         "InterviewState": "Complete",
@@ -4751,6 +4759,46 @@ let interview_data_arr_raw = `[
         "Flight": "KM - Air Malta",
         "Dest": "MLA",
         "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "5900",
+        "InterviewEndDate": "2023-06-23 17:36:34",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5901",
+        "InterviewEndDate": "2023-06-23 17:38:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5902",
+        "InterviewEndDate": "2023-06-23 17:46:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5904",
+        "InterviewEndDate": "2023-06-23 17:50:38",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "5905",
+        "InterviewEndDate": "2023-06-23 18:05:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "STR",
+        "AirlineCode": "LH"
     }
 ]    
 
