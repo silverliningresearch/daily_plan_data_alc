@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "24-06-2023 23:33:02"
+        "download_time": "25-06-2023 00:33:00"
     },
     {
         "InterviewId": "4226",
@@ -8765,6 +8765,96 @@ let interview_data_arr_raw = `[
         "Dest": "COK",
         "AirlineCode": "3L",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5241",
+        "InterviewEndDate": "2023-06-24 19:33:29",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BLR",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5242",
+        "InterviewEndDate": "2023-06-24 19:36:31",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BLR",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5243",
+        "InterviewEndDate": "2023-06-24 19:40:24",
+        "InterviewState": "Complete",
+        "Flight": "RQ - Kam Air",
+        "Dest": "KBL",
+        "AirlineCode": "RQ",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5244",
+        "InterviewEndDate": "2023-06-24 19:45:29",
+        "InterviewState": "Complete",
+        "Flight": "RQ - Kam Air",
+        "Dest": "KBL",
+        "AirlineCode": "RQ",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5245",
+        "InterviewEndDate": "2023-06-24 19:59:36",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SIN",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5246",
+        "InterviewEndDate": "2023-06-24 19:48:36",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "DEL",
+        "AirlineCode": "6E",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5247",
+        "InterviewEndDate": "2023-06-24 19:54:14",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "COK",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5248",
+        "InterviewEndDate": "2023-06-24 19:59:56",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SIN",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5249",
+        "InterviewEndDate": "2023-06-24 20:07:51",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "DEL",
+        "AirlineCode": "6E",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5250",
+        "InterviewEndDate": "2023-06-24 20:12:51",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SIN",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
     }
 ]    
 
