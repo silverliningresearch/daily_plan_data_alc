@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "24-06-2023 17:32:13"
+        "download_time": "24-06-2023 18:32:21"
     },
     {
         "InterviewId": "67210",
@@ -78609,12 +78609,252 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "77358",
+        "InterviewEndDate": "2023-06-24 15:28:02",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "77359",
         "InterviewEndDate": "2023-06-24 15:31:37",
         "InterviewState": "Complete",
         "Flight": "BA  875",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77360",
+        "InterviewEndDate": "2023-06-24 15:31:40",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77361",
+        "InterviewEndDate": "2023-06-24 15:35:57",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77362",
+        "InterviewEndDate": "2023-06-24 15:38:47",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77363",
+        "InterviewEndDate": "2023-06-24 15:38:47",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77364",
+        "InterviewEndDate": "2023-06-24 15:38:48",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77365",
+        "InterviewEndDate": "2023-06-24 15:41:59",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77366",
+        "InterviewEndDate": "2023-06-24 15:43:31",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77367",
+        "InterviewEndDate": "2023-06-24 15:43:31",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77368",
+        "InterviewEndDate": "2023-06-24 15:44:09",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77369",
+        "InterviewEndDate": "2023-06-24 15:45:50",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77370",
+        "InterviewEndDate": "2023-06-24 15:45:55",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77371",
+        "InterviewEndDate": "2023-06-24 15:47:02",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "77372",
+        "InterviewEndDate": "2023-06-24 16:10:23",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77373",
+        "InterviewEndDate": "2023-06-24 16:07:23",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77374",
+        "InterviewEndDate": "2023-06-24 16:12:30",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77375",
+        "InterviewEndDate": "2023-06-24 16:08:50",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77376",
+        "InterviewEndDate": "2023-06-24 16:06:33",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77377",
+        "InterviewEndDate": "2023-06-24 16:14:27",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77378",
+        "InterviewEndDate": "2023-06-24 16:14:19",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77379",
+        "InterviewEndDate": "2023-06-24 16:14:40",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77380",
+        "InterviewEndDate": "2023-06-24 16:14:11",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77381",
+        "InterviewEndDate": "2023-06-24 16:24:41",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77382",
+        "InterviewEndDate": "2023-06-24 16:26:32",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77383",
+        "InterviewEndDate": "2023-06-24 16:31:54",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77384",
+        "InterviewEndDate": "2023-06-24 16:26:59",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77385",
+        "InterviewEndDate": "2023-06-24 16:24:42",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77386",
+        "InterviewEndDate": "2023-06-24 16:31:54",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77387",
+        "InterviewEndDate": "2023-06-24 16:31:55",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "77388",
+        "InterviewEndDate": "2023-06-24 16:31:53",
+        "InterviewState": "Complete",
+        "Flight": "AF 1495",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
