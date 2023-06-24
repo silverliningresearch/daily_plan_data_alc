@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "24-06-2023 14:32:12"
+        "download_time": "24-06-2023 15:32:17"
     },
     {
         "InterviewId": "67210",
@@ -78231,6 +78231,238 @@ let interview_data_raw = `[
         "Flight": "LX 2255",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77311",
+        "InterviewEndDate": "2023-06-24 12:49:01",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77312",
+        "InterviewEndDate": "2023-06-24 12:50:35",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77313",
+        "InterviewEndDate": "2023-06-24 12:47:30",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77314",
+        "InterviewEndDate": "2023-06-24 12:47:30",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77315",
+        "InterviewEndDate": "2023-06-24 12:44:41",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77316",
+        "InterviewEndDate": "2023-06-24 12:56:58",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77317",
+        "InterviewEndDate": "2023-06-24 12:56:52",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77318",
+        "InterviewEndDate": "2023-06-24 12:56:53",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77319",
+        "InterviewEndDate": "2023-06-24 12:56:56",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77320",
+        "InterviewEndDate": "2023-06-24 12:56:53",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77321",
+        "InterviewEndDate": "2023-06-24 13:03:21",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77322",
+        "InterviewEndDate": "2023-06-24 13:00:24",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77323",
+        "InterviewEndDate": "2023-06-24 13:00:24",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77324",
+        "InterviewEndDate": "2023-06-24 13:01:42",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77325",
+        "InterviewEndDate": "2023-06-24 13:03:21",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77326",
+        "InterviewEndDate": "2023-06-24 13:08:20",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77327",
+        "InterviewEndDate": "2023-06-24 13:05:53",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77328",
+        "InterviewEndDate": "2023-06-24 13:05:57",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77329",
+        "InterviewEndDate": "2023-06-24 13:08:58",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77330",
+        "InterviewEndDate": "2023-06-24 13:10:50",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77331",
+        "InterviewEndDate": "2023-06-24 13:10:53",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77332",
+        "InterviewEndDate": "2023-06-24 13:13:42",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77333",
+        "InterviewEndDate": "2023-06-24 13:16:38",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77334",
+        "InterviewEndDate": "2023-06-24 13:15:40",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77335",
+        "InterviewEndDate": "2023-06-24 13:16:22",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77336",
+        "InterviewEndDate": "2023-06-24 13:17:49",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77337",
+        "InterviewEndDate": "2023-06-24 13:24:04",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "77338",
+        "InterviewEndDate": "2023-06-24 13:31:25",
+        "InterviewState": "Complete",
+        "Flight": "QR  200",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77341",
+        "InterviewEndDate": "2023-06-24 13:30:21",
+        "InterviewState": "Complete",
+        "Flight": "QR  200",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 
