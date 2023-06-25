@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "25-06-2023 12:32:22"
+        "download_time": "25-06-2023 13:32:22"
     },
     {
         "InterviewId": "67210",
@@ -79327,6 +79327,198 @@ let interview_data_raw = `[
         "Flight": "FR 4329",
         "Dest": "SNN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77448",
+        "InterviewEndDate": "2023-06-25 10:48:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77449",
+        "InterviewEndDate": "2023-06-25 10:47:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77450",
+        "InterviewEndDate": "2023-06-25 10:49:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77451",
+        "InterviewEndDate": "2023-06-25 10:49:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77452",
+        "InterviewEndDate": "2023-06-25 10:51:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77453",
+        "InterviewEndDate": "2023-06-25 11:02:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77454",
+        "InterviewEndDate": "2023-06-25 10:59:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77455",
+        "InterviewEndDate": "2023-06-25 10:57:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77456",
+        "InterviewEndDate": "2023-06-25 10:58:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77457",
+        "InterviewEndDate": "2023-06-25 11:01:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77458",
+        "InterviewEndDate": "2023-06-25 11:07:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77459",
+        "InterviewEndDate": "2023-06-25 11:07:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77460",
+        "InterviewEndDate": "2023-06-25 11:07:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77462",
+        "InterviewEndDate": "2023-06-25 11:06:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77464",
+        "InterviewEndDate": "2023-06-25 11:10:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77465",
+        "InterviewEndDate": "2023-06-25 11:11:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77466",
+        "InterviewEndDate": "2023-06-25 11:28:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77467",
+        "InterviewEndDate": "2023-06-25 11:13:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77468",
+        "InterviewEndDate": "2023-06-25 11:14:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77469",
+        "InterviewEndDate": "2023-06-25 11:17:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77470",
+        "InterviewEndDate": "2023-06-25 11:28:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77471",
+        "InterviewEndDate": "2023-06-25 11:21:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77472",
+        "InterviewEndDate": "2023-06-25 11:17:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77473",
+        "InterviewEndDate": "2023-06-25 11:21:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
     }
 ]    
 
