@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "25-06-2023 22:33:02"
+        "download_time": "25-06-2023 23:32:58"
     },
     {
         "InterviewId": "7333",
@@ -17722,12 +17722,75 @@ let interview_data_raw = `[
         "Terminal": "T3"
     },
     {
+        "InterviewId": "9419",
+        "InterviewEndDate": "2023-06-25 18:33:43",
+        "InterviewState": "Complete",
+        "Flight": "3L141",
+        "Dest": "MAA",
+        "AirlineCode": "3L141",
+        "Terminal": "T1"
+    },
+    {
         "InterviewId": "9420",
         "InterviewEndDate": "2023-06-25 18:31:52",
         "InterviewState": "Complete",
         "Flight": "3L141",
         "Dest": "MAA",
         "AirlineCode": "3L141",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9422",
+        "InterviewEndDate": "2023-06-25 18:48:52",
+        "InterviewState": "Complete",
+        "Flight": "3L123",
+        "Dest": "CCJ",
+        "AirlineCode": "3L123",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9423",
+        "InterviewEndDate": "2023-06-25 18:51:14",
+        "InterviewState": "Complete",
+        "Flight": "3l123",
+        "Dest": "CCJ",
+        "AirlineCode": "3l123",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9424",
+        "InterviewEndDate": "2023-06-25 18:54:04",
+        "InterviewState": "Complete",
+        "Flight": "3L123",
+        "Dest": "CCJ",
+        "AirlineCode": "3L123",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9425",
+        "InterviewEndDate": "2023-06-25 19:03:56",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9426",
+        "InterviewEndDate": "2023-06-25 19:09:44",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9427",
+        "InterviewEndDate": "2023-06-25 19:14:26",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
         "Terminal": "T1"
     }
 ]    
