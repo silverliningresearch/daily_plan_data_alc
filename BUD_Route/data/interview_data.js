@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "25-06-2023 14:32:17"
+        "download_time": "25-06-2023 15:32:47"
     },
     {
         "InterviewId": "67210",
@@ -79567,6 +79567,110 @@ let interview_data_raw = `[
         "Flight": "LH 1677",
         "Dest": "MUC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "77480",
+        "InterviewEndDate": "2023-06-25 12:40:05",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "77481",
+        "InterviewEndDate": "2023-06-25 12:43:53",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "77482",
+        "InterviewEndDate": "2023-06-25 12:49:25",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "77483",
+        "InterviewEndDate": "2023-06-25 12:49:21",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "77484",
+        "InterviewEndDate": "2023-06-25 12:55:56",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "77485",
+        "InterviewEndDate": "2023-06-25 13:10:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77486",
+        "InterviewEndDate": "2023-06-25 13:17:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77487",
+        "InterviewEndDate": "2023-06-25 13:17:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77488",
+        "InterviewEndDate": "2023-06-25 13:21:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77489",
+        "InterviewEndDate": "2023-06-25 13:20:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77490",
+        "InterviewEndDate": "2023-06-25 13:24:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77491",
+        "InterviewEndDate": "2023-06-25 13:31:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77492",
+        "InterviewEndDate": "2023-06-25 13:31:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
     }
 ]    
 
