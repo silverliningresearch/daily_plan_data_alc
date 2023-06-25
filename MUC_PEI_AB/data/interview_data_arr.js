@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "25-06-2023 09:28:53"
+        "download_time": "25-06-2023 10:28:55"
     },
     {
         "InterviewId": "5174",
@@ -4999,6 +4999,70 @@ let interview_data_arr_raw = `[
         "Flight": "EW - Eurowings",
         "Dest": "PMI",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5933",
+        "InterviewEndDate": "2023-06-25 07:26:56",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "5935",
+        "InterviewEndDate": "2023-06-25 07:36:54",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "5936",
+        "InterviewEndDate": "2023-06-25 07:41:03",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "5937",
+        "InterviewEndDate": "2023-06-25 07:39:48",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "5938",
+        "InterviewEndDate": "2023-06-25 08:01:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5939",
+        "InterviewEndDate": "2023-06-25 08:01:21",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5940",
+        "InterviewEndDate": "2023-06-25 08:03:22",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "5941",
+        "InterviewEndDate": "2023-06-25 08:06:23",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
