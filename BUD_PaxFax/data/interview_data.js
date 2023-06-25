@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "25-06-2023 18:32:38"
+        "download_time": "25-06-2023 19:32:31"
     },
     {
         "InterviewId": "7701",
@@ -7571,6 +7571,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "8752",
         "InterviewEndDate": "2023-06-25 16:27:14",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8753",
+        "InterviewEndDate": "2023-06-25 16:43:06",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8754",
+        "InterviewEndDate": "2023-06-25 16:36:59",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8756",
+        "InterviewEndDate": "2023-06-25 16:35:08",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8757",
+        "InterviewEndDate": "2023-06-25 16:36:44",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8758",
+        "InterviewEndDate": "2023-06-25 16:38:32",
         "InterviewState": "Complete",
         "Flight": "AY 1256",
         "Dest": "HEL",
