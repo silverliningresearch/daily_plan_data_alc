@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "25-06-2023 05:32:59"
+        "download_time": "25-06-2023 06:33:00"
     },
     {
         "InterviewId": "7333",
@@ -17477,6 +17477,87 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9392",
+        "InterviewEndDate": "2023-06-25 01:34:30",
+        "InterviewState": "Complete",
+        "Flight": "3L263",
+        "Dest": "SLL",
+        "AirlineCode": "3L263",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9393",
+        "InterviewEndDate": "2023-06-25 01:41:46",
+        "InterviewState": "Complete",
+        "Flight": "3L263",
+        "Dest": "SLL",
+        "AirlineCode": "3L263",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9394",
+        "InterviewEndDate": "2023-06-25 01:57:52",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9395",
+        "InterviewEndDate": "2023-06-25 02:02:34",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9396",
+        "InterviewEndDate": "2023-06-25 02:10:07",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9397",
+        "InterviewEndDate": "2023-06-25 02:16:35",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9398",
+        "InterviewEndDate": "2023-06-25 02:24:18",
+        "InterviewState": "Complete",
+        "Flight": "EY141",
+        "Dest": "YYZ",
+        "AirlineCode": "EY141",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9399",
+        "InterviewEndDate": "2023-06-25 02:25:30",
+        "InterviewState": "Complete",
+        "Flight": "EY141",
+        "Dest": "YYZ",
+        "AirlineCode": "EY141",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9400",
+        "InterviewEndDate": "2023-06-25 02:29:50",
+        "InterviewState": "Complete",
+        "Flight": "EY141",
+        "Dest": "YYZ",
+        "AirlineCode": "EY141",
+        "Terminal": "T3"
     }
 ]    
 
