@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "26-06-2023 20:30:31"
+        "download_time": "26-06-2023 21:30:25"
     },
     {
         "InterviewId": "1224",
@@ -2327,6 +2327,78 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TGD",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1514",
+        "InterviewEndDate": "2023-06-26 18:47:45",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1515",
+        "InterviewEndDate": "2023-06-26 18:53:38",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1516",
+        "InterviewEndDate": "2023-06-26 18:57:37",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1517",
+        "InterviewEndDate": "2023-06-26 19:02:30",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1518",
+        "InterviewEndDate": "2023-06-26 19:07:22",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1519",
+        "InterviewEndDate": "2023-06-26 19:10:44",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1520",
+        "InterviewEndDate": "2023-06-26 19:14:05",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1521",
+        "InterviewEndDate": "2023-06-26 19:18:39",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1522",
+        "InterviewEndDate": "2023-06-26 19:22:18",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
     }
 ]    
 

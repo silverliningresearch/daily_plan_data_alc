@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "26-06-2023 22:33:42"
+        "download_time": "26-06-2023 23:33:28"
     },
     {
         "InterviewId": "7333",
@@ -18125,6 +18125,69 @@ let interview_data_raw = `[
         "Dest": "BAH",
         "AirlineCode": "GF547",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9467",
+        "InterviewEndDate": "2023-06-26 18:35:08",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9468",
+        "InterviewEndDate": "2023-06-26 18:36:02",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9469",
+        "InterviewEndDate": "2023-06-26 18:52:45",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9470",
+        "InterviewEndDate": "2023-06-26 18:49:39",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9471",
+        "InterviewEndDate": "2023-06-26 18:57:41",
+        "InterviewState": "Complete",
+        "Flight": "Uk",
+        "Dest": "BOM",
+        "AirlineCode": "Uk",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9472",
+        "InterviewEndDate": "2023-06-26 19:18:42",
+        "InterviewState": "Complete",
+        "Flight": "EY099",
+        "Dest": "IST",
+        "AirlineCode": "EY099",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9473",
+        "InterviewEndDate": "2023-06-26 19:21:07",
+        "InterviewState": "Complete",
+        "Flight": "EY099",
+        "Dest": "IST",
+        "AirlineCode": "EY099",
+        "Terminal": "T3"
     }
 ]    
 
