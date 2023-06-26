@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-06-2023 18:32:57"
+        "download_time": "26-06-2023 19:32:38"
     },
     {
         "InterviewId": "67210",
@@ -81007,6 +81007,254 @@ let interview_data_raw = `[
         "Flight": "FR 6521",
         "Dest": "ZAD",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77662",
+        "InterviewEndDate": "2023-06-26 16:36:23",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77663",
+        "InterviewEndDate": "2023-06-26 16:40:38",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77664",
+        "InterviewEndDate": "2023-06-26 16:39:20",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77665",
+        "InterviewEndDate": "2023-06-26 16:37:34",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77666",
+        "InterviewEndDate": "2023-06-26 16:33:58",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77667",
+        "InterviewEndDate": "2023-06-26 16:45:42",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77668",
+        "InterviewEndDate": "2023-06-26 16:47:22",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77669",
+        "InterviewEndDate": "2023-06-26 16:46:43",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77670",
+        "InterviewEndDate": "2023-06-26 16:44:38",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77671",
+        "InterviewEndDate": "2023-06-26 16:46:23",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77672",
+        "InterviewEndDate": "2023-06-26 16:51:30",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77673",
+        "InterviewEndDate": "2023-06-26 16:51:24",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77674",
+        "InterviewEndDate": "2023-06-26 16:53:31",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77675",
+        "InterviewEndDate": "2023-06-26 16:53:05",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77676",
+        "InterviewEndDate": "2023-06-26 16:52:41",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77677",
+        "InterviewEndDate": "2023-06-26 16:58:02",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77678",
+        "InterviewEndDate": "2023-06-26 16:55:30",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77679",
+        "InterviewEndDate": "2023-06-26 17:00:22",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77680",
+        "InterviewEndDate": "2023-06-26 17:00:06",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77681",
+        "InterviewEndDate": "2023-06-26 17:08:20",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77682",
+        "InterviewEndDate": "2023-06-26 17:01:31",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77683",
+        "InterviewEndDate": "2023-06-26 17:08:40",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77684",
+        "InterviewEndDate": "2023-06-26 17:06:13",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77685",
+        "InterviewEndDate": "2023-06-26 17:08:20",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77686",
+        "InterviewEndDate": "2023-06-26 17:07:07",
+        "InterviewState": "Complete",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77687",
+        "InterviewEndDate": "2023-06-26 17:27:54",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77688",
+        "InterviewEndDate": "2023-06-26 17:28:43",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77689",
+        "InterviewEndDate": "2023-06-26 17:29:42",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77690",
+        "InterviewEndDate": "2023-06-26 17:30:38",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77691",
+        "InterviewEndDate": "2023-06-26 17:31:17",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77693",
+        "InterviewEndDate": "2023-06-26 17:31:34",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
