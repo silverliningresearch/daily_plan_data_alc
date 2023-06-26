@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-06-2023 11:32:57"
+        "download_time": "26-06-2023 12:32:52"
     },
     {
         "InterviewId": "67210",
@@ -80315,6 +80315,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "77574",
         "InterviewEndDate": "2023-06-26 09:31:30",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "77575",
+        "InterviewEndDate": "2023-06-26 09:33:27",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "77576",
+        "InterviewEndDate": "2023-06-26 09:39:38",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "77577",
+        "InterviewEndDate": "2023-06-26 09:39:36",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "77578",
+        "InterviewEndDate": "2023-06-26 09:38:23",
+        "InterviewState": "Complete",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "77579",
+        "InterviewEndDate": "2023-06-26 09:41:13",
         "InterviewState": "Complete",
         "Flight": "EI  673",
         "Dest": "DUB",
