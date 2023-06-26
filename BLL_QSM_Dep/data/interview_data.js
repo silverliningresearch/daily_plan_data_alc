@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "26-06-2023 15:30:09"
+        "download_time": "26-06-2023 16:30:01"
     },
     {
         "InterviewId": "6093",
@@ -19647,6 +19647,70 @@ let interview_data_raw = `[
         "Flight": "RC7142",
         "Dest": "IOA",
         "AirlineCode": "RC7142"
+    },
+    {
+        "InterviewId": "10041",
+        "InterviewEndDate": "2023-06-26 13:51:50",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "10042",
+        "InterviewEndDate": "2023-06-26 13:54:03",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "10043",
+        "InterviewEndDate": "2023-06-26 13:46:52",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "10044",
+        "InterviewEndDate": "2023-06-26 13:46:41",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "10045",
+        "InterviewEndDate": "2023-06-26 13:54:27",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "10046",
+        "InterviewEndDate": "2023-06-26 13:50:14",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "10047",
+        "InterviewEndDate": "2023-06-26 13:50:43",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "10048",
+        "InterviewEndDate": "2023-06-26 13:54:22",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
     }
 ]    
 
