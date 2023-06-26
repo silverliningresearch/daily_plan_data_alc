@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "26-06-2023 13:29:58"
+        "download_time": "26-06-2023 14:30:07"
     },
     {
         "InterviewId": "6093",
@@ -19519,6 +19519,70 @@ let interview_data_raw = `[
         "Flight": "AF1763",
         "Dest": "CDG",
         "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "10025",
+        "InterviewEndDate": "2023-06-26 11:40:11",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "10026",
+        "InterviewEndDate": "2023-06-26 11:36:04",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "10027",
+        "InterviewEndDate": "2023-06-26 11:33:33",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "10028",
+        "InterviewEndDate": "2023-06-26 11:34:28",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "10029",
+        "InterviewEndDate": "2023-06-26 11:32:46",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "10030",
+        "InterviewEndDate": "2023-06-26 11:34:41",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "10031",
+        "InterviewEndDate": "2023-06-26 11:34:41",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "10032",
+        "InterviewEndDate": "2023-06-26 11:39:17",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
     }
 ]    
 
