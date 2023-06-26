@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "26-06-2023 19:32:38"
+        "download_time": "26-06-2023 20:32:54"
     },
     {
         "InterviewId": "67210",
@@ -81249,12 +81249,196 @@ let interview_data_raw = `[
         "AirlineCode": "EW"
     },
     {
+        "InterviewId": "77692",
+        "InterviewEndDate": "2023-06-26 17:33:27",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "77693",
         "InterviewEndDate": "2023-06-26 17:31:34",
         "InterviewState": "Complete",
         "Flight": "EW 9783",
         "Dest": "DUS",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77694",
+        "InterviewEndDate": "2023-06-26 17:42:48",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77695",
+        "InterviewEndDate": "2023-06-26 17:35:22",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77696",
+        "InterviewEndDate": "2023-06-26 17:34:33",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77697",
+        "InterviewEndDate": "2023-06-26 17:37:54",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77698",
+        "InterviewEndDate": "2023-06-26 17:42:47",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77699",
+        "InterviewEndDate": "2023-06-26 17:43:00",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77700",
+        "InterviewEndDate": "2023-06-26 17:42:04",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77701",
+        "InterviewEndDate": "2023-06-26 17:47:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77702",
+        "InterviewEndDate": "2023-06-26 17:46:13",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77703",
+        "InterviewEndDate": "2023-06-26 17:48:34",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77704",
+        "InterviewEndDate": "2023-06-26 17:48:57",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77705",
+        "InterviewEndDate": "2023-06-26 17:59:48",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77706",
+        "InterviewEndDate": "2023-06-26 18:02:35",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77707",
+        "InterviewEndDate": "2023-06-26 18:04:45",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77708",
+        "InterviewEndDate": "2023-06-26 18:02:37",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77709",
+        "InterviewEndDate": "2023-06-26 17:59:48",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77710",
+        "InterviewEndDate": "2023-06-26 18:06:34",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "77711",
+        "InterviewEndDate": "2023-06-26 18:26:14",
+        "InterviewState": "Complete",
+        "Flight": "LX 2259",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77712",
+        "InterviewEndDate": "2023-06-26 18:25:38",
+        "InterviewState": "Complete",
+        "Flight": "LX 2259",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77713",
+        "InterviewEndDate": "2023-06-26 18:29:34",
+        "InterviewState": "Complete",
+        "Flight": "LX 2259",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77714",
+        "InterviewEndDate": "2023-06-26 18:30:07",
+        "InterviewState": "Complete",
+        "Flight": "LX 2259",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77715",
+        "InterviewEndDate": "2023-06-26 18:27:55",
+        "InterviewState": "Complete",
+        "Flight": "LX 2259",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     }
 ]    
 

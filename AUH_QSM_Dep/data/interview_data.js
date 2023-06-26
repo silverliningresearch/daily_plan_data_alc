@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "26-06-2023 21:33:25"
+        "download_time": "26-06-2023 22:33:42"
     },
     {
         "InterviewId": "7333",
@@ -18062,6 +18062,69 @@ let interview_data_raw = `[
         "Dest": "JED",
         "AirlineCode": "EY329",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9460",
+        "InterviewEndDate": "2023-06-26 17:33:31",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9461",
+        "InterviewEndDate": "2023-06-26 17:39:11",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9462",
+        "InterviewEndDate": "2023-06-26 17:50:21",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9463",
+        "InterviewEndDate": "2023-06-26 17:49:53",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9464",
+        "InterviewEndDate": "2023-06-26 18:12:13",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9465",
+        "InterviewEndDate": "2023-06-26 18:15:30",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9466",
+        "InterviewEndDate": "2023-06-26 18:31:13",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
     }
 ]    
 
