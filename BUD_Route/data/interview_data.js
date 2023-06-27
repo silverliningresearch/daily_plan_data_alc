@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "27-06-2023 09:33:03"
+        "download_time": "27-06-2023 10:32:55"
     },
     {
         "InterviewId": "67210",
@@ -81439,6 +81439,86 @@ let interview_data_raw = `[
         "Flight": "LX 2259",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77716",
+        "InterviewEndDate": "2023-06-27 08:15:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77717",
+        "InterviewEndDate": "2023-06-27 08:14:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77718",
+        "InterviewEndDate": "2023-06-27 08:27:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77719",
+        "InterviewEndDate": "2023-06-27 08:23:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77720",
+        "InterviewEndDate": "2023-06-27 08:25:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77721",
+        "InterviewEndDate": "2023-06-27 08:23:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77722",
+        "InterviewEndDate": "2023-06-27 08:29:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77723",
+        "InterviewEndDate": "2023-06-27 08:30:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77724",
+        "InterviewEndDate": "2023-06-27 08:31:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77725",
+        "InterviewEndDate": "2023-06-27 08:30:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
     }
 ]    
 

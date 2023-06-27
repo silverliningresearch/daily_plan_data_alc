@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-06-2023 09:29:52"
+        "download_time": "27-06-2023 10:29:52"
     },
     {
         "InterviewId": "6093",
@@ -19825,8 +19825,24 @@ let interview_data_raw = `[
         "AirlineCode": "FR8744"
     },
     {
+        "InterviewId": "10068",
+        "InterviewEndDate": "2023-06-27 07:31:10",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
         "InterviewId": "10069",
         "InterviewEndDate": "2023-06-27 07:24:07",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10070",
+        "InterviewEndDate": "2023-06-27 07:29:11",
         "InterviewState": "Complete",
         "Flight": "FR8744",
         "Dest": "BUD",
@@ -19847,6 +19863,62 @@ let interview_data_raw = `[
         "Flight": "FR8744",
         "Dest": "BUD",
         "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10073",
+        "InterviewEndDate": "2023-06-27 08:21:46",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
+    },
+    {
+        "InterviewId": "10076",
+        "InterviewEndDate": "2023-06-27 08:16:50",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
+    },
+    {
+        "InterviewId": "10077",
+        "InterviewEndDate": "2023-06-27 08:26:31",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
+    },
+    {
+        "InterviewId": "10078",
+        "InterviewEndDate": "2023-06-27 08:23:16",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
+    },
+    {
+        "InterviewId": "10079",
+        "InterviewEndDate": "2023-06-27 08:23:59",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
+    },
+    {
+        "InterviewId": "10080",
+        "InterviewEndDate": "2023-06-27 07:52:05",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10081",
+        "InterviewEndDate": "2023-06-27 08:16:12",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
     }
 ]    
 
