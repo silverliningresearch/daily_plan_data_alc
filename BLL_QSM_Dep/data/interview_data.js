@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-06-2023 08:29:51"
+        "download_time": "27-06-2023 09:29:52"
     },
     {
         "InterviewId": "6093",
@@ -19713,6 +19713,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR8497"
     },
     {
+        "InterviewId": "10051",
+        "InterviewEndDate": "2023-06-27 06:32:27",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
         "InterviewId": "10052",
         "InterviewEndDate": "2023-06-27 05:51:35",
         "InterviewState": "Complete",
@@ -19791,6 +19799,54 @@ let interview_data_raw = `[
         "Flight": "BGH7124",
         "Dest": "BOJ",
         "AirlineCode": "BGH7124"
+    },
+    {
+        "InterviewId": "10065",
+        "InterviewEndDate": "2023-06-27 07:19:52",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10066",
+        "InterviewEndDate": "2023-06-27 07:22:38",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10067",
+        "InterviewEndDate": "2023-06-27 07:23:47",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10069",
+        "InterviewEndDate": "2023-06-27 07:24:07",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10071",
+        "InterviewEndDate": "2023-06-27 07:27:23",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "10072",
+        "InterviewEndDate": "2023-06-27 07:27:47",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
     }
 ]    
 
