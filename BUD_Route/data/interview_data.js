@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "27-06-2023 11:32:58"
+        "download_time": "27-06-2023 12:33:00"
     },
     {
         "InterviewId": "67210",
@@ -81543,6 +81543,246 @@ let interview_data_raw = `[
         "Flight": "W6 2359",
         "Dest": "NAP",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77729",
+        "InterviewEndDate": "2023-06-27 09:40:18",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77730",
+        "InterviewEndDate": "2023-06-27 09:39:03",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77731",
+        "InterviewEndDate": "2023-06-27 09:38:21",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77732",
+        "InterviewEndDate": "2023-06-27 09:38:38",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77733",
+        "InterviewEndDate": "2023-06-27 09:38:26",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77734",
+        "InterviewEndDate": "2023-06-27 09:44:30",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77735",
+        "InterviewEndDate": "2023-06-27 09:49:09",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77736",
+        "InterviewEndDate": "2023-06-27 09:51:17",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77737",
+        "InterviewEndDate": "2023-06-27 09:49:38",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77738",
+        "InterviewEndDate": "2023-06-27 09:50:02",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77739",
+        "InterviewEndDate": "2023-06-27 09:50:12",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77740",
+        "InterviewEndDate": "2023-06-27 09:59:11",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77741",
+        "InterviewEndDate": "2023-06-27 09:59:16",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77742",
+        "InterviewEndDate": "2023-06-27 09:59:06",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77743",
+        "InterviewEndDate": "2023-06-27 09:55:22",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "77744",
+        "InterviewEndDate": "2023-06-27 10:08:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77745",
+        "InterviewEndDate": "2023-06-27 10:07:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77746",
+        "InterviewEndDate": "2023-06-27 10:09:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77747",
+        "InterviewEndDate": "2023-06-27 10:06:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77748",
+        "InterviewEndDate": "2023-06-27 10:06:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77749",
+        "InterviewEndDate": "2023-06-27 10:15:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77750",
+        "InterviewEndDate": "2023-06-27 10:18:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77751",
+        "InterviewEndDate": "2023-06-27 10:14:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77752",
+        "InterviewEndDate": "2023-06-27 10:18:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77753",
+        "InterviewEndDate": "2023-06-27 10:18:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77754",
+        "InterviewEndDate": "2023-06-27 10:24:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77755",
+        "InterviewEndDate": "2023-06-27 10:24:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77756",
+        "InterviewEndDate": "2023-06-27 10:23:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77757",
+        "InterviewEndDate": "2023-06-27 10:23:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "77758",
+        "InterviewEndDate": "2023-06-27 10:25:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
     }
 ]    
 
