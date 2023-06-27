@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-06-2023 12:30:04"
+        "download_time": "27-06-2023 13:29:57"
     },
     {
         "InterviewId": "6093",
@@ -19991,6 +19991,70 @@ let interview_data_raw = `[
         "Flight": "VY1917",
         "Dest": "AGP",
         "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "10090",
+        "InterviewEndDate": "2023-06-27 10:48:02",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10091",
+        "InterviewEndDate": "2023-06-27 10:37:49",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10092",
+        "InterviewEndDate": "2023-06-27 10:37:39",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10093",
+        "InterviewEndDate": "2023-06-27 10:36:18",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10094",
+        "InterviewEndDate": "2023-06-27 10:34:22",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10095",
+        "InterviewEndDate": "2023-06-27 10:36:02",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10096",
+        "InterviewEndDate": "2023-06-27 10:33:55",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10097",
+        "InterviewEndDate": "2023-06-27 10:35:05",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
     }
 ]    
 
