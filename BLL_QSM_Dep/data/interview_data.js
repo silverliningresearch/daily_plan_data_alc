@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-06-2023 13:29:57"
+        "download_time": "27-06-2023 14:30:01"
     },
     {
         "InterviewId": "6093",
@@ -20055,6 +20055,62 @@ let interview_data_raw = `[
         "Flight": "LH2435",
         "Dest": "MUC",
         "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "10098",
+        "InterviewEndDate": "2023-06-27 11:45:10",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "10099",
+        "InterviewEndDate": "2023-06-27 11:39:59",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "10100",
+        "InterviewEndDate": "2023-06-27 11:41:18",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "10101",
+        "InterviewEndDate": "2023-06-27 11:43:28",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "10102",
+        "InterviewEndDate": "2023-06-27 11:47:01",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "10103",
+        "InterviewEndDate": "2023-06-27 11:45:36",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "10105",
+        "InterviewEndDate": "2023-06-27 11:45:48",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
     }
 ]    
 
