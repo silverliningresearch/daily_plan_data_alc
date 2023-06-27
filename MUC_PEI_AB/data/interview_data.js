@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-06-2023 18:28:54"
+        "download_time": "27-06-2023 19:28:50"
     },
     {
         "InterviewId": "15848",
@@ -19527,6 +19527,62 @@ let interview_data_raw = `[
         "Flight": "AY 1406",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "18732",
+        "InterviewEndDate": "2023-06-27 16:46:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18733",
+        "InterviewEndDate": "2023-06-27 16:49:28",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18734",
+        "InterviewEndDate": "2023-06-27 16:53:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18735",
+        "InterviewEndDate": "2023-06-27 17:04:10",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18736",
+        "InterviewEndDate": "2023-06-27 17:20:44",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18737",
+        "InterviewEndDate": "2023-06-27 17:21:00",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18738",
+        "InterviewEndDate": "2023-06-27 17:20:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
