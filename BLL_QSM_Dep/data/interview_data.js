@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-06-2023 10:29:52"
+        "download_time": "27-06-2023 11:29:56"
     },
     {
         "InterviewId": "6093",
@@ -19873,6 +19873,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR991"
     },
     {
+        "InterviewId": "10074",
+        "InterviewEndDate": "2023-06-27 08:29:30",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
+    },
+    {
         "InterviewId": "10076",
         "InterviewEndDate": "2023-06-27 08:16:50",
         "InterviewState": "Complete",
@@ -19919,6 +19927,30 @@ let interview_data_raw = `[
         "Flight": "FR991",
         "Dest": "OPO",
         "AirlineCode": "FR991"
+    },
+    {
+        "InterviewId": "10082",
+        "InterviewEndDate": "2023-06-27 09:25:56",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "10084",
+        "InterviewEndDate": "2023-06-27 09:24:03",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "10085",
+        "InterviewEndDate": "2023-06-27 09:22:59",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
     }
 ]    
 
