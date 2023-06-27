@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-06-2023 19:28:50"
+        "download_time": "27-06-2023 20:28:47"
     },
     {
         "InterviewId": "15848",
@@ -19582,6 +19582,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EW 9093",
         "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18739",
+        "InterviewEndDate": "2023-06-27 17:53:37",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18740",
+        "InterviewEndDate": "2023-06-27 17:54:30",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18741",
+        "InterviewEndDate": "2023-06-27 17:58:38",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18742",
+        "InterviewEndDate": "2023-06-27 18:00:15",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18743",
+        "InterviewEndDate": "2023-06-27 17:59:35",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18744",
+        "InterviewEndDate": "2023-06-27 18:11:26",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "18745",
+        "InterviewEndDate": "2023-06-27 18:19:07",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
         "AirlineCode": "EW"
     }
 ]    
