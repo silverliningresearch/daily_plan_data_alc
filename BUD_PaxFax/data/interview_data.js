@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "28-06-2023 15:33:30"
+        "download_time": "28-06-2023 16:33:34"
     },
     {
         "InterviewId": "7701",
@@ -7999,6 +7999,70 @@ let interview_data_raw = `[
         "Flight": "LX 2255",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "8813",
+        "InterviewEndDate": "2023-06-28 13:41:53",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8814",
+        "InterviewEndDate": "2023-06-28 13:57:09",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8815",
+        "InterviewEndDate": "2023-06-28 13:58:56",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8816",
+        "InterviewEndDate": "2023-06-28 13:59:09",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8817",
+        "InterviewEndDate": "2023-06-28 14:01:12",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8818",
+        "InterviewEndDate": "2023-06-28 14:03:23",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8819",
+        "InterviewEndDate": "2023-06-28 14:14:42",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8820",
+        "InterviewEndDate": "2023-06-28 14:10:38",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
