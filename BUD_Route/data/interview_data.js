@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "28-06-2023 09:32:58"
+        "download_time": "28-06-2023 10:33:16"
     },
     {
         "InterviewId": "67210",
@@ -82391,6 +82391,142 @@ let interview_data_raw = `[
         "Flight": "LO  534",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "77838",
+        "InterviewEndDate": "2023-06-28 07:36:13",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "77839",
+        "InterviewEndDate": "2023-06-28 07:36:26",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "77840",
+        "InterviewEndDate": "2023-06-28 07:43:25",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77841",
+        "InterviewEndDate": "2023-06-28 07:44:10",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77842",
+        "InterviewEndDate": "2023-06-28 07:44:28",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77843",
+        "InterviewEndDate": "2023-06-28 07:46:55",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77844",
+        "InterviewEndDate": "2023-06-28 07:46:53",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "77845",
+        "InterviewEndDate": "2023-06-28 08:08:33",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77846",
+        "InterviewEndDate": "2023-06-28 08:09:52",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77847",
+        "InterviewEndDate": "2023-06-28 08:06:06",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77848",
+        "InterviewEndDate": "2023-06-28 08:05:11",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77849",
+        "InterviewEndDate": "2023-06-28 08:04:18",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77850",
+        "InterviewEndDate": "2023-06-28 08:21:08",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77851",
+        "InterviewEndDate": "2023-06-28 08:19:54",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77852",
+        "InterviewEndDate": "2023-06-28 08:16:44",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77853",
+        "InterviewEndDate": "2023-06-28 08:17:33",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "77854",
+        "InterviewEndDate": "2023-06-28 08:20:57",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 
