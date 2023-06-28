@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "28-06-2023 11:30:44"
+        "download_time": "28-06-2023 12:30:30"
     },
     {
         "InterviewId": "3965",
@@ -7055,6 +7055,94 @@ let interview_data_raw = `[
         "Flight": "W6 2359",
         "Dest": "NAP",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4890",
+        "InterviewEndDate": "2023-06-28 10:07:44",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4891",
+        "InterviewEndDate": "2023-06-28 09:58:44",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4892",
+        "InterviewEndDate": "2023-06-28 10:03:24",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4893",
+        "InterviewEndDate": "2023-06-28 10:04:01",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4894",
+        "InterviewEndDate": "2023-06-28 10:09:38",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4895",
+        "InterviewEndDate": "2023-06-28 10:07:06",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4896",
+        "InterviewEndDate": "2023-06-28 10:19:05",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4897",
+        "InterviewEndDate": "2023-06-28 10:12:14",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4898",
+        "InterviewEndDate": "2023-06-28 10:20:11",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4899",
+        "InterviewEndDate": "2023-06-28 10:13:58",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4900",
+        "InterviewEndDate": "2023-06-28 10:17:47",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
