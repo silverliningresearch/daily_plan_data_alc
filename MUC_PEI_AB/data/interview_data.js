@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "29-06-2023 17:46:37"
+        "download_time": "29-06-2023 18:51:35"
     },
     {
         "InterviewId": "15848",
@@ -20311,6 +20311,70 @@ let interview_data_raw = `[
         "Flight": "A3 807",
         "Dest": "ATH",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "18863",
+        "InterviewEndDate": "2023-06-29 15:51:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18864",
+        "InterviewEndDate": "2023-06-29 15:58:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18865",
+        "InterviewEndDate": "2023-06-29 15:54:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18867",
+        "InterviewEndDate": "2023-06-29 16:04:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18868",
+        "InterviewEndDate": "2023-06-29 16:09:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18871",
+        "InterviewEndDate": "2023-06-29 16:50:45",
+        "InterviewState": "Complete",
+        "Flight": "OS  116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "18872",
+        "InterviewEndDate": "2023-06-29 16:45:40",
+        "InterviewState": "Complete",
+        "Flight": "OS  116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "18874",
+        "InterviewEndDate": "2023-06-29 16:43:02",
+        "InterviewState": "Complete",
+        "Flight": "OS  116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
