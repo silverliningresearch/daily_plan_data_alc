@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "29-06-2023 13:27:55"
+        "download_time": "29-06-2023 14:33:02"
     },
     {
         "InterviewId": "2077",
@@ -5927,6 +5927,70 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "KRK",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3511",
+        "InterviewEndDate": "2023-06-29 12:05:39",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "3512",
+        "InterviewEndDate": "2023-06-29 12:06:04",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "3513",
+        "InterviewEndDate": "2023-06-29 12:03:37",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "3514",
+        "InterviewEndDate": "2023-06-29 12:05:32",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "3515",
+        "InterviewEndDate": "2023-06-29 12:02:52",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "3516",
+        "InterviewEndDate": "2023-06-29 12:01:15",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "3517",
+        "InterviewEndDate": "2023-06-29 11:45:45",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "3518",
+        "InterviewEndDate": "2023-06-29 11:58:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
