@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "29-06-2023 16:41:46"
+        "download_time": "29-06-2023 17:46:37"
     },
     {
         "InterviewId": "15848",
@@ -20241,6 +20241,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "18846",
+        "InterviewEndDate": "2023-06-29 15:13:22",
+        "InterviewState": "Complete",
+        "Flight": "LH2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH2102"
+    },
+    {
         "InterviewId": "18847",
         "InterviewEndDate": "2023-06-29 14:33:50",
         "InterviewState": "Complete",
@@ -20255,6 +20263,54 @@ let interview_data_raw = `[
         "Flight": "LH  115",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18849",
+        "InterviewEndDate": "2023-06-29 15:13:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18851",
+        "InterviewEndDate": "2023-06-29 15:15:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18853",
+        "InterviewEndDate": "2023-06-29 15:19:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18854",
+        "InterviewEndDate": "2023-06-29 15:21:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18855",
+        "InterviewEndDate": "2023-06-29 15:24:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18860",
+        "InterviewEndDate": "2023-06-29 15:37:05",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
     }
 ]    
 
