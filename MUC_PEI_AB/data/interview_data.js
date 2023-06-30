@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "30-06-2023 18:41:54"
+        "download_time": "30-06-2023 19:46:51"
     },
     {
         "InterviewId": "15848",
@@ -20999,6 +20999,70 @@ let interview_data_raw = `[
         "Flight": "EN 8198",
         "Dest": "FLR",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "18985",
+        "InterviewEndDate": "2023-06-30 16:44:43",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "18986",
+        "InterviewEndDate": "2023-06-30 16:39:24",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "18987",
+        "InterviewEndDate": "2023-06-30 16:49:14",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "18989",
+        "InterviewEndDate": "2023-06-30 17:05:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18990",
+        "InterviewEndDate": "2023-06-30 17:09:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18993",
+        "InterviewEndDate": "2023-06-30 17:21:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2310",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18994",
+        "InterviewEndDate": "2023-06-30 17:22:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2310",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "18995",
+        "InterviewEndDate": "2023-06-30 17:24:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2310",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
     }
 ]    
 
