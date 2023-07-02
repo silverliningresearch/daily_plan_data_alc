@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-07-2023 16:11:37"
+        "download_time": "02-07-2023 17:16:37"
     },
     {
         "InterviewId": "15848",
@@ -21254,6 +21254,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2020",
         "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19039",
+        "InterviewEndDate": "2023-07-02 14:12:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19040",
+        "InterviewEndDate": "2023-07-02 14:11:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2068",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19041",
+        "InterviewEndDate": "2023-07-02 14:24:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19042",
+        "InterviewEndDate": "2023-07-02 14:12:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2068",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19044",
+        "InterviewEndDate": "2023-07-02 14:15:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19045",
+        "InterviewEndDate": "2023-07-02 14:17:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2068",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19050",
+        "InterviewEndDate": "2023-07-02 14:38:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
         "AirlineCode": "LH"
     }
 ]    
