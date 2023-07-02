@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "02-07-2023 08:31:02"
+        "download_time": "02-07-2023 09:36:01"
     },
     {
         "InterviewId": "7333",
@@ -18413,6 +18413,78 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK869",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "9500",
+        "InterviewEndDate": "2023-07-02 04:37:54",
+        "InterviewState": "Complete",
+        "Flight": "EY535",
+        "Dest": "BEY",
+        "AirlineCode": "EY535",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9501",
+        "InterviewEndDate": "2023-07-02 04:40:41",
+        "InterviewState": "Complete",
+        "Flight": "EY535",
+        "Dest": "BEY",
+        "AirlineCode": "EY535",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9502",
+        "InterviewEndDate": "2023-07-02 04:54:57",
+        "InterviewState": "Complete",
+        "Flight": "EY208",
+        "Dest": "BOM",
+        "AirlineCode": "EY208",
+        "Terminal": "T2"
+    },
+    {
+        "InterviewId": "9503",
+        "InterviewEndDate": "2023-07-02 04:57:07",
+        "InterviewState": "Complete",
+        "Flight": "EY208",
+        "Dest": "BOM",
+        "AirlineCode": "EY208",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9504",
+        "InterviewEndDate": "2023-07-02 05:12:54",
+        "InterviewState": "Complete",
+        "Flight": "EY513",
+        "Dest": "AMM",
+        "AirlineCode": "EY513",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9505",
+        "InterviewEndDate": "2023-07-02 05:09:33",
+        "InterviewState": "Complete",
+        "Flight": "EY513",
+        "Dest": "AMM",
+        "AirlineCode": "EY513",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9506",
+        "InterviewEndDate": "2023-07-02 05:28:02",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "9507",
+        "InterviewEndDate": "2023-07-02 05:30:40",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
     }
 ]    
 
