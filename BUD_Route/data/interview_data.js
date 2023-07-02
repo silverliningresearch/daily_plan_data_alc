@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "02-07-2023 11:55:45"
+        "download_time": "02-07-2023 13:00:32"
     },
     {
         "InterviewId": "67210",
@@ -83214,6 +83214,126 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2221",
         "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77945",
+        "InterviewEndDate": "2023-07-02 10:45:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77946",
+        "InterviewEndDate": "2023-07-02 10:43:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77947",
+        "InterviewEndDate": "2023-07-02 10:44:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77948",
+        "InterviewEndDate": "2023-07-02 10:44:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77949",
+        "InterviewEndDate": "2023-07-02 10:52:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77950",
+        "InterviewEndDate": "2023-07-02 10:52:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77951",
+        "InterviewEndDate": "2023-07-02 10:53:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77952",
+        "InterviewEndDate": "2023-07-02 10:51:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77953",
+        "InterviewEndDate": "2023-07-02 10:51:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77954",
+        "InterviewEndDate": "2023-07-02 10:57:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77955",
+        "InterviewEndDate": "2023-07-02 10:56:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77956",
+        "InterviewEndDate": "2023-07-02 10:59:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77957",
+        "InterviewEndDate": "2023-07-02 10:56:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77958",
+        "InterviewEndDate": "2023-07-02 10:57:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "77959",
+        "InterviewEndDate": "2023-07-02 10:59:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
         "AirlineCode": "W6"
     }
 ]    
