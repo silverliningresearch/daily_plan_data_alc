@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-07-2023 14:01:36"
+        "download_time": "02-07-2023 15:06:35"
     },
     {
         "InterviewId": "15848",
@@ -21062,6 +21062,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2310",
         "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19004",
+        "InterviewEndDate": "2023-07-02 12:16:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2062",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19005",
+        "InterviewEndDate": "2023-07-02 12:15:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2062",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19006",
+        "InterviewEndDate": "2023-07-02 12:17:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2062",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19007",
+        "InterviewEndDate": "2023-07-02 12:18:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1720",
+        "Dest": "ZAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19009",
+        "InterviewEndDate": "2023-07-02 12:34:35",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "19010",
+        "InterviewEndDate": "2023-07-02 12:40:14",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "19011",
+        "InterviewEndDate": "2023-07-02 12:39:22",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "19013",
+        "InterviewEndDate": "2023-07-02 12:42:55",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "19016",
+        "InterviewEndDate": "2023-07-02 13:01:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1918",
+        "Dest": "CAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19017",
+        "InterviewEndDate": "2023-07-02 13:00:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1918",
+        "Dest": "CAG",
         "AirlineCode": "LH"
     }
 ]    
