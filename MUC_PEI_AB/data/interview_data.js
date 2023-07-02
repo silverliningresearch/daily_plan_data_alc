@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-07-2023 17:16:37"
+        "download_time": "02-07-2023 18:21:33"
     },
     {
         "InterviewId": "15848",
@@ -21310,6 +21310,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 117",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19054",
+        "InterviewEndDate": "2023-07-02 15:27:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2072",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19056",
+        "InterviewEndDate": "2023-07-02 15:27:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2072",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19057",
+        "InterviewEndDate": "2023-07-02 15:26:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19058",
+        "InterviewEndDate": "2023-07-02 15:26:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19059",
+        "InterviewEndDate": "2023-07-02 15:26:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19060",
+        "InterviewEndDate": "2023-07-02 15:35:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2072",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19061",
+        "InterviewEndDate": "2023-07-02 15:44:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19062",
+        "InterviewEndDate": "2023-07-02 15:45:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19063",
+        "InterviewEndDate": "2023-07-02 15:46:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
         "AirlineCode": "LH"
     }
 ]    
