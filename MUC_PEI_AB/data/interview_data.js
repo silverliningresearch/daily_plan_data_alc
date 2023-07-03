@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "03-07-2023 17:06:42"
+        "download_time": "03-07-2023 18:11:39"
     },
     {
         "InterviewId": "15848",
@@ -21407,6 +21407,86 @@ let interview_data_raw = `[
         "Flight": "KU 174",
         "Dest": "KWI",
         "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "19067",
+        "InterviewEndDate": "2023-07-03 15:13:28",
+        "InterviewState": "Complete",
+        "Flight": "KU  174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "19068",
+        "InterviewEndDate": "2023-07-03 15:29:03",
+        "InterviewState": "Complete",
+        "Flight": "KU  174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "19069",
+        "InterviewEndDate": "2023-07-03 15:28:53",
+        "InterviewState": "Complete",
+        "Flight": "KU  174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "19070",
+        "InterviewEndDate": "2023-07-03 15:41:10",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "19071",
+        "InterviewEndDate": "2023-07-03 15:44:40",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "19072",
+        "InterviewEndDate": "2023-07-03 16:01:31",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "19073",
+        "InterviewEndDate": "2023-07-03 16:01:35",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "19074",
+        "InterviewEndDate": "2023-07-03 15:59:16",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "19075",
+        "InterviewEndDate": "2023-07-03 16:00:27",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "19076",
+        "InterviewEndDate": "2023-07-03 16:10:16",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
