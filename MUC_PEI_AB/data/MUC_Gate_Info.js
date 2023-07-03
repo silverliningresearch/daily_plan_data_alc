@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C27",
-        "download_time": "03-07-2023 22:31:45"
+        "download_time": "03-07-2023 23:36:48"
     },
     {
         "aodbUniqueId": "20230703851933",
@@ -6491,16 +6491,6 @@ let MUC_Gate_Info = `[
         "Gate": "G37"
     },
     {
-        "aodbUniqueId": "20230703853418",
-        "Date": "03-07-2023",
-        "Flight": "LO 5408",
-        "Dest": "POZ",
-        "AirlineCode": "LO",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G82"
-    },
-    {
         "aodbUniqueId": "20230703853419",
         "Date": "03-07-2023",
         "Flight": "LO 5524",
@@ -10819,6 +10809,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K19"
+    },
+    {
+        "aodbUniqueId": "20230703853418",
+        "Date": "03-07-2023",
+        "Flight": "LO 5408",
+        "Dest": "POZ",
+        "AirlineCode": "LO",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G82"
     },
     {
         "aodbUniqueId": "20230703853298",
