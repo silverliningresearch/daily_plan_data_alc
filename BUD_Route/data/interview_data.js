@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "03-07-2023 09:36:14"
+        "download_time": "03-07-2023 10:41:04"
     },
     {
         "InterviewId": "67210",
@@ -84262,6 +84262,230 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 5254",
         "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78080",
+        "InterviewEndDate": "2023-07-03 07:34:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78081",
+        "InterviewEndDate": "2023-07-03 07:36:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78082",
+        "InterviewEndDate": "2023-07-03 07:38:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78083",
+        "InterviewEndDate": "2023-07-03 07:44:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78084",
+        "InterviewEndDate": "2023-07-03 07:49:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78085",
+        "InterviewEndDate": "2023-07-03 07:49:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78086",
+        "InterviewEndDate": "2023-07-03 07:50:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78087",
+        "InterviewEndDate": "2023-07-03 07:52:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78088",
+        "InterviewEndDate": "2023-07-03 07:52:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78089",
+        "InterviewEndDate": "2023-07-03 07:54:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78090",
+        "InterviewEndDate": "2023-07-03 07:53:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78091",
+        "InterviewEndDate": "2023-07-03 07:54:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78092",
+        "InterviewEndDate": "2023-07-03 07:56:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78093",
+        "InterviewEndDate": "2023-07-03 07:56:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78096",
+        "InterviewEndDate": "2023-07-03 07:59:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78097",
+        "InterviewEndDate": "2023-07-03 08:02:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78098",
+        "InterviewEndDate": "2023-07-03 08:02:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78099",
+        "InterviewEndDate": "2023-07-03 08:03:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78100",
+        "InterviewEndDate": "2023-07-03 08:03:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78101",
+        "InterviewEndDate": "2023-07-03 08:08:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78102",
+        "InterviewEndDate": "2023-07-03 08:06:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78103",
+        "InterviewEndDate": "2023-07-03 08:06:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78104",
+        "InterviewEndDate": "2023-07-03 08:09:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78105",
+        "InterviewEndDate": "2023-07-03 08:08:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78106",
+        "InterviewEndDate": "2023-07-03 08:10:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78107",
+        "InterviewEndDate": "2023-07-03 08:10:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78108",
+        "InterviewEndDate": "2023-07-03 08:14:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78109",
+        "InterviewEndDate": "2023-07-03 08:14:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
         "AirlineCode": "FR"
     }
 ]    
