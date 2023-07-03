@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "03-07-2023 06:20:34"
+        "download_time": "03-07-2023 07:25:23"
     },
     {
         "InterviewId": "67210",
@@ -83763,6 +83763,118 @@ let interview_data_raw = `[
     {
         "InterviewId": "78016",
         "InterviewEndDate": "2023-07-03 04:19:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78017",
+        "InterviewEndDate": "2023-07-03 04:22:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78018",
+        "InterviewEndDate": "2023-07-03 04:21:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78019",
+        "InterviewEndDate": "2023-07-03 04:23:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78020",
+        "InterviewEndDate": "2023-07-03 04:25:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78021",
+        "InterviewEndDate": "2023-07-03 04:29:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78022",
+        "InterviewEndDate": "2023-07-03 04:31:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78023",
+        "InterviewEndDate": "2023-07-03 04:30:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78024",
+        "InterviewEndDate": "2023-07-03 04:32:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78025",
+        "InterviewEndDate": "2023-07-03 04:33:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78026",
+        "InterviewEndDate": "2023-07-03 04:34:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78027",
+        "InterviewEndDate": "2023-07-03 04:35:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78028",
+        "InterviewEndDate": "2023-07-03 04:36:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78029",
+        "InterviewEndDate": "2023-07-03 04:37:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2485",
+        "Dest": "TGM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78030",
+        "InterviewEndDate": "2023-07-03 04:39:24",
         "InterviewState": "Complete",
         "Flight": "W6 2485",
         "Dest": "TGM",
