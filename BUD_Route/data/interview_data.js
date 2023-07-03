@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "03-07-2023 08:30:46"
+        "download_time": "03-07-2023 09:36:14"
     },
     {
         "InterviewId": "67210",
@@ -83969,6 +83969,14 @@ let interview_data_raw = `[
         "AirlineCode": "EW"
     },
     {
+        "InterviewId": "78042",
+        "InterviewEndDate": "2023-07-03 06:27:04",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "78043",
         "InterviewEndDate": "2023-07-03 06:27:11",
         "InterviewState": "Complete",
@@ -83991,6 +83999,270 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "78046",
+        "InterviewEndDate": "2023-07-03 06:32:34",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "78047",
+        "InterviewEndDate": "2023-07-03 06:33:46",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "78048",
+        "InterviewEndDate": "2023-07-03 06:32:52",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "78050",
+        "InterviewEndDate": "2023-07-03 06:59:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78051",
+        "InterviewEndDate": "2023-07-03 06:58:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78052",
+        "InterviewEndDate": "2023-07-03 06:56:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78053",
+        "InterviewEndDate": "2023-07-03 06:55:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78054",
+        "InterviewEndDate": "2023-07-03 06:55:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78055",
+        "InterviewEndDate": "2023-07-03 07:09:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78056",
+        "InterviewEndDate": "2023-07-03 07:09:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78057",
+        "InterviewEndDate": "2023-07-03 07:08:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78058",
+        "InterviewEndDate": "2023-07-03 07:07:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78059",
+        "InterviewEndDate": "2023-07-03 07:07:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78060",
+        "InterviewEndDate": "2023-07-03 07:11:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78061",
+        "InterviewEndDate": "2023-07-03 07:11:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78062",
+        "InterviewEndDate": "2023-07-03 07:14:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78063",
+        "InterviewEndDate": "2023-07-03 07:15:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78064",
+        "InterviewEndDate": "2023-07-03 07:16:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78065",
+        "InterviewEndDate": "2023-07-03 07:18:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78066",
+        "InterviewEndDate": "2023-07-03 07:17:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78067",
+        "InterviewEndDate": "2023-07-03 07:21:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78068",
+        "InterviewEndDate": "2023-07-03 07:20:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78069",
+        "InterviewEndDate": "2023-07-03 07:20:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78070",
+        "InterviewEndDate": "2023-07-03 07:22:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78071",
+        "InterviewEndDate": "2023-07-03 07:21:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78072",
+        "InterviewEndDate": "2023-07-03 07:22:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78073",
+        "InterviewEndDate": "2023-07-03 07:25:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78074",
+        "InterviewEndDate": "2023-07-03 07:25:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78075",
+        "InterviewEndDate": "2023-07-03 07:29:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78076",
+        "InterviewEndDate": "2023-07-03 07:29:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78077",
+        "InterviewEndDate": "2023-07-03 07:29:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78078",
+        "InterviewEndDate": "2023-07-03 07:30:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78079",
+        "InterviewEndDate": "2023-07-03 07:29:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
     }
 ]    
 
