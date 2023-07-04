@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "04-07-2023 07:11:57"
+        "download_time": "04-07-2023 08:16:57"
     },
     {
         "InterviewId": "5174",
@@ -5649,6 +5649,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "6031",
+        "InterviewEndDate": "2023-07-04 05:13:46",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "6032",
         "InterviewEndDate": "2023-07-04 05:10:09",
         "InterviewState": "Complete",
@@ -5662,6 +5670,78 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "KIX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6034",
+        "InterviewEndDate": "2023-07-04 05:25:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6037",
+        "InterviewEndDate": "2023-07-04 05:36:43",
+        "InterviewState": "Complete",
+        "Flight": "Thai",
+        "Dest": "BKK",
+        "AirlineCode": "Thai"
+    },
+    {
+        "InterviewId": "6038",
+        "InterviewEndDate": "2023-07-04 05:45:38",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "6040",
+        "InterviewEndDate": "2023-07-04 05:48:20",
+        "InterviewState": "Complete",
+        "Flight": "BR - Eva Airways",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "6041",
+        "InterviewEndDate": "2023-07-04 05:52:24",
+        "InterviewState": "Complete",
+        "Flight": "BR - Eva Airways",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "6043",
+        "InterviewEndDate": "2023-07-04 05:49:33",
+        "InterviewState": "Complete",
+        "Flight": "BR - Eva Airways",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "6044",
+        "InterviewEndDate": "2023-07-04 06:06:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6045",
+        "InterviewEndDate": "2023-07-04 05:59:10",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "6050",
+        "InterviewEndDate": "2023-07-04 06:16:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
         "AirlineCode": "LH"
     }
 ]    
