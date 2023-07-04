@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-07-2023 09:21:44"
+        "download_time": "04-07-2023 10:26:43"
     },
     {
         "InterviewId": "15848",
@@ -21551,6 +21551,86 @@ let interview_data_raw = `[
         "Flight": "EI 357",
         "Dest": "DUB",
         "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "19085",
+        "InterviewEndDate": "2023-07-04 07:48:45",
+        "InterviewState": "Complete",
+        "Flight": "Lh428",
+        "Dest": "CLT",
+        "AirlineCode": "Lh428"
+    },
+    {
+        "InterviewId": "19086",
+        "InterviewEndDate": "2023-07-04 07:41:57",
+        "InterviewState": "Complete",
+        "Flight": "LH428",
+        "Dest": "CLT",
+        "AirlineCode": "LH428"
+    },
+    {
+        "InterviewId": "19087",
+        "InterviewEndDate": "2023-07-04 07:46:10",
+        "InterviewState": "Complete",
+        "Flight": "Lh428",
+        "Dest": "CLT",
+        "AirlineCode": "Lh428"
+    },
+    {
+        "InterviewId": "19088",
+        "InterviewEndDate": "2023-07-04 07:43:13",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19089",
+        "InterviewEndDate": "2023-07-04 07:46:25",
+        "InterviewState": "Complete",
+        "Flight": "Lh428",
+        "Dest": "CLT",
+        "AirlineCode": "Lh428"
+    },
+    {
+        "InterviewId": "19090",
+        "InterviewEndDate": "2023-07-04 08:05:08",
+        "InterviewState": "Complete",
+        "Flight": "Lh410",
+        "Dest": "JFK",
+        "AirlineCode": "Lh410"
+    },
+    {
+        "InterviewId": "19091",
+        "InterviewEndDate": "2023-07-04 08:06:34",
+        "InterviewState": "Complete",
+        "Flight": "LH410",
+        "Dest": "JFK",
+        "AirlineCode": "LH410"
+    },
+    {
+        "InterviewId": "19092",
+        "InterviewEndDate": "2023-07-04 08:19:44",
+        "InterviewState": "Complete",
+        "Flight": "Lh410",
+        "Dest": "JFK",
+        "AirlineCode": "Lh410"
+    },
+    {
+        "InterviewId": "19093",
+        "InterviewEndDate": "2023-07-04 08:02:33",
+        "InterviewState": "Complete",
+        "Flight": "LH410",
+        "Dest": "JFK",
+        "AirlineCode": "LH410"
+    },
+    {
+        "InterviewId": "19094",
+        "InterviewEndDate": "2023-07-04 08:02:32",
+        "InterviewState": "Complete",
+        "Flight": "LH410",
+        "Dest": "JFK",
+        "AirlineCode": "LH410"
     }
 ]    
 
