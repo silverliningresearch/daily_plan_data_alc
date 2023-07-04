@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "04-07-2023 13:45:55"
+        "download_time": "04-07-2023 14:51:00"
     },
     {
         "InterviewId": "67210",
@@ -85433,8 +85433,120 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "78230",
+        "InterviewEndDate": "2023-07-04 11:48:06",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "78231",
         "InterviewEndDate": "2023-07-04 11:40:33",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78232",
+        "InterviewEndDate": "2023-07-04 11:46:46",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78233",
+        "InterviewEndDate": "2023-07-04 11:49:03",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78234",
+        "InterviewEndDate": "2023-07-04 11:48:03",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78235",
+        "InterviewEndDate": "2023-07-04 11:47:59",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78236",
+        "InterviewEndDate": "2023-07-04 11:53:38",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78237",
+        "InterviewEndDate": "2023-07-04 11:52:58",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78238",
+        "InterviewEndDate": "2023-07-04 11:54:31",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78239",
+        "InterviewEndDate": "2023-07-04 11:55:24",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78240",
+        "InterviewEndDate": "2023-07-04 11:56:10",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78241",
+        "InterviewEndDate": "2023-07-04 11:56:50",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78242",
+        "InterviewEndDate": "2023-07-04 11:57:20",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78243",
+        "InterviewEndDate": "2023-07-04 12:00:28",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "78244",
+        "InterviewEndDate": "2023-07-04 12:03:52",
         "InterviewState": "Complete",
         "Flight": "BA  869",
         "Dest": "LHR",

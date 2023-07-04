@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-07-2023 13:42:58"
+        "download_time": "04-07-2023 14:47:57"
     },
     {
         "InterviewId": "6093",
@@ -20503,6 +20503,134 @@ let interview_data_raw = `[
         "Flight": "FR2321",
         "Dest": "EDI",
         "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "10167",
+        "InterviewEndDate": "2023-07-04 12:00:58",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10168",
+        "InterviewEndDate": "2023-07-04 11:58:32",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10169",
+        "InterviewEndDate": "2023-07-04 12:03:37",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10171",
+        "InterviewEndDate": "2023-07-04 12:06:51",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10172",
+        "InterviewEndDate": "2023-07-04 12:04:52",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10173",
+        "InterviewEndDate": "2023-07-04 12:00:05",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10174",
+        "InterviewEndDate": "2023-07-04 11:55:33",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10175",
+        "InterviewEndDate": "2023-07-04 12:06:15",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "10176",
+        "InterviewEndDate": "2023-07-04 12:33:28",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "10177",
+        "InterviewEndDate": "2023-07-04 12:31:32",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "10178",
+        "InterviewEndDate": "2023-07-04 12:40:30",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "10179",
+        "InterviewEndDate": "2023-07-04 12:33:01",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "10180",
+        "InterviewEndDate": "2023-07-04 12:35:33",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "10181",
+        "InterviewEndDate": "2023-07-04 12:38:42",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "10182",
+        "InterviewEndDate": "2023-07-04 12:34:34",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
+    },
+    {
+        "InterviewId": "10183",
+        "InterviewEndDate": "2023-07-04 12:27:23",
+        "InterviewState": "Complete",
+        "Flight": "OS322",
+        "Dest": "VIE",
+        "AirlineCode": "OS322"
     }
 ]    
 
