@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "04-07-2023 15:53:33"
+        "download_time": "04-07-2023 16:58:30"
     },
     {
         "InterviewId": "3965",
@@ -7425,11 +7425,67 @@ let interview_data_raw = `[
         "AirlineCode": "IB"
     },
     {
+        "InterviewId": "4937",
+        "InterviewEndDate": "2023-07-04 13:54:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "4938",
         "InterviewEndDate": "2023-07-04 13:51:25",
         "InterviewState": "Complete",
         "Flight": "FR 4229",
         "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4939",
+        "InterviewEndDate": "2023-07-04 13:55:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4940",
+        "InterviewEndDate": "2023-07-04 13:59:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4941",
+        "InterviewEndDate": "2023-07-04 13:59:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4942",
+        "InterviewEndDate": "2023-07-04 14:36:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4943",
+        "InterviewEndDate": "2023-07-04 14:39:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4944",
+        "InterviewEndDate": "2023-07-04 14:33:24",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
         "AirlineCode": "FR"
     }
 ]    
