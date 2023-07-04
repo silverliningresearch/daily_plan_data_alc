@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-07-2023 18:02:54"
+        "download_time": "04-07-2023 19:07:52"
     },
     {
         "InterviewId": "6093",
@@ -20759,6 +20759,86 @@ let interview_data_raw = `[
         "Flight": "JTD585",
         "Dest": "CHQ",
         "AirlineCode": "JTD585"
+    },
+    {
+        "InterviewId": "10201",
+        "InterviewEndDate": "2023-07-04 16:34:06",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10202",
+        "InterviewEndDate": "2023-07-04 16:43:20",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10205",
+        "InterviewEndDate": "2023-07-04 16:32:22",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10206",
+        "InterviewEndDate": "2023-07-04 16:28:37",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10207",
+        "InterviewEndDate": "2023-07-04 16:36:52",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10208",
+        "InterviewEndDate": "2023-07-04 16:41:12",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10210",
+        "InterviewEndDate": "2023-07-04 16:20:29",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10211",
+        "InterviewEndDate": "2023-07-04 16:30:17",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10212",
+        "InterviewEndDate": "2023-07-04 16:29:35",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "10213",
+        "InterviewEndDate": "2023-07-04 16:44:45",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
     }
 ]    
 
