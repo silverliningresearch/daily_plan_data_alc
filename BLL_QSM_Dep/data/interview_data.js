@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "05-07-2023 14:38:01"
+        "download_time": "05-07-2023 15:43:07"
     },
     {
         "InterviewId": "6093",
@@ -20839,6 +20839,54 @@ let interview_data_raw = `[
         "Flight": "KL1346",
         "Dest": "AMS",
         "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "10214",
+        "InterviewEndDate": "2023-07-05 12:56:58",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "10215",
+        "InterviewEndDate": "2023-07-05 12:46:17",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "10216",
+        "InterviewEndDate": "2023-07-05 12:52:13",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "10217",
+        "InterviewEndDate": "2023-07-05 13:19:27",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "10218",
+        "InterviewEndDate": "2023-07-05 12:50:37",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "10219",
+        "InterviewEndDate": "2023-07-05 12:52:28",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
     }
 ]    
 
