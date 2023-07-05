@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "05-07-2023 15:45:56"
+        "download_time": "05-07-2023 16:51:27"
     },
     {
         "InterviewId": "67210",
@@ -87030,6 +87030,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2327",
         "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78439",
+        "InterviewEndDate": "2023-07-05 13:55:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78440",
+        "InterviewEndDate": "2023-07-05 13:58:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78441",
+        "InterviewEndDate": "2023-07-05 13:56:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78442",
+        "InterviewEndDate": "2023-07-05 13:57:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78443",
+        "InterviewEndDate": "2023-07-05 13:58:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78445",
+        "InterviewEndDate": "2023-07-05 13:52:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78447",
+        "InterviewEndDate": "2023-07-05 13:57:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78448",
+        "InterviewEndDate": "2023-07-05 13:59:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
         "AirlineCode": "W6"
     }
 ]    
