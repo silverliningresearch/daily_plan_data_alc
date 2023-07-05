@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "05-07-2023 11:26:31"
+        "download_time": "05-07-2023 12:31:31"
     },
     {
         "InterviewId": "7701",
@@ -8343,6 +8343,94 @@ let interview_data_raw = `[
         "Flight": "FR 4229",
         "Dest": "BVA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8859",
+        "InterviewEndDate": "2023-07-05 09:32:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8860",
+        "InterviewEndDate": "2023-07-05 09:38:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8861",
+        "InterviewEndDate": "2023-07-05 09:40:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8862",
+        "InterviewEndDate": "2023-07-05 09:42:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8863",
+        "InterviewEndDate": "2023-07-05 09:57:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8864",
+        "InterviewEndDate": "2023-07-05 09:56:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8865",
+        "InterviewEndDate": "2023-07-05 10:00:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8866",
+        "InterviewEndDate": "2023-07-05 10:02:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8867",
+        "InterviewEndDate": "2023-07-05 10:02:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8868",
+        "InterviewEndDate": "2023-07-05 10:06:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8870",
+        "InterviewEndDate": "2023-07-05 10:05:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
     }
 ]    
 
