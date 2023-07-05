@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "05-07-2023 10:21:10"
+        "download_time": "05-07-2023 11:26:11"
     },
     {
         "InterviewId": "67210",
@@ -85951,6 +85951,334 @@ let interview_data_raw = `[
         "Flight": "SN 2826",
         "Dest": "BRU",
         "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "78296",
+        "InterviewEndDate": "2023-07-05 08:26:58",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78297",
+        "InterviewEndDate": "2023-07-05 08:26:45",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78299",
+        "InterviewEndDate": "2023-07-05 08:29:54",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78300",
+        "InterviewEndDate": "2023-07-05 08:32:14",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78301",
+        "InterviewEndDate": "2023-07-05 08:41:03",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78302",
+        "InterviewEndDate": "2023-07-05 08:34:11",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78303",
+        "InterviewEndDate": "2023-07-05 08:42:27",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78304",
+        "InterviewEndDate": "2023-07-05 08:38:55",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78306",
+        "InterviewEndDate": "2023-07-05 08:47:49",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78307",
+        "InterviewEndDate": "2023-07-05 08:49:24",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78308",
+        "InterviewEndDate": "2023-07-05 08:44:00",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78309",
+        "InterviewEndDate": "2023-07-05 08:49:42",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78310",
+        "InterviewEndDate": "2023-07-05 08:49:12",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78311",
+        "InterviewEndDate": "2023-07-05 08:51:01",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78312",
+        "InterviewEndDate": "2023-07-05 08:54:19",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78313",
+        "InterviewEndDate": "2023-07-05 08:46:44",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78314",
+        "InterviewEndDate": "2023-07-05 08:51:02",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78315",
+        "InterviewEndDate": "2023-07-05 08:49:19",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78316",
+        "InterviewEndDate": "2023-07-05 08:50:55",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78317",
+        "InterviewEndDate": "2023-07-05 08:51:03",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78318",
+        "InterviewEndDate": "2023-07-05 08:51:25",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78319",
+        "InterviewEndDate": "2023-07-05 08:54:40",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78320",
+        "InterviewEndDate": "2023-07-05 08:54:11",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78321",
+        "InterviewEndDate": "2023-07-05 08:58:13",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78322",
+        "InterviewEndDate": "2023-07-05 09:03:34",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78323",
+        "InterviewEndDate": "2023-07-05 08:56:55",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78324",
+        "InterviewEndDate": "2023-07-05 09:04:17",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78325",
+        "InterviewEndDate": "2023-07-05 09:03:01",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78326",
+        "InterviewEndDate": "2023-07-05 09:03:18",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78327",
+        "InterviewEndDate": "2023-07-05 09:02:46",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78328",
+        "InterviewEndDate": "2023-07-05 09:03:12",
+        "InterviewState": "Complete",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "78330",
+        "InterviewEndDate": "2023-07-05 09:14:39",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78331",
+        "InterviewEndDate": "2023-07-05 09:11:16",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78332",
+        "InterviewEndDate": "2023-07-05 09:07:30",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78333",
+        "InterviewEndDate": "2023-07-05 09:16:31",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78334",
+        "InterviewEndDate": "2023-07-05 09:10:44",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78335",
+        "InterviewEndDate": "2023-07-05 09:24:19",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78336",
+        "InterviewEndDate": "2023-07-05 09:14:39",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78337",
+        "InterviewEndDate": "2023-07-05 09:20:22",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78338",
+        "InterviewEndDate": "2023-07-05 09:22:21",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "78339",
+        "InterviewEndDate": "2023-07-05 09:22:04",
+        "InterviewState": "Complete",
+        "Flight": "CA  436",
+        "Dest": "CKG",
+        "AirlineCode": "CA"
     }
 ]    
 
