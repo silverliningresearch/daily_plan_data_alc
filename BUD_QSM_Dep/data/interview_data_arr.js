@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "05-07-2023 16:48:53"
+        "download_time": "05-07-2023 17:53:27"
     },
     {
         "InterviewId": "1224",
@@ -2399,6 +2399,70 @@ let interview_data_arr_raw = `[
         "Flight": "LS - Jet2.com",
         "Dest": "MAN",
         "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "1523",
+        "InterviewEndDate": "2023-07-05 15:05:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1524",
+        "InterviewEndDate": "2023-07-05 15:11:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1525",
+        "InterviewEndDate": "2023-07-05 15:18:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1526",
+        "InterviewEndDate": "2023-07-05 15:23:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1527",
+        "InterviewEndDate": "2023-07-05 15:28:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1528",
+        "InterviewEndDate": "2023-07-05 15:38:04",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "1529",
+        "InterviewEndDate": "2023-07-05 15:44:22",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "1530",
+        "InterviewEndDate": "2023-07-05 15:49:01",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
