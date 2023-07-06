@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "06-07-2023 12:21:35"
+        "download_time": "06-07-2023 13:26:27"
     },
     {
         "InterviewId": "7701",
@@ -8590,6 +8590,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4271",
         "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8893",
+        "InterviewEndDate": "2023-07-06 10:40:40",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "8894",
+        "InterviewEndDate": "2023-07-06 10:43:35",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "8895",
+        "InterviewEndDate": "2023-07-06 10:44:19",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "8896",
+        "InterviewEndDate": "2023-07-06 10:46:16",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "8897",
+        "InterviewEndDate": "2023-07-06 10:52:12",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566"
+    },
+    {
+        "InterviewId": "8899",
+        "InterviewEndDate": "2023-07-06 11:12:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8900",
+        "InterviewEndDate": "2023-07-06 11:11:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8901",
+        "InterviewEndDate": "2023-07-06 11:19:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
         "AirlineCode": "FR"
     }
 ]    

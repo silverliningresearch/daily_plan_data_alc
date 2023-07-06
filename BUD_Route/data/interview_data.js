@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "06-07-2023 12:21:17"
+        "download_time": "06-07-2023 13:26:07"
     },
     {
         "InterviewId": "67210",
@@ -87851,6 +87851,110 @@ let interview_data_raw = `[
     {
         "InterviewId": "78547",
         "InterviewEndDate": "2023-07-06 10:20:24",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78548",
+        "InterviewEndDate": "2023-07-06 10:19:14",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78549",
+        "InterviewEndDate": "2023-07-06 10:23:17",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78550",
+        "InterviewEndDate": "2023-07-06 10:21:29",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78551",
+        "InterviewEndDate": "2023-07-06 10:25:05",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78552",
+        "InterviewEndDate": "2023-07-06 10:24:12",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78553",
+        "InterviewEndDate": "2023-07-06 10:25:25",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78554",
+        "InterviewEndDate": "2023-07-06 10:28:05",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78555",
+        "InterviewEndDate": "2023-07-06 10:27:30",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78556",
+        "InterviewEndDate": "2023-07-06 10:33:23",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78557",
+        "InterviewEndDate": "2023-07-06 10:30:45",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78558",
+        "InterviewEndDate": "2023-07-06 10:33:14",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78559",
+        "InterviewEndDate": "2023-07-06 10:36:01",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "78560",
+        "InterviewEndDate": "2023-07-06 10:35:53",
         "InterviewState": "Complete",
         "Flight": "BT  492",
         "Dest": "RIX",
