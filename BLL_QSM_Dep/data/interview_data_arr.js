@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "06-07-2023 10:08:10"
+        "download_time": "06-07-2023 11:13:12"
     },
     {
         "InterviewId": "2077",
@@ -6014,6 +6014,118 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3528",
+        "InterviewEndDate": "2023-07-06 08:41:41",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FAE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3529",
+        "InterviewEndDate": "2023-07-06 08:41:30",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "FAO",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "3530",
+        "InterviewEndDate": "2023-07-06 08:38:23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FAE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3531",
+        "InterviewEndDate": "2023-07-06 08:41:31",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FAE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3532",
+        "InterviewEndDate": "2023-07-06 08:37:51",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FAE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3533",
+        "InterviewEndDate": "2023-07-06 08:43:47",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FAE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3534",
+        "InterviewEndDate": "2023-07-06 08:44:25",
+        "InterviewState": "Complete",
+        "Flight": "DX - DAT",
+        "Dest": "RNN",
+        "AirlineCode": "DX"
+    },
+    {
+        "InterviewId": "3537",
+        "InterviewEndDate": "2023-07-06 09:11:03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PXO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3538",
+        "InterviewEndDate": "2023-07-06 09:09:18",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3539",
+        "InterviewEndDate": "2023-07-06 09:10:30",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3540",
+        "InterviewEndDate": "2023-07-06 09:07:57",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PXO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3541",
+        "InterviewEndDate": "2023-07-06 09:09:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3542",
+        "InterviewEndDate": "2023-07-06 09:08:29",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3543",
+        "InterviewEndDate": "2023-07-06 09:08:08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
         "AirlineCode": "FR"
     }
 ]    
