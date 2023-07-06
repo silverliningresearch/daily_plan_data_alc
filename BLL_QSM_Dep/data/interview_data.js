@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "06-07-2023 14:27:59"
+        "download_time": "06-07-2023 15:33:04"
     },
     {
         "InterviewId": "6093",
@@ -20953,6 +20953,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH839"
     },
     {
+        "InterviewId": "10232",
+        "InterviewEndDate": "2023-07-06 12:26:39",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
         "InterviewId": "10233",
         "InterviewEndDate": "2023-07-06 12:25:27",
         "InterviewState": "Complete",
@@ -20969,12 +20977,100 @@ let interview_data_raw = `[
         "AirlineCode": "FR5173"
     },
     {
+        "InterviewId": "10235",
+        "InterviewEndDate": "2023-07-06 12:32:24",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
         "InterviewId": "10236",
         "InterviewEndDate": "2023-07-06 12:25:57",
         "InterviewState": "Complete",
         "Flight": "FR5173",
         "Dest": "STN",
         "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "10237",
+        "InterviewEndDate": "2023-07-06 12:30:43",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "10238",
+        "InterviewEndDate": "2023-07-06 12:30:16",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "10239",
+        "InterviewEndDate": "2023-07-06 12:31:18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "10240",
+        "InterviewEndDate": "2023-07-06 13:25:42",
+        "InterviewState": "Complete",
+        "Flight": "FR6899",
+        "Dest": "MAN",
+        "AirlineCode": "FR6899"
+    },
+    {
+        "InterviewId": "10241",
+        "InterviewEndDate": "2023-07-06 13:24:55",
+        "InterviewState": "Complete",
+        "Flight": "FR6899",
+        "Dest": "MAN",
+        "AirlineCode": "FR6899"
+    },
+    {
+        "InterviewId": "10242",
+        "InterviewEndDate": "2023-07-06 13:29:13",
+        "InterviewState": "Complete",
+        "Flight": "FR6899",
+        "Dest": "MAN",
+        "AirlineCode": "FR6899"
+    },
+    {
+        "InterviewId": "10243",
+        "InterviewEndDate": "2023-07-06 13:26:05",
+        "InterviewState": "Complete",
+        "Flight": "FR6899",
+        "Dest": "MAN",
+        "AirlineCode": "FR6899"
+    },
+    {
+        "InterviewId": "10244",
+        "InterviewEndDate": "2023-07-06 13:31:06",
+        "InterviewState": "Complete",
+        "Flight": "FR6899",
+        "Dest": "MAN",
+        "AirlineCode": "FR6899"
+    },
+    {
+        "InterviewId": "10245",
+        "InterviewEndDate": "2023-07-06 13:29:28",
+        "InterviewState": "Complete",
+        "Flight": "FR6899",
+        "Dest": "MAN",
+        "AirlineCode": "FR6899"
+    },
+    {
+        "InterviewId": "10246",
+        "InterviewEndDate": "2023-07-06 13:30:48",
+        "InterviewState": "Complete",
+        "Flight": "FR6899",
+        "Dest": "MAN",
+        "AirlineCode": "FR6899"
     }
 ]    
 
