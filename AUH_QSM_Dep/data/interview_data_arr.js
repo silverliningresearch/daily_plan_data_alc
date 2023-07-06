@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "06-07-2023 07:51:30"
+        "download_time": "06-07-2023 08:56:55"
     },
     {
         "InterviewId": "4226",
