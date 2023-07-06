@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "06-07-2023 15:33:04"
+        "download_time": "06-07-2023 16:37:59"
     },
     {
         "InterviewId": "6093",
@@ -21071,6 +21071,62 @@ let interview_data_raw = `[
         "Flight": "FR6899",
         "Dest": "MAN",
         "AirlineCode": "FR6899"
+    },
+    {
+        "InterviewId": "10247",
+        "InterviewEndDate": "2023-07-06 14:20:45",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10248",
+        "InterviewEndDate": "2023-07-06 14:20:40",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10249",
+        "InterviewEndDate": "2023-07-06 14:27:08",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10250",
+        "InterviewEndDate": "2023-07-06 14:21:57",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10251",
+        "InterviewEndDate": "2023-07-06 14:26:21",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10252",
+        "InterviewEndDate": "2023-07-06 14:27:15",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10253",
+        "InterviewEndDate": "2023-07-06 14:30:03",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
     }
 ]    
 
