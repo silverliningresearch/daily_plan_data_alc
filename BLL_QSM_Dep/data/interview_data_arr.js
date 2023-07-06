@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "06-07-2023 11:13:12"
+        "download_time": "06-07-2023 12:18:13"
     },
     {
         "InterviewId": "2077",
@@ -6073,8 +6073,16 @@ let interview_data_arr_raw = `[
         "AirlineCode": "DX"
     },
     {
+        "InterviewId": "3536",
+        "InterviewEndDate": "2023-07-06 09:13:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "3537",
-        "InterviewEndDate": "2023-07-06 09:11:03",
+        "InterviewEndDate": "2023-07-06 09:14:26",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "PXO",
@@ -6127,6 +6135,110 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "OPO",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3544",
+        "InterviewEndDate": "2023-07-06 09:33:00",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3545",
+        "InterviewEndDate": "2023-07-06 09:30:59",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3546",
+        "InterviewEndDate": "2023-07-06 09:35:01",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3547",
+        "InterviewEndDate": "2023-07-06 09:30:35",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3548",
+        "InterviewEndDate": "2023-07-06 09:29:52",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3549",
+        "InterviewEndDate": "2023-07-06 09:31:23",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3550",
+        "InterviewEndDate": "2023-07-06 09:26:40",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "FRA",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3551",
+        "InterviewEndDate": "2023-07-06 09:26:39",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "3552",
+        "InterviewEndDate": "2023-07-06 09:52:22",
+        "InterviewState": "Complete",
+        "Flight": "Play",
+        "Dest": "KEF",
+        "AirlineCode": "Play"
+    },
+    {
+        "InterviewId": "3556",
+        "InterviewEndDate": "2023-07-06 09:53:25",
+        "InterviewState": "Complete",
+        "Flight": "Play",
+        "Dest": "KEF",
+        "AirlineCode": "Play"
+    },
+    {
+        "InterviewId": "3557",
+        "InterviewEndDate": "2023-07-06 09:56:15",
+        "InterviewState": "Complete",
+        "Flight": "Play",
+        "Dest": "KEF",
+        "AirlineCode": "Play"
+    },
+    {
+        "InterviewId": "3558",
+        "InterviewEndDate": "2023-07-06 09:48:59",
+        "InterviewState": "Complete",
+        "Flight": "Play",
+        "Dest": "KEF",
+        "AirlineCode": "Play"
+    },
+    {
+        "InterviewId": "3559",
+        "InterviewEndDate": "2023-07-06 09:49:44",
+        "InterviewState": "Complete",
+        "Flight": "Play",
+        "Dest": "KEF",
+        "AirlineCode": "Play"
     }
 ]    
 
