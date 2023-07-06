@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "06-07-2023 16:37:59"
+        "download_time": "06-07-2023 17:43:01"
     },
     {
         "InterviewId": "6093",
@@ -21127,6 +21127,70 @@ let interview_data_raw = `[
         "Flight": "DK504",
         "Dest": "AYT",
         "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10254",
+        "InterviewEndDate": "2023-07-06 14:37:55",
+        "InterviewState": "Complete",
+        "Flight": "DK504",
+        "Dest": "AYT",
+        "AirlineCode": "DK504"
+    },
+    {
+        "InterviewId": "10256",
+        "InterviewEndDate": "2023-07-06 15:18:25",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "10257",
+        "InterviewEndDate": "2023-07-06 15:13:24",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "10258",
+        "InterviewEndDate": "2023-07-06 15:13:55",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "10259",
+        "InterviewEndDate": "2023-07-06 15:14:23",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "10260",
+        "InterviewEndDate": "2023-07-06 15:13:57",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "10261",
+        "InterviewEndDate": "2023-07-06 15:09:35",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "10262",
+        "InterviewEndDate": "2023-07-06 15:14:37",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
     }
 ]    
 
