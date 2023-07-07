@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-07-2023 07:47:51"
+        "download_time": "07-07-2023 08:52:57"
     },
     {
         "InterviewId": "6093",
@@ -21191,6 +21191,70 @@ let interview_data_raw = `[
         "Flight": "AF1265",
         "Dest": "CDG",
         "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "10263",
+        "InterviewEndDate": "2023-07-07 06:25:12",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
+    },
+    {
+        "InterviewId": "10264",
+        "InterviewEndDate": "2023-07-07 06:29:34",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
+    },
+    {
+        "InterviewId": "10265",
+        "InterviewEndDate": "2023-07-07 06:29:10",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
+    },
+    {
+        "InterviewId": "10266",
+        "InterviewEndDate": "2023-07-07 06:30:19",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
+    },
+    {
+        "InterviewId": "10267",
+        "InterviewEndDate": "2023-07-07 06:35:31",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
+    },
+    {
+        "InterviewId": "10268",
+        "InterviewEndDate": "2023-07-07 06:36:18",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
+    },
+    {
+        "InterviewId": "10269",
+        "InterviewEndDate": "2023-07-07 06:39:29",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
+    },
+    {
+        "InterviewId": "10271",
+        "InterviewEndDate": "2023-07-07 06:33:25",
+        "InterviewState": "Complete",
+        "Flight": "RC473",
+        "Dest": "FAE",
+        "AirlineCode": "RC473"
     }
 ]    
 
