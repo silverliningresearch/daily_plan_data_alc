@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "07-07-2023 15:26:33"
+        "download_time": "07-07-2023 16:31:17"
     },
     {
         "InterviewId": "67210",
@@ -89267,6 +89267,94 @@ let interview_data_raw = `[
     {
         "InterviewId": "78724",
         "InterviewEndDate": "2023-07-07 13:24:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78725",
+        "InterviewEndDate": "2023-07-07 13:32:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78726",
+        "InterviewEndDate": "2023-07-07 13:32:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78727",
+        "InterviewEndDate": "2023-07-07 13:30:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78728",
+        "InterviewEndDate": "2023-07-07 13:30:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78729",
+        "InterviewEndDate": "2023-07-07 13:30:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78730",
+        "InterviewEndDate": "2023-07-07 13:42:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78731",
+        "InterviewEndDate": "2023-07-07 13:40:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78732",
+        "InterviewEndDate": "2023-07-07 13:40:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78733",
+        "InterviewEndDate": "2023-07-07 13:42:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78734",
+        "InterviewEndDate": "2023-07-07 13:42:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "78735",
+        "InterviewEndDate": "2023-07-07 13:46:00",
         "InterviewState": "Complete",
         "Flight": "W6 2371",
         "Dest": "MAD",

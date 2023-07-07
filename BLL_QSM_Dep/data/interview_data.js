@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-07-2023 15:23:11"
+        "download_time": "07-07-2023 16:28:03"
     },
     {
         "InterviewId": "6093",
@@ -21655,6 +21655,70 @@ let interview_data_raw = `[
         "Flight": "FR5165",
         "Dest": "STN",
         "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "10325",
+        "InterviewEndDate": "2023-07-07 13:24:35",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "10326",
+        "InterviewEndDate": "2023-07-07 13:25:16",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "10327",
+        "InterviewEndDate": "2023-07-07 13:28:11",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "10328",
+        "InterviewEndDate": "2023-07-07 13:31:30",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "10329",
+        "InterviewEndDate": "2023-07-07 13:36:11",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "10330",
+        "InterviewEndDate": "2023-07-07 13:31:46",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "10331",
+        "InterviewEndDate": "2023-07-07 13:31:52",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "10332",
+        "InterviewEndDate": "2023-07-07 13:37:44",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
     }
 ]    
 
