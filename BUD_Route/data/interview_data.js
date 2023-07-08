@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "08-07-2023 19:35:42"
+        "download_time": "08-07-2023 20:40:40"
     },
     {
         "InterviewId": "67210",
@@ -90843,6 +90843,118 @@ let interview_data_raw = `[
     {
         "InterviewId": "78939",
         "InterviewEndDate": "2023-07-08 17:34:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78940",
+        "InterviewEndDate": "2023-07-08 17:36:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78941",
+        "InterviewEndDate": "2023-07-08 17:36:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78942",
+        "InterviewEndDate": "2023-07-08 17:39:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78943",
+        "InterviewEndDate": "2023-07-08 17:38:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78944",
+        "InterviewEndDate": "2023-07-08 17:39:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78945",
+        "InterviewEndDate": "2023-07-08 17:39:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78946",
+        "InterviewEndDate": "2023-07-08 17:41:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78947",
+        "InterviewEndDate": "2023-07-08 17:42:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78948",
+        "InterviewEndDate": "2023-07-08 17:46:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78949",
+        "InterviewEndDate": "2023-07-08 17:44:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78950",
+        "InterviewEndDate": "2023-07-08 17:44:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78951",
+        "InterviewEndDate": "2023-07-08 17:47:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78952",
+        "InterviewEndDate": "2023-07-08 17:49:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78954",
+        "InterviewEndDate": "2023-07-08 17:49:25",
         "InterviewState": "Complete",
         "Flight": "FR 3827",
         "Dest": "BLQ",
