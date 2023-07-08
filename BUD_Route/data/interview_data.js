@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "08-07-2023 14:10:36"
+        "download_time": "08-07-2023 15:16:00"
     },
     {
         "InterviewId": "67210",
@@ -90167,6 +90167,238 @@ let interview_data_raw = `[
         "Flight": "FR 6515",
         "Dest": "CIA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78854",
+        "InterviewEndDate": "2023-07-08 12:11:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78855",
+        "InterviewEndDate": "2023-07-08 12:13:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78856",
+        "InterviewEndDate": "2023-07-08 12:16:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78857",
+        "InterviewEndDate": "2023-07-08 12:16:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78858",
+        "InterviewEndDate": "2023-07-08 12:19:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78859",
+        "InterviewEndDate": "2023-07-08 12:19:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78860",
+        "InterviewEndDate": "2023-07-08 12:21:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78861",
+        "InterviewEndDate": "2023-07-08 12:23:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78862",
+        "InterviewEndDate": "2023-07-08 12:23:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78863",
+        "InterviewEndDate": "2023-07-08 12:25:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78864",
+        "InterviewEndDate": "2023-07-08 12:41:09",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78865",
+        "InterviewEndDate": "2023-07-08 12:40:56",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78866",
+        "InterviewEndDate": "2023-07-08 12:42:29",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78867",
+        "InterviewEndDate": "2023-07-08 12:44:26",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78868",
+        "InterviewEndDate": "2023-07-08 12:44:24",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78869",
+        "InterviewEndDate": "2023-07-08 12:46:56",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78870",
+        "InterviewEndDate": "2023-07-08 12:47:04",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78871",
+        "InterviewEndDate": "2023-07-08 12:49:33",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78872",
+        "InterviewEndDate": "2023-07-08 12:49:30",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78873",
+        "InterviewEndDate": "2023-07-08 12:53:46",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78874",
+        "InterviewEndDate": "2023-07-08 12:53:46",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78875",
+        "InterviewEndDate": "2023-07-08 12:53:41",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78876",
+        "InterviewEndDate": "2023-07-08 12:55:50",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78877",
+        "InterviewEndDate": "2023-07-08 12:57:51",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78878",
+        "InterviewEndDate": "2023-07-08 12:57:51",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78879",
+        "InterviewEndDate": "2023-07-08 12:59:36",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78880",
+        "InterviewEndDate": "2023-07-08 12:59:44",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78881",
+        "InterviewEndDate": "2023-07-08 13:02:00",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "78882",
+        "InterviewEndDate": "2023-07-08 13:01:21",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
     }
 ]    
 
