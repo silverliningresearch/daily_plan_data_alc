@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-07-2023 08:42:50"
+        "download_time": "08-07-2023 09:47:42"
     },
     {
         "InterviewId": "6093",
@@ -21863,6 +21863,134 @@ let interview_data_raw = `[
         "Flight": "AY982",
         "Dest": "HEL",
         "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10351",
+        "InterviewEndDate": "2023-07-08 07:03:03",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10352",
+        "InterviewEndDate": "2023-07-08 07:03:38",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10353",
+        "InterviewEndDate": "2023-07-08 07:00:11",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10354",
+        "InterviewEndDate": "2023-07-08 07:02:44",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10355",
+        "InterviewEndDate": "2023-07-08 06:56:57",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10356",
+        "InterviewEndDate": "2023-07-08 06:57:15",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10357",
+        "InterviewEndDate": "2023-07-08 06:53:36",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10358",
+        "InterviewEndDate": "2023-07-08 06:56:34",
+        "InterviewState": "Complete",
+        "Flight": "XR9018",
+        "Dest": "HER",
+        "AirlineCode": "XR9018"
+    },
+    {
+        "InterviewId": "10359",
+        "InterviewEndDate": "2023-07-08 07:41:20",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "10361",
+        "InterviewEndDate": "2023-07-08 07:38:12",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "10362",
+        "InterviewEndDate": "2023-07-08 07:34:19",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "10363",
+        "InterviewEndDate": "2023-07-08 07:35:48",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "10364",
+        "InterviewEndDate": "2023-07-08 07:40:38",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "10365",
+        "InterviewEndDate": "2023-07-08 07:32:54",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "10366",
+        "InterviewEndDate": "2023-07-08 07:30:29",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "10367",
+        "InterviewEndDate": "2023-07-08 07:43:54",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
     }
 ]    
 
