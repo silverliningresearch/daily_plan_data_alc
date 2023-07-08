@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "08-07-2023 12:56:43"
+        "download_time": "08-07-2023 14:01:49"
     },
     {
         "InterviewId": "4226",
@@ -9530,6 +9530,42 @@ let interview_data_arr_raw = `[
         "Dest": "CDG",
         "AirlineCode": "EY",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5327",
+        "InterviewEndDate": "2023-07-08 09:15:42",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "KWI",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5328",
+        "InterviewEndDate": "2023-07-08 09:32:19",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BAH",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5330",
+        "InterviewEndDate": "2023-07-08 09:46:51",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BAH",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5331",
+        "InterviewEndDate": "2023-07-08 09:55:12",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "GYD",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
     }
 ]    
 
