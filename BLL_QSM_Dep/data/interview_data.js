@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-07-2023 07:37:48"
+        "download_time": "08-07-2023 08:42:50"
     },
     {
         "InterviewId": "6093",
@@ -21799,6 +21799,70 @@ let interview_data_raw = `[
         "Flight": "JTD519",
         "Dest": "RHO",
         "AirlineCode": "JTD519"
+    },
+    {
+        "InterviewId": "10343",
+        "InterviewEndDate": "2023-07-08 06:03:44",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10344",
+        "InterviewEndDate": "2023-07-08 05:57:58",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10345",
+        "InterviewEndDate": "2023-07-08 06:03:25",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10346",
+        "InterviewEndDate": "2023-07-08 06:04:51",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10347",
+        "InterviewEndDate": "2023-07-08 05:54:26",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10348",
+        "InterviewEndDate": "2023-07-08 05:57:29",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10349",
+        "InterviewEndDate": "2023-07-08 05:56:13",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
+    },
+    {
+        "InterviewId": "10350",
+        "InterviewEndDate": "2023-07-08 06:06:09",
+        "InterviewState": "Complete",
+        "Flight": "AY982",
+        "Dest": "HEL",
+        "AirlineCode": "AY982"
     }
 ]    
 
