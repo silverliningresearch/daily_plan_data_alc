@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "09-07-2023 13:56:37"
+        "download_time": "09-07-2023 15:01:43"
     },
     {
         "InterviewId": "15848",
@@ -22862,6 +22862,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1942",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19304",
+        "InterviewEndDate": "2023-07-09 12:23:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1796",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19305",
+        "InterviewEndDate": "2023-07-09 12:19:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1796",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19308",
+        "InterviewEndDate": "2023-07-09 12:23:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1794",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19309",
+        "InterviewEndDate": "2023-07-09 12:31:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19310",
+        "InterviewEndDate": "2023-07-09 12:48:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2274",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19311",
+        "InterviewEndDate": "2023-07-09 12:51:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2274",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19312",
+        "InterviewEndDate": "2023-07-09 12:53:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2274",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19313",
+        "InterviewEndDate": "2023-07-09 12:57:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2274",
+        "Dest": "NCE",
         "AirlineCode": "LH"
     }
 ]    
