@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "10-07-2023 09:31:49"
+        "download_time": "10-07-2023 10:10:06"
     },
     {
         "InterviewId": "67210",
@@ -823,14 +823,6 @@ let interview_data_raw = `[
         "Flight": "A3  879",
         "Dest": "ATH",
         "AirlineCode": "A3"
-    },
-    {
-        "InterviewId": "67312",
-        "InterviewEndDate": "2023-04-01 15:30:23",
-        "InterviewState": "Complete",
-        "Flight": "",
-        "Dest": "ATH",
-        "AirlineCode": ""
     },
     {
         "InterviewId": "67313",
@@ -5033,14 +5025,6 @@ let interview_data_raw = `[
         "AirlineCode": "EW"
     },
     {
-        "InterviewId": "67843",
-        "InterviewEndDate": "2023-04-10 07:07:36",
-        "InterviewState": "Complete",
-        "Flight": "",
-        "Dest": "DUS",
-        "AirlineCode": ""
-    },
-    {
         "InterviewId": "67844",
         "InterviewEndDate": "2023-04-10 07:09:50",
         "InterviewState": "Complete",
@@ -5487,14 +5471,6 @@ let interview_data_raw = `[
         "Flight": "W6 2291",
         "Dest": "DTM",
         "AirlineCode": "W6"
-    },
-    {
-        "InterviewId": "67900",
-        "InterviewEndDate": "2023-04-10 09:36:28",
-        "InterviewState": "Complete",
-        "Flight": "KL 1972",
-        "Dest": "AMM",
-        "AirlineCode": "KL"
     },
     {
         "InterviewId": "67901",
@@ -61273,14 +61249,6 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "75132",
-        "InterviewEndDate": "2023-06-10 10:32:01",
-        "InterviewState": "Complete",
-        "Flight": "KS 1202",
-        "Dest": "Everythinggreat",
-        "AirlineCode": "KS"
-    },
-    {
         "InterviewId": "75133",
         "InterviewEndDate": "2023-06-10 10:30:09",
         "InterviewState": "Complete",
@@ -72579,14 +72547,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "76587",
         "InterviewEndDate": "2023-06-20 08:36:55",
-        "InterviewState": "Complete",
-        "Flight": "FR 7770",
-        "Dest": "PVK",
-        "AirlineCode": "FR"
-    },
-    {
-        "InterviewId": "76588",
-        "InterviewEndDate": "2023-06-20 08:46:35",
         "InterviewState": "Complete",
         "Flight": "FR 7770",
         "Dest": "PVK",
@@ -91129,6 +91089,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "78976",
+        "InterviewEndDate": "2023-07-10 07:29:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "78977",
         "InterviewEndDate": "2023-07-10 07:30:55",
         "InterviewState": "Complete",
@@ -91142,6 +91110,230 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 7604",
         "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78979",
+        "InterviewEndDate": "2023-07-10 07:32:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78980",
+        "InterviewEndDate": "2023-07-10 07:37:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78981",
+        "InterviewEndDate": "2023-07-10 07:38:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78982",
+        "InterviewEndDate": "2023-07-10 07:40:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78983",
+        "InterviewEndDate": "2023-07-10 07:40:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78984",
+        "InterviewEndDate": "2023-07-10 07:42:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78985",
+        "InterviewEndDate": "2023-07-10 07:43:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78986",
+        "InterviewEndDate": "2023-07-10 07:44:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78987",
+        "InterviewEndDate": "2023-07-10 07:44:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78988",
+        "InterviewEndDate": "2023-07-10 07:48:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78989",
+        "InterviewEndDate": "2023-07-10 07:48:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78990",
+        "InterviewEndDate": "2023-07-10 07:57:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78991",
+        "InterviewEndDate": "2023-07-10 07:54:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78992",
+        "InterviewEndDate": "2023-07-10 07:54:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78993",
+        "InterviewEndDate": "2023-07-10 07:53:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78994",
+        "InterviewEndDate": "2023-07-10 07:53:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78995",
+        "InterviewEndDate": "2023-07-10 07:57:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78996",
+        "InterviewEndDate": "2023-07-10 07:57:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78997",
+        "InterviewEndDate": "2023-07-10 07:58:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78998",
+        "InterviewEndDate": "2023-07-10 08:00:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "78999",
+        "InterviewEndDate": "2023-07-10 08:02:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79000",
+        "InterviewEndDate": "2023-07-10 08:03:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79001",
+        "InterviewEndDate": "2023-07-10 08:03:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79002",
+        "InterviewEndDate": "2023-07-10 08:04:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79003",
+        "InterviewEndDate": "2023-07-10 08:05:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79004",
+        "InterviewEndDate": "2023-07-10 08:06:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79006",
+        "InterviewEndDate": "2023-07-10 08:08:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79007",
+        "InterviewEndDate": "2023-07-10 08:08:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
         "AirlineCode": "FR"
     }
 ]    
