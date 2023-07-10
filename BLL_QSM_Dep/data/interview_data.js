@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "10-07-2023 11:38:08"
+        "download_time": "10-07-2023 12:43:05"
     },
     {
         "InterviewId": "6093",
@@ -22193,12 +22193,140 @@ let interview_data_raw = `[
         "AirlineCode": "LH837"
     },
     {
+        "InterviewId": "10397",
+        "InterviewEndDate": "2023-07-10 09:49:17",
+        "InterviewState": "Complete",
+        "Flight": "GQ5513",
+        "Dest": "AOK",
+        "AirlineCode": "GQ5513"
+    },
+    {
+        "InterviewId": "10398",
+        "InterviewEndDate": "2023-07-10 09:50:13",
+        "InterviewState": "Complete",
+        "Flight": "GQ5513",
+        "Dest": "AOK",
+        "AirlineCode": "GQ5513"
+    },
+    {
+        "InterviewId": "10399",
+        "InterviewEndDate": "2023-07-10 09:48:50",
+        "InterviewState": "Complete",
+        "Flight": "GQ5513",
+        "Dest": "AOK",
+        "AirlineCode": "GQ5513"
+    },
+    {
+        "InterviewId": "10400",
+        "InterviewEndDate": "2023-07-10 09:42:55",
+        "InterviewState": "Complete",
+        "Flight": "GQ5513",
+        "Dest": "AOK",
+        "AirlineCode": "GQ5513"
+    },
+    {
+        "InterviewId": "10401",
+        "InterviewEndDate": "2023-07-10 09:44:49",
+        "InterviewState": "Complete",
+        "Flight": "GQ5513",
+        "Dest": "AOK",
+        "AirlineCode": "GQ5513"
+    },
+    {
+        "InterviewId": "10402",
+        "InterviewEndDate": "2023-07-10 09:49:01",
+        "InterviewState": "Complete",
+        "Flight": "GQ5513",
+        "Dest": "AOK",
+        "AirlineCode": "GQ5513"
+    },
+    {
+        "InterviewId": "10403",
+        "InterviewEndDate": "2023-07-10 09:45:56",
+        "InterviewState": "Complete",
+        "Flight": "GQ5513",
+        "Dest": "AOK",
+        "AirlineCode": "GQ5513"
+    },
+    {
         "InterviewId": "10404",
         "InterviewEndDate": "2023-07-10 09:35:55",
         "InterviewState": "Complete",
         "Flight": "GQ5513",
         "Dest": "AOK",
         "AirlineCode": "GQ5513"
+    },
+    {
+        "InterviewId": "10405",
+        "InterviewEndDate": "2023-07-10 10:09:04",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10407",
+        "InterviewEndDate": "2023-07-10 10:24:37",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10408",
+        "InterviewEndDate": "2023-07-10 10:25:07",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10409",
+        "InterviewEndDate": "2023-07-10 10:28:32",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10410",
+        "InterviewEndDate": "2023-07-10 10:23:42",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10411",
+        "InterviewEndDate": "2023-07-10 10:23:03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10412",
+        "InterviewEndDate": "2023-07-10 10:23:11",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10413",
+        "InterviewEndDate": "2023-07-10 10:21:31",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "10414",
+        "InterviewEndDate": "2023-07-10 10:24:18",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
     }
 ]    
 
