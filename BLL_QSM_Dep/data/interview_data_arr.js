@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "10-07-2023 14:53:27"
+        "download_time": "10-07-2023 15:58:10"
     },
     {
         "InterviewId": "2077",
@@ -6247,6 +6247,78 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "EDI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3570",
+        "InterviewEndDate": "2023-07-10 13:00:49",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3571",
+        "InterviewEndDate": "2023-07-10 12:59:31",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3572",
+        "InterviewEndDate": "2023-07-10 12:56:24",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3573",
+        "InterviewEndDate": "2023-07-10 12:57:28",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3574",
+        "InterviewEndDate": "2023-07-10 12:56:53",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3575",
+        "InterviewEndDate": "2023-07-10 12:55:48",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3576",
+        "InterviewEndDate": "2023-07-10 12:56:03",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3581",
+        "InterviewEndDate": "2023-07-10 13:47:08",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3582",
+        "InterviewEndDate": "2023-07-10 13:41:31",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     }
 ]    
 
