@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "11-07-2023 12:32:12"
+        "download_time": "11-07-2023 13:37:10"
     },
     {
         "InterviewId": "5174",
@@ -5718,6 +5718,126 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6063",
+        "InterviewEndDate": "2023-07-11 10:35:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6064",
+        "InterviewEndDate": "2023-07-11 10:32:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6065",
+        "InterviewEndDate": "2023-07-11 10:33:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6066",
+        "InterviewEndDate": "2023-07-11 10:42:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6067",
+        "InterviewEndDate": "2023-07-11 10:39:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6068",
+        "InterviewEndDate": "2023-07-11 10:50:40",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "6069",
+        "InterviewEndDate": "2023-07-11 10:52:45",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "6070",
+        "InterviewEndDate": "2023-07-11 11:05:36",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "MIA",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "6071",
+        "InterviewEndDate": "2023-07-11 11:03:38",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "6072",
+        "InterviewEndDate": "2023-07-11 11:00:07",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6073",
+        "InterviewEndDate": "2023-07-11 11:19:32",
+        "InterviewState": "Complete",
+        "Flight": "0B - Blue Air",
+        "Dest": "IAD",
+        "AirlineCode": "0B"
+    },
+    {
+        "InterviewId": "6074",
+        "InterviewEndDate": "2023-07-11 11:17:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EMPTY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6076",
+        "InterviewEndDate": "2023-07-11 11:35:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6077",
+        "InterviewEndDate": "2023-07-11 11:32:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6078",
+        "InterviewEndDate": "2023-07-11 11:34:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LAX",
         "AirlineCode": "LH"
     }
 ]    
