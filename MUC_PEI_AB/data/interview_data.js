@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-07-2023 10:21:47"
+        "download_time": "11-07-2023 11:26:49"
     },
     {
         "InterviewId": "15848",
@@ -23417,11 +23417,83 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "19412",
+        "InterviewEndDate": "2023-07-11 08:50:28",
+        "InterviewState": "Complete",
+        "Flight": "UA  109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "19413",
+        "InterviewEndDate": "2023-07-11 08:49:24",
+        "InterviewState": "Complete",
+        "Flight": "UA  109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
         "InterviewId": "19414",
         "InterviewEndDate": "2023-07-11 08:21:19",
         "InterviewState": "Complete",
         "Flight": "LH 2474",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19415",
+        "InterviewEndDate": "2023-07-11 08:27:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19417",
+        "InterviewEndDate": "2023-07-11 08:47:51",
+        "InterviewState": "Complete",
+        "Flight": "UA  109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "19418",
+        "InterviewEndDate": "2023-07-11 08:50:15",
+        "InterviewState": "Complete",
+        "Flight": "Ua109",
+        "Dest": "IAD",
+        "AirlineCode": "Ua109"
+    },
+    {
+        "InterviewId": "19419",
+        "InterviewEndDate": "2023-07-11 08:47:52",
+        "InterviewState": "Complete",
+        "Flight": "Ua109",
+        "Dest": "IAD",
+        "AirlineCode": "Ua109"
+    },
+    {
+        "InterviewId": "19421",
+        "InterviewEndDate": "2023-07-11 09:06:20",
+        "InterviewState": "Complete",
+        "Flight": "Ua109",
+        "Dest": "IAD",
+        "AirlineCode": "Ua109"
+    },
+    {
+        "InterviewId": "19425",
+        "InterviewEndDate": "2023-07-11 09:10:53",
+        "InterviewState": "Complete",
+        "Flight": "Ua109",
+        "Dest": "IAD",
+        "AirlineCode": "Ua109"
+    },
+    {
+        "InterviewId": "19426",
+        "InterviewEndDate": "2023-07-11 09:26:35",
+        "InterviewState": "Complete",
+        "Flight": "LH  714",
+        "Dest": "HND",
         "AirlineCode": "LH"
     }
 ]    
