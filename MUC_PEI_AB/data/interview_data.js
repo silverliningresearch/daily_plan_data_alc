@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-07-2023 11:26:49"
+        "download_time": "11-07-2023 12:31:49"
     },
     {
         "InterviewId": "15848",
@@ -23481,6 +23481,22 @@ let interview_data_raw = `[
         "AirlineCode": "Ua109"
     },
     {
+        "InterviewId": "19423",
+        "InterviewEndDate": "2023-07-11 09:28:13",
+        "InterviewState": "Complete",
+        "Flight": "LH  714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19424",
+        "InterviewEndDate": "2023-07-11 09:29:22",
+        "InterviewState": "Complete",
+        "Flight": "LH  714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "19425",
         "InterviewEndDate": "2023-07-11 09:10:53",
         "InterviewState": "Complete",
@@ -23495,6 +23511,46 @@ let interview_data_raw = `[
         "Flight": "LH  714",
         "Dest": "HND",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19427",
+        "InterviewEndDate": "2023-07-11 09:27:10",
+        "InterviewState": "Complete",
+        "Flight": "LH  714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19428",
+        "InterviewEndDate": "2023-07-11 09:49:47",
+        "InterviewState": "Complete",
+        "Flight": "SQ  327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "19430",
+        "InterviewEndDate": "2023-07-11 10:02:21",
+        "InterviewState": "Complete",
+        "Flight": "SQ  327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "19431",
+        "InterviewEndDate": "2023-07-11 09:49:16",
+        "InterviewState": "Complete",
+        "Flight": "SQ  327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "19433",
+        "InterviewEndDate": "2023-07-11 10:03:36",
+        "InterviewState": "Complete",
+        "Flight": "SQ  327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
     }
 ]    
 
