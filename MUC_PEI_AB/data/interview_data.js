@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-07-2023 07:06:40"
+        "download_time": "11-07-2023 08:11:43"
     },
     {
         "InterviewId": "15848",
@@ -23182,6 +23182,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2456",
         "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19377",
+        "InterviewEndDate": "2023-07-11 05:32:51",
+        "InterviewState": "Complete",
+        "Flight": "Lh2516",
+        "Dest": "DUB",
+        "AirlineCode": "Lh2516"
+    },
+    {
+        "InterviewId": "19378",
+        "InterviewEndDate": "2023-07-11 05:31:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19379",
+        "InterviewEndDate": "2023-07-11 05:33:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19380",
+        "InterviewEndDate": "2023-07-11 05:26:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19381",
+        "InterviewEndDate": "2023-07-11 05:26:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19382",
+        "InterviewEndDate": "2023-07-11 05:39:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19383",
+        "InterviewEndDate": "2023-07-11 05:59:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1650",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19384",
+        "InterviewEndDate": "2023-07-11 05:59:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1650",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19387",
+        "InterviewEndDate": "2023-07-11 06:04:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1650",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "19388",
+        "InterviewEndDate": "2023-07-11 06:09:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1650",
+        "Dest": "OTP",
         "AirlineCode": "LH"
     }
 ]    
