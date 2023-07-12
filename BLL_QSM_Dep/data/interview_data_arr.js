@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "12-07-2023 14:33:29"
+        "download_time": "12-07-2023 15:38:18"
     },
     {
         "InterviewId": "2077",
@@ -6319,6 +6319,46 @@ let interview_data_arr_raw = `[
         "Flight": "SK - Scandinavian Airlines System (SAS)",
         "Dest": "ARN",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3589",
+        "InterviewEndDate": "2023-07-12 12:56:10",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "3590",
+        "InterviewEndDate": "2023-07-12 12:54:12",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "3591",
+        "InterviewEndDate": "2023-07-12 12:52:41",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "3592",
+        "InterviewEndDate": "2023-07-12 12:47:24",
+        "InterviewState": "Complete",
+        "Flight": "Dy",
+        "Dest": "OSL",
+        "AirlineCode": "Dy"
+    },
+    {
+        "InterviewId": "3593",
+        "InterviewEndDate": "2023-07-12 12:46:43",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
     }
 ]    
 

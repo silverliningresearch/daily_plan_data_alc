@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "12-07-2023 14:33:47"
+        "download_time": "12-07-2023 15:38:35"
     },
     {
         "InterviewId": "3965",
@@ -7934,6 +7934,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 6521",
         "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5001",
+        "InterviewEndDate": "2023-07-12 12:42:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5002",
+        "InterviewEndDate": "2023-07-12 12:42:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5003",
+        "InterviewEndDate": "2023-07-12 12:34:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5004",
+        "InterviewEndDate": "2023-07-12 12:35:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5005",
+        "InterviewEndDate": "2023-07-12 13:22:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5006",
+        "InterviewEndDate": "2023-07-12 13:23:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5007",
+        "InterviewEndDate": "2023-07-12 13:34:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5008",
+        "InterviewEndDate": "2023-07-12 13:35:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
         "AirlineCode": "FR"
     }
 ]    
