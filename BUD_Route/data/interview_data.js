@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-07-2023 13:31:26"
+        "download_time": "12-07-2023 14:36:35"
     },
     {
         "InterviewId": "67210",
@@ -92847,6 +92847,294 @@ let interview_data_raw = `[
         "Flight": "BA  869",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79199",
+        "InterviewEndDate": "2023-07-12 11:32:55",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79200",
+        "InterviewEndDate": "2023-07-12 11:43:50",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79201",
+        "InterviewEndDate": "2023-07-12 11:40:54",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79202",
+        "InterviewEndDate": "2023-07-12 11:44:54",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79203",
+        "InterviewEndDate": "2023-07-12 11:39:52",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79204",
+        "InterviewEndDate": "2023-07-12 11:38:40",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79205",
+        "InterviewEndDate": "2023-07-12 11:50:43",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79206",
+        "InterviewEndDate": "2023-07-12 11:53:44",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79207",
+        "InterviewEndDate": "2023-07-12 11:55:27",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79208",
+        "InterviewEndDate": "2023-07-12 11:55:36",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79209",
+        "InterviewEndDate": "2023-07-12 11:51:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79210",
+        "InterviewEndDate": "2023-07-12 11:49:00",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79211",
+        "InterviewEndDate": "2023-07-12 12:00:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79212",
+        "InterviewEndDate": "2023-07-12 11:59:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79213",
+        "InterviewEndDate": "2023-07-12 12:00:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79214",
+        "InterviewEndDate": "2023-07-12 12:00:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79215",
+        "InterviewEndDate": "2023-07-12 12:00:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79216",
+        "InterviewEndDate": "2023-07-12 12:00:15",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79217",
+        "InterviewEndDate": "2023-07-12 12:00:11",
+        "InterviewState": "Complete",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "79218",
+        "InterviewEndDate": "2023-07-12 12:22:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79219",
+        "InterviewEndDate": "2023-07-12 12:14:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79220",
+        "InterviewEndDate": "2023-07-12 12:24:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79221",
+        "InterviewEndDate": "2023-07-12 12:06:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79222",
+        "InterviewEndDate": "2023-07-12 12:05:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79223",
+        "InterviewEndDate": "2023-07-12 12:19:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79224",
+        "InterviewEndDate": "2023-07-12 12:05:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79225",
+        "InterviewEndDate": "2023-07-12 12:05:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79226",
+        "InterviewEndDate": "2023-07-12 12:06:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79227",
+        "InterviewEndDate": "2023-07-12 12:14:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79228",
+        "InterviewEndDate": "2023-07-12 12:23:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79229",
+        "InterviewEndDate": "2023-07-12 12:24:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79230",
+        "InterviewEndDate": "2023-07-12 12:26:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79231",
+        "InterviewEndDate": "2023-07-12 12:26:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79232",
+        "InterviewEndDate": "2023-07-12 12:33:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79234",
+        "InterviewEndDate": "2023-07-12 12:30:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "79236",
+        "InterviewEndDate": "2023-07-12 12:34:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
     }
 ]    
 
