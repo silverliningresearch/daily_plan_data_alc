@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "12-07-2023 12:23:40"
+        "download_time": "12-07-2023 13:28:38"
     },
     {
         "InterviewId": "3965",
@@ -7822,6 +7822,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4090",
         "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4987",
+        "InterviewEndDate": "2023-07-12 10:25:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4988",
+        "InterviewEndDate": "2023-07-12 10:25:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4989",
+        "InterviewEndDate": "2023-07-12 10:26:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4990",
+        "InterviewEndDate": "2023-07-12 10:27:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4991",
+        "InterviewEndDate": "2023-07-12 10:38:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4992",
+        "InterviewEndDate": "2023-07-12 10:53:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4993",
+        "InterviewEndDate": "2023-07-12 10:57:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4994",
+        "InterviewEndDate": "2023-07-12 10:52:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4995",
+        "InterviewEndDate": "2023-07-12 10:57:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4996",
+        "InterviewEndDate": "2023-07-12 11:05:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
         "AirlineCode": "FR"
     }
 ]    
