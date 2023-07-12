@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "12-07-2023 19:57:05"
+        "download_time": "12-07-2023 21:02:07"
     },
     {
         "InterviewId": "5174",
@@ -6087,6 +6087,54 @@ let interview_data_arr_raw = `[
         "Flight": "XQ - Sun Express",
         "Dest": "AYT",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "6111",
+        "InterviewEndDate": "2023-07-12 18:05:43",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "6112",
+        "InterviewEndDate": "2023-07-12 18:08:59",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "6113",
+        "InterviewEndDate": "2023-07-12 18:14:58",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "6114",
+        "InterviewEndDate": "2023-07-12 18:24:53",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "6115",
+        "InterviewEndDate": "2023-07-12 18:49:16",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "6116",
+        "InterviewEndDate": "2023-07-12 18:54:30",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
