@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "12-07-2023 15:41:43"
+        "download_time": "12-07-2023 16:47:13"
     },
     {
         "InterviewId": "7701",
@@ -9041,6 +9041,14 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "8958",
+        "InterviewEndDate": "2023-07-12 13:42:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewId": "8959",
         "InterviewEndDate": "2023-07-12 13:28:39",
         "InterviewState": "Complete",
@@ -9055,6 +9063,30 @@ let interview_data_raw = `[
         "Flight": "W6 2451",
         "Dest": "LCA",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8961",
+        "InterviewEndDate": "2023-07-12 13:50:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8962",
+        "InterviewEndDate": "2023-07-12 13:48:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8963",
+        "InterviewEndDate": "2023-07-12 13:49:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-07-2023 15:41:23"
+        "download_time": "12-07-2023 16:46:49"
     },
     {
         "InterviewId": "67210",
@@ -93315,6 +93315,118 @@ let interview_data_raw = `[
     {
         "InterviewId": "79257",
         "InterviewEndDate": "2023-07-12 13:40:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79258",
+        "InterviewEndDate": "2023-07-12 13:43:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79259",
+        "InterviewEndDate": "2023-07-12 13:41:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79260",
+        "InterviewEndDate": "2023-07-12 13:41:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79261",
+        "InterviewEndDate": "2023-07-12 13:42:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79262",
+        "InterviewEndDate": "2023-07-12 13:44:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79263",
+        "InterviewEndDate": "2023-07-12 13:45:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79264",
+        "InterviewEndDate": "2023-07-12 13:53:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79265",
+        "InterviewEndDate": "2023-07-12 13:48:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79266",
+        "InterviewEndDate": "2023-07-12 13:48:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79267",
+        "InterviewEndDate": "2023-07-12 13:50:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79268",
+        "InterviewEndDate": "2023-07-12 13:50:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79269",
+        "InterviewEndDate": "2023-07-12 13:53:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79270",
+        "InterviewEndDate": "2023-07-12 13:55:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "79271",
+        "InterviewEndDate": "2023-07-12 13:57:13",
         "InterviewState": "Complete",
         "Flight": "W6 2451",
         "Dest": "LCA",
