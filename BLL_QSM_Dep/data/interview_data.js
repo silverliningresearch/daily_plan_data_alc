@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "28-12-2023 09:56:46"
+        "download_time": "28-12-2023 11:01:51"
     },
     {
         "InterviewId": "6093",
@@ -37759,6 +37759,62 @@ let interview_data_raw = `[
         "Flight": "FR5173",
         "Dest": "STN",
         "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "13660",
+        "InterviewEndDate": "2023-12-28",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13661",
+        "InterviewEndDate": "2023-12-28",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13663",
+        "InterviewEndDate": "2023-12-28",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13664",
+        "InterviewEndDate": "2023-12-28",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13665",
+        "InterviewEndDate": "2023-12-28",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13666",
+        "InterviewEndDate": "2023-12-28",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13669",
+        "InterviewEndDate": "2023-12-28",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
     }
 ]    
 
