@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "28-12-2023 16:29:35"
+        "download_time": "28-12-2023 17:34:57"
     },
     {
         "InterviewId": "7701",
@@ -23722,7 +23722,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "11069",
-        "InterviewEndDate": "2023-12-28 15:18:33",
+        "InterviewEndDate": "2023-12-28 15:36:30",
         "InterviewState": "Complete",
         "Flight": "W6 2207",
         "Dest": "LTN",
@@ -23743,6 +23743,46 @@ let interview_data_raw = `[
         "Flight": "W6 2207",
         "Dest": "LTN",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11073",
+        "InterviewEndDate": "2023-12-28 15:57:31",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "11074",
+        "InterviewEndDate": "2023-12-28 15:58:23",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "11075",
+        "InterviewEndDate": "2023-12-28 15:55:08",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "11076",
+        "InterviewEndDate": "2023-12-28 16:05:20",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "11078",
+        "InterviewEndDate": "2023-12-28 16:09:02",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
