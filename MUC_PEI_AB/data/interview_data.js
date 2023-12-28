@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-12-2023 11:01:00"
+        "download_time": "28-12-2023 12:06:04"
     },
     {
         "InterviewId": "15819",
@@ -70079,6 +70079,78 @@ let interview_data_raw = `[
         "Flight": "KL 1794",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26102",
+        "InterviewEndDate": "2023-12-28 10:08:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26104",
+        "InterviewEndDate": "2023-12-28 10:25:40",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "26105",
+        "InterviewEndDate": "2023-12-28 10:33:11",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "26106",
+        "InterviewEndDate": "2023-12-28 10:19:51",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "26107",
+        "InterviewEndDate": "2023-12-28 10:21:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26108",
+        "InterviewEndDate": "2023-12-28 10:27:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26110",
+        "InterviewEndDate": "2023-12-28 10:55:17",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "26111",
+        "InterviewEndDate": "2023-12-28 11:01:06",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "26112",
+        "InterviewEndDate": "2023-12-28 10:53:51",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
     }
 ]    
 
