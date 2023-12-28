@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-12-2023 18:36:02"
+        "download_time": "28-12-2023 19:40:58"
     },
     {
         "InterviewId": "15819",
@@ -70315,6 +70315,54 @@ let interview_data_raw = `[
     {
         "InterviewId": "26133",
         "InterviewEndDate": "2023-12-28 17:31:24",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "26134",
+        "InterviewEndDate": "2023-12-28 17:48:46",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "26135",
+        "InterviewEndDate": "2023-12-28 17:47:18",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "26136",
+        "InterviewEndDate": "2023-12-28 18:02:09",
+        "InterviewState": "Complete",
+        "Flight": "EW 087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "26137",
+        "InterviewEndDate": "2023-12-28 18:08:43",
+        "InterviewState": "Complete",
+        "Flight": "EW 087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "26138",
+        "InterviewEndDate": "2023-12-28 18:14:33",
+        "InterviewState": "Complete",
+        "Flight": "EW 087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "26139",
+        "InterviewEndDate": "2023-12-28 18:23:28",
         "InterviewState": "Complete",
         "Flight": "VY 1817",
         "Dest": "BCN",

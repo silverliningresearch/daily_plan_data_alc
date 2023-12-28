@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "28-12-2023 21:40:54"
+        "download_time": "28-12-2023 22:45:27"
     },
     {
         "InterviewId": "6722",
@@ -49363,6 +49363,60 @@ let interview_data_raw = `[
         "Flight": "EY878",
         "Dest": "NRT",
         "AirlineCode": "EY878",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12555",
+        "InterviewEndDate": "2023-12-28 17:44:13",
+        "InterviewState": "Complete",
+        "Flight": "W43266",
+        "Dest": "OTP",
+        "AirlineCode": "W43266",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12556",
+        "InterviewEndDate": "2023-12-28 17:53:33",
+        "InterviewState": "Complete",
+        "Flight": "W43266",
+        "Dest": "OTP",
+        "AirlineCode": "W43266",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12557",
+        "InterviewEndDate": "2023-12-28 18:01:32",
+        "InterviewState": "Complete",
+        "Flight": "W57115",
+        "Dest": "MCT",
+        "AirlineCode": "W57115",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12558",
+        "InterviewEndDate": "2023-12-28 18:14:25",
+        "InterviewState": "Complete",
+        "Flight": "W57115",
+        "Dest": "MCT",
+        "AirlineCode": "W57115",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12559",
+        "InterviewEndDate": "2023-12-28 18:32:31",
+        "InterviewState": "Complete",
+        "Flight": "Ix418",
+        "Dest": "CCJ",
+        "AirlineCode": "Ix418",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12560",
+        "InterviewEndDate": "2023-12-28 18:41:27",
+        "InterviewState": "Complete",
+        "Flight": "Ix418",
+        "Dest": "CCJ",
+        "AirlineCode": "Ix418",
         "Terminal": "T"
     }
 ]    
