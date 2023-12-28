@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "28-12-2023 22:45:27"
+        "download_time": "28-12-2023 23:50:28"
     },
     {
         "InterviewId": "6722",
@@ -49417,6 +49417,69 @@ let interview_data_raw = `[
         "Flight": "Ix418",
         "Dest": "CCJ",
         "AirlineCode": "Ix418",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12561",
+        "InterviewEndDate": "2023-12-28 18:54:11",
+        "InterviewState": "Complete",
+        "Flight": "Ix418",
+        "Dest": "CCJ",
+        "AirlineCode": "Ix418",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12562",
+        "InterviewEndDate": "2023-12-28 19:00:19",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12563",
+        "InterviewEndDate": "2023-12-28 19:08:41",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12564",
+        "InterviewEndDate": "2023-12-28 19:14:22",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12565",
+        "InterviewEndDate": "2023-12-28 19:25:34",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12566",
+        "InterviewEndDate": "2023-12-28 19:36:14",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12567",
+        "InterviewEndDate": "2023-12-28 19:48:04",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
         "Terminal": "T"
     }
 ]    

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-12-2023 19:40:58"
+        "download_time": "28-12-2023 20:45:59"
     },
     {
         "InterviewId": "15819",
@@ -70367,6 +70367,62 @@ let interview_data_raw = `[
         "Flight": "VY 1817",
         "Dest": "BCN",
         "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "26140",
+        "InterviewEndDate": "2023-12-28 19:00:00",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "26141",
+        "InterviewEndDate": "2023-12-28 18:59:53",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "26142",
+        "InterviewEndDate": "2023-12-28 19:02:33",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "26143",
+        "InterviewEndDate": "2023-12-28 19:14:24",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "26144",
+        "InterviewEndDate": "2023-12-28 19:14:40",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "26145",
+        "InterviewEndDate": "2023-12-28 19:22:56",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "26146",
+        "InterviewEndDate": "2023-12-28 19:24:17",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
     }
 ]    
 
