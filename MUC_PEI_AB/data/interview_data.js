@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-12-2023 07:45:57"
+        "download_time": "28-12-2023 09:55:58"
     },
     {
         "InterviewId": "15819",
@@ -69750,6 +69750,246 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1800",
         "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26059",
+        "InterviewEndDate": "2023-12-28 06:53:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26060",
+        "InterviewEndDate": "2023-12-28 07:00:04",
+        "InterviewState": "Complete",
+        "Flight": "X3 6018",
+        "Dest": "RMF",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26061",
+        "InterviewEndDate": "2023-12-28 06:54:39",
+        "InterviewState": "Complete",
+        "Flight": "X3 6018",
+        "Dest": "RMF",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26062",
+        "InterviewEndDate": "2023-12-28 06:52:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26063",
+        "InterviewEndDate": "2023-12-28 06:55:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26064",
+        "InterviewEndDate": "2023-12-28 06:53:26",
+        "InterviewState": "Complete",
+        "Flight": "X3 6018",
+        "Dest": "RMF",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26065",
+        "InterviewEndDate": "2023-12-28 07:13:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1810",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26066",
+        "InterviewEndDate": "2023-12-28 07:12:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1810",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26067",
+        "InterviewEndDate": "2023-12-28 07:20:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1810",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26068",
+        "InterviewEndDate": "2023-12-28 07:25:54",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26069",
+        "InterviewEndDate": "2023-12-28 07:27:47",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26070",
+        "InterviewEndDate": "2023-12-28 07:25:39",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26071",
+        "InterviewEndDate": "2023-12-28 07:37:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26072",
+        "InterviewEndDate": "2023-12-28 07:39:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26073",
+        "InterviewEndDate": "2023-12-28 07:32:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26074",
+        "InterviewEndDate": "2023-12-28 07:34:27",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26075",
+        "InterviewEndDate": "2023-12-28 07:59:26",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26076",
+        "InterviewEndDate": "2023-12-28 07:45:38",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26077",
+        "InterviewEndDate": "2023-12-28 07:50:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26078",
+        "InterviewEndDate": "2023-12-28 07:52:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26079",
+        "InterviewEndDate": "2023-12-28 07:53:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26080",
+        "InterviewEndDate": "2023-12-28 08:32:12",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26082",
+        "InterviewEndDate": "2023-12-28 08:36:31",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26083",
+        "InterviewEndDate": "2023-12-28 08:42:22",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "26084",
+        "InterviewEndDate": "2023-12-28 08:44:36",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "26085",
+        "InterviewEndDate": "2023-12-28 08:40:29",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "26086",
+        "InterviewEndDate": "2023-12-28 08:41:28",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26087",
+        "InterviewEndDate": "2023-12-28 08:46:07",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26090",
+        "InterviewEndDate": "2023-12-28 08:54:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26091",
+        "InterviewEndDate": "2023-12-28 08:54:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
         "AirlineCode": "LH"
     }
 ]    
