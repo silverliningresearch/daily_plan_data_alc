@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-12-2023 15:10:57"
+        "download_time": "29-12-2023 16:16:00"
     },
     {
         "InterviewId": "15819",
@@ -70863,6 +70863,102 @@ let interview_data_raw = `[
         "Flight": "FI 533",
         "Dest": "KEF",
         "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "26203",
+        "InterviewEndDate": "2023-12-29 14:25:33",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "26204",
+        "InterviewEndDate": "2023-12-29 14:47:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26205",
+        "InterviewEndDate": "2023-12-29 14:49:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26206",
+        "InterviewEndDate": "2023-12-29 14:41:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26207",
+        "InterviewEndDate": "2023-12-29 14:44:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26208",
+        "InterviewEndDate": "2023-12-29 14:44:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26210",
+        "InterviewEndDate": "2023-12-29 14:49:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26211",
+        "InterviewEndDate": "2023-12-29 14:55:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26212",
+        "InterviewEndDate": "2023-12-29 14:57:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26213",
+        "InterviewEndDate": "2023-12-29 15:00:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26214",
+        "InterviewEndDate": "2023-12-29 14:59:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2028",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26215",
+        "InterviewEndDate": "2023-12-29 15:05:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
