@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G05",
-        "download_time": "29-12-2023 04:21:26"
+        "download_time": "29-12-2023 05:26:06"
     },
     {
         "aodbUniqueId": "20231229562094",
@@ -3351,16 +3351,6 @@ let MUC_Gate_Info = `[
         "Gate": "G30"
     },
     {
-        "aodbUniqueId": "20231229563128",
-        "Date": "29-12-2023",
-        "Flight": "LH 2212",
-        "Dest": "ORY",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G27"
-    },
-    {
         "aodbUniqueId": "20231229563129",
         "Date": "29-12-2023",
         "Flight": "LH 2216",
@@ -3469,6 +3459,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G81"
+    },
+    {
+        "aodbUniqueId": "20231229563128",
+        "Date": "29-12-2023",
+        "Flight": "LH 2212",
+        "Dest": "ORY",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G27"
     },
     {
         "aodbUniqueId": "20231229563088",
