@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-12-2023 08:41:00"
+        "download_time": "29-12-2023 09:46:01"
     },
     {
         "InterviewId": "15819",
@@ -70567,6 +70567,110 @@ let interview_data_raw = `[
         "Flight": "LX 1101",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "26166",
+        "InterviewEndDate": "2023-12-29 07:44:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26167",
+        "InterviewEndDate": "2023-12-29 07:41:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26168",
+        "InterviewEndDate": "2023-12-29 07:43:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26169",
+        "InterviewEndDate": "2023-12-29 08:00:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26170",
+        "InterviewEndDate": "2023-12-29 08:00:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26171",
+        "InterviewEndDate": "2023-12-29 08:01:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26172",
+        "InterviewEndDate": "2023-12-29 08:15:02",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26173",
+        "InterviewEndDate": "2023-12-29 08:30:54",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26174",
+        "InterviewEndDate": "2023-12-29 08:13:07",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26175",
+        "InterviewEndDate": "2023-12-29 08:36:51",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "26176",
+        "InterviewEndDate": "2023-12-29 08:31:33",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "26177",
+        "InterviewEndDate": "2023-12-29 08:32:52",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "26180",
+        "InterviewEndDate": "2023-12-29 08:40:23",
+        "InterviewState": "Complete",
+        "Flight": "DE 1522",
+        "Dest": "LPA",
+        "AirlineCode": "DE"
     }
 ]    
 
