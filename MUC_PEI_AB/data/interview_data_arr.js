@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-12-2023 17:21:58"
+        "download_time": "29-12-2023 18:26:41"
     },
     {
         "InterviewId": "5167",
@@ -22081,6 +22081,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "8473",
+        "InterviewEndDate": "2023-12-29 16:24:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "8474",
         "InterviewEndDate": "2023-12-29 16:21:32",
         "InterviewState": "Complete",
@@ -22111,6 +22119,102 @@ let interview_data_arr_raw = `[
         "Flight": "SK - SAS-Scandinavian Airlines System",
         "Dest": "ARN",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "8478",
+        "InterviewEndDate": "2023-12-29 16:26:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8479",
+        "InterviewEndDate": "2023-12-29 16:44:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8481",
+        "InterviewEndDate": "2023-12-29 16:38:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8482",
+        "InterviewEndDate": "2023-12-29 16:59:16",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8484",
+        "InterviewEndDate": "2023-12-29 17:01:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8485",
+        "InterviewEndDate": "2023-12-29 17:12:55",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8486",
+        "InterviewEndDate": "2023-12-29 17:16:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8487",
+        "InterviewEndDate": "2023-12-29 17:15:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8488",
+        "InterviewEndDate": "2023-12-29 17:16:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8489",
+        "InterviewEndDate": "2023-12-29 17:20:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8490",
+        "InterviewEndDate": "2023-12-29 17:24:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8491",
+        "InterviewEndDate": "2023-12-29 17:25:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
     }
 ]    
 
