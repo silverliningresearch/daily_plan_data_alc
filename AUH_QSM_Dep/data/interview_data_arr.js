@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "29-12-2023 23:41:10"
+        "download_time": "30-12-2023 00:45:56"
     },
     {
         "InterviewId": "3906",
@@ -24271,6 +24271,51 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "HYD",
         "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6730",
+        "InterviewEndDate": "2023-12-29 19:43:43",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "HYD",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6731",
+        "InterviewEndDate": "2023-12-29 19:53:01",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DEL",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6732",
+        "InterviewEndDate": "2023-12-29 19:59:22",
+        "InterviewState": "Complete",
+        "Flight": "GF - Gulf Air",
+        "Dest": "BAH",
+        "AirlineCode": "GF",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6733",
+        "InterviewEndDate": "2023-12-29 20:09:48",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SIN",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6734",
+        "InterviewEndDate": "2023-12-29 20:18:35",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "HBE",
+        "AirlineCode": "5W",
         "Terminal": "T"
     }
 ]    

@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-12-2023 20:36:48"
+        "download_time": "29-12-2023 21:41:39"
     },
     {
         "InterviewId": "5167",
@@ -22215,6 +22215,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "OPO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8495",
+        "InterviewEndDate": "2023-12-29 20:14:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8496",
+        "InterviewEndDate": "2023-12-29 20:33:28",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8497",
+        "InterviewEndDate": "2023-12-29 20:38:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8502",
+        "InterviewEndDate": "2023-12-29 20:25:10",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "CTA",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8503",
+        "InterviewEndDate": "2023-12-29 20:27:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8505",
+        "InterviewEndDate": "2023-12-29 20:35:09",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "OSL",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8506",
+        "InterviewEndDate": "2023-12-29 20:36:03",
+        "InterviewState": "Complete",
+        "Flight": "Kh",
+        "Dest": "OSL",
+        "AirlineCode": "Kh"
+    },
+    {
+        "InterviewId": "8507",
+        "InterviewEndDate": "2023-12-29 20:36:05",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "OSL",
+        "AirlineCode": "Lh"
     }
 ]    
 
