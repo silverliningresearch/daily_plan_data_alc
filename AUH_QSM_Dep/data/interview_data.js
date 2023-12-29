@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "29-12-2023 21:30:25"
+        "download_time": "29-12-2023 22:35:38"
     },
     {
         "InterviewId": "6722",
@@ -49876,6 +49876,51 @@ let interview_data_raw = `[
         "Flight": "QR1055",
         "Dest": "DOH",
         "AirlineCode": "QR1055",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12612",
+        "InterviewEndDate": "2023-12-29 18:02:56",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12613",
+        "InterviewEndDate": "2023-12-29 17:57:14",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12614",
+        "InterviewEndDate": "2023-12-29 18:07:44",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12615",
+        "InterviewEndDate": "2023-12-29 18:31:31",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12616",
+        "InterviewEndDate": "2023-12-29 18:31:30",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
         "Terminal": "T"
     }
 ]    
