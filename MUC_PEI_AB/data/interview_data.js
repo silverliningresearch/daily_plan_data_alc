@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-12-2023 11:56:04"
+        "download_time": "29-12-2023 13:01:03"
     },
     {
         "InterviewId": "15819",
@@ -70815,6 +70815,54 @@ let interview_data_raw = `[
         "Flight": "YW 2050",
         "Dest": "VLC",
         "AirlineCode": "YW"
+    },
+    {
+        "InterviewId": "26197",
+        "InterviewEndDate": "2023-12-29 10:58:48",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "26198",
+        "InterviewEndDate": "2023-12-29 11:09:57",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "26199",
+        "InterviewEndDate": "2023-12-29 10:57:17",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "26200",
+        "InterviewEndDate": "2023-12-29 11:46:02",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "26201",
+        "InterviewEndDate": "2023-12-29 11:48:49",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "26202",
+        "InterviewEndDate": "2023-12-29 11:32:22",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
     }
 ]    
 
