@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "29-12-2023 03:05:25"
+        "download_time": "29-12-2023 04:11:46"
     },
     {
         "InterviewId": "6722",
@@ -49507,6 +49507,60 @@ let interview_data_raw = `[
         "Flight": "Pk118",
         "Dest": "PEW",
         "AirlineCode": "Pk118",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12571",
+        "InterviewEndDate": "2023-12-28 23:13:26",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12572",
+        "InterviewEndDate": "2023-12-28 23:19:07",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12573",
+        "InterviewEndDate": "2023-12-28 23:17:38",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12574",
+        "InterviewEndDate": "2023-12-28 23:29:54",
+        "InterviewState": "Complete",
+        "Flight": "PC407",
+        "Dest": "SAW",
+        "AirlineCode": "PC407",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12575",
+        "InterviewEndDate": "2023-12-28 23:29:24",
+        "InterviewState": "Complete",
+        "Flight": "PC407",
+        "Dest": "SAW",
+        "AirlineCode": "PC407",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12576",
+        "InterviewEndDate": "2023-12-28 23:35:56",
+        "InterviewState": "Complete",
+        "Flight": "PC407",
+        "Dest": "SAW",
+        "AirlineCode": "PC407",
         "Terminal": "T"
     }
 ]    
