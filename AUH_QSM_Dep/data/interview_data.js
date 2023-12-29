@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "29-12-2023 06:20:27"
+        "download_time": "29-12-2023 07:25:55"
     },
     {
         "InterviewId": "6722",
@@ -49561,6 +49561,69 @@ let interview_data_raw = `[
         "Flight": "PC407",
         "Dest": "SAW",
         "AirlineCode": "PC407",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12577",
+        "InterviewEndDate": "2023-12-29 02:40:33",
+        "InterviewState": "Complete",
+        "Flight": "5W7221",
+        "Dest": "GYD",
+        "AirlineCode": "5W7221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12578",
+        "InterviewEndDate": "2023-12-29 02:47:52",
+        "InterviewState": "Complete",
+        "Flight": "5W7221",
+        "Dest": "GYD",
+        "AirlineCode": "5W7221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12579",
+        "InterviewEndDate": "2023-12-29 02:55:45",
+        "InterviewState": "Complete",
+        "Flight": "5W7221",
+        "Dest": "GYD",
+        "AirlineCode": "5W7221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12580",
+        "InterviewEndDate": "2023-12-29 03:01:48",
+        "InterviewState": "Complete",
+        "Flight": "5W7221",
+        "Dest": "GYD",
+        "AirlineCode": "5W7221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12581",
+        "InterviewEndDate": "2023-12-29 03:12:45",
+        "InterviewState": "Complete",
+        "Flight": "TK867",
+        "Dest": "IST",
+        "AirlineCode": "TK867",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12582",
+        "InterviewEndDate": "2023-12-29 03:08:28",
+        "InterviewState": "Complete",
+        "Flight": "TK867",
+        "Dest": "IST",
+        "AirlineCode": "TK867",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12583",
+        "InterviewEndDate": "2023-12-29 03:15:59",
+        "InterviewState": "Complete",
+        "Flight": "TK867",
+        "Dest": "IST",
+        "AirlineCode": "TK867",
         "Terminal": "T"
     }
 ]    
