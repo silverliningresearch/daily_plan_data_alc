@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-12-2023 16:16:00"
+        "download_time": "29-12-2023 17:21:05"
     },
     {
         "InterviewId": "15819",
@@ -70959,6 +70959,142 @@ let interview_data_raw = `[
         "Flight": "LH 1948",
         "Dest": "BER",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26216",
+        "InterviewEndDate": "2023-12-29 15:23:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2028",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26217",
+        "InterviewEndDate": "2023-12-29 15:38:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26218",
+        "InterviewEndDate": "2023-12-29 15:31:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26219",
+        "InterviewEndDate": "2023-12-29 15:28:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26220",
+        "InterviewEndDate": "2023-12-29 15:40:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26221",
+        "InterviewEndDate": "2023-12-29 15:31:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26223",
+        "InterviewEndDate": "2023-12-29 15:34:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26225",
+        "InterviewEndDate": "2023-12-29 15:29:22",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "26227",
+        "InterviewEndDate": "2023-12-29 15:48:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26228",
+        "InterviewEndDate": "2023-12-29 15:44:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26229",
+        "InterviewEndDate": "2023-12-29 15:49:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26230",
+        "InterviewEndDate": "2023-12-29 15:53:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26231",
+        "InterviewEndDate": "2023-12-29 15:55:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26232",
+        "InterviewEndDate": "2023-12-29 15:45:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26233",
+        "InterviewEndDate": "2023-12-29 15:54:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26234",
+        "InterviewEndDate": "2023-12-29 15:53:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26238",
+        "InterviewEndDate": "2023-12-29 16:13:28",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
     }
 ]    
 
