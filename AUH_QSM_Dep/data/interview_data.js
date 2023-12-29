@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "29-12-2023 08:30:50"
+        "download_time": "29-12-2023 09:35:32"
     },
     {
         "InterviewId": "6722",
@@ -49642,6 +49642,96 @@ let interview_data_raw = `[
         "Flight": "3L422",
         "Dest": "CAI",
         "AirlineCode": "3L422",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12586",
+        "InterviewEndDate": "2023-12-29 04:37:30",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12587",
+        "InterviewEndDate": "2023-12-29 04:36:22",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12588",
+        "InterviewEndDate": "2023-12-29 04:44:27",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12589",
+        "InterviewEndDate": "2023-12-29 04:43:24",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12590",
+        "InterviewEndDate": "2023-12-29 04:50:51",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12591",
+        "InterviewEndDate": "2023-12-29 04:51:33",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12592",
+        "InterviewEndDate": "2023-12-29 05:00:51",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12593",
+        "InterviewEndDate": "2023-12-29 05:21:39",
+        "InterviewState": "Complete",
+        "Flight": "EY462",
+        "Dest": "MEL",
+        "AirlineCode": "EY462",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12594",
+        "InterviewEndDate": "2023-12-29 05:10:56",
+        "InterviewState": "Complete",
+        "Flight": "EY462",
+        "Dest": "MEL",
+        "AirlineCode": "EY462",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12595",
+        "InterviewEndDate": "2023-12-29 05:18:24",
+        "InterviewState": "Complete",
+        "Flight": "EY462",
+        "Dest": "MEL",
+        "AirlineCode": "EY462",
         "Terminal": "T"
     }
 ]    
