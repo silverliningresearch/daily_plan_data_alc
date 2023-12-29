@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-12-2023 19:31:01"
+        "download_time": "29-12-2023 20:36:04"
     },
     {
         "InterviewId": "15819",
@@ -71281,6 +71281,14 @@ let interview_data_raw = `[
         "AirlineCode": "Lh"
     },
     {
+        "InterviewId": "26264",
+        "InterviewEndDate": "2023-12-29 18:32:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "26266",
         "InterviewEndDate": "2023-12-29 18:24:03",
         "InterviewState": "Complete",
@@ -71295,6 +71303,78 @@ let interview_data_raw = `[
         "Flight": "Lh1706",
         "Dest": "SOF",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "26269",
+        "InterviewEndDate": "2023-12-29 18:34:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26270",
+        "InterviewEndDate": "2023-12-29 18:36:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1616",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26271",
+        "InterviewEndDate": "2023-12-29 18:51:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1616",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26273",
+        "InterviewEndDate": "2023-12-29 18:49:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26275",
+        "InterviewEndDate": "2023-12-29 18:58:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1616",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26278",
+        "InterviewEndDate": "2023-12-29 18:57:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26279",
+        "InterviewEndDate": "2023-12-29 18:56:49",
+        "InterviewState": "Complete",
+        "Flight": "OU  437",
+        "Dest": "ZAG",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "26280",
+        "InterviewEndDate": "2023-12-29 19:00:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26282",
+        "InterviewEndDate": "2023-12-29 19:12:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
     }
 ]    
 
