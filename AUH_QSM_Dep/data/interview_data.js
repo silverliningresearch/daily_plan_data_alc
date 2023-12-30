@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "30-12-2023 19:10:51"
+        "download_time": "30-12-2023 20:16:01"
     },
     {
         "InterviewId": "6722",
@@ -50002,6 +50002,87 @@ let interview_data_raw = `[
         "Flight": "EY325",
         "Dest": "DMM",
         "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12627",
+        "InterviewEndDate": "2023-12-30 15:21:18",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12628",
+        "InterviewEndDate": "2023-12-30 15:16:24",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12629",
+        "InterviewEndDate": "2023-12-30 15:21:48",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12630",
+        "InterviewEndDate": "2023-12-30 15:30:27",
+        "InterviewState": "Complete",
+        "Flight": "EY216",
+        "Dest": "BLR",
+        "AirlineCode": "EY216",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12631",
+        "InterviewEndDate": "2023-12-30 15:39:15",
+        "InterviewState": "Complete",
+        "Flight": "EY388",
+        "Dest": "MCT",
+        "AirlineCode": "EY388",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12632",
+        "InterviewEndDate": "2023-12-30 15:43:14",
+        "InterviewState": "Complete",
+        "Flight": "EY388",
+        "Dest": "MCT",
+        "AirlineCode": "EY388",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12633",
+        "InterviewEndDate": "2023-12-30 15:54:42",
+        "InterviewState": "Complete",
+        "Flight": "EY430",
+        "Dest": "HKT",
+        "AirlineCode": "EY430",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12634",
+        "InterviewEndDate": "2023-12-30 16:00:59",
+        "InterviewState": "Complete",
+        "Flight": "EY430",
+        "Dest": "HKT",
+        "AirlineCode": "EY430",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12635",
+        "InterviewEndDate": "2023-12-30 16:13:28",
+        "InterviewState": "Complete",
+        "Flight": "EY888",
+        "Dest": "PKX",
+        "AirlineCode": "EY888",
         "Terminal": "T"
     }
 ]    
