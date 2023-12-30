@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "30-12-2023 21:21:53"
+        "download_time": "30-12-2023 22:26:12"
     },
     {
         "InterviewId": "3906",
@@ -24405,6 +24405,87 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY - Etihad Airways",
         "Dest": "CMN",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6745",
+        "InterviewEndDate": "2023-12-30 17:22:38",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6746",
+        "InterviewEndDate": "2023-12-30 17:29:47",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6747",
+        "InterviewEndDate": "2023-12-30 17:35:40",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6748",
+        "InterviewEndDate": "2023-12-30 17:45:18",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6749",
+        "InterviewEndDate": "2023-12-30 17:54:33",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6750",
+        "InterviewEndDate": "2023-12-30 17:59:58",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6751",
+        "InterviewEndDate": "2023-12-30 18:05:55",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MCT",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6752",
+        "InterviewEndDate": "2023-12-30 18:11:28",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MCT",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6753",
+        "InterviewEndDate": "2023-12-30 18:19:12",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "KHI",
         "AirlineCode": "EY",
         "Terminal": "T"
     }
