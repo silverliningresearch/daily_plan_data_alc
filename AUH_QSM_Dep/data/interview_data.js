@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "30-12-2023 22:25:41"
+        "download_time": "30-12-2023 23:30:29"
     },
     {
         "InterviewId": "6722",
@@ -50151,6 +50151,42 @@ let interview_data_raw = `[
     {
         "InterviewId": "12643",
         "InterviewEndDate": "2023-12-30 18:19:21",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12644",
+        "InterviewEndDate": "2023-12-30 18:27:35",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12645",
+        "InterviewEndDate": "2023-12-30 18:32:59",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12646",
+        "InterviewEndDate": "2023-12-30 18:34:19",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12647",
+        "InterviewEndDate": "2023-12-30 18:38:11",
         "InterviewState": "Complete",
         "Flight": "UL208",
         "Dest": "CMB",
