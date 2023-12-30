@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "30-12-2023 08:32:47"
+        "download_time": "30-12-2023 09:37:58"
     },
     {
         "InterviewId": "1224",
@@ -7143,6 +7143,62 @@ let interview_data_arr_raw = `[
         "Flight": "DY 1550",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "2124",
+        "InterviewEndDate": "2023-12-30 07:48:15",
+        "InterviewState": "Complete",
+        "Flight": "TK 1035",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2125",
+        "InterviewEndDate": "2023-12-30 07:52:35",
+        "InterviewState": "Complete",
+        "Flight": "TK 1035",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2126",
+        "InterviewEndDate": "2023-12-30 07:59:43",
+        "InterviewState": "Complete",
+        "Flight": "TK 1035",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2127",
+        "InterviewEndDate": "2023-12-30 08:23:02",
+        "InterviewState": "Complete",
+        "Flight": "LX 2250",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "2128",
+        "InterviewEndDate": "2023-12-30 08:26:57",
+        "InterviewState": "Complete",
+        "Flight": "LO  533",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "2129",
+        "InterviewEndDate": "2023-12-30 08:34:26",
+        "InterviewState": "Complete",
+        "Flight": "LO  533",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "2130",
+        "InterviewEndDate": "2023-12-30 08:36:51",
+        "InterviewState": "Complete",
+        "Flight": "LO  533",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
