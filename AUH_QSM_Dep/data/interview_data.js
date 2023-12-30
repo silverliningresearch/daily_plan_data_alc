@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "31-12-2023 00:35:23"
+        "download_time": "31-12-2023 01:40:40"
     },
     {
         "InterviewId": "6722",
@@ -50209,6 +50209,69 @@ let interview_data_raw = `[
         "Flight": "EY313",
         "Dest": "JED",
         "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12650",
+        "InterviewEndDate": "2023-12-30 20:45:37",
+        "InterviewState": "Complete",
+        "Flight": "EY313",
+        "Dest": "JED",
+        "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12651",
+        "InterviewEndDate": "2023-12-30 20:44:24",
+        "InterviewState": "Complete",
+        "Flight": "EY313",
+        "Dest": "JED",
+        "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12652",
+        "InterviewEndDate": "2023-12-30 21:04:26",
+        "InterviewState": "Complete",
+        "Flight": "EY315",
+        "Dest": "RUH",
+        "AirlineCode": "EY315",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12653",
+        "InterviewEndDate": "2023-12-30 21:11:46",
+        "InterviewState": "Complete",
+        "Flight": "EY315",
+        "Dest": "RUH",
+        "AirlineCode": "EY315",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12654",
+        "InterviewEndDate": "2023-12-30 21:18:40",
+        "InterviewState": "Complete",
+        "Flight": "EY315",
+        "Dest": "RUH",
+        "AirlineCode": "EY315",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12655",
+        "InterviewEndDate": "2023-12-30 21:25:39",
+        "InterviewState": "Complete",
+        "Flight": "EY315",
+        "Dest": "RUH",
+        "AirlineCode": "EY315",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12656",
+        "InterviewEndDate": "2023-12-30 21:40:08",
+        "InterviewState": "Complete",
+        "Flight": "EY315",
+        "Dest": "RUH",
+        "AirlineCode": "EY315",
         "Terminal": "T"
     }
 ]    
