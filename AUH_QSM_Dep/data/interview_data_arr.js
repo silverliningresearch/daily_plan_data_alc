@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "30-12-2023 02:56:06"
+        "download_time": "30-12-2023 04:00:56"
     },
     {
         "InterviewId": "3906",
@@ -24316,6 +24316,42 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "HBE",
         "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6735",
+        "InterviewEndDate": "2023-12-29 23:24:20",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6736",
+        "InterviewEndDate": "2023-12-29 23:32:05",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "COK",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6737",
+        "InterviewEndDate": "2023-12-29 23:39:39",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "COK",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6738",
+        "InterviewEndDate": "2023-12-29 23:46:44",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "COK",
+        "AirlineCode": "6E",
         "Terminal": "T"
     }
 ]    
