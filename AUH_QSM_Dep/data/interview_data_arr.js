@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "30-12-2023 20:16:38"
+        "download_time": "30-12-2023 21:21:53"
     },
     {
         "InterviewId": "3906",
@@ -24393,6 +24393,15 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "6743",
         "InterviewEndDate": "2023-12-30 16:11:35",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "CMN",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6744",
+        "InterviewEndDate": "2023-12-30 16:19:36",
         "InterviewState": "Complete",
         "Flight": "EY - Etihad Airways",
         "Dest": "CMN",
