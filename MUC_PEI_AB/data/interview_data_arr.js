@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "02-01-2024 11:16:48"
+        "download_time": "02-01-2024 12:22:18"
     },
     {
         "InterviewId": "5167",
@@ -22346,7 +22346,7 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "8522",
-        "InterviewEndDate": "2024-01-02 10:04:38",
+        "InterviewEndDate": "2024-01-02 10:36:30",
         "InterviewState": "Complete",
         "Flight": "A3 - Aegean Airlines",
         "Dest": "ATH",
@@ -22367,6 +22367,38 @@ let interview_data_arr_raw = `[
         "Flight": "A3 - Aegean Airlines",
         "Dest": "ATH",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "8526",
+        "InterviewEndDate": "2024-01-02 10:42:15",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "GRZ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8527",
+        "InterviewEndDate": "2024-01-02 10:39:29",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "GRZ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8528",
+        "InterviewEndDate": "2024-01-02 11:08:21",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8529",
+        "InterviewEndDate": "2024-01-02 11:07:30",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
     }
 ]    
 
