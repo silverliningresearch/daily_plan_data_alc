@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16",
-        "download_time": "02-01-2024 16:41:11"
+        "download_time": "02-01-2024 17:46:08"
     },
     {
         "aodbUniqueId": "20240102572376",
@@ -249,6 +249,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L11"
+    },
+    {
+        "aodbUniqueId": "20240102570817",
+        "Date": "02-01-2024",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K15"
     },
     {
         "aodbUniqueId": "20240102572466",
@@ -621,6 +631,16 @@ let MUC_Gate_Info = `[
         "Gate": "G35"
     },
     {
+        "aodbUniqueId": "20240102571323",
+        "Date": "02-01-2024",
+        "Flight": "LH 1986",
+        "Dest": "CGN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G69"
+    },
+    {
         "aodbUniqueId": "20240102570819",
         "Date": "02-01-2024",
         "Flight": "A3 803",
@@ -691,6 +711,16 @@ let MUC_Gate_Info = `[
         "Gate": "L25"
     },
     {
+        "aodbUniqueId": "20240102571959",
+        "Date": "02-01-2024",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C01"
+    },
+    {
         "aodbUniqueId": "20240102570861",
         "Date": "02-01-2024",
         "Flight": "AA 717",
@@ -719,16 +749,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K12"
-    },
-    {
-        "aodbUniqueId": "20240102570817",
-        "Date": "02-01-2024",
-        "Flight": "A3 503",
-        "Dest": "SKG",
-        "AirlineCode": "A3",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K15"
     },
     {
         "aodbUniqueId": "20240102570821",
@@ -931,16 +951,6 @@ let MUC_Gate_Info = `[
         "Gate": "D22"
     },
     {
-        "aodbUniqueId": "20240102571098",
-        "Date": "02-01-2024",
-        "Flight": "EN 8362",
-        "Dest": "ORY",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G35"
-    },
-    {
         "aodbUniqueId": "20240102571100",
         "Date": "02-01-2024",
         "Flight": "EN 8194",
@@ -979,6 +989,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G16"
+    },
+    {
+        "aodbUniqueId": "20240102571098",
+        "Date": "02-01-2024",
+        "Flight": "EN 8362",
+        "Dest": "ORY",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G35"
     },
     {
         "aodbUniqueId": "20240102571096",
@@ -1451,16 +1471,6 @@ let MUC_Gate_Info = `[
         "Gate": "G82"
     },
     {
-        "aodbUniqueId": "20240102571323",
-        "Date": "02-01-2024",
-        "Flight": "LH 1986",
-        "Dest": "CGN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G69"
-    },
-    {
         "aodbUniqueId": "20240102571325",
         "Date": "02-01-2024",
         "Flight": "LH 2144",
@@ -1728,7 +1738,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G34"
+        "Gate": "G48"
     },
     {
         "aodbUniqueId": "20240102571309",
@@ -1868,7 +1878,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H38"
+        "Gate": "H34"
     },
     {
         "aodbUniqueId": "20240102571415",
@@ -2964,16 +2974,6 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20240102571955",
         "Date": "02-01-2024",
         "Flight": "TK 1630",
-        "Dest": "IST",
-        "AirlineCode": "TK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C01"
-    },
-    {
-        "aodbUniqueId": "20240102571959",
-        "Date": "02-01-2024",
-        "Flight": "TK 1636",
         "Dest": "IST",
         "AirlineCode": "TK",
         "terminalIdentifier": "1",
