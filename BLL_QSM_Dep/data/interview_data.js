@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "03-01-2024 13:16:59"
+        "download_time": "03-01-2024 14:23:17"
     },
     {
         "InterviewId": "6093",
@@ -37831,6 +37831,70 @@ let interview_data_raw = `[
         "Flight": "DY999",
         "Dest": "OSL",
         "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13681",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13682",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13683",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13684",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13685",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13686",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13687",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13688",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
     }
 ]    
 
