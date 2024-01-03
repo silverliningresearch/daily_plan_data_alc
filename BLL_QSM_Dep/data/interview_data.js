@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "03-01-2024 14:23:17"
+        "download_time": "03-01-2024 15:26:57"
     },
     {
         "InterviewId": "6093",
@@ -37895,6 +37895,70 @@ let interview_data_raw = `[
         "Flight": "KL1346",
         "Dest": "AMS",
         "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "13689",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "13690",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "13692",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "13693",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "13694",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "13695",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "13696",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "13697",
+        "InterviewEndDate": "2024-01-03",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
     }
 ]    
 
