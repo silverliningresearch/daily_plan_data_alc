@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "04-01-2024 20:41:51"
+        "download_time": "04-01-2024 21:46:48"
     },
     {
         "InterviewId": "5167",
@@ -22471,6 +22471,54 @@ let interview_data_arr_raw = `[
         "Flight": "KM - Air Malta",
         "Dest": "MLA",
         "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8543",
+        "InterviewEndDate": "2024-01-04 19:53:37",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8544",
+        "InterviewEndDate": "2024-01-04 20:16:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8545",
+        "InterviewEndDate": "2024-01-04 20:05:02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8547",
+        "InterviewEndDate": "2024-01-04 20:10:55",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8548",
+        "InterviewEndDate": "2024-01-04 20:22:46",
+        "InterviewState": "Complete",
+        "Flight": "OU - Croatia Airlines",
+        "Dest": "ZAG",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "8549",
+        "InterviewEndDate": "2024-01-04 20:40:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
     }
 ]    
 
