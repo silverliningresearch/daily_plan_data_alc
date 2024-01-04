@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-01-2024 19:36:08"
+        "download_time": "04-01-2024 20:41:07"
     },
     {
         "InterviewId": "15819",
@@ -72351,6 +72351,70 @@ let interview_data_raw = `[
         "Flight": "SK 2658",
         "Dest": "CPH",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "26430",
+        "InterviewEndDate": "2024-01-04 18:54:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26431",
+        "InterviewEndDate": "2024-01-04 18:50:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26432",
+        "InterviewEndDate": "2024-01-04 18:42:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26433",
+        "InterviewEndDate": "2024-01-04 19:11:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26434",
+        "InterviewEndDate": "2024-01-04 19:03:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26435",
+        "InterviewEndDate": "2024-01-04 19:06:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26436",
+        "InterviewEndDate": "2024-01-04 19:17:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26437",
+        "InterviewEndDate": "2024-01-04 19:20:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
     }
 ]    
 
