@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-01-2024 07:31:05"
+        "download_time": "05-01-2024 08:36:10"
     },
     {
         "InterviewId": "15819",
@@ -72415,6 +72415,78 @@ let interview_data_raw = `[
         "Flight": "LH 1816",
         "Dest": "BCN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26438",
+        "InterviewEndDate": "2024-01-05 06:37:38",
+        "InterviewState": "Complete",
+        "Flight": "X3 6682",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26439",
+        "InterviewEndDate": "2024-01-05 06:35:32",
+        "InterviewState": "Complete",
+        "Flight": "X3 6682",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26440",
+        "InterviewEndDate": "2024-01-05 06:50:44",
+        "InterviewState": "Complete",
+        "Flight": "X3 6682",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26442",
+        "InterviewEndDate": "2024-01-05 07:11:22",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "26443",
+        "InterviewEndDate": "2024-01-05 07:12:52",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "26444",
+        "InterviewEndDate": "2024-01-05 07:16:59",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "26445",
+        "InterviewEndDate": "2024-01-05 07:19:25",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "26446",
+        "InterviewEndDate": "2024-01-05 07:18:49",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "26447",
+        "InterviewEndDate": "2024-01-05 07:34:09",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 

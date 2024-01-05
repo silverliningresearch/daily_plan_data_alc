@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-01-2024 07:31:47"
+        "download_time": "05-01-2024 08:37:03"
     },
     {
         "InterviewId": "5167",
@@ -22559,6 +22559,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BKK",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8555",
+        "InterviewEndDate": "2024-01-05 06:32:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8557",
+        "InterviewEndDate": "2024-01-05 06:40:54",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8559",
+        "InterviewEndDate": "2024-01-05 06:47:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8561",
+        "InterviewEndDate": "2024-01-05 06:52:30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8562",
+        "InterviewEndDate": "2024-01-05 06:53:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8563",
+        "InterviewEndDate": "2024-01-05 07:22:24",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "8564",
+        "InterviewEndDate": "2024-01-05 07:22:29",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "8565",
+        "InterviewEndDate": "2024-01-05 07:24:23",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
     }
 ]    
 
