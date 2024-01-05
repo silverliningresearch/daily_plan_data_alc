@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-01-2024 19:26:51"
+        "download_time": "05-01-2024 20:31:48"
     },
     {
         "InterviewId": "5167",
@@ -22929,6 +22929,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "AY"
     },
     {
+        "InterviewId": "8605",
+        "InterviewEndDate": "2024-01-05 18:34:44",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
         "InterviewId": "8608",
         "InterviewEndDate": "2024-01-05 18:16:06",
         "InterviewState": "Complete",
@@ -22942,6 +22950,38 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EW - Eurowings",
         "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8611",
+        "InterviewEndDate": "2024-01-05 18:44:32",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8612",
+        "InterviewEndDate": "2024-01-05 18:44:53",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8614",
+        "InterviewEndDate": "2024-01-05 18:54:31",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8615",
+        "InterviewEndDate": "2024-01-05 19:12:08",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
         "AirlineCode": "EW"
     }
 ]    
