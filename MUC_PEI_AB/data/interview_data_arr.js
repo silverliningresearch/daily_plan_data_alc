@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-01-2024 18:22:55"
+        "download_time": "05-01-2024 19:26:51"
     },
     {
         "InterviewId": "5167",
@@ -22833,6 +22833,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "8593",
+        "InterviewEndDate": "2024-01-05 17:26:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "8594",
         "InterviewEndDate": "2024-01-05 17:20:24",
         "InterviewState": "Complete",
@@ -22863,6 +22871,78 @@ let interview_data_arr_raw = `[
         "Flight": "AZ - Alitalia",
         "Dest": "FCO",
         "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "8598",
+        "InterviewEndDate": "2024-01-05 17:22:57",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "8599",
+        "InterviewEndDate": "2024-01-05 17:22:22",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "8600",
+        "InterviewEndDate": "2024-01-05 17:28:13",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "8601",
+        "InterviewEndDate": "2024-01-05 17:38:03",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8602",
+        "InterviewEndDate": "2024-01-05 17:46:54",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8603",
+        "InterviewEndDate": "2024-01-05 17:36:25",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8604",
+        "InterviewEndDate": "2024-01-05 17:52:25",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8608",
+        "InterviewEndDate": "2024-01-05 18:16:06",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8609",
+        "InterviewEndDate": "2024-01-05 18:20:08",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
