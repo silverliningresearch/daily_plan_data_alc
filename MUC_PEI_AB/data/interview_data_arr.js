@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-01-2024 17:16:54"
+        "download_time": "05-01-2024 18:22:55"
     },
     {
         "InterviewId": "5167",
@@ -22769,6 +22769,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "8585",
+        "InterviewEndDate": "2024-01-05 16:18:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "8586",
         "InterviewEndDate": "2024-01-05 15:19:00",
         "InterviewState": "Complete",
@@ -22801,6 +22809,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "EN"
     },
     {
+        "InterviewId": "8590",
+        "InterviewEndDate": "2024-01-05 16:26:58",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "8591",
         "InterviewEndDate": "2024-01-05 15:57:27",
         "InterviewState": "Complete",
@@ -22815,6 +22831,38 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BEG",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8594",
+        "InterviewEndDate": "2024-01-05 17:20:24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8595",
+        "InterviewEndDate": "2024-01-05 17:12:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8596",
+        "InterviewEndDate": "2024-01-05 17:12:18",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "8597",
+        "InterviewEndDate": "2024-01-05 17:17:03",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
     }
 ]    
 
