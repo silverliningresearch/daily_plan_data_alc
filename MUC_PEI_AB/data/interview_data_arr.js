@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-01-2024 11:52:07"
+        "download_time": "05-01-2024 12:57:17"
     },
     {
         "InterviewId": "5167",
@@ -22695,6 +22695,78 @@ let interview_data_arr_raw = `[
         "Flight": "PC - Pegasus Airlines",
         "Dest": "SAW",
         "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "8576",
+        "InterviewEndDate": "2024-01-05 11:02:34",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8577",
+        "InterviewEndDate": "2024-01-05 11:00:48",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8578",
+        "InterviewEndDate": "2024-01-05 11:17:43",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8579",
+        "InterviewEndDate": "2024-01-05 11:14:23",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8580",
+        "InterviewEndDate": "2024-01-05 11:12:01",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8581",
+        "InterviewEndDate": "2024-01-05 11:47:17",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "8582",
+        "InterviewEndDate": "2024-01-05 11:48:50",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "8583",
+        "InterviewEndDate": "2024-01-05 11:35:54",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "8584",
+        "InterviewEndDate": "2024-01-05 11:46:07",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
