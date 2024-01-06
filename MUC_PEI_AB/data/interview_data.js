@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-01-2024 09:31:06"
+        "download_time": "06-01-2024 10:36:10"
     },
     {
         "InterviewId": "15819",
@@ -73359,6 +73359,118 @@ let interview_data_raw = `[
         "Flight": "TK 1630",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "26567",
+        "InterviewEndDate": "2024-01-06 08:42:50",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "26568",
+        "InterviewEndDate": "2024-01-06 08:47:04",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "26569",
+        "InterviewEndDate": "2024-01-06 08:42:24",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "26572",
+        "InterviewEndDate": "2024-01-06 08:42:19",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "26573",
+        "InterviewEndDate": "2024-01-06 08:46:03",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "26574",
+        "InterviewEndDate": "2024-01-06 08:47:01",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "26576",
+        "InterviewEndDate": "2024-01-06 09:03:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26577",
+        "InterviewEndDate": "2024-01-06 09:08:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26578",
+        "InterviewEndDate": "2024-01-06 09:04:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26579",
+        "InterviewEndDate": "2024-01-06 09:31:54",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "26580",
+        "InterviewEndDate": "2024-01-06 09:34:29",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "26582",
+        "InterviewEndDate": "2024-01-06 09:33:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26583",
+        "InterviewEndDate": "2024-01-06 09:33:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26584",
+        "InterviewEndDate": "2024-01-06 09:33:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
     }
 ]    
 
