@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-01-2024 10:36:10"
+        "download_time": "06-01-2024 11:41:07"
     },
     {
         "InterviewId": "15819",
@@ -73449,6 +73449,14 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
+        "InterviewId": "26581",
+        "InterviewEndDate": "2024-01-06 09:37:13",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
         "InterviewId": "26582",
         "InterviewEndDate": "2024-01-06 09:33:56",
         "InterviewState": "Complete",
@@ -73470,6 +73478,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 460",
         "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26585",
+        "InterviewEndDate": "2024-01-06 09:48:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26586",
+        "InterviewEndDate": "2024-01-06 09:48:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26587",
+        "InterviewEndDate": "2024-01-06 09:51:55",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "26588",
+        "InterviewEndDate": "2024-01-06 10:09:31",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "26589",
+        "InterviewEndDate": "2024-01-06 09:48:52",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "26590",
+        "InterviewEndDate": "2024-01-06 09:52:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26591",
+        "InterviewEndDate": "2024-01-06 10:04:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26592",
+        "InterviewEndDate": "2024-01-06 10:03:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26593",
+        "InterviewEndDate": "2024-01-06 10:08:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26596",
+        "InterviewEndDate": "2024-01-06 10:21:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26597",
+        "InterviewEndDate": "2024-01-06 10:21:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26598",
+        "InterviewEndDate": "2024-01-06 10:24:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26599",
+        "InterviewEndDate": "2024-01-06 10:37:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
         "AirlineCode": "LH"
     }
 ]    
