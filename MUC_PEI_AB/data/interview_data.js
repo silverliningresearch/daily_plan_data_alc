@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-01-2024 15:51:14"
+        "download_time": "07-01-2024 16:56:10"
     },
     {
         "InterviewId": "15819",
@@ -74119,6 +74119,86 @@ let interview_data_raw = `[
         "Flight": "LH 1754",
         "Dest": "ATH",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26673",
+        "InterviewEndDate": "2024-01-07 15:06:21",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26674",
+        "InterviewEndDate": "2024-01-07 15:12:43",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26675",
+        "InterviewEndDate": "2024-01-07 15:46:56",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26676",
+        "InterviewEndDate": "2024-01-07 15:15:09",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26677",
+        "InterviewEndDate": "2024-01-07 15:25:32",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26678",
+        "InterviewEndDate": "2024-01-07 15:47:02",
+        "InterviewState": "Complete",
+        "Flight": "Tp555",
+        "Dest": "LIS",
+        "AirlineCode": "Tp"
+    },
+    {
+        "InterviewId": "26679",
+        "InterviewEndDate": "2024-01-07 15:46:51",
+        "InterviewState": "Complete",
+        "Flight": "Tp555",
+        "Dest": "LIS",
+        "AirlineCode": "Tp"
+    },
+    {
+        "InterviewId": "26680",
+        "InterviewEndDate": "2024-01-07 15:41:36",
+        "InterviewState": "Complete",
+        "Flight": "Tp555",
+        "Dest": "LIS",
+        "AirlineCode": "Tp"
+    },
+    {
+        "InterviewId": "26681",
+        "InterviewEndDate": "2024-01-07 15:41:53",
+        "InterviewState": "Complete",
+        "Flight": "Tp555",
+        "Dest": "LIS",
+        "AirlineCode": "Tp"
+    },
+    {
+        "InterviewId": "26682",
+        "InterviewEndDate": "2024-01-07 15:54:59",
+        "InterviewState": "Complete",
+        "Flight": "Tp555",
+        "Dest": "LIS",
+        "AirlineCode": "Tp"
     }
 ]    
 
