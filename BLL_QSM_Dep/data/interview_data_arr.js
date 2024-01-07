@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "07-01-2024 20:12:18"
+        "download_time": "07-01-2024 21:17:03"
     },
     {
         "InterviewId": "2077",
@@ -11671,6 +11671,78 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "VIE",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5036",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "Lot",
+        "Dest": "WAW",
+        "AirlineCode": "Lot"
+    },
+    {
+        "InterviewId": "5037",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "5038",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "5041",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "5042",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "5043",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "5046",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "LPA",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5049",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "LPA",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5050",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "LPA",
+        "AirlineCode": "JTD"
     }
 ]    
 
