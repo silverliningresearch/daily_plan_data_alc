@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-01-2024 13:41:59"
+        "download_time": "07-01-2024 14:46:58"
     },
     {
         "InterviewId": "6093",
@@ -38146,7 +38146,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "13737",
-        "InterviewEndDate": "2024-01-04",
+        "InterviewEndDate": "2024-01-07",
         "InterviewState": "Complete",
         "Flight": "BA807",
         "Dest": "LHR",
@@ -38159,6 +38159,62 @@ let interview_data_raw = `[
         "Flight": "BA807",
         "Dest": "LHR",
         "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "13739",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "13740",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "13741",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "13743",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "13744",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "13748",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "13750",
+        "InterviewEndDate": "2024-01-07",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-01-2024 13:41:07"
+        "download_time": "07-01-2024 14:46:08"
     },
     {
         "InterviewId": "15819",
@@ -74025,6 +74025,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "26659",
+        "InterviewEndDate": "2024-01-07 12:43:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26660",
+        "InterviewEndDate": "2024-01-07 12:49:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "26662",
         "InterviewEndDate": "2024-01-07 12:19:46",
         "InterviewState": "Complete",
@@ -74057,6 +74073,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "26666",
+        "InterviewEndDate": "2024-01-07 12:39:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "26667",
         "InterviewEndDate": "2024-01-07 12:40:12",
         "InterviewState": "Complete",
@@ -74065,8 +74089,32 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "26668",
+        "InterviewEndDate": "2024-01-07 12:47:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26669",
+        "InterviewEndDate": "2024-01-07 12:38:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "26670",
         "InterviewEndDate": "2024-01-07 12:37:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26671",
+        "InterviewEndDate": "2024-01-07 13:00:19",
         "InterviewState": "Complete",
         "Flight": "LH 1754",
         "Dest": "ATH",
