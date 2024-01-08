@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "08-01-2024 08:07:22"
+        "download_time": "08-01-2024 09:12:14"
     },
     {
         "InterviewId": "2077",
@@ -11855,6 +11855,142 @@ let interview_data_arr_raw = `[
         "Flight": "DY - Norwegian Air Schuttle",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5073",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5074",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5075",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5076",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5077",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5078",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5079",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5080",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IAS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5081",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "IAS",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "5082",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5083",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5084",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5085",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5086",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5087",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5088",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5089",
+        "InterviewEndDate": "2024-01-08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
     }
 ]    
 
