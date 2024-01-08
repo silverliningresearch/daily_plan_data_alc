@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-01-2024 21:06:12"
+        "download_time": "08-01-2024 22:11:13"
     },
     {
         "InterviewId": "15819",
@@ -74710,6 +74710,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH1872",
         "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26758",
+        "InterviewEndDate": "2024-01-08 20:03:34",
+        "InterviewState": "Complete",
+        "Flight": "EN8206",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "26759",
+        "InterviewEndDate": "2024-01-08 20:28:12",
+        "InterviewState": "Complete",
+        "Flight": "EN8206",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "26761",
+        "InterviewEndDate": "2024-01-08 20:46:25",
+        "InterviewState": "Complete",
+        "Flight": "LH1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26762",
+        "InterviewEndDate": "2024-01-08 20:40:13",
+        "InterviewState": "Complete",
+        "Flight": "LH1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26763",
+        "InterviewEndDate": "2024-01-08 20:43:38",
+        "InterviewState": "Complete",
+        "Flight": "LH1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26765",
+        "InterviewEndDate": "2024-01-08 20:51:35",
+        "InterviewState": "Complete",
+        "Flight": "LH1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26766",
+        "InterviewEndDate": "2024-01-08 20:55:18",
+        "InterviewState": "Complete",
+        "Flight": "LH1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26767",
+        "InterviewEndDate": "2024-01-08 20:58:21",
+        "InterviewState": "Complete",
+        "Flight": "LH1682",
+        "Dest": "BUD",
         "AirlineCode": "LH"
     }
 ]    
