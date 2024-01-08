@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "09-01-2024 02:21:13"
+        "download_time": "09-01-2024 03:26:30"
     },
     {
         "InterviewId": "6722",
@@ -50542,6 +50542,60 @@ let interview_data_raw = `[
         "Flight": "EY657",
         "Dest": "CAI",
         "AirlineCode": "EY657",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12689",
+        "InterviewEndDate": "2024-01-08 22:28:14",
+        "InterviewState": "Complete",
+        "Flight": "EY657",
+        "Dest": "CAI",
+        "AirlineCode": "EY657",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12690",
+        "InterviewEndDate": "2024-01-08 22:23:50",
+        "InterviewState": "Complete",
+        "Flight": "EY657",
+        "Dest": "CAI",
+        "AirlineCode": "EY657",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12691",
+        "InterviewEndDate": "2024-01-08 22:39:46",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12692",
+        "InterviewEndDate": "2024-01-08 22:46:28",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12693",
+        "InterviewEndDate": "2024-01-08 22:54:40",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12694",
+        "InterviewEndDate": "2024-01-08 22:56:06",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
         "Terminal": "T"
     }
 ]    
