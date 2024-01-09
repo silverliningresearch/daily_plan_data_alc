@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "10-01-2024 01:06:28"
+        "download_time": "10-01-2024 02:11:20"
     },
     {
         "InterviewId": "6722",
@@ -50668,6 +50668,96 @@ let interview_data_raw = `[
         "Flight": "3L125",
         "Dest": "COK",
         "AirlineCode": "3L125",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12702",
+        "InterviewEndDate": "2024-01-09 21:06:47",
+        "InterviewState": "Complete",
+        "Flight": "EY384",
+        "Dest": "MCT",
+        "AirlineCode": "EY384",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12703",
+        "InterviewEndDate": "2024-01-09 21:08:53",
+        "InterviewState": "Complete",
+        "Flight": "EY384",
+        "Dest": "MCT",
+        "AirlineCode": "EY384",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12704",
+        "InterviewEndDate": "2024-01-09 21:17:43",
+        "InterviewState": "Complete",
+        "Flight": "EY384",
+        "Dest": "MCT",
+        "AirlineCode": "EY384",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12705",
+        "InterviewEndDate": "2024-01-09 21:19:57",
+        "InterviewState": "Complete",
+        "Flight": "EY384",
+        "Dest": "MCT",
+        "AirlineCode": "EY384",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12706",
+        "InterviewEndDate": "2024-01-09 21:24:09",
+        "InterviewState": "Complete",
+        "Flight": "EY386",
+        "Dest": "MCT",
+        "AirlineCode": "EY386",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12707",
+        "InterviewEndDate": "2024-01-09 21:36:08",
+        "InterviewState": "Complete",
+        "Flight": "EY313",
+        "Dest": "JED",
+        "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12708",
+        "InterviewEndDate": "2024-01-09 21:41:20",
+        "InterviewState": "Complete",
+        "Flight": "EY313",
+        "Dest": "JED",
+        "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12709",
+        "InterviewEndDate": "2024-01-09 21:46:00",
+        "InterviewState": "Complete",
+        "Flight": "EY313",
+        "Dest": "JED",
+        "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12710",
+        "InterviewEndDate": "2024-01-09 22:05:59",
+        "InterviewState": "Complete",
+        "Flight": "EY474",
+        "Dest": "CGK",
+        "AirlineCode": "EY474",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12711",
+        "InterviewEndDate": "2024-01-09 22:06:48",
+        "InterviewState": "Complete",
+        "Flight": "EY474",
+        "Dest": "CGK",
+        "AirlineCode": "EY474",
         "Terminal": "T"
     }
 ]    
