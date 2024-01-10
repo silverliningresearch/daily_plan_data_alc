@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-01-2024 16:26:14"
+        "download_time": "10-01-2024 17:31:13"
     },
     {
         "InterviewId": "15819",
@@ -74857,8 +74857,80 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "26785",
+        "InterviewEndDate": "2024-01-10 15:41:15",
+        "InterviewState": "Complete",
+        "Flight": "LH2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "26786",
         "InterviewEndDate": "2024-01-10 15:24:48",
+        "InterviewState": "Complete",
+        "Flight": "EN8372",
+        "Dest": "LYS",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "26787",
+        "InterviewEndDate": "2024-01-10 15:36:21",
+        "InterviewState": "Complete",
+        "Flight": "EN8372",
+        "Dest": "LYS",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "26789",
+        "InterviewEndDate": "2024-01-10 15:38:45",
+        "InterviewState": "Complete",
+        "Flight": "LH2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26790",
+        "InterviewEndDate": "2024-01-10 15:46:22",
+        "InterviewState": "Complete",
+        "Flight": "LH2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26791",
+        "InterviewEndDate": "2024-01-10 15:52:36",
+        "InterviewState": "Complete",
+        "Flight": "LH2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26792",
+        "InterviewEndDate": "2024-01-10 15:51:16",
+        "InterviewState": "Complete",
+        "Flight": "LH2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26793",
+        "InterviewEndDate": "2024-01-10 16:00:19",
+        "InterviewState": "Complete",
+        "Flight": "LH2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26794",
+        "InterviewEndDate": "2024-01-10 16:04:05",
+        "InterviewState": "Complete",
+        "Flight": "LH2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26796",
+        "InterviewEndDate": "2024-01-10 16:27:14",
         "InterviewState": "Complete",
         "Flight": "EN8372",
         "Dest": "LYS",
