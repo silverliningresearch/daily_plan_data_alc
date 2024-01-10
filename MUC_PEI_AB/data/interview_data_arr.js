@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-01-2024 12:07:21"
+        "download_time": "10-01-2024 13:12:01"
     },
     {
         "InterviewId": "5167",
@@ -23447,6 +23447,62 @@ let interview_data_arr_raw = `[
         "Flight": "TP - TAP Air Portugal",
         "Dest": "TBS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "8682",
+        "InterviewEndDate": "2024-01-10 11:38:28",
+        "InterviewState": "Complete",
+        "Flight": "VN - Vietnam Airlines",
+        "Dest": "CDG",
+        "AirlineCode": "VN"
+    },
+    {
+        "InterviewId": "8687",
+        "InterviewEndDate": "2024-01-10 11:36:57",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8688",
+        "InterviewEndDate": "2024-01-10 11:32:30",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8690",
+        "InterviewEndDate": "2024-01-10 11:44:58",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8691",
+        "InterviewEndDate": "2024-01-10 11:44:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8692",
+        "InterviewEndDate": "2024-01-10 11:45:13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8693",
+        "InterviewEndDate": "2024-01-10 11:55:44",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 
