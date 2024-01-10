@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-01-2024 13:12:01"
+        "download_time": "10-01-2024 14:17:02"
     },
     {
         "InterviewId": "5167",
@@ -23503,6 +23503,62 @@ let interview_data_arr_raw = `[
         "Flight": "QR - Qatar Airways",
         "Dest": "DOH",
         "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "8695",
+        "InterviewEndDate": "2024-01-10 12:31:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DXB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8696",
+        "InterviewEndDate": "2024-01-10 12:31:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DWC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8697",
+        "InterviewEndDate": "2024-01-10 12:54:48",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "8698",
+        "InterviewEndDate": "2024-01-10 13:01:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8699",
+        "InterviewEndDate": "2024-01-10 13:01:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8700",
+        "InterviewEndDate": "2024-01-10 13:03:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8702",
+        "InterviewEndDate": "2024-01-10 13:09:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
     }
 ]    
 
