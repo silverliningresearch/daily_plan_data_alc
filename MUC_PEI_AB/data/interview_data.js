@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-01-2024 08:21:20"
+        "download_time": "13-01-2024 09:26:11"
     },
     {
         "InterviewId": "15819",
@@ -75359,6 +75359,70 @@ let interview_data_raw = `[
         "Flight": "LH 1810",
         "Dest": "BCN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26862",
+        "InterviewEndDate": "2024-01-13 07:34:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2472",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26863",
+        "InterviewEndDate": "2024-01-13 07:35:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2472",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26864",
+        "InterviewEndDate": "2024-01-13 07:31:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2472",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26865",
+        "InterviewEndDate": "2024-01-13 08:13:54",
+        "InterviewState": "Complete",
+        "Flight": "LO 352",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "26866",
+        "InterviewEndDate": "2024-01-13 07:58:59",
+        "InterviewState": "Complete",
+        "Flight": "LO 352",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "26867",
+        "InterviewEndDate": "2024-01-13 07:55:43",
+        "InterviewState": "Complete",
+        "Flight": "LO 352",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "26868",
+        "InterviewEndDate": "2024-01-13 08:23:50",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "26869",
+        "InterviewEndDate": "2024-01-13 08:23:28",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
     }
 ]    
 
