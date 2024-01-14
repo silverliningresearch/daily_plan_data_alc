@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-01-2024 10:21:19"
+        "download_time": "14-01-2024 11:26:11"
     },
     {
         "InterviewId": "15819",
@@ -75671,6 +75671,54 @@ let interview_data_raw = `[
         "Flight": "XQ 715",
         "Dest": "ESB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "26904",
+        "InterviewEndDate": "2024-01-14 09:30:04",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "26905",
+        "InterviewEndDate": "2024-01-14 09:31:15",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "26906",
+        "InterviewEndDate": "2024-01-14 09:30:09",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "26907",
+        "InterviewEndDate": "2024-01-14 09:41:12",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26908",
+        "InterviewEndDate": "2024-01-14 10:05:03",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26909",
+        "InterviewEndDate": "2024-01-14 09:41:23",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
