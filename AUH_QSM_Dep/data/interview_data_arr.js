@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "14-01-2024 06:56:59"
+        "download_time": "14-01-2024 08:01:45"
     },
     {
         "InterviewId": "3906",
@@ -24676,6 +24676,51 @@ let interview_data_arr_raw = `[
         "Flight": "6E - IndiGo",
         "Dest": "MAA",
         "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6776",
+        "InterviewEndDate": "2024-01-14 03:02:32",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6777",
+        "InterviewEndDate": "2024-01-14 03:09:57",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "KWI",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6778",
+        "InterviewEndDate": "2024-01-14 03:17:54",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6779",
+        "InterviewEndDate": "2024-01-14 03:22:32",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BLR",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6780",
+        "InterviewEndDate": "2024-01-14 03:32:46",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BLR",
+        "AirlineCode": "EY",
         "Terminal": "T"
     }
 ]    
