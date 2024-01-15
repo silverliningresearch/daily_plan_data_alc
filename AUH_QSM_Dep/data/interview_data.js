@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "15-01-2024 08:56:28"
+        "download_time": "15-01-2024 10:01:32"
     },
     {
         "InterviewId": "6722",
@@ -51055,6 +51055,69 @@ let interview_data_raw = `[
         "Flight": "EY393",
         "Dest": "DOH",
         "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12750",
+        "InterviewEndDate": "2024-01-15 04:58:55",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12751",
+        "InterviewEndDate": "2024-01-15 05:25:43",
+        "InterviewState": "Complete",
+        "Flight": "EY535",
+        "Dest": "BEY",
+        "AirlineCode": "EY535",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12752",
+        "InterviewEndDate": "2024-01-15 05:33:55",
+        "InterviewState": "Complete",
+        "Flight": "EY535",
+        "Dest": "BEY",
+        "AirlineCode": "EY535",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12753",
+        "InterviewEndDate": "2024-01-15 05:36:29",
+        "InterviewState": "Complete",
+        "Flight": "EY535",
+        "Dest": "BEY",
+        "AirlineCode": "EY535",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12754",
+        "InterviewEndDate": "2024-01-15 05:53:16",
+        "InterviewState": "Complete",
+        "Flight": "EY513",
+        "Dest": "AMM",
+        "AirlineCode": "EY513",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12755",
+        "InterviewEndDate": "2024-01-15 05:49:15",
+        "InterviewState": "Complete",
+        "Flight": "EY513",
+        "Dest": "AMM",
+        "AirlineCode": "EY513",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12756",
+        "InterviewEndDate": "2024-01-15 06:00:53",
+        "InterviewState": "Complete",
+        "Flight": "EY513",
+        "Dest": "AMM",
+        "AirlineCode": "EY513",
         "Terminal": "T"
     }
 ]    
