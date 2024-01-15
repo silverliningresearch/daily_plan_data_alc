@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "15-01-2024 10:11:18"
+        "download_time": "15-01-2024 11:16:16"
     },
     {
         "InterviewId": "15819",
@@ -75935,6 +75935,78 @@ let interview_data_raw = `[
         "Flight": "AY 1402",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "26937",
+        "InterviewEndDate": "2024-01-15 09:14:38",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "26938",
+        "InterviewEndDate": "2024-01-15 09:18:09",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "26939",
+        "InterviewEndDate": "2024-01-15 09:13:17",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "26940",
+        "InterviewEndDate": "2024-01-15 09:50:27",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26941",
+        "InterviewEndDate": "2024-01-15 09:51:56",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26942",
+        "InterviewEndDate": "2024-01-15 09:48:52",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "26943",
+        "InterviewEndDate": "2024-01-15 10:01:16",
+        "InterviewState": "Complete",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26944",
+        "InterviewEndDate": "2024-01-15 10:11:41",
+        "InterviewState": "Complete",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "26945",
+        "InterviewEndDate": "2024-01-15 10:07:33",
+        "InterviewState": "Complete",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3"
     }
 ]    
 
