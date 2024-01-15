@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "15-01-2024 08:01:15"
+        "download_time": "15-01-2024 09:06:20"
     },
     {
         "InterviewId": "15819",
@@ -75831,6 +75831,78 @@ let interview_data_raw = `[
         "Flight": "EW 081",
         "Dest": "CGN",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "26924",
+        "InterviewEndDate": "2024-01-15 07:09:07",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "26925",
+        "InterviewEndDate": "2024-01-15 07:18:01",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26926",
+        "InterviewEndDate": "2024-01-15 07:23:03",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26927",
+        "InterviewEndDate": "2024-01-15 07:19:07",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26928",
+        "InterviewEndDate": "2024-01-15 07:50:59",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26929",
+        "InterviewEndDate": "2024-01-15 07:30:31",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26930",
+        "InterviewEndDate": "2024-01-15 07:30:00",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "26932",
+        "InterviewEndDate": "2024-01-15 08:02:00",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "26933",
+        "InterviewEndDate": "2024-01-15 08:05:14",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
     }
 ]    
 
