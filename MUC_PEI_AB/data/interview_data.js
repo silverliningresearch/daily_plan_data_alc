@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-01-2024 15:26:16"
+        "download_time": "16-01-2024 16:31:25"
     },
     {
         "InterviewId": "15819",
@@ -76391,6 +76391,62 @@ let interview_data_raw = `[
         "Flight": "Lh474",
         "Dest": "YUL",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27017",
+        "InterviewEndDate": "2024-01-16 14:38:53",
+        "InterviewState": "Complete",
+        "Flight": "LH458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27018",
+        "InterviewEndDate": "2024-01-16 14:41:40",
+        "InterviewState": "Complete",
+        "Flight": "LH458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27019",
+        "InterviewEndDate": "2024-01-16 14:39:54",
+        "InterviewState": "Complete",
+        "Flight": "LH458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27020",
+        "InterviewEndDate": "2024-01-16 14:47:57",
+        "InterviewState": "Complete",
+        "Flight": "LH458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27021",
+        "InterviewEndDate": "2024-01-16 14:50:47",
+        "InterviewState": "Complete",
+        "Flight": "LH458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27022",
+        "InterviewEndDate": "2024-01-16 14:56:13",
+        "InterviewState": "Complete",
+        "Flight": "LH458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27023",
+        "InterviewEndDate": "2024-01-16 14:59:14",
+        "InterviewState": "Complete",
+        "Flight": "LH458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
     }
 ]    
 
