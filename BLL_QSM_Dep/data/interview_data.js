@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-01-2024 14:27:06"
+        "download_time": "16-01-2024 15:27:17"
     },
     {
         "InterviewId": "6093",
@@ -39023,6 +39023,70 @@ let interview_data_raw = `[
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13916",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13918",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13919",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13920",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13921",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13922",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13925",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "13926",
+        "InterviewEndDate": "2024-01-16",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
     }
 ]    
 

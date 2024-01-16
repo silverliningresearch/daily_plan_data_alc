@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-01-2024 14:21:56"
+        "download_time": "16-01-2024 15:26:16"
     },
     {
         "InterviewId": "15819",
@@ -76295,6 +76295,102 @@ let interview_data_raw = `[
         "Flight": "LH2288",
         "Dest": "BRU",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27004",
+        "InterviewEndDate": "2024-01-16 13:29:04",
+        "InterviewState": "Complete",
+        "Flight": "LH424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27006",
+        "InterviewEndDate": "2024-01-16 13:25:17",
+        "InterviewState": "Complete",
+        "Flight": "LH424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27007",
+        "InterviewEndDate": "2024-01-16 13:30:39",
+        "InterviewState": "Complete",
+        "Flight": "LH424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27008",
+        "InterviewEndDate": "2024-01-16 13:36:24",
+        "InterviewState": "Complete",
+        "Flight": "LH424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27009",
+        "InterviewEndDate": "2024-01-16 13:38:07",
+        "InterviewState": "Complete",
+        "Flight": "LH424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27010",
+        "InterviewEndDate": "2024-01-16 13:38:35",
+        "InterviewState": "Complete",
+        "Flight": "LH424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27011",
+        "InterviewEndDate": "2024-01-16 13:55:25",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27012",
+        "InterviewEndDate": "2024-01-16 14:00:03",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27013",
+        "InterviewEndDate": "2024-01-16 13:54:45",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27014",
+        "InterviewEndDate": "2024-01-16 14:07:43",
+        "InterviewState": "Complete",
+        "Flight": "Lh474",
+        "Dest": "YUL",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27015",
+        "InterviewEndDate": "2024-01-16 14:10:25",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27016",
+        "InterviewEndDate": "2024-01-16 14:07:48",
+        "InterviewState": "Complete",
+        "Flight": "Lh474",
+        "Dest": "YUL",
+        "AirlineCode": "Lh"
     }
 ]    
 
