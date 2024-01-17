@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K27",
-        "download_time": "17-01-2024 03:21:36"
+        "download_time": "17-01-2024 04:26:17"
     },
     {
         "aodbUniqueId": "20240117607042",
@@ -457,8 +457,8 @@ let MUC_Gate_Info = `[
         "Dest": "AUH",
         "AirlineCode": "EY",
         "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B15"
+        "GateArea": "T1C",
+        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20240117607346",
@@ -1868,7 +1868,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "QR",
         "terminalIdentifier": "1",
         "GateArea": "T1B",
-        "Gate": "B17"
+        "Gate": "B15"
     },
     {
         "aodbUniqueId": "20240117607980",
