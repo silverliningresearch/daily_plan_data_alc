@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-01-2024 10:26:14"
+        "download_time": "20-01-2024 11:31:15"
     },
     {
         "InterviewId": "15819",
@@ -77113,8 +77113,24 @@ let interview_data_raw = `[
         "AirlineCode": "DL"
     },
     {
+        "InterviewId": "27117",
+        "InterviewEndDate": "2024-01-20 09:32:10",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
         "InterviewId": "27118",
         "InterviewEndDate": "2024-01-20 09:17:30",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "27119",
+        "InterviewEndDate": "2024-01-20 09:26:12",
         "InterviewState": "Complete",
         "Flight": "EI 353",
         "Dest": "DUB",
@@ -77127,6 +77143,110 @@ let interview_data_raw = `[
         "Flight": "EI 353",
         "Dest": "DUB",
         "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "27121",
+        "InterviewEndDate": "2024-01-20 09:28:08",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27122",
+        "InterviewEndDate": "2024-01-20 09:31:12",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27123",
+        "InterviewEndDate": "2024-01-20 09:51:03",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "27124",
+        "InterviewEndDate": "2024-01-20 09:52:38",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "27125",
+        "InterviewEndDate": "2024-01-20 09:53:04",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "27126",
+        "InterviewEndDate": "2024-01-20 09:43:36",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27127",
+        "InterviewEndDate": "2024-01-20 09:42:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27128",
+        "InterviewEndDate": "2024-01-20 09:42:04",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27129",
+        "InterviewEndDate": "2024-01-20 10:00:38",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27130",
+        "InterviewEndDate": "2024-01-20 09:58:45",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27132",
+        "InterviewEndDate": "2024-01-20 10:19:11",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "27133",
+        "InterviewEndDate": "2024-01-20 10:13:24",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "27136",
+        "InterviewEndDate": "2024-01-20 10:15:19",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
     }
 ]    
 
