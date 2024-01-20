@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-01-2024 07:11:14"
+        "download_time": "20-01-2024 08:16:15"
     },
     {
         "InterviewId": "15819",
@@ -76921,6 +76921,14 @@ let interview_data_raw = `[
         "AirlineCode": "DE"
     },
     {
+        "InterviewId": "27092",
+        "InterviewEndDate": "2024-01-20 06:17:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2122",
+        "Dest": "DRS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "27093",
         "InterviewEndDate": "2024-01-20 06:08:21",
         "InterviewState": "Complete",
@@ -76943,6 +76951,70 @@ let interview_data_raw = `[
         "Flight": "BA 947",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "27096",
+        "InterviewEndDate": "2024-01-20 06:14:24",
+        "InterviewState": "Complete",
+        "Flight": "BA 947",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "27097",
+        "InterviewEndDate": "2024-01-20 06:15:50",
+        "InterviewState": "Complete",
+        "Flight": "BA 947",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "27098",
+        "InterviewEndDate": "2024-01-20 06:48:24",
+        "InterviewState": "Complete",
+        "Flight": "SM 2931",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "27099",
+        "InterviewEndDate": "2024-01-20 06:38:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27100",
+        "InterviewEndDate": "2024-01-20 06:36:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27101",
+        "InterviewEndDate": "2024-01-20 06:48:39",
+        "InterviewState": "Complete",
+        "Flight": "SM 2931",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "27102",
+        "InterviewEndDate": "2024-01-20 06:34:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27103",
+        "InterviewEndDate": "2024-01-20 06:42:11",
+        "InterviewState": "Complete",
+        "Flight": "SM 2931",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
     }
 ]    
 
