@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-01-2024 11:31:15"
+        "download_time": "20-01-2024 12:36:19"
     },
     {
         "InterviewId": "15819",
@@ -77241,12 +77241,100 @@ let interview_data_raw = `[
         "AirlineCode": "SQ"
     },
     {
+        "InterviewId": "27134",
+        "InterviewEndDate": "2024-01-20 10:31:40",
+        "InterviewState": "Complete",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "27135",
+        "InterviewEndDate": "2024-01-20 10:31:54",
+        "InterviewState": "Complete",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3"
+    },
+    {
         "InterviewId": "27136",
         "InterviewEndDate": "2024-01-20 10:15:19",
         "InterviewState": "Complete",
         "Flight": "SQ 327",
         "Dest": "SIN",
         "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "27137",
+        "InterviewEndDate": "2024-01-20 10:31:07",
+        "InterviewState": "Complete",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "27138",
+        "InterviewEndDate": "2024-01-20 10:42:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1832",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27139",
+        "InterviewEndDate": "2024-01-20 10:46:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1832",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27140",
+        "InterviewEndDate": "2024-01-20 10:51:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1832",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27141",
+        "InterviewEndDate": "2024-01-20 11:13:05",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "27142",
+        "InterviewEndDate": "2024-01-20 11:13:21",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "27143",
+        "InterviewEndDate": "2024-01-20 11:10:45",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "27144",
+        "InterviewEndDate": "2024-01-20 11:31:12",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "27145",
+        "InterviewEndDate": "2024-01-20 11:31:27",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
     }
 ]    
 
