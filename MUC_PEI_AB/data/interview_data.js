@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-01-2024 09:21:17"
+        "download_time": "20-01-2024 10:26:14"
     },
     {
         "InterviewId": "15819",
@@ -77063,6 +77063,70 @@ let interview_data_raw = `[
         "Flight": "AA 717",
         "Dest": "CLT",
         "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "27111",
+        "InterviewEndDate": "2024-01-20 08:32:46",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "27112",
+        "InterviewEndDate": "2024-01-20 08:35:41",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "27113",
+        "InterviewEndDate": "2024-01-20 08:29:31",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "27114",
+        "InterviewEndDate": "2024-01-20 09:00:07",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "27115",
+        "InterviewEndDate": "2024-01-20 09:02:52",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "27116",
+        "InterviewEndDate": "2024-01-20 09:00:21",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "27118",
+        "InterviewEndDate": "2024-01-20 09:17:30",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "27120",
+        "InterviewEndDate": "2024-01-20 09:20:31",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
