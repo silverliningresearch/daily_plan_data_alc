@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "22-01-2024 01:16:26"
+        "download_time": "22-01-2024 02:21:29"
     },
     {
         "InterviewId": "6722",
@@ -51505,6 +51505,87 @@ let interview_data_raw = `[
         "Flight": "Ey272",
         "Dest": "MAA",
         "AirlineCode": "Ey272",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12803",
+        "InterviewEndDate": "2024-01-21 21:46:34",
+        "InterviewState": "Complete",
+        "Flight": "EY001",
+        "Dest": "FRA",
+        "AirlineCode": "EY001",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12804",
+        "InterviewEndDate": "2024-01-21 21:44:12",
+        "InterviewState": "Complete",
+        "Flight": "EY001",
+        "Dest": "FRA",
+        "AirlineCode": "EY001",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12805",
+        "InterviewEndDate": "2024-01-21 21:52:46",
+        "InterviewState": "Complete",
+        "Flight": "EY001",
+        "Dest": "FRA",
+        "AirlineCode": "EY001",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12806",
+        "InterviewEndDate": "2024-01-21 21:54:50",
+        "InterviewState": "Complete",
+        "Flight": "EY001",
+        "Dest": "FRA",
+        "AirlineCode": "EY001",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12807",
+        "InterviewEndDate": "2024-01-21 21:56:57",
+        "InterviewState": "Complete",
+        "Flight": "EY001",
+        "Dest": "FRA",
+        "AirlineCode": "EY001",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12808",
+        "InterviewEndDate": "2024-01-21 22:08:36",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12809",
+        "InterviewEndDate": "2024-01-21 22:09:16",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12810",
+        "InterviewEndDate": "2024-01-21 22:16:45",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12811",
+        "InterviewEndDate": "2024-01-21 22:18:50",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
         "Terminal": "T"
     }
 ]    
