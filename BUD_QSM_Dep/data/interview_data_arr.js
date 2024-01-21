@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "21-01-2024 21:08:20"
+        "download_time": "21-01-2024 22:13:14"
     },
     {
         "InterviewId": "1224",
@@ -7319,6 +7319,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "STN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2147",
+        "InterviewEndDate": "2024-01-21 20:18:11",
+        "InterviewState": "Complete",
+        "Flight": "DS - EasyJet Switzerland",
+        "Dest": "BSL",
+        "AirlineCode": "DS"
+    },
+    {
+        "InterviewId": "2148",
+        "InterviewEndDate": "2024-01-21 20:26:33",
+        "InterviewState": "Complete",
+        "Flight": "DS - EasyJet Switzerland",
+        "Dest": "BSL",
+        "AirlineCode": "DS"
+    },
+    {
+        "InterviewId": "2149",
+        "InterviewEndDate": "2024-01-21 20:35:30",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "2150",
+        "InterviewEndDate": "2024-01-21 20:41:26",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "2151",
+        "InterviewEndDate": "2024-01-21 20:47:06",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
     }
 ]    
 
