@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-01-2024 11:11:21"
+        "download_time": "22-01-2024 12:16:22"
     },
     {
         "InterviewId": "15819",
@@ -77457,6 +77457,14 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
+        "InterviewId": "27162",
+        "InterviewEndDate": "2024-01-22 10:12:22",
+        "InterviewState": "Complete",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3"
+    },
+    {
         "InterviewId": "27163",
         "InterviewEndDate": "2024-01-22 10:06:05",
         "InterviewState": "Complete",
@@ -77471,6 +77479,30 @@ let interview_data_raw = `[
         "Flight": "X3 2162",
         "Dest": "FUE",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "27165",
+        "InterviewEndDate": "2024-01-22 10:43:58",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27166",
+        "InterviewEndDate": "2024-01-22 10:27:24",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27167",
+        "InterviewEndDate": "2024-01-22 10:34:44",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
     }
 ]    
 
