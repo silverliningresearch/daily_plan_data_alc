@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-01-2024 09:01:22"
+        "download_time": "22-01-2024 10:06:26"
     },
     {
         "InterviewId": "15819",
@@ -77359,6 +77359,78 @@ let interview_data_raw = `[
         "Flight": "LH 718",
         "Dest": "ICN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27150",
+        "InterviewEndDate": "2024-01-22 08:07:28",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27151",
+        "InterviewEndDate": "2024-01-22 08:28:55",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27152",
+        "InterviewEndDate": "2024-01-22 08:07:21",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27153",
+        "InterviewEndDate": "2024-01-22 08:45:09",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "27154",
+        "InterviewEndDate": "2024-01-22 08:46:40",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "27155",
+        "InterviewEndDate": "2024-01-22 08:47:26",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "27156",
+        "InterviewEndDate": "2024-01-22 08:54:18",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27157",
+        "InterviewEndDate": "2024-01-22 08:57:26",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27158",
+        "InterviewEndDate": "2024-01-22 08:55:54",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
     }
 ]    
 
