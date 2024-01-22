@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-01-2024 06:52:14"
+        "download_time": "22-01-2024 07:57:03"
     },
     {
         "InterviewId": "5167",
@@ -23823,6 +23823,78 @@ let interview_data_arr_raw = `[
         "Flight": "EY - ETIHAD Airways",
         "Dest": "AUH",
         "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "8748",
+        "InterviewEndDate": "2024-01-22 06:01:38",
+        "InterviewState": "Complete",
+        "Flight": "EY - ETIHAD Airways",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "8749",
+        "InterviewEndDate": "2024-01-22 06:05:24",
+        "InterviewState": "Complete",
+        "Flight": "EY - ETIHAD Airways",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "8750",
+        "InterviewEndDate": "2024-01-22 06:01:08",
+        "InterviewState": "Complete",
+        "Flight": "EY - ETIHAD Airways",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "8751",
+        "InterviewEndDate": "2024-01-22 06:25:51",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "8752",
+        "InterviewEndDate": "2024-01-22 06:29:16",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "8753",
+        "InterviewEndDate": "2024-01-22 06:25:41",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "8754",
+        "InterviewEndDate": "2024-01-22 06:54:47",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8755",
+        "InterviewEndDate": "2024-01-22 06:55:01",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8756",
+        "InterviewEndDate": "2024-01-22 06:53:43",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
