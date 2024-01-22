@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-01-2024 17:42:11"
+        "download_time": "22-01-2024 18:47:06"
     },
     {
         "InterviewId": "5167",
@@ -23979,6 +23979,70 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "8769",
         "InterviewEndDate": "2024-01-22 16:39:58",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8771",
+        "InterviewEndDate": "2024-01-22 16:52:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8772",
+        "InterviewEndDate": "2024-01-22 16:47:34",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8774",
+        "InterviewEndDate": "2024-01-22 16:56:31",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "8776",
+        "InterviewEndDate": "2024-01-22 17:04:15",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "8778",
+        "InterviewEndDate": "2024-01-22 17:13:26",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "OPO",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8779",
+        "InterviewEndDate": "2024-01-22 17:21:30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8780",
+        "InterviewEndDate": "2024-01-22 17:27:34",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8782",
+        "InterviewEndDate": "2024-01-22 17:38:37",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
