@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-01-2024 07:57:03"
+        "download_time": "22-01-2024 09:02:14"
     },
     {
         "InterviewId": "5167",
@@ -23894,6 +23894,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EW - Eurowings",
         "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8757",
+        "InterviewEndDate": "2024-01-22 07:26:11",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8758",
+        "InterviewEndDate": "2024-01-22 07:24:55",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8759",
+        "InterviewEndDate": "2024-01-22 07:25:44",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8760",
+        "InterviewEndDate": "2024-01-22 07:50:08",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8761",
+        "InterviewEndDate": "2024-01-22 07:53:28",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8762",
+        "InterviewEndDate": "2024-01-22 07:48:26",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DTM",
         "AirlineCode": "EW"
     }
 ]    
