@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-01-2024 09:56:22"
+        "download_time": "23-01-2024 11:01:22"
     },
     {
         "InterviewId": "15819",
@@ -77591,6 +77591,78 @@ let interview_data_raw = `[
         "Flight": "LH 2060",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27184",
+        "InterviewEndDate": "2024-01-23 09:22:41",
+        "InterviewState": "Complete",
+        "Flight": "BR  072",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "27185",
+        "InterviewEndDate": "2024-01-23 09:25:52",
+        "InterviewState": "Complete",
+        "Flight": "BR  072",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "27187",
+        "InterviewEndDate": "2024-01-23 09:18:28",
+        "InterviewState": "Complete",
+        "Flight": "BR  072",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "27188",
+        "InterviewEndDate": "2024-01-23 09:50:27",
+        "InterviewState": "Complete",
+        "Flight": "CA962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "27189",
+        "InterviewEndDate": "2024-01-23 09:29:31",
+        "InterviewState": "Complete",
+        "Flight": "BR  072",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "27190",
+        "InterviewEndDate": "2024-01-23 09:47:27",
+        "InterviewState": "Complete",
+        "Flight": "Ca962",
+        "Dest": "PEK",
+        "AirlineCode": "Ca"
+    },
+    {
+        "InterviewId": "27191",
+        "InterviewEndDate": "2024-01-23 09:57:42",
+        "InterviewState": "Complete",
+        "Flight": "Ca962",
+        "Dest": "PEK",
+        "AirlineCode": "Ca"
+    },
+    {
+        "InterviewId": "27192",
+        "InterviewEndDate": "2024-01-23 09:45:13",
+        "InterviewState": "Complete",
+        "Flight": "CA962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "27193",
+        "InterviewEndDate": "2024-01-23 09:53:08",
+        "InterviewState": "Complete",
+        "Flight": "CA962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
     }
 ]    
 
