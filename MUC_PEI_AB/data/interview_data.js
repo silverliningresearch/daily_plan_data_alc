@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-01-2024 12:06:27"
+        "download_time": "23-01-2024 13:11:23"
     },
     {
         "InterviewId": "15819",
@@ -77697,6 +77697,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "27199",
+        "InterviewEndDate": "2024-01-23 11:33:54",
+        "InterviewState": "Complete",
+        "Flight": "LH1940",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "27200",
         "InterviewEndDate": "2024-01-23 10:52:40",
         "InterviewState": "Complete",
@@ -77711,6 +77719,78 @@ let interview_data_raw = `[
         "Flight": "LH  714",
         "Dest": "HND",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27202",
+        "InterviewEndDate": "2024-01-23 11:34:33",
+        "InterviewState": "Complete",
+        "Flight": "1940",
+        "Dest": "BER",
+        "AirlineCode": "19"
+    },
+    {
+        "InterviewId": "27203",
+        "InterviewEndDate": "2024-01-23 11:35:19",
+        "InterviewState": "Complete",
+        "Flight": "LH1940",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27204",
+        "InterviewEndDate": "2024-01-23 11:30:30",
+        "InterviewState": "Complete",
+        "Flight": "LH1940",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27205",
+        "InterviewEndDate": "2024-01-23 11:39:31",
+        "InterviewState": "Complete",
+        "Flight": "Lh1940",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27206",
+        "InterviewEndDate": "2024-01-23 11:40:21",
+        "InterviewState": "Complete",
+        "Flight": "1940",
+        "Dest": "BER",
+        "AirlineCode": "19"
+    },
+    {
+        "InterviewId": "27207",
+        "InterviewEndDate": "2024-01-23 11:42:19",
+        "InterviewState": "Complete",
+        "Flight": "1940",
+        "Dest": "BER",
+        "AirlineCode": "19"
+    },
+    {
+        "InterviewId": "27208",
+        "InterviewEndDate": "2024-01-23 11:46:04",
+        "InterviewState": "Complete",
+        "Flight": "1940",
+        "Dest": "BER",
+        "AirlineCode": "19"
+    },
+    {
+        "InterviewId": "27209",
+        "InterviewEndDate": "2024-01-23 12:03:17",
+        "InterviewState": "Complete",
+        "Flight": "1940",
+        "Dest": "BER",
+        "AirlineCode": "19"
+    },
+    {
+        "InterviewId": "27210",
+        "InterviewEndDate": "2024-01-23 12:00:25",
+        "InterviewState": "Complete",
+        "Flight": "1940",
+        "Dest": "BER",
+        "AirlineCode": "19"
     }
 ]    
 
