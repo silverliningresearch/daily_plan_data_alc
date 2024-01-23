@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "23-01-2024 16:30:51"
+        "download_time": "23-01-2024 17:35:49"
     },
     {
         "InterviewId": "7701",
@@ -25551,6 +25551,70 @@ let interview_data_raw = `[
         "Flight": "W6 2375",
         "Dest": "BCN",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11326",
+        "InterviewEndDate": "2024-01-23 15:34:28",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11327",
+        "InterviewEndDate": "2024-01-23 15:41:36",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11328",
+        "InterviewEndDate": "2024-01-23 15:41:02",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11329",
+        "InterviewEndDate": "2024-01-23 15:41:06",
+        "InterviewState": "Complete",
+        "Flight": "KL 1978",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11330",
+        "InterviewEndDate": "2024-01-23 16:15:50",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "11331",
+        "InterviewEndDate": "2024-01-23 16:20:38",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "11332",
+        "InterviewEndDate": "2024-01-23 16:24:15",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "11333",
+        "InterviewEndDate": "2024-01-23 16:22:42",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
