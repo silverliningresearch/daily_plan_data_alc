@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-01-2024 14:16:22"
+        "download_time": "23-01-2024 15:21:25"
     },
     {
         "InterviewId": "15819",
@@ -77791,6 +77791,94 @@ let interview_data_raw = `[
         "Flight": "1940",
         "Dest": "BER",
         "AirlineCode": "19"
+    },
+    {
+        "InterviewId": "27212",
+        "InterviewEndDate": "2024-01-23 13:16:25",
+        "InterviewState": "Complete",
+        "Flight": "LH1804",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27213",
+        "InterviewEndDate": "2024-01-23 13:20:46",
+        "InterviewState": "Complete",
+        "Flight": "LH1804",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27214",
+        "InterviewEndDate": "2024-01-23 13:22:33",
+        "InterviewState": "Complete",
+        "Flight": "LH1804",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27216",
+        "InterviewEndDate": "2024-01-23 13:24:46",
+        "InterviewState": "Complete",
+        "Flight": "EN8196",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27217",
+        "InterviewEndDate": "2024-01-23 13:30:38",
+        "InterviewState": "Complete",
+        "Flight": "EN8196",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27218",
+        "InterviewEndDate": "2024-01-23 13:30:11",
+        "InterviewState": "Complete",
+        "Flight": "EN8196",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27219",
+        "InterviewEndDate": "2024-01-23 13:29:21",
+        "InterviewState": "Complete",
+        "Flight": "EN8196",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27220",
+        "InterviewEndDate": "2024-01-23 13:31:28",
+        "InterviewState": "Complete",
+        "Flight": "EN8196",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27222",
+        "InterviewEndDate": "2024-01-23 13:48:38",
+        "InterviewState": "Complete",
+        "Flight": "LH2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27223",
+        "InterviewEndDate": "2024-01-23 13:50:33",
+        "InterviewState": "Complete",
+        "Flight": "LH2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27224",
+        "InterviewEndDate": "2024-01-23 13:51:52",
+        "InterviewState": "Complete",
+        "Flight": "LH2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
     }
 ]    
 
