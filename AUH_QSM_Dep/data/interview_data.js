@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "23-01-2024 07:36:52"
+        "download_time": "23-01-2024 08:41:57"
     },
     {
         "InterviewId": "6722",
@@ -51604,6 +51604,60 @@ let interview_data_raw = `[
         "Flight": "GF545",
         "Dest": "BAH",
         "AirlineCode": "GF545",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12814",
+        "InterviewEndDate": "2024-01-23 04:13:47",
+        "InterviewState": "Complete",
+        "Flight": "GF545",
+        "Dest": "BAH",
+        "AirlineCode": "GF545",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12816",
+        "InterviewEndDate": "2024-01-23 04:20:00",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12817",
+        "InterviewEndDate": "2024-01-23 04:23:41",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12818",
+        "InterviewEndDate": "2024-01-23 04:32:11",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12819",
+        "InterviewEndDate": "2024-01-23 04:37:34",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12820",
+        "InterviewEndDate": "2024-01-23 04:39:24",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
         "Terminal": "T"
     }
 ]    
