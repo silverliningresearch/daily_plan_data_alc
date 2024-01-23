@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-01-2024 08:51:25"
+        "download_time": "23-01-2024 09:56:22"
     },
     {
         "InterviewId": "15819",
@@ -77529,6 +77529,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "27173",
+        "InterviewEndDate": "2024-01-23 07:51:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "27174",
         "InterviewEndDate": "2024-01-23 07:43:45",
         "InterviewState": "Complete",
@@ -77537,8 +77545,48 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "27175",
+        "InterviewEndDate": "2024-01-23 07:56:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "27176",
         "InterviewEndDate": "2024-01-23 07:51:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27177",
+        "InterviewEndDate": "2024-01-23 08:04:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27178",
+        "InterviewEndDate": "2024-01-23 08:01:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27179",
+        "InterviewEndDate": "2024-01-23 08:03:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27181",
+        "InterviewEndDate": "2024-01-23 08:11:59",
         "InterviewState": "Complete",
         "Flight": "LH 2060",
         "Dest": "HAM",
