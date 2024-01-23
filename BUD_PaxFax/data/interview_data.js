@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "23-01-2024 19:45:37"
+        "download_time": "23-01-2024 20:50:36"
     },
     {
         "InterviewId": "7701",
@@ -25657,6 +25657,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "11341",
+        "InterviewEndDate": "2024-01-23 18:44:49",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "11342",
         "InterviewEndDate": "2024-01-23 18:41:54",
         "InterviewState": "Complete",
@@ -25667,6 +25675,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "11343",
         "InterviewEndDate": "2024-01-23 18:44:45",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11344",
+        "InterviewEndDate": "2024-01-23 18:47:33",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11345",
+        "InterviewEndDate": "2024-01-23 18:57:18",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11346",
+        "InterviewEndDate": "2024-01-23 18:57:17",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11347",
+        "InterviewEndDate": "2024-01-23 18:58:22",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11348",
+        "InterviewEndDate": "2024-01-23 18:59:55",
         "InterviewState": "Complete",
         "Flight": "FR  054",
         "Dest": "CRL",
