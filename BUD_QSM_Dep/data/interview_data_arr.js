@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "24-01-2024 11:59:16"
+        "download_time": "24-01-2024 13:03:44"
     },
     {
         "InterviewId": "1224",
@@ -7463,6 +7463,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "AGP",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2165",
+        "InterviewEndDate": "2024-01-24 11:33:41",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "2166",
+        "InterviewEndDate": "2024-01-24 11:39:43",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "2167",
+        "InterviewEndDate": "2024-01-24 11:47:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2168",
+        "InterviewEndDate": "2024-01-24 11:52:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LPL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2169",
+        "InterviewEndDate": "2024-01-24 11:55:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
     }
 ]    
 
