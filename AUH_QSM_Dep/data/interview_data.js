@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "25-01-2024 00:46:45"
+        "download_time": "25-01-2024 01:51:51"
     },
     {
         "InterviewId": "6722",
@@ -51964,6 +51964,87 @@ let interview_data_raw = `[
         "Flight": "3L401",
         "Dest": "HBE",
         "AirlineCode": "3L401",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12855",
+        "InterviewEndDate": "2024-01-24 20:59:19",
+        "InterviewState": "Complete",
+        "Flight": "6E1404",
+        "Dest": "COK",
+        "AirlineCode": "6E1404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12856",
+        "InterviewEndDate": "2024-01-24 20:58:06",
+        "InterviewState": "Complete",
+        "Flight": "6E1404",
+        "Dest": "COK",
+        "AirlineCode": "6E1404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12857",
+        "InterviewEndDate": "2024-01-24 20:50:27",
+        "InterviewState": "Complete",
+        "Flight": "6E1404",
+        "Dest": "COK",
+        "AirlineCode": "6E1404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12858",
+        "InterviewEndDate": "2024-01-24 21:03:38",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12859",
+        "InterviewEndDate": "2024-01-24 21:12:02",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12860",
+        "InterviewEndDate": "2024-01-24 21:11:07",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12861",
+        "InterviewEndDate": "2024-01-24 21:12:31",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12862",
+        "InterviewEndDate": "2024-01-24 21:20:07",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12863",
+        "InterviewEndDate": "2024-01-24 21:19:19",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
         "Terminal": "T"
     }
 ]    
