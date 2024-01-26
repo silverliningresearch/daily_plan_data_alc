@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "26-01-2024 20:08:14"
+        "download_time": "26-01-2024 21:12:48"
     },
     {
         "InterviewId": "6722",
@@ -52210,12 +52210,75 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12883",
+        "InterviewEndDate": "2024-01-26 16:08:15",
+        "InterviewState": "Complete",
+        "Flight": "EY280",
+        "Dest": "COK",
+        "AirlineCode": "EY280",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12884",
         "InterviewEndDate": "2024-01-26 16:06:51",
         "InterviewState": "Complete",
         "Flight": "EY280",
         "Dest": "COK",
         "AirlineCode": "EY280",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12885",
+        "InterviewEndDate": "2024-01-26 16:08:13",
+        "InterviewState": "Complete",
+        "Flight": "EY280",
+        "Dest": "COK",
+        "AirlineCode": "EY280",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12886",
+        "InterviewEndDate": "2024-01-26 16:16:55",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12887",
+        "InterviewEndDate": "2024-01-26 16:15:55",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12888",
+        "InterviewEndDate": "2024-01-26 16:20:59",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12889",
+        "InterviewEndDate": "2024-01-26 16:24:58",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12891",
+        "InterviewEndDate": "2024-01-26 16:30:37",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
         "Terminal": "T"
     }
 ]    
