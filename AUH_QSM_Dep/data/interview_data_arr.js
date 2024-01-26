@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "26-01-2024 09:17:35"
+        "download_time": "26-01-2024 10:22:31"
     },
     {
         "InterviewId": "3906",
@@ -25018,6 +25018,69 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "MAA",
         "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6815",
+        "InterviewEndDate": "2024-01-26 05:22:53",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "AMD",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6816",
+        "InterviewEndDate": "2024-01-26 05:34:23",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "CAI",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6817",
+        "InterviewEndDate": "2024-01-26 05:50:09",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "LKO",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6818",
+        "InterviewEndDate": "2024-01-26 05:55:33",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "LKO",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6819",
+        "InterviewEndDate": "2024-01-26 05:59:27",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "LKO",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6821",
+        "InterviewEndDate": "2024-01-26 06:10:09",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "JED",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6822",
+        "InterviewEndDate": "2024-01-26 06:15:05",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "LKO",
+        "AirlineCode": "6E",
         "Terminal": "T"
     }
 ]    
