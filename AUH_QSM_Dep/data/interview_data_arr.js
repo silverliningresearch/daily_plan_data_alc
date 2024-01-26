@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "26-01-2024 06:02:24"
+        "download_time": "26-01-2024 07:07:31"
     },
     {
         "InterviewId": "3906",
@@ -24887,7 +24887,7 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "6799",
-        "InterviewEndDate": "2024-01-21 14:47:23",
+        "InterviewEndDate": "2024-01-26 03:07:13",
         "InterviewState": "Complete",
         "Flight": "6Q - Cham Wings Airlines",
         "Dest": "DAM",
