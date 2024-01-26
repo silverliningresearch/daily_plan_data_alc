@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "26-01-2024 21:12:48"
+        "download_time": "26-01-2024 22:17:14"
     },
     {
         "InterviewId": "6722",
@@ -52273,12 +52273,102 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12890",
+        "InterviewEndDate": "2024-01-26 17:41:05",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12891",
         "InterviewEndDate": "2024-01-26 16:30:37",
         "InterviewState": "Complete",
         "Flight": "IX538",
         "Dest": "TRV",
         "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12892",
+        "InterviewEndDate": "2024-01-26 17:30:46",
+        "InterviewState": "Complete",
+        "Flight": "Ey408",
+        "Dest": "BKK",
+        "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12893",
+        "InterviewEndDate": "2024-01-26 17:50:58",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12894",
+        "InterviewEndDate": "2024-01-26 17:57:13",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12895",
+        "InterviewEndDate": "2024-01-26 18:00:05",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12896",
+        "InterviewEndDate": "2024-01-26 18:00:00",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12897",
+        "InterviewEndDate": "2024-01-26 18:04:39",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12898",
+        "InterviewEndDate": "2024-01-26 18:10:11",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "BCN",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12899",
+        "InterviewEndDate": "2024-01-26 18:11:39",
+        "InterviewState": "Complete",
+        "Flight": "PK264",
+        "Dest": "LHR",
+        "AirlineCode": "PK264",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12900",
+        "InterviewEndDate": "2024-01-26 18:12:55",
+        "InterviewState": "Complete",
+        "Flight": "EY321",
+        "Dest": "ISB",
+        "AirlineCode": "EY321",
         "Terminal": "T"
     }
 ]    
