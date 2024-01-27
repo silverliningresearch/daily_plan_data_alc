@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-01-2024 22:08:01"
+        "download_time": "27-01-2024 23:12:07"
     },
     {
         "InterviewId": "6722",
@@ -52675,6 +52675,96 @@ let interview_data_raw = `[
         "Flight": "Qr1053",
         "Dest": "DOH",
         "AirlineCode": "Qr1053",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12935",
+        "InterviewEndDate": "2024-01-27 18:19:32",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12936",
+        "InterviewEndDate": "2024-01-27 18:15:33",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12937",
+        "InterviewEndDate": "2024-01-27 18:20:03",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12938",
+        "InterviewEndDate": "2024-01-27 18:21:36",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12939",
+        "InterviewEndDate": "2024-01-27 18:31:47",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12940",
+        "InterviewEndDate": "2024-01-27 18:34:14",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12941",
+        "InterviewEndDate": "2024-01-27 18:37:05",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12942",
+        "InterviewEndDate": "2024-01-27 18:50:34",
+        "InterviewState": "Complete",
+        "Flight": "284",
+        "Dest": "AMD",
+        "AirlineCode": "284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12943",
+        "InterviewEndDate": "2024-01-27 18:50:51",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12944",
+        "InterviewEndDate": "2024-01-27 18:49:16",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
         "Terminal": "T"
     }
 ]    
