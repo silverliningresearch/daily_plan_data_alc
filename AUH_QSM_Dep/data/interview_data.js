@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-01-2024 08:01:58"
+        "download_time": "27-01-2024 09:07:10"
     },
     {
         "InterviewId": "6722",
@@ -52477,6 +52477,51 @@ let interview_data_raw = `[
         "Flight": "QR1041",
         "Dest": "DOH",
         "AirlineCode": "QR1041",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12913",
+        "InterviewEndDate": "2024-01-27 04:37:38",
+        "InterviewState": "Complete",
+        "Flight": "EY260",
+        "Dest": "MLE",
+        "AirlineCode": "EY260",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12914",
+        "InterviewEndDate": "2024-01-27 04:40:51",
+        "InterviewState": "Complete",
+        "Flight": "EY260",
+        "Dest": "MLE",
+        "AirlineCode": "EY260",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12915",
+        "InterviewEndDate": "2024-01-27 04:46:00",
+        "InterviewState": "Complete",
+        "Flight": "EY260",
+        "Dest": "MLE",
+        "AirlineCode": "EY260",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12916",
+        "InterviewEndDate": "2024-01-27 04:49:10",
+        "InterviewState": "Complete",
+        "Flight": "EY260",
+        "Dest": "MLE",
+        "AirlineCode": "EY260",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12917",
+        "InterviewEndDate": "2024-01-27 04:52:45",
+        "InterviewState": "Complete",
+        "Flight": "EY260",
+        "Dest": "MLE",
+        "AirlineCode": "EY260",
         "Terminal": "T"
     }
 ]    
