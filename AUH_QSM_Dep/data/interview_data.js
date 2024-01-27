@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-01-2024 12:21:52"
+        "download_time": "27-01-2024 13:27:14"
     },
     {
         "InterviewId": "6722",
@@ -52525,8 +52525,53 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12918",
+        "InterviewEndDate": "2024-01-27 08:22:28",
+        "InterviewState": "Complete",
+        "Flight": "3L135",
+        "Dest": "TRV",
+        "AirlineCode": "3L135",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12919",
         "InterviewEndDate": "2024-01-27 08:18:45",
+        "InterviewState": "Complete",
+        "Flight": "3L135",
+        "Dest": "TRV",
+        "AirlineCode": "3L135",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12920",
+        "InterviewEndDate": "2024-01-27 08:38:08",
+        "InterviewState": "Complete",
+        "Flight": "3L135",
+        "Dest": "TRV",
+        "AirlineCode": "3L135",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12921",
+        "InterviewEndDate": "2024-01-27 08:34:05",
+        "InterviewState": "Complete",
+        "Flight": "3L135",
+        "Dest": "TRV",
+        "AirlineCode": "3L135",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12922",
+        "InterviewEndDate": "2024-01-27 08:42:37",
+        "InterviewState": "Complete",
+        "Flight": "3L135",
+        "Dest": "TRV",
+        "AirlineCode": "3L135",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12923",
+        "InterviewEndDate": "2024-01-27 08:47:27",
         "InterviewState": "Complete",
         "Flight": "3L135",
         "Dest": "TRV",
