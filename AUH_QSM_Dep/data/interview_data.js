@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "28-01-2024 00:17:04"
+        "download_time": "28-01-2024 01:22:05"
     },
     {
         "InterviewId": "6722",
@@ -52810,6 +52810,60 @@ let interview_data_raw = `[
         "Flight": "6E096",
         "Dest": "BOM",
         "AirlineCode": "6E096",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12950",
+        "InterviewEndDate": "2024-01-27 20:18:03",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12951",
+        "InterviewEndDate": "2024-01-27 20:21:35",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12952",
+        "InterviewEndDate": "2024-01-27 20:26:59",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12953",
+        "InterviewEndDate": "2024-01-27 20:34:37",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12954",
+        "InterviewEndDate": "2024-01-27 20:36:26",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12955",
+        "InterviewEndDate": "2024-01-27 20:37:35",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
         "Terminal": "T"
     }
 ]    
