@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "27-01-2024 14:32:27"
+        "download_time": "27-01-2024 15:37:27"
     },
     {
         "InterviewId": "3906",
@@ -25207,6 +25207,123 @@ let interview_data_arr_raw = `[
         "Flight": "PA - airblue",
         "Dest": "ISB",
         "AirlineCode": "PA",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6839",
+        "InterviewEndDate": "2024-01-27 10:34:23",
+        "InterviewState": "Complete",
+        "Flight": "PA - airblue",
+        "Dest": "ISB",
+        "AirlineCode": "PA",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6840",
+        "InterviewEndDate": "2024-01-27 10:40:47",
+        "InterviewState": "Complete",
+        "Flight": "PA - airblue",
+        "Dest": "ISB",
+        "AirlineCode": "PA",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6841",
+        "InterviewEndDate": "2024-01-27 10:38:48",
+        "InterviewState": "Complete",
+        "Flight": "PA - airblue",
+        "Dest": "ISB",
+        "AirlineCode": "PA",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6842",
+        "InterviewEndDate": "2024-01-27 10:50:01",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6843",
+        "InterviewEndDate": "2024-01-27 10:52:28",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6844",
+        "InterviewEndDate": "2024-01-27 10:57:57",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6845",
+        "InterviewEndDate": "2024-01-27 11:02:11",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6846",
+        "InterviewEndDate": "2024-01-27 11:05:12",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6847",
+        "InterviewEndDate": "2024-01-27 11:10:09",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6848",
+        "InterviewEndDate": "2024-01-27 11:17:33",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MUX",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6849",
+        "InterviewEndDate": "2024-01-27 11:22:20",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MUX",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6850",
+        "InterviewEndDate": "2024-01-27 11:31:55",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MUX",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6851",
+        "InterviewEndDate": "2024-01-27 11:36:49",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MUX",
+        "AirlineCode": "3L",
         "Terminal": "T"
     }
 ]    
