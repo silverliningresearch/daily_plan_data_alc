@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "28-01-2024 14:23:44"
+        "download_time": "28-01-2024 15:29:19"
     },
     {
         "InterviewId": "3906",
@@ -25504,6 +25504,114 @@ let interview_data_arr_raw = `[
         "Flight": "PA - airblue",
         "Dest": "ISB",
         "AirlineCode": "PA",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6872",
+        "InterviewEndDate": "2024-01-28 10:32:26",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "ISB",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6873",
+        "InterviewEndDate": "2024-01-28 10:39:52",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "ISB",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6874",
+        "InterviewEndDate": "2024-01-28 10:42:55",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudia",
+        "Dest": "RUH",
+        "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6875",
+        "InterviewEndDate": "2024-01-28 10:47:17",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "EVN",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6876",
+        "InterviewEndDate": "2024-01-28 10:54:28",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "EVN",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6877",
+        "InterviewEndDate": "2024-01-28 11:01:05",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "GVA",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6878",
+        "InterviewEndDate": "2024-01-28 11:04:56",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "EVN",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6879",
+        "InterviewEndDate": "2024-01-28 11:13:30",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6880",
+        "InterviewEndDate": "2024-01-28 11:12:08",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6881",
+        "InterviewEndDate": "2024-01-28 11:18:59",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6882",
+        "InterviewEndDate": "2024-01-28 11:23:03",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6884",
+        "InterviewEndDate": "2024-01-28 11:28:59",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "TAS",
+        "AirlineCode": "5W",
         "Terminal": "T"
     }
 ]    
