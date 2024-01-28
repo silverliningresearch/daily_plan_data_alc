@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "29-01-2024 01:12:12"
+        "download_time": "29-01-2024 02:16:57"
     },
     {
         "InterviewId": "6722",
@@ -53161,6 +53161,69 @@ let interview_data_raw = `[
         "Flight": "3L141",
         "Dest": "MAA",
         "AirlineCode": "3L141",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12989",
+        "InterviewEndDate": "2024-01-28 21:40:24",
+        "InterviewState": "Complete",
+        "Flight": "EY031",
+        "Dest": "CDG",
+        "AirlineCode": "EY031",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12990",
+        "InterviewEndDate": "2024-01-28 21:43:29",
+        "InterviewState": "Complete",
+        "Flight": "EY031",
+        "Dest": "CDG",
+        "AirlineCode": "EY031",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12991",
+        "InterviewEndDate": "2024-01-28 21:46:44",
+        "InterviewState": "Complete",
+        "Flight": "EY031",
+        "Dest": "CDG",
+        "AirlineCode": "EY031",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12993",
+        "InterviewEndDate": "2024-01-28 21:59:12",
+        "InterviewState": "Complete",
+        "Flight": "TK869",
+        "Dest": "IST",
+        "AirlineCode": "TK869",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12994",
+        "InterviewEndDate": "2024-01-28 22:06:30",
+        "InterviewState": "Complete",
+        "Flight": "TK869",
+        "Dest": "IST",
+        "AirlineCode": "TK869",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12995",
+        "InterviewEndDate": "2024-01-28 22:03:15",
+        "InterviewState": "Complete",
+        "Flight": "TK869",
+        "Dest": "IST",
+        "AirlineCode": "TK869",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12997",
+        "InterviewEndDate": "2024-01-28 22:14:11",
+        "InterviewState": "Complete",
+        "Flight": "TK869",
+        "Dest": "IST",
+        "AirlineCode": "TK869",
         "Terminal": "T"
     }
 ]    
