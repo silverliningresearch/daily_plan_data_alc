@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "29-01-2024 11:10:42"
+        "download_time": "29-01-2024 12:13:52"
     },
     {
         "InterviewId": "1224",
@@ -7802,11 +7802,59 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "2208",
-        "InterviewEndDate": "2024-01-29 10:08:26",
+        "InterviewEndDate": "2024-01-29 10:10:47",
         "InterviewState": "Complete",
         "Flight": "OS - Austrian Airlines",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "2209",
+        "InterviewEndDate": "2024-01-29 10:18:12",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "2210",
+        "InterviewEndDate": "2024-01-29 10:23:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2211",
+        "InterviewEndDate": "2024-01-29 10:31:16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2212",
+        "InterviewEndDate": "2024-01-29 10:36:54",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2214",
+        "InterviewEndDate": "2024-01-29 10:42:02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2215",
+        "InterviewEndDate": "2024-01-29 10:46:14",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
     }
 ]    
 
