@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G10",
-        "download_time": "29-01-2024 23:01:28"
+        "download_time": "30-01-2024 00:06:45"
     },
     {
         "aodbUniqueId": "20240129636236",
@@ -3329,6 +3329,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G28"
+    },
+    {
+        "aodbUniqueId": "20240130662693",
+        "Date": "29-01-2024",
+        "Flight": "PA 014",
+        "Dest": "FCO",
+        "AirlineCode": "PA",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K26"
     }
 ]    
 
