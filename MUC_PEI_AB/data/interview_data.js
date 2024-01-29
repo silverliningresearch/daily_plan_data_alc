@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-01-2024 20:51:26"
+        "download_time": "29-01-2024 21:56:20"
     },
     {
         "InterviewId": "15819",
@@ -78567,6 +78567,86 @@ let interview_data_raw = `[
         "Flight": "SN 2648",
         "Dest": "BRU",
         "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "27332",
+        "InterviewEndDate": "2024-01-29 19:59:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27333",
+        "InterviewEndDate": "2024-01-29 20:05:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27334",
+        "InterviewEndDate": "2024-01-29 20:01:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27335",
+        "InterviewEndDate": "2024-01-29 19:58:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27336",
+        "InterviewEndDate": "2024-01-29 19:58:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27337",
+        "InterviewEndDate": "2024-01-29 20:41:50",
+        "InterviewState": "Complete",
+        "Flight": "EN 8280",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27338",
+        "InterviewEndDate": "2024-01-29 20:46:43",
+        "InterviewState": "Complete",
+        "Flight": "EN 8280",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27339",
+        "InterviewEndDate": "2024-01-29 20:41:29",
+        "InterviewState": "Complete",
+        "Flight": "EN 8280",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27340",
+        "InterviewEndDate": "2024-01-29 20:46:02",
+        "InterviewState": "Complete",
+        "Flight": "EN 8280",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27341",
+        "InterviewEndDate": "2024-01-29 20:45:47",
+        "InterviewState": "Complete",
+        "Flight": "EN 8280",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
     }
 ]    
 

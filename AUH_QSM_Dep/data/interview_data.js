@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "29-01-2024 23:57:43"
+        "download_time": "30-01-2024 01:02:26"
     },
     {
         "InterviewId": "6722",
@@ -53512,6 +53512,60 @@ let interview_data_raw = `[
         "Flight": "3l123",
         "Dest": "CCJ",
         "AirlineCode": "3l123",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13030",
+        "InterviewEndDate": "2024-01-29 20:07:56",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13031",
+        "InterviewEndDate": "2024-01-29 20:14:39",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13032",
+        "InterviewEndDate": "2024-01-29 20:14:47",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13033",
+        "InterviewEndDate": "2024-01-29 20:22:07",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13034",
+        "InterviewEndDate": "2024-01-29 20:26:47",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13035",
+        "InterviewEndDate": "2024-01-29 20:25:32",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
         "Terminal": "T"
     }
 ]    
