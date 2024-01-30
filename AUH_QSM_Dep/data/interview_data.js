@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "30-01-2024 07:32:39"
+        "download_time": "30-01-2024 08:37:35"
     },
     {
         "InterviewId": "6722",
@@ -53740,6 +53740,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "13057",
+        "InterviewEndDate": "2024-01-30 03:46:05",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "13058",
         "InterviewEndDate": "2024-01-30 03:12:49",
         "InterviewState": "Complete",
@@ -53755,6 +53764,69 @@ let interview_data_raw = `[
         "Flight": "EY301",
         "Dest": "KWI",
         "AirlineCode": "EY301",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13060",
+        "InterviewEndDate": "2024-01-30 04:03:07",
+        "InterviewState": "Complete",
+        "Flight": "3L020",
+        "Dest": "KWI",
+        "AirlineCode": "3L020",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13061",
+        "InterviewEndDate": "2024-01-30 04:00:08",
+        "InterviewState": "Complete",
+        "Flight": "3L020",
+        "Dest": "KWI",
+        "AirlineCode": "3L020",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13062",
+        "InterviewEndDate": "2024-01-30 04:11:54",
+        "InterviewState": "Complete",
+        "Flight": "3L020",
+        "Dest": "KWI",
+        "AirlineCode": "3L020",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13063",
+        "InterviewEndDate": "2024-01-30 04:08:57",
+        "InterviewState": "Complete",
+        "Flight": "3L020",
+        "Dest": "KWI",
+        "AirlineCode": "3L020",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13064",
+        "InterviewEndDate": "2024-01-30 04:14:43",
+        "InterviewState": "Complete",
+        "Flight": "3L020",
+        "Dest": "KWI",
+        "AirlineCode": "3L020",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13065",
+        "InterviewEndDate": "2024-01-30 04:36:17",
+        "InterviewState": "Complete",
+        "Flight": "EY097",
+        "Dest": "IST",
+        "AirlineCode": "EY097",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13066",
+        "InterviewEndDate": "2024-01-30 04:33:43",
+        "InterviewState": "Complete",
+        "Flight": "EY097",
+        "Dest": "IST",
+        "AirlineCode": "EY097",
         "Terminal": "T"
     }
 ]    
