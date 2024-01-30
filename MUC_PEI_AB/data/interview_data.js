@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-01-2024 18:31:23"
+        "download_time": "30-01-2024 19:36:26"
     },
     {
         "InterviewId": "15819",
@@ -78745,12 +78745,76 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "27354",
+        "InterviewEndDate": "2024-01-30 17:32:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27355",
+        "InterviewEndDate": "2024-01-30 17:31:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "27356",
         "InterviewEndDate": "2024-01-30 17:25:53",
         "InterviewState": "Complete",
         "Flight": "LH 1830",
         "Dest": "BIO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27357",
+        "InterviewEndDate": "2024-01-30 17:37:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27358",
+        "InterviewEndDate": "2024-01-30 17:58:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27361",
+        "InterviewEndDate": "2024-01-30 18:22:40",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "27362",
+        "InterviewEndDate": "2024-01-30 18:18:35",
+        "InterviewState": "Complete",
+        "Flight": "LX 1101",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "27363",
+        "InterviewEndDate": "2024-01-30 18:21:53",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "27365",
+        "InterviewEndDate": "2024-01-30 18:29:29",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     }
 ]    
 
