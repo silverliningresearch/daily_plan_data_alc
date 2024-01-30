@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "30-01-2024 09:43:33"
+        "download_time": "30-01-2024 10:48:25"
     },
     {
         "InterviewId": "3906",
@@ -26016,6 +26016,51 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "5W - Wizz Air",
         "Dest": "FCO",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6931",
+        "InterviewEndDate": "2024-01-30 05:43:41",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "CNN",
+        "AirlineCode": "IX",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6932",
+        "InterviewEndDate": "2024-01-30 06:19:40",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "CNN",
+        "AirlineCode": "IX",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6933",
+        "InterviewEndDate": "2024-01-30 06:05:41",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "DMM",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6934",
+        "InterviewEndDate": "2024-01-30 06:13:43",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "DMM",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6935",
+        "InterviewEndDate": "2024-01-30 06:24:48",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "DMM",
         "AirlineCode": "5W",
         "Terminal": "T"
     }
