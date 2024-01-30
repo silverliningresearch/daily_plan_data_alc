@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "30-01-2024 22:42:49"
+        "download_time": "30-01-2024 23:47:26"
     },
     {
         "InterviewId": "6722",
@@ -54025,6 +54025,87 @@ let interview_data_raw = `[
         "Flight": "3l123",
         "Dest": "CCJ",
         "AirlineCode": "3l123",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13089",
+        "InterviewEndDate": "2024-01-30 19:07:42",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13090",
+        "InterviewEndDate": "2024-01-30 18:58:08",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13091",
+        "InterviewEndDate": "2024-01-30 18:57:21",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13092",
+        "InterviewEndDate": "2024-01-30 19:23:11",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13093",
+        "InterviewEndDate": "2024-01-30 19:20:16",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13094",
+        "InterviewEndDate": "2024-01-30 19:24:13",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13095",
+        "InterviewEndDate": "2024-01-30 19:27:42",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13096",
+        "InterviewEndDate": "2024-01-30 19:28:55",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13097",
+        "InterviewEndDate": "2024-01-30 19:32:37",
+        "InterviewState": "Complete",
+        "Flight": "EY221",
+        "Dest": "KHI",
+        "AirlineCode": "EY221",
         "Terminal": "T"
     }
 ]    

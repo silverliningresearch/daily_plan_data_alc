@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-01-2024 19:36:26"
+        "download_time": "30-01-2024 20:41:22"
     },
     {
         "InterviewId": "15819",
@@ -78785,6 +78785,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "27359",
+        "InterviewEndDate": "2024-01-30 18:57:25",
+        "InterviewState": "Complete",
+        "Flight": "SK 2658",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "27360",
+        "InterviewEndDate": "2024-01-30 19:00:43",
+        "InterviewState": "Complete",
+        "Flight": "SK 2658",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
         "InterviewId": "27361",
         "InterviewEndDate": "2024-01-30 18:22:40",
         "InterviewState": "Complete",
@@ -78815,6 +78831,70 @@ let interview_data_raw = `[
         "Flight": "LX 1111",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "27366",
+        "InterviewEndDate": "2024-01-30 18:38:39",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "27369",
+        "InterviewEndDate": "2024-01-30 19:27:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1872",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27370",
+        "InterviewEndDate": "2024-01-30 19:20:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1872",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27371",
+        "InterviewEndDate": "2024-01-30 19:17:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1872",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27372",
+        "InterviewEndDate": "2024-01-30 19:14:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1872",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27373",
+        "InterviewEndDate": "2024-01-30 19:21:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1872",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27374",
+        "InterviewEndDate": "2024-01-30 19:37:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1872",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27375",
+        "InterviewEndDate": "2024-01-30 19:34:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1872",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
     }
 ]    
 
