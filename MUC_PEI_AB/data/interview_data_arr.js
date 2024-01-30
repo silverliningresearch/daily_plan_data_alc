@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-01-2024 16:22:28"
+        "download_time": "30-01-2024 17:27:12"
     },
     {
         "InterviewId": "5167",
@@ -24607,6 +24607,54 @@ let interview_data_arr_raw = `[
         "Flight": "EN - AirDolomiti",
         "Dest": "GVA",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8873",
+        "InterviewEndDate": "2024-01-30 15:36:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8875",
+        "InterviewEndDate": "2024-01-30 15:56:16",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "8876",
+        "InterviewEndDate": "2024-01-30 15:45:33",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "LIS",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "8877",
+        "InterviewEndDate": "2024-01-30 15:48:02",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "8878",
+        "InterviewEndDate": "2024-01-30 15:55:58",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "8879",
+        "InterviewEndDate": "2024-01-30 16:02:54",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
     }
 ]    
 
