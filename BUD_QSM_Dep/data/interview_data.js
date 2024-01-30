@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "30-01-2024 15:18:45"
+        "download_time": "30-01-2024 16:23:56"
     },
     {
         "InterviewId": "3965",
@@ -24061,6 +24061,62 @@ let interview_data_raw = `[
         "InterviewEndDate": "2024-01-30 13:44:42",
         "InterviewState": "Complete",
         "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7141",
+        "InterviewEndDate": "2024-01-30 14:22:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 8357",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7142",
+        "InterviewEndDate": "2024-01-30 14:21:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 8357",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7143",
+        "InterviewEndDate": "2024-01-30 14:23:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 8357",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7144",
+        "InterviewEndDate": "2024-01-30 14:25:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 8357",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7145",
+        "InterviewEndDate": "2024-01-30 15:20:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7146",
+        "InterviewEndDate": "2024-01-30 15:20:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7148",
+        "InterviewEndDate": "2024-01-30 15:22:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
         "Dest": "STN",
         "AirlineCode": "FR"
     }
