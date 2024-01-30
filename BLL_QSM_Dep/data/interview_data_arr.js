@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "30-01-2024 14:12:41"
+        "download_time": "30-01-2024 15:17:44"
     },
     {
         "InterviewId": "2077",
@@ -12855,6 +12855,134 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5305",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5306",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5307",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5308",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "Af",
+        "Dest": "CDG",
+        "AirlineCode": "Af"
+    },
+    {
+        "InterviewId": "5309",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5310",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5311",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5312",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5313",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5314",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5315",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "ORY",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5316",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5320",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5321",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5322",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5323",
+        "InterviewEndDate": "2024-01-30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
     }
 ]    
 

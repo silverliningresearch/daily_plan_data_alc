@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "30-01-2024 14:16:29"
+        "download_time": "30-01-2024 15:21:40"
     },
     {
         "InterviewId": "7701",
@@ -26422,6 +26422,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 3165",
         "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11442",
+        "InterviewEndDate": "2024-01-30 13:26:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2213",
+        "Dest": "HRG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11443",
+        "InterviewEndDate": "2024-01-30 13:27:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2213",
+        "Dest": "HRG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11444",
+        "InterviewEndDate": "2024-01-30 13:26:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2213",
+        "Dest": "HRG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11445",
+        "InterviewEndDate": "2024-01-30 13:28:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2213",
+        "Dest": "HRG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11446",
+        "InterviewEndDate": "2024-01-30 13:59:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11447",
+        "InterviewEndDate": "2024-01-30 14:00:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11448",
+        "InterviewEndDate": "2024-01-30 14:14:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11449",
+        "InterviewEndDate": "2024-01-30 14:10:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
         "AirlineCode": "FR"
     }
 ]    
