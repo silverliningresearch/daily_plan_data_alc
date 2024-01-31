@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "31-01-2024 20:26:55"
+        "download_time": "31-01-2024 21:28:31"
     },
     {
         "InterviewId": "6722",
@@ -54676,6 +54676,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "13166",
+        "InterviewEndDate": "2024-01-31 16:25:19",
+        "InterviewState": "Complete",
+        "Flight": "EY309",
+        "Dest": "KWI",
+        "AirlineCode": "EY309",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "13167",
         "InterviewEndDate": "2024-01-31 16:23:48",
         "InterviewState": "Complete",
@@ -54691,6 +54700,51 @@ let interview_data_raw = `[
         "Flight": "EY309",
         "Dest": "KWI",
         "AirlineCode": "EY309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13169",
+        "InterviewEndDate": "2024-01-31 17:11:50",
+        "InterviewState": "Complete",
+        "Flight": "EY377",
+        "Dest": "BAH",
+        "AirlineCode": "EY377",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13170",
+        "InterviewEndDate": "2024-01-31 16:31:13",
+        "InterviewState": "Complete",
+        "Flight": "EY309",
+        "Dest": "KWI",
+        "AirlineCode": "EY309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13171",
+        "InterviewEndDate": "2024-01-31 17:01:42",
+        "InterviewState": "Complete",
+        "Flight": "EY309",
+        "Dest": "KWI",
+        "AirlineCode": "EY309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13172",
+        "InterviewEndDate": "2024-01-31 17:11:09",
+        "InterviewState": "Complete",
+        "Flight": "EY377",
+        "Dest": "BAH",
+        "AirlineCode": "EY377",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13173",
+        "InterviewEndDate": "2024-01-31 17:10:02",
+        "InterviewState": "Complete",
+        "Flight": "EY377",
+        "Dest": "BAH",
+        "AirlineCode": "EY377",
         "Terminal": "T"
     }
 ]    
