@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "31-01-2024 05:12:47"
+        "download_time": "31-01-2024 06:17:16"
     },
     {
         "InterviewId": "6722",
@@ -54223,6 +54223,78 @@ let interview_data_raw = `[
         "Flight": "5W7011",
         "Dest": "KUT",
         "AirlineCode": "5W7011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13111",
+        "InterviewEndDate": "2024-01-31 01:25:29",
+        "InterviewState": "Complete",
+        "Flight": "5W7159",
+        "Dest": "TAS",
+        "AirlineCode": "5W7159",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13112",
+        "InterviewEndDate": "2024-01-31 01:34:39",
+        "InterviewState": "Complete",
+        "Flight": "5W7159",
+        "Dest": "TAS",
+        "AirlineCode": "5W7159",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13113",
+        "InterviewEndDate": "2024-01-31 01:38:58",
+        "InterviewState": "Complete",
+        "Flight": "5W7159",
+        "Dest": "TAS",
+        "AirlineCode": "5W7159",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13114",
+        "InterviewEndDate": "2024-01-31 01:56:50",
+        "InterviewState": "Complete",
+        "Flight": "5W7125",
+        "Dest": "MED",
+        "AirlineCode": "5W7125",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13115",
+        "InterviewEndDate": "2024-01-31 02:06:17",
+        "InterviewState": "Complete",
+        "Flight": "5W7125",
+        "Dest": "MED",
+        "AirlineCode": "5W7125",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13116",
+        "InterviewEndDate": "2024-01-31 01:57:37",
+        "InterviewState": "Complete",
+        "Flight": "5W7125",
+        "Dest": "MED",
+        "AirlineCode": "5W7125",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13117",
+        "InterviewEndDate": "2024-01-31 02:02:45",
+        "InterviewState": "Complete",
+        "Flight": "5W7159",
+        "Dest": "MED",
+        "AirlineCode": "5W7159",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13118",
+        "InterviewEndDate": "2024-01-31 02:07:47",
+        "InterviewState": "Complete",
+        "Flight": "5W7125",
+        "Dest": "MED",
+        "AirlineCode": "5W7125",
         "Terminal": "T"
     }
 ]    
