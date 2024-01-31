@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "31-01-2024 08:27:32"
+        "download_time": "31-01-2024 09:33:09"
     },
     {
         "InterviewId": "6722",
@@ -54367,6 +54367,87 @@ let interview_data_raw = `[
         "Flight": "Ey412",
         "Dest": "KUL",
         "AirlineCode": "Ey412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13127",
+        "InterviewEndDate": "2024-01-31 04:33:51",
+        "InterviewState": "Complete",
+        "Flight": "3L015",
+        "Dest": "BAH",
+        "AirlineCode": "3L015",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13128",
+        "InterviewEndDate": "2024-01-31 04:45:21",
+        "InterviewState": "Complete",
+        "Flight": "3l730",
+        "Dest": "GYD",
+        "AirlineCode": "3l730",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13129",
+        "InterviewEndDate": "2024-01-31 04:39:57",
+        "InterviewState": "Complete",
+        "Flight": "EY321",
+        "Dest": "DMM",
+        "AirlineCode": "EY321",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13130",
+        "InterviewEndDate": "2024-01-31 04:45:09",
+        "InterviewState": "Complete",
+        "Flight": "3l730",
+        "Dest": "GYD",
+        "AirlineCode": "3l730",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13131",
+        "InterviewEndDate": "2024-01-31 04:45:10",
+        "InterviewState": "Complete",
+        "Flight": "3l730",
+        "Dest": "GYD",
+        "AirlineCode": "3l730",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13132",
+        "InterviewEndDate": "2024-01-31 04:43:40",
+        "InterviewState": "Complete",
+        "Flight": "EY321",
+        "Dest": "DMM",
+        "AirlineCode": "EY321",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13133",
+        "InterviewEndDate": "2024-01-31 04:49:28",
+        "InterviewState": "Complete",
+        "Flight": "EY321",
+        "Dest": "DMM",
+        "AirlineCode": "EY321",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13134",
+        "InterviewEndDate": "2024-01-31 04:59:03",
+        "InterviewState": "Complete",
+        "Flight": "3l730",
+        "Dest": "GYD",
+        "AirlineCode": "3l730",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13136",
+        "InterviewEndDate": "2024-01-31 04:54:33",
+        "InterviewState": "Complete",
+        "Flight": "3L730",
+        "Dest": "GYD",
+        "AirlineCode": "3L730",
         "Terminal": "T"
     }
 ]    
