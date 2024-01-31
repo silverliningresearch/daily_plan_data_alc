@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "31-01-2024 17:08:12"
+        "download_time": "31-01-2024 18:14:27"
     },
     {
         "InterviewId": "6722",
@@ -54601,6 +54601,78 @@ let interview_data_raw = `[
         "Flight": "5W7049",
         "Dest": "FCO",
         "AirlineCode": "5W7049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13158",
+        "InterviewEndDate": "2024-01-31 13:21:08",
+        "InterviewState": "Complete",
+        "Flight": "5W7049",
+        "Dest": "FCO",
+        "AirlineCode": "5W7049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13159",
+        "InterviewEndDate": "2024-01-31 13:18:15",
+        "InterviewState": "Complete",
+        "Flight": "5W7049",
+        "Dest": "FCO",
+        "AirlineCode": "5W7049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13160",
+        "InterviewEndDate": "2024-01-31 13:31:29",
+        "InterviewState": "Complete",
+        "Flight": "5W7049",
+        "Dest": "FCO",
+        "AirlineCode": "5W7049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13161",
+        "InterviewEndDate": "2024-01-31 13:34:53",
+        "InterviewState": "Complete",
+        "Flight": "5W7049",
+        "Dest": "FCO",
+        "AirlineCode": "5W7049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13162",
+        "InterviewEndDate": "2024-01-31 13:45:44",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13163",
+        "InterviewEndDate": "2024-01-31 14:07:26",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13164",
+        "InterviewEndDate": "2024-01-31 14:03:29",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13165",
+        "InterviewEndDate": "2024-01-31 14:03:22",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
         "Terminal": "T"
     }
 ]    

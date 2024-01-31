@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "31-01-2024 14:01:26"
+        "download_time": "31-01-2024 15:06:30"
     },
     {
         "InterviewId": "15819",
@@ -78975,6 +78975,78 @@ let interview_data_raw = `[
         "Flight": "Lh520",
         "Dest": "MEX",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27390",
+        "InterviewEndDate": "2024-01-31 13:01:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27391",
+        "InterviewEndDate": "2024-01-31 13:04:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27392",
+        "InterviewEndDate": "2024-01-31 13:10:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27393",
+        "InterviewEndDate": "2024-01-31 13:03:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27394",
+        "InterviewEndDate": "2024-01-31 13:28:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27395",
+        "InterviewEndDate": "2024-01-31 13:25:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27396",
+        "InterviewEndDate": "2024-01-31 13:52:17",
+        "InterviewState": "Complete",
+        "Flight": "LH  718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27397",
+        "InterviewEndDate": "2024-01-31 13:51:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27399",
+        "InterviewEndDate": "2024-01-31 13:49:50",
+        "InterviewState": "Complete",
+        "Flight": "LH  718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
     }
 ]    
 
