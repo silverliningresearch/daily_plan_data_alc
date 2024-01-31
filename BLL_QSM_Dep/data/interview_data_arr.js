@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "31-01-2024 12:57:37"
+        "download_time": "31-01-2024 14:02:44"
     },
     {
         "InterviewId": "2077",
@@ -12956,33 +12956,33 @@ let interview_data_arr_raw = `[
         "InterviewId": "5320",
         "InterviewEndDate": "2024-01-30",
         "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "DUS",
-        "AirlineCode": "LH"
+        "Flight": "D8 - Norwegian Air International",
+        "Dest": "LYR",
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "5321",
         "InterviewEndDate": "2024-01-30",
         "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "DUS",
-        "AirlineCode": "LH"
+        "Flight": "D8 - Norwegian Air International",
+        "Dest": "LYR",
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "5322",
         "InterviewEndDate": "2024-01-30",
         "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "DUS",
-        "AirlineCode": "LH"
+        "Flight": "D8 - Norwegian Air International",
+        "Dest": "LYR",
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "5323",
         "InterviewEndDate": "2024-01-30",
         "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "DUS",
-        "AirlineCode": "LH"
+        "Flight": "D8 - Norwegian Air International",
+        "Dest": "LYR",
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "5326",
@@ -13046,6 +13046,86 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5341",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5342",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5343",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5344",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5345",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5346",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5347",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5348",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5349",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5350",
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
         "AirlineCode": "LH"
     }
 ]    
