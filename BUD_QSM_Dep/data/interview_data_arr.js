@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "31-01-2024 10:49:37"
+        "download_time": "31-01-2024 11:54:21"
     },
     {
         "InterviewId": "1224",
@@ -7935,6 +7935,54 @@ let interview_data_arr_raw = `[
         "Flight": "TK - Turkish Airlines",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2227",
+        "InterviewEndDate": "2024-01-31 10:05:08",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "2228",
+        "InterviewEndDate": "2024-01-31 10:08:39",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "2229",
+        "InterviewEndDate": "2024-01-31 10:12:33",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "2230",
+        "InterviewEndDate": "2024-01-31 10:24:40",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "2231",
+        "InterviewEndDate": "2024-01-31 10:32:00",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "2232",
+        "InterviewEndDate": "2024-01-31 10:36:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
     }
 ]    
 
