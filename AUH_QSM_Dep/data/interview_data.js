@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "31-01-2024 22:34:53"
+        "download_time": "31-01-2024 23:37:36"
     },
     {
         "InterviewId": "6722",
@@ -54763,6 +54763,96 @@ let interview_data_raw = `[
         "Flight": "W42982",
         "Dest": "VIE",
         "AirlineCode": "W42982",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13176",
+        "InterviewEndDate": "2024-01-31 18:42:48",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13177",
+        "InterviewEndDate": "2024-01-31 18:46:25",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13178",
+        "InterviewEndDate": "2024-01-31 18:45:09",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13179",
+        "InterviewEndDate": "2024-01-31 19:17:32",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13180",
+        "InterviewEndDate": "2024-01-31 19:00:03",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13181",
+        "InterviewEndDate": "2024-01-31 18:53:46",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13182",
+        "InterviewEndDate": "2024-01-31 19:05:37",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13183",
+        "InterviewEndDate": "2024-01-31 19:26:16",
+        "InterviewState": "Complete",
+        "Flight": "EY085",
+        "Dest": "FCO",
+        "AirlineCode": "EY085",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13184",
+        "InterviewEndDate": "2024-01-31 19:23:21",
+        "InterviewState": "Complete",
+        "Flight": "EY085",
+        "Dest": "FCO",
+        "AirlineCode": "EY085",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13185",
+        "InterviewEndDate": "2024-01-31 19:31:10",
+        "InterviewState": "Complete",
+        "Flight": "EY085",
+        "Dest": "FCO",
+        "AirlineCode": "EY085",
         "Terminal": "T"
     }
 ]    
