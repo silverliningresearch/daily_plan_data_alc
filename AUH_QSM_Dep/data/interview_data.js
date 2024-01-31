@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "31-01-2024 07:23:58"
+        "download_time": "31-01-2024 08:27:32"
     },
     {
         "InterviewId": "6722",
@@ -54298,6 +54298,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "13119",
+        "InterviewEndDate": "2024-01-31 03:36:02",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "13120",
         "InterviewEndDate": "2024-01-31 02:34:45",
         "InterviewState": "Complete",
@@ -54313,6 +54322,51 @@ let interview_data_raw = `[
         "Flight": "EY301",
         "Dest": "KWI",
         "AirlineCode": "EY301",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13122",
+        "InterviewEndDate": "2024-01-31 03:24:21",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13123",
+        "InterviewEndDate": "2024-01-31 03:50:48",
+        "InterviewState": "Complete",
+        "Flight": "Ey412",
+        "Dest": "KUL",
+        "AirlineCode": "Ey412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13124",
+        "InterviewEndDate": "2024-01-31 03:45:54",
+        "InterviewState": "Complete",
+        "Flight": "Ey412",
+        "Dest": "KUL",
+        "AirlineCode": "Ey412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13125",
+        "InterviewEndDate": "2024-01-31 03:48:35",
+        "InterviewState": "Complete",
+        "Flight": "Ey412",
+        "Dest": "KUL",
+        "AirlineCode": "Ey412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13126",
+        "InterviewEndDate": "2024-01-31 03:56:37",
+        "InterviewState": "Complete",
+        "Flight": "Ey412",
+        "Dest": "KUL",
+        "AirlineCode": "Ey412",
         "Terminal": "T"
     }
 ]    
