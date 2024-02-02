@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-02-2024 16:56:25"
+        "download_time": "02-02-2024 18:01:25"
     },
     {
         "InterviewId": "15819",
@@ -79255,6 +79255,70 @@ let interview_data_raw = `[
         "Flight": "BA 955",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "27432",
+        "InterviewEndDate": "2024-02-02 16:00:08",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "27433",
+        "InterviewEndDate": "2024-02-02 15:58:18",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "27435",
+        "InterviewEndDate": "2024-02-02 16:15:01",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27437",
+        "InterviewEndDate": "2024-02-02 16:14:05",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "27438",
+        "InterviewEndDate": "2024-02-02 16:24:59",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27439",
+        "InterviewEndDate": "2024-02-02 16:55:19",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27440",
+        "InterviewEndDate": "2024-02-02 16:28:33",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27441",
+        "InterviewEndDate": "2024-02-02 16:53:10",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
