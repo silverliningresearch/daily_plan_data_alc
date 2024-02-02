@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-02-2024 18:01:25"
+        "download_time": "02-02-2024 19:06:28"
     },
     {
         "InterviewId": "15819",
@@ -79298,7 +79298,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "27439",
-        "InterviewEndDate": "2024-02-02 16:55:19",
+        "InterviewEndDate": "2024-02-02 17:12:14",
         "InterviewState": "Complete",
         "Flight": "TK 1636",
         "Dest": "IST",
@@ -79319,6 +79319,54 @@ let interview_data_raw = `[
         "Flight": "TK 1636",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27442",
+        "InterviewEndDate": "2024-02-02 17:06:58",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27443",
+        "InterviewEndDate": "2024-02-02 17:25:11",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27444",
+        "InterviewEndDate": "2024-02-02 17:43:56",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "27445",
+        "InterviewEndDate": "2024-02-02 17:37:49",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "27446",
+        "InterviewEndDate": "2024-02-02 17:39:39",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "27449",
+        "InterviewEndDate": "2024-02-02 18:01:14",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
