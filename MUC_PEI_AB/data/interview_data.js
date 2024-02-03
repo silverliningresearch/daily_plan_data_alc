@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-02-2024 10:16:21"
+        "download_time": "03-02-2024 11:21:32"
     },
     {
         "InterviewId": "15819",
@@ -79825,6 +79825,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "27512",
+        "InterviewEndDate": "2024-02-03 09:18:47",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
         "InterviewId": "27514",
         "InterviewEndDate": "2024-02-03 09:15:11",
         "InterviewState": "Complete",
@@ -79839,6 +79847,94 @@ let interview_data_raw = `[
         "Flight": "DL 131",
         "Dest": "ATL",
         "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "27516",
+        "InterviewEndDate": "2024-02-03 09:23:52",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27517",
+        "InterviewEndDate": "2024-02-03 09:29:03",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27518",
+        "InterviewEndDate": "2024-02-03 09:28:07",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27519",
+        "InterviewEndDate": "2024-02-03 09:57:27",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27520",
+        "InterviewEndDate": "2024-02-03 09:46:53",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27522",
+        "InterviewEndDate": "2024-02-03 09:50:31",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27523",
+        "InterviewEndDate": "2024-02-03 09:54:13",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27524",
+        "InterviewEndDate": "2024-02-03 09:45:28",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27525",
+        "InterviewEndDate": "2024-02-03 10:03:42",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27526",
+        "InterviewEndDate": "2024-02-03 10:04:20",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27527",
+        "InterviewEndDate": "2024-02-03 10:08:20",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
     }
 ]    
 
