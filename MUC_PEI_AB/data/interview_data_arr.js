@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "03-02-2024 11:22:34"
+        "download_time": "03-02-2024 12:27:13"
     },
     {
         "InterviewId": "5167",
@@ -24855,6 +24855,54 @@ let interview_data_arr_raw = `[
         "Flight": "UA - United Airlines",
         "Dest": "EMPTY",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "8915",
+        "InterviewEndDate": "2024-02-03 10:40:07",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8916",
+        "InterviewEndDate": "2024-02-03 10:41:50",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8917",
+        "InterviewEndDate": "2024-02-03 10:50:59",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8918",
+        "InterviewEndDate": "2024-02-03 10:49:50",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8919",
+        "InterviewEndDate": "2024-02-03 10:55:25",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8920",
+        "InterviewEndDate": "2024-02-03 10:52:37",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
     }
 ]    
 
