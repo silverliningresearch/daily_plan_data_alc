@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-02-2024 05:56:20"
+        "download_time": "03-02-2024 07:01:23"
     },
     {
         "InterviewId": "15819",
@@ -79537,12 +79537,76 @@ let interview_data_raw = `[
         "AirlineCode": "6Y"
     },
     {
+        "InterviewId": "27472",
+        "InterviewEndDate": "2024-02-03 04:59:28",
+        "InterviewState": "Complete",
+        "Flight": "TK 1638",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27473",
+        "InterviewEndDate": "2024-02-03 05:11:45",
+        "InterviewState": "Complete",
+        "Flight": "TK 1638",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
         "InterviewId": "27474",
         "InterviewEndDate": "2024-02-03 04:53:52",
         "InterviewState": "Complete",
         "Flight": "TK 1638",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "27475",
+        "InterviewEndDate": "2024-02-03 05:12:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 093",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27477",
+        "InterviewEndDate": "2024-02-03 05:05:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 093",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27478",
+        "InterviewEndDate": "2024-02-03 05:12:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 093",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27479",
+        "InterviewEndDate": "2024-02-03 05:39:00",
+        "InterviewState": "Complete",
+        "Flight": "SM 2999",
+        "Dest": "RMF",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "27480",
+        "InterviewEndDate": "2024-02-03 05:33:01",
+        "InterviewState": "Complete",
+        "Flight": "SM 2999",
+        "Dest": "RMF",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "27481",
+        "InterviewEndDate": "2024-02-03 05:35:08",
+        "InterviewState": "Complete",
+        "Flight": "SM 2999",
+        "Dest": "RMF",
+        "AirlineCode": "SM"
     }
 ]    
 
