@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-02-2024 04:51:22"
+        "download_time": "03-02-2024 05:56:20"
     },
     {
         "InterviewId": "15819",
@@ -79487,6 +79487,62 @@ let interview_data_raw = `[
         "Flight": "WY 124",
         "Dest": "MCT",
         "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "27466",
+        "InterviewEndDate": "2024-02-03 04:21:22",
+        "InterviewState": "Complete",
+        "Flight": "TP 557",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "27467",
+        "InterviewEndDate": "2024-02-03 04:27:57",
+        "InterviewState": "Complete",
+        "Flight": "TP 557",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "27468",
+        "InterviewEndDate": "2024-02-03 04:25:42",
+        "InterviewState": "Complete",
+        "Flight": "6Y 355",
+        "Dest": "HRG",
+        "AirlineCode": "6Y"
+    },
+    {
+        "InterviewId": "27469",
+        "InterviewEndDate": "2024-02-03 04:26:25",
+        "InterviewState": "Complete",
+        "Flight": "TP 557",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "27470",
+        "InterviewEndDate": "2024-02-03 04:32:04",
+        "InterviewState": "Complete",
+        "Flight": "6Y 355",
+        "Dest": "HRG",
+        "AirlineCode": "6Y"
+    },
+    {
+        "InterviewId": "27471",
+        "InterviewEndDate": "2024-02-03 04:37:33",
+        "InterviewState": "Complete",
+        "Flight": "6Y 355",
+        "Dest": "HRG",
+        "AirlineCode": "6Y"
+    },
+    {
+        "InterviewId": "27474",
+        "InterviewEndDate": "2024-02-03 04:53:52",
+        "InterviewState": "Complete",
+        "Flight": "TK 1638",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
