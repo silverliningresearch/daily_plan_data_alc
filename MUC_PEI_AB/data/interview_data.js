@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-02-2024 07:01:23"
+        "download_time": "03-02-2024 08:06:23"
     },
     {
         "InterviewId": "15819",
@@ -79607,6 +79607,102 @@ let interview_data_raw = `[
         "Flight": "SM 2999",
         "Dest": "RMF",
         "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "27482",
+        "InterviewEndDate": "2024-02-03 06:10:56",
+        "InterviewState": "Complete",
+        "Flight": "DE 024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27483",
+        "InterviewEndDate": "2024-02-03 06:07:11",
+        "InterviewState": "Complete",
+        "Flight": "DE 024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27484",
+        "InterviewEndDate": "2024-02-03 06:08:46",
+        "InterviewState": "Complete",
+        "Flight": "DE 024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27485",
+        "InterviewEndDate": "2024-02-03 06:10:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2316",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27486",
+        "InterviewEndDate": "2024-02-03 06:31:16",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "27487",
+        "InterviewEndDate": "2024-02-03 06:30:33",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "27488",
+        "InterviewEndDate": "2024-02-03 06:31:40",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "27492",
+        "InterviewEndDate": "2024-02-03 06:54:15",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "27493",
+        "InterviewEndDate": "2024-02-03 06:59:03",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "27494",
+        "InterviewEndDate": "2024-02-03 06:56:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1840",
+        "Dest": "FUE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27495",
+        "InterviewEndDate": "2024-02-03 07:01:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1840",
+        "Dest": "FUE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27496",
+        "InterviewEndDate": "2024-02-03 07:03:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1840",
+        "Dest": "FUE",
+        "AirlineCode": "LH"
     }
 ]    
 
