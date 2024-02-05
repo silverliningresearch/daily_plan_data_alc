@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "05-02-2024 15:23:51"
+        "download_time": "05-02-2024 16:28:43"
     },
     {
         "InterviewId": "3965",
@@ -24295,6 +24295,78 @@ let interview_data_raw = `[
         "Flight": "FR 2273",
         "Dest": "AGP",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7170",
+        "InterviewEndDate": "2024-02-05 14:43:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7171",
+        "InterviewEndDate": "2024-02-05 14:42:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7172",
+        "InterviewEndDate": "2024-02-05 14:44:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7173",
+        "InterviewEndDate": "2024-02-05 14:50:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7174",
+        "InterviewEndDate": "2024-02-05 14:54:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7175",
+        "InterviewEndDate": "2024-02-05 15:08:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1679",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7176",
+        "InterviewEndDate": "2024-02-05 15:10:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1679",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7177",
+        "InterviewEndDate": "2024-02-05 15:11:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1679",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7178",
+        "InterviewEndDate": "2024-02-05 15:11:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1679",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
     }
 ]    
 
