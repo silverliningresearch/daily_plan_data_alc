@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-02-2024 19:41:25"
+        "download_time": "05-02-2024 20:46:26"
     },
     {
         "InterviewId": "15819",
@@ -80391,6 +80391,142 @@ let interview_data_raw = `[
         "Flight": "EW 087",
         "Dest": "CGN",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27610",
+        "InterviewEndDate": "2024-02-05 18:44:37",
+        "InterviewState": "Complete",
+        "Flight": "LH1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27611",
+        "InterviewEndDate": "2024-02-05 18:46:08",
+        "InterviewState": "Complete",
+        "Flight": "LH1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27612",
+        "InterviewEndDate": "2024-02-05 18:46:26",
+        "InterviewState": "Complete",
+        "Flight": "LH1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27613",
+        "InterviewEndDate": "2024-02-05 18:47:48",
+        "InterviewState": "Complete",
+        "Flight": "LH1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27614",
+        "InterviewEndDate": "2024-02-05 18:52:36",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27615",
+        "InterviewEndDate": "2024-02-05 18:45:44",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27616",
+        "InterviewEndDate": "2024-02-05 18:43:26",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27617",
+        "InterviewEndDate": "2024-02-05 18:53:42",
+        "InterviewState": "Complete",
+        "Flight": "LH1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27618",
+        "InterviewEndDate": "2024-02-05 18:53:41",
+        "InterviewState": "Complete",
+        "Flight": "LH1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27619",
+        "InterviewEndDate": "2024-02-05 19:00:24",
+        "InterviewState": "Complete",
+        "Flight": "LH1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27620",
+        "InterviewEndDate": "2024-02-05 18:57:49",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27621",
+        "InterviewEndDate": "2024-02-05 19:05:33",
+        "InterviewState": "Complete",
+        "Flight": "EW 087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27622",
+        "InterviewEndDate": "2024-02-05 19:15:06",
+        "InterviewState": "Complete",
+        "Flight": "LH121",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27624",
+        "InterviewEndDate": "2024-02-05 19:14:03",
+        "InterviewState": "Complete",
+        "Flight": "LH121",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27625",
+        "InterviewEndDate": "2024-02-05 19:13:25",
+        "InterviewState": "Complete",
+        "Flight": "LH121",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27626",
+        "InterviewEndDate": "2024-02-05 19:13:51",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27627",
+        "InterviewEndDate": "2024-02-05 19:11:15",
+        "InterviewState": "Complete",
+        "Flight": "LH121",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
