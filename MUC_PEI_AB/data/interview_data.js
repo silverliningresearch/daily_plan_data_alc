@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-02-2024 16:26:28"
+        "download_time": "05-02-2024 17:31:28"
     },
     {
         "InterviewId": "15819",
@@ -80079,6 +80079,102 @@ let interview_data_raw = `[
         "Flight": "LH1948",
         "Dest": "BER",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27549",
+        "InterviewEndDate": "2024-02-05 15:27:44",
+        "InterviewState": "Complete",
+        "Flight": "LH115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27552",
+        "InterviewEndDate": "2024-02-05 15:47:44",
+        "InterviewState": "Complete",
+        "Flight": "Lh2308",
+        "Dest": "AMS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27553",
+        "InterviewEndDate": "2024-02-05 15:51:37",
+        "InterviewState": "Complete",
+        "Flight": "LH2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27554",
+        "InterviewEndDate": "2024-02-05 15:46:51",
+        "InterviewState": "Complete",
+        "Flight": "LH2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27555",
+        "InterviewEndDate": "2024-02-05 15:50:33",
+        "InterviewState": "Complete",
+        "Flight": "LH2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27556",
+        "InterviewEndDate": "2024-02-05 15:53:25",
+        "InterviewState": "Complete",
+        "Flight": "LH2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27557",
+        "InterviewEndDate": "2024-02-05 16:01:30",
+        "InterviewState": "Complete",
+        "Flight": "LH2308",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27558",
+        "InterviewEndDate": "2024-02-05 16:16:56",
+        "InterviewState": "Complete",
+        "Flight": "LH2292",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27559",
+        "InterviewEndDate": "2024-02-05 16:22:53",
+        "InterviewState": "Complete",
+        "Flight": "LH2292",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27564",
+        "InterviewEndDate": "2024-02-05 16:24:01",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27565",
+        "InterviewEndDate": "2024-02-05 16:27:48",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27570",
+        "InterviewEndDate": "2024-02-05 16:27:50",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
     }
 ]    
 
