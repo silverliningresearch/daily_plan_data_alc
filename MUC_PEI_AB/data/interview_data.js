@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-02-2024 17:31:28"
+        "download_time": "05-02-2024 18:36:26"
     },
     {
         "InterviewId": "15819",
@@ -80169,12 +80169,172 @@ let interview_data_raw = `[
         "AirlineCode": "UX"
     },
     {
+        "InterviewId": "27569",
+        "InterviewEndDate": "2024-02-05 16:33:16",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
         "InterviewId": "27570",
         "InterviewEndDate": "2024-02-05 16:27:50",
         "InterviewState": "Complete",
         "Flight": "UX 1518",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27572",
+        "InterviewEndDate": "2024-02-05 16:47:23",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "27574",
+        "InterviewEndDate": "2024-02-05 16:37:52",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27576",
+        "InterviewEndDate": "2024-02-05 16:44:05",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27577",
+        "InterviewEndDate": "2024-02-05 16:43:01",
+        "InterviewState": "Complete",
+        "Flight": "LH2032",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27578",
+        "InterviewEndDate": "2024-02-05 16:44:51",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "27579",
+        "InterviewEndDate": "2024-02-05 16:51:16",
+        "InterviewState": "Complete",
+        "Flight": "LH2032",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27580",
+        "InterviewEndDate": "2024-02-05 16:50:15",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27581",
+        "InterviewEndDate": "2024-02-05 16:53:12",
+        "InterviewState": "Complete",
+        "Flight": "LH2032",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27582",
+        "InterviewEndDate": "2024-02-05 16:53:06",
+        "InterviewState": "Complete",
+        "Flight": "LH2032",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27583",
+        "InterviewEndDate": "2024-02-05 16:53:01",
+        "InterviewState": "Complete",
+        "Flight": "LH2032",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27585",
+        "InterviewEndDate": "2024-02-05 17:13:15",
+        "InterviewState": "Complete",
+        "Flight": "LH119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27587",
+        "InterviewEndDate": "2024-02-05 17:16:46",
+        "InterviewState": "Complete",
+        "Flight": "LH119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27588",
+        "InterviewEndDate": "2024-02-05 17:12:21",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "27589",
+        "InterviewEndDate": "2024-02-05 17:12:43",
+        "InterviewState": "Complete",
+        "Flight": "LH119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27590",
+        "InterviewEndDate": "2024-02-05 17:28:40",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27591",
+        "InterviewEndDate": "2024-02-05 17:18:33",
+        "InterviewState": "Complete",
+        "Flight": "LH119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27592",
+        "InterviewEndDate": "2024-02-05 17:29:36",
+        "InterviewState": "Complete",
+        "Flight": "LH119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27593",
+        "InterviewEndDate": "2024-02-05 17:29:25",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27596",
+        "InterviewEndDate": "2024-02-05 17:34:51",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
