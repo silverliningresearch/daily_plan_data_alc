@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-02-2024 18:36:26"
+        "download_time": "05-02-2024 19:41:25"
     },
     {
         "InterviewId": "15819",
@@ -80329,11 +80329,67 @@ let interview_data_raw = `[
         "AirlineCode": "EW"
     },
     {
+        "InterviewId": "27594",
+        "InterviewEndDate": "2024-02-05 17:58:18",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "27596",
         "InterviewEndDate": "2024-02-05 17:34:51",
         "InterviewState": "Complete",
         "Flight": "EW 9091",
         "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27597",
+        "InterviewEndDate": "2024-02-05 17:39:34",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27598",
+        "InterviewEndDate": "2024-02-05 17:44:25",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27600",
+        "InterviewEndDate": "2024-02-05 18:22:14",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27602",
+        "InterviewEndDate": "2024-02-05 18:17:45",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27604",
+        "InterviewEndDate": "2024-02-05 18:29:35",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27605",
+        "InterviewEndDate": "2024-02-05 18:32:40",
+        "InterviewState": "Complete",
+        "Flight": "EW 087",
+        "Dest": "CGN",
         "AirlineCode": "EW"
     }
 ]    
