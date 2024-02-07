@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D16",
-        "download_time": "07-02-2024 09:36:33"
+        "download_time": "07-02-2024 10:41:36"
     },
     {
         "aodbUniqueId": "20240207657997",
@@ -19,6 +19,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B17"
+    },
+    {
+        "aodbUniqueId": "20240207657988",
+        "Date": "07-02-2024",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C03"
     },
     {
         "aodbUniqueId": "20240207657821",
@@ -109,16 +119,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06"
-    },
-    {
-        "aodbUniqueId": "20240207657988",
-        "Date": "07-02-2024",
-        "Flight": "BA 949",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C03"
     },
     {
         "aodbUniqueId": "20240207657990",
@@ -623,7 +623,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240207658332",
         "Date": "07-02-2024",
-        "Flight": "LH 2142",
+        "Flight": "LH 2142F",
         "Dest": "FMO",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
@@ -643,7 +643,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240207658451",
         "Date": "07-02-2024",
-        "Flight": "LH 1992",
+        "Flight": "LH 1992F",
         "Dest": "CGN",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
@@ -713,7 +713,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240207658474",
         "Date": "07-02-2024",
-        "Flight": "LH 1640",
+        "Flight": "LH 1640F",
         "Dest": "POZ",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
@@ -723,7 +723,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240207658525",
         "Date": "07-02-2024",
-        "Flight": "LH 1634",
+        "Flight": "LH 1634F",
         "Dest": "WRO",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
@@ -753,7 +753,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240207658556",
         "Date": "07-02-2024",
-        "Flight": "LH 1664",
+        "Flight": "LH 1664F",
         "Dest": "SBZ",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
@@ -773,7 +773,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240207658560",
         "Date": "07-02-2024",
-        "Flight": "LH 2130",
+        "Flight": "LH 2130F",
         "Dest": "DRS",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
