@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D16",
-        "download_time": "07-02-2024 06:21:33"
+        "download_time": "07-02-2024 07:26:30"
     },
     {
         "aodbUniqueId": "20240207657997",
@@ -171,6 +171,16 @@ let MUC_Gate_Info = `[
         "Gate": "D06"
     },
     {
+        "aodbUniqueId": "20240207658131",
+        "Date": "07-02-2024",
+        "Flight": "EW 4065",
+        "Dest": "DTM",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D15"
+    },
+    {
         "aodbUniqueId": "20240207658145",
         "Date": "07-02-2024",
         "Flight": "EW 6615",
@@ -224,16 +234,6 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20240207658129",
         "Date": "07-02-2024",
         "Flight": "EW 4063",
-        "Dest": "DTM",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D15"
-    },
-    {
-        "aodbUniqueId": "20240207658131",
-        "Date": "07-02-2024",
-        "Flight": "EW 4065",
         "Dest": "DTM",
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
