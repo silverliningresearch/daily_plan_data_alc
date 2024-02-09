@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "09-02-2024 16:51:28"
+        "download_time": "09-02-2024 17:56:27"
     },
     {
         "InterviewId": "15819",
@@ -80593,8 +80593,16 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "27639",
+        "InterviewEndDate": "2024-02-09 15:48:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2234",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "27640",
-        "InterviewEndDate": "2024-02-09 15:44:34",
+        "InterviewEndDate": "2024-02-09 16:18:19",
         "InterviewState": "Complete",
         "Flight": "LH 2234",
         "Dest": "CDG",
@@ -80607,6 +80615,110 @@ let interview_data_raw = `[
         "Flight": "LH 2234",
         "Dest": "CDG",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27644",
+        "InterviewEndDate": "2024-02-09 15:53:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27646",
+        "InterviewEndDate": "2024-02-09 16:28:27",
+        "InterviewState": "Complete",
+        "Flight": "Lh1986",
+        "Dest": "CGN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27648",
+        "InterviewEndDate": "2024-02-09 16:30:20",
+        "InterviewState": "Complete",
+        "Flight": "Lh1986",
+        "Dest": "CGN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27649",
+        "InterviewEndDate": "2024-02-09 16:36:31",
+        "InterviewState": "Complete",
+        "Flight": "Lh1986",
+        "Dest": "CGN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27650",
+        "InterviewEndDate": "2024-02-09 16:33:22",
+        "InterviewState": "Complete",
+        "Flight": "Lh1980",
+        "Dest": "CGN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27651",
+        "InterviewEndDate": "2024-02-09 16:34:58",
+        "InterviewState": "Complete",
+        "Flight": "Lh1986",
+        "Dest": "CGN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27654",
+        "InterviewEndDate": "2024-02-09 16:39:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27656",
+        "InterviewEndDate": "2024-02-09 16:37:35",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "27657",
+        "InterviewEndDate": "2024-02-09 16:38:41",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "27658",
+        "InterviewEndDate": "2024-02-09 16:44:47",
+        "InterviewState": "Complete",
+        "Flight": "Lh1986",
+        "Dest": "CGN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "27660",
+        "InterviewEndDate": "2024-02-09 16:42:44",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "27665",
+        "InterviewEndDate": "2024-02-09 16:49:58",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "27667",
+        "InterviewEndDate": "2024-02-09 16:52:00",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
     }
 ]    
 
