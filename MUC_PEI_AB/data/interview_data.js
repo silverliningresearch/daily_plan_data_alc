@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "09-02-2024 17:56:27"
+        "download_time": "09-02-2024 19:01:27"
     },
     {
         "InterviewId": "15819",
@@ -80705,6 +80705,30 @@ let interview_data_raw = `[
         "AirlineCode": "KM"
     },
     {
+        "InterviewId": "27661",
+        "InterviewEndDate": "2024-02-09 17:10:33",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27662",
+        "InterviewEndDate": "2024-02-09 17:07:41",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27663",
+        "InterviewEndDate": "2024-02-09 17:06:24",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "27665",
         "InterviewEndDate": "2024-02-09 16:49:58",
         "InterviewState": "Complete",
@@ -80719,6 +80743,150 @@ let interview_data_raw = `[
         "Flight": "KM 309",
         "Dest": "MLA",
         "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "27668",
+        "InterviewEndDate": "2024-02-09 16:57:47",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "27669",
+        "InterviewEndDate": "2024-02-09 17:00:40",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27670",
+        "InterviewEndDate": "2024-02-09 17:01:24",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27671",
+        "InterviewEndDate": "2024-02-09 17:05:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27672",
+        "InterviewEndDate": "2024-02-09 17:15:42",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27673",
+        "InterviewEndDate": "2024-02-09 17:28:31",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27675",
+        "InterviewEndDate": "2024-02-09 17:17:55",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27676",
+        "InterviewEndDate": "2024-02-09 17:22:37",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27677",
+        "InterviewEndDate": "2024-02-09 17:25:03",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27678",
+        "InterviewEndDate": "2024-02-09 17:28:44",
+        "InterviewState": "Complete",
+        "Flight": "LH  119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27681",
+        "InterviewEndDate": "2024-02-09 17:32:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27682",
+        "InterviewEndDate": "2024-02-09 17:30:00",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "27684",
+        "InterviewEndDate": "2024-02-09 17:33:31",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "27685",
+        "InterviewEndDate": "2024-02-09 17:52:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27687",
+        "InterviewEndDate": "2024-02-09 17:38:16",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "27688",
+        "InterviewEndDate": "2024-02-09 17:52:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27689",
+        "InterviewEndDate": "2024-02-09 17:53:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27690",
+        "InterviewEndDate": "2024-02-09 17:42:18",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 

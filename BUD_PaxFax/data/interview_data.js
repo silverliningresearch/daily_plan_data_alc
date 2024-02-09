@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "09-02-2024 18:01:40"
+        "download_time": "09-02-2024 19:07:22"
     },
     {
         "InterviewId": "7701",
@@ -27311,6 +27311,54 @@ let interview_data_raw = `[
         "Flight": "W6 2451",
         "Dest": "LCA",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11560",
+        "InterviewEndDate": "2024-02-09 17:20:34",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "11561",
+        "InterviewEndDate": "2024-02-09 17:14:48",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "11562",
+        "InterviewEndDate": "2024-02-09 17:20:26",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "11563",
+        "InterviewEndDate": "2024-02-09 17:23:41",
+        "InterviewState": "Complete",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "11564",
+        "InterviewEndDate": "2024-02-09 17:41:37",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "11565",
+        "InterviewEndDate": "2024-02-09 17:37:03",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
     }
 ]    
 
