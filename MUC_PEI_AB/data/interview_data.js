@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "09-02-2024 20:06:28"
+        "download_time": "09-02-2024 21:11:25"
     },
     {
         "InterviewId": "15819",
@@ -81031,6 +81031,126 @@ let interview_data_raw = `[
         "Flight": "LH 2086",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27727",
+        "InterviewEndDate": "2024-02-09 19:18:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 121",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27728",
+        "InterviewEndDate": "2024-02-09 19:15:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 121",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27733",
+        "InterviewEndDate": "2024-02-09 19:14:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1624",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27734",
+        "InterviewEndDate": "2024-02-09 19:22:56",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27735",
+        "InterviewEndDate": "2024-02-09 19:25:11",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27737",
+        "InterviewEndDate": "2024-02-09 19:25:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27738",
+        "InterviewEndDate": "2024-02-09 19:22:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2086",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27739",
+        "InterviewEndDate": "2024-02-09 19:30:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 121",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27740",
+        "InterviewEndDate": "2024-02-09 19:28:09",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27741",
+        "InterviewEndDate": "2024-02-09 19:58:51",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DWC",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "27742",
+        "InterviewEndDate": "2024-02-09 19:36:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2088",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27743",
+        "InterviewEndDate": "2024-02-09 19:59:45",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "27744",
+        "InterviewEndDate": "2024-02-09 19:48:38",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "27746",
+        "InterviewEndDate": "2024-02-09 19:51:35",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "27747",
+        "InterviewEndDate": "2024-02-09 19:50:26",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
