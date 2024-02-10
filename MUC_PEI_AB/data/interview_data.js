@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-02-2024 10:11:26"
+        "download_time": "10-02-2024 11:16:25"
     },
     {
         "InterviewId": "15819",
@@ -81415,6 +81415,150 @@ let interview_data_raw = `[
         "Flight": "AY 1402",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "27788",
+        "InterviewEndDate": "2024-02-10 09:23:15",
+        "InterviewState": "Complete",
+        "Flight": "UA  952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27789",
+        "InterviewEndDate": "2024-02-10 09:23:16",
+        "InterviewState": "Complete",
+        "Flight": "UA  952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27790",
+        "InterviewEndDate": "2024-02-10 09:31:25",
+        "InterviewState": "Complete",
+        "Flight": "UA  952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27791",
+        "InterviewEndDate": "2024-02-10 09:30:19",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27792",
+        "InterviewEndDate": "2024-02-10 09:29:15",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27793",
+        "InterviewEndDate": "2024-02-10 09:27:46",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "27794",
+        "InterviewEndDate": "2024-02-10 09:39:19",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27795",
+        "InterviewEndDate": "2024-02-10 09:49:10",
+        "InterviewState": "Complete",
+        "Flight": "UA  195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27796",
+        "InterviewEndDate": "2024-02-10 09:41:36",
+        "InterviewState": "Complete",
+        "Flight": "UA  195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27797",
+        "InterviewEndDate": "2024-02-10 09:50:59",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "27798",
+        "InterviewEndDate": "2024-02-10 09:51:08",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "27799",
+        "InterviewEndDate": "2024-02-10 10:10:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27800",
+        "InterviewEndDate": "2024-02-10 10:14:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27801",
+        "InterviewEndDate": "2024-02-10 09:50:49",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "27805",
+        "InterviewEndDate": "2024-02-10 10:14:29",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27806",
+        "InterviewEndDate": "2024-02-10 10:09:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27807",
+        "InterviewEndDate": "2024-02-10 10:12:59",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27808",
+        "InterviewEndDate": "2024-02-10 10:13:49",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
