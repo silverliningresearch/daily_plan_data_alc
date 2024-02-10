@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-02-2024 12:22:13"
+        "download_time": "10-02-2024 13:27:08"
     },
     {
         "InterviewId": "5167",
@@ -25217,6 +25217,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "GQ"
     },
     {
+        "InterviewId": "8974",
+        "InterviewEndDate": "2024-02-10 11:27:01",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
         "InterviewId": "8975",
         "InterviewEndDate": "2024-02-10 11:05:39",
         "InterviewState": "Complete",
@@ -25239,6 +25247,62 @@ let interview_data_arr_raw = `[
         "Flight": "GQ - Sky Express",
         "Dest": "ATH",
         "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "8979",
+        "InterviewEndDate": "2024-02-10 11:34:03",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "8980",
+        "InterviewEndDate": "2024-02-10 11:31:47",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "8981",
+        "InterviewEndDate": "2024-02-10 11:32:18",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "8982",
+        "InterviewEndDate": "2024-02-10 11:34:40",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8984",
+        "InterviewEndDate": "2024-02-10 11:44:06",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "STN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8986",
+        "InterviewEndDate": "2024-02-10 12:08:32",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BGO",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "8987",
+        "InterviewEndDate": "2024-02-10 11:59:53",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "BGO",
+        "AirlineCode": ""
     }
 ]    
 
