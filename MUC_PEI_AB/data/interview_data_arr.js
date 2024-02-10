@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-02-2024 11:17:10"
+        "download_time": "10-02-2024 12:22:13"
     },
     {
         "InterviewId": "5167",
@@ -25119,6 +25119,126 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "TLV",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8960",
+        "InterviewEndDate": "2024-02-10 10:46:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8961",
+        "InterviewEndDate": "2024-02-10 10:46:46",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8962",
+        "InterviewEndDate": "2024-02-10 10:48:13",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8964",
+        "InterviewEndDate": "2024-02-10 11:03:56",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8965",
+        "InterviewEndDate": "2024-02-10 10:52:04",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8966",
+        "InterviewEndDate": "2024-02-10 10:55:30",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8967",
+        "InterviewEndDate": "2024-02-10 10:59:34",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8969",
+        "InterviewEndDate": "2024-02-10 10:59:43",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8970",
+        "InterviewEndDate": "2024-02-10 10:59:27",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "8971",
+        "InterviewEndDate": "2024-02-10 11:01:54",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8972",
+        "InterviewEndDate": "2024-02-10 11:07:38",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "8973",
+        "InterviewEndDate": "2024-02-10 11:07:45",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "8975",
+        "InterviewEndDate": "2024-02-10 11:05:39",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "8977",
+        "InterviewEndDate": "2024-02-10 11:10:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8978",
+        "InterviewEndDate": "2024-02-10 11:07:26",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
     }
 ]    
 
