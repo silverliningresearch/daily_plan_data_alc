@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-02-2024 05:51:25"
+        "download_time": "10-02-2024 06:56:25"
     },
     {
         "InterviewId": "15819",
@@ -81199,6 +81199,70 @@ let interview_data_raw = `[
         "Flight": "LH 1624",
         "Dest": "KRK",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27761",
+        "InterviewEndDate": "2024-02-10 05:11:09",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "27762",
+        "InterviewEndDate": "2024-02-10 05:10:19",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "27763",
+        "InterviewEndDate": "2024-02-10 05:10:45",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "27764",
+        "InterviewEndDate": "2024-02-10 05:36:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1790",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27765",
+        "InterviewEndDate": "2024-02-10 05:34:49",
+        "InterviewState": "Complete",
+        "Flight": "KL 1790",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27766",
+        "InterviewEndDate": "2024-02-10 05:35:03",
+        "InterviewState": "Complete",
+        "Flight": "KL 1790",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27767",
+        "InterviewEndDate": "2024-02-10 05:52:28",
+        "InterviewState": "Complete",
+        "Flight": "IB 3195",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "27768",
+        "InterviewEndDate": "2024-02-10 05:48:24",
+        "InterviewState": "Complete",
+        "Flight": "IB 3195",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
