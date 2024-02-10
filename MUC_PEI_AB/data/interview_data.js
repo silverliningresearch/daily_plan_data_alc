@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-02-2024 09:06:27"
+        "download_time": "10-02-2024 10:11:26"
     },
     {
         "InterviewId": "15819",
@@ -81359,6 +81359,62 @@ let interview_data_raw = `[
         "Flight": "KL 1792",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27781",
+        "InterviewEndDate": "2024-02-10 08:18:08",
+        "InterviewState": "Complete",
+        "Flight": "VY 1813",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27782",
+        "InterviewEndDate": "2024-02-10 08:09:01",
+        "InterviewState": "Complete",
+        "Flight": "VY 1813",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27783",
+        "InterviewEndDate": "2024-02-10 08:15:48",
+        "InterviewState": "Complete",
+        "Flight": "VY 1813",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27784",
+        "InterviewEndDate": "2024-02-10 08:21:31",
+        "InterviewState": "Complete",
+        "Flight": "VY 1813",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "27785",
+        "InterviewEndDate": "2024-02-10 08:58:53",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "27786",
+        "InterviewEndDate": "2024-02-10 08:53:48",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "27787",
+        "InterviewEndDate": "2024-02-10 08:59:59",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
