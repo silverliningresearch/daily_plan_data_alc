@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-02-2024 08:01:24"
+        "download_time": "10-02-2024 09:06:27"
     },
     {
         "InterviewId": "15819",
@@ -81303,6 +81303,62 @@ let interview_data_raw = `[
         "Flight": "DI 6584",
         "Dest": "TFS",
         "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "27774",
+        "InterviewEndDate": "2024-02-10 07:12:54",
+        "InterviewState": "Complete",
+        "Flight": "DE 1412",
+        "Dest": "FUE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27775",
+        "InterviewEndDate": "2024-02-10 07:04:21",
+        "InterviewState": "Complete",
+        "Flight": "DE 1412",
+        "Dest": "FUE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27776",
+        "InterviewEndDate": "2024-02-10 07:12:38",
+        "InterviewState": "Complete",
+        "Flight": "DE 1412",
+        "Dest": "FUE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "27777",
+        "InterviewEndDate": "2024-02-10 07:41:54",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27778",
+        "InterviewEndDate": "2024-02-10 07:35:58",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27779",
+        "InterviewEndDate": "2024-02-10 07:53:15",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "27780",
+        "InterviewEndDate": "2024-02-10 07:42:07",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
