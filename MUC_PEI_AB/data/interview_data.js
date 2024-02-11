@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-02-2024 11:06:27"
+        "download_time": "11-02-2024 12:11:25"
     },
     {
         "InterviewId": "15819",
@@ -81767,6 +81767,70 @@ let interview_data_raw = `[
         "Flight": "EN 8254",
         "Dest": "TRN",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27835",
+        "InterviewEndDate": "2024-02-11 10:18:17",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27837",
+        "InterviewEndDate": "2024-02-11 10:15:16",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "27838",
+        "InterviewEndDate": "2024-02-11 10:42:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27839",
+        "InterviewEndDate": "2024-02-11 10:43:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27840",
+        "InterviewEndDate": "2024-02-11 10:43:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27841",
+        "InterviewEndDate": "2024-02-11 11:00:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27842",
+        "InterviewEndDate": "2024-02-11 10:56:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27843",
+        "InterviewEndDate": "2024-02-11 10:56:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
     }
 ]    
 
