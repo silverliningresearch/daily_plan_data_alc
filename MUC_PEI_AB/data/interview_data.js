@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-02-2024 19:46:24"
+        "download_time": "11-02-2024 20:51:26"
     },
     {
         "InterviewId": "15819",
@@ -81919,6 +81919,78 @@ let interview_data_raw = `[
         "Flight": "LH 1830",
         "Dest": "BIO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27862",
+        "InterviewEndDate": "2024-02-11 19:16:39",
+        "InterviewState": "Complete",
+        "Flight": "2086",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27863",
+        "InterviewEndDate": "2024-02-11 19:09:59",
+        "InterviewState": "Complete",
+        "Flight": "2086",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27864",
+        "InterviewEndDate": "2024-02-11 19:10:15",
+        "InterviewState": "Complete",
+        "Flight": "2086",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27865",
+        "InterviewEndDate": "2024-02-11 19:09:16",
+        "InterviewState": "Complete",
+        "Flight": "2086",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27866",
+        "InterviewEndDate": "2024-02-11 19:07:53",
+        "InterviewState": "Complete",
+        "Flight": "2086",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27871",
+        "InterviewEndDate": "2024-02-11 19:38:05",
+        "InterviewState": "Complete",
+        "Flight": "2088",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27872",
+        "InterviewEndDate": "2024-02-11 19:41:23",
+        "InterviewState": "Complete",
+        "Flight": "2088",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27873",
+        "InterviewEndDate": "2024-02-11 19:41:02",
+        "InterviewState": "Complete",
+        "Flight": "2088",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27874",
+        "InterviewEndDate": "2024-02-11 19:43:12",
+        "InterviewState": "Complete",
+        "Flight": "2088",
+        "Dest": "HAM",
+        "AirlineCode": "20"
     }
 ]    
 
