@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "12-02-2024 16:27:05"
+        "download_time": "12-02-2024 17:38:05"
     },
     {
         "InterviewId": "7701",
@@ -27453,6 +27453,70 @@ let interview_data_raw = `[
         "InterviewEndDate": "2024-02-12 14:20:19",
         "InterviewState": "Complete",
         "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11578",
+        "InterviewEndDate": "2024-02-12 15:36:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11579",
+        "InterviewEndDate": "2024-02-12 15:38:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11580",
+        "InterviewEndDate": "2024-02-12 15:39:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11581",
+        "InterviewEndDate": "2024-02-12 15:42:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11582",
+        "InterviewEndDate": "2024-02-12 16:23:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11583",
+        "InterviewEndDate": "2024-02-12 16:23:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11584",
+        "InterviewEndDate": "2024-02-12 16:19:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11585",
+        "InterviewEndDate": "2024-02-12 16:26:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 2517",
         "Dest": "STN",
         "AirlineCode": "FR"
     }
