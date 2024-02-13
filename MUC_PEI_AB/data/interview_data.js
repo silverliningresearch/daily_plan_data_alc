@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-02-2024 17:16:34"
+        "download_time": "13-02-2024 18:21:37"
     },
     {
         "InterviewId": "15819",
@@ -82926,6 +82926,150 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2272",
         "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28010",
+        "InterviewEndDate": "2024-02-13 16:32:20",
+        "InterviewState": "Complete",
+        "Flight": "LH  2104",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28011",
+        "InterviewEndDate": "2024-02-13 16:18:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2104",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28013",
+        "InterviewEndDate": "2024-02-13 16:31:16",
+        "InterviewState": "Complete",
+        "Flight": "2104",
+        "Dest": "HAJ",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28014",
+        "InterviewEndDate": "2024-02-13 16:18:43",
+        "InterviewState": "Complete",
+        "Flight": "2104",
+        "Dest": "HAJ",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28015",
+        "InterviewEndDate": "2024-02-13 16:19:43",
+        "InterviewState": "Complete",
+        "Flight": "2104",
+        "Dest": "HAJ",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28016",
+        "InterviewEndDate": "2024-02-13 16:18:09",
+        "InterviewState": "Complete",
+        "Flight": "2104",
+        "Dest": "HAJ",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28017",
+        "InterviewEndDate": "2024-02-13 16:48:17",
+        "InterviewState": "Complete",
+        "Flight": "EZY 2198",
+        "Dest": "HAJ",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "28018",
+        "InterviewEndDate": "2024-02-13 16:20:58",
+        "InterviewState": "Complete",
+        "Flight": "2198",
+        "Dest": "BRE",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28019",
+        "InterviewEndDate": "2024-02-13 16:29:53",
+        "InterviewState": "Complete",
+        "Flight": "EZY 2198",
+        "Dest": "BRE",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "28022",
+        "InterviewEndDate": "2024-02-13 16:35:01",
+        "InterviewState": "Complete",
+        "Flight": "2104",
+        "Dest": "HAJ",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28023",
+        "InterviewEndDate": "2024-02-13 16:33:37",
+        "InterviewState": "Complete",
+        "Flight": "EZY 2198",
+        "Dest": "BRE",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "28024",
+        "InterviewEndDate": "2024-02-13 16:35:29",
+        "InterviewState": "Complete",
+        "Flight": "2104",
+        "Dest": "HAJ",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28025",
+        "InterviewEndDate": "2024-02-13 16:42:54",
+        "InterviewState": "Complete",
+        "Flight": "EZY 2198",
+        "Dest": "BRE",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "28026",
+        "InterviewEndDate": "2024-02-13 16:43:00",
+        "InterviewState": "Complete",
+        "Flight": "EZY 2198",
+        "Dest": "BRE",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "28027",
+        "InterviewEndDate": "2024-02-13 17:01:39",
+        "InterviewState": "Complete",
+        "Flight": "2140",
+        "Dest": "FMO",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28028",
+        "InterviewEndDate": "2024-02-13 17:03:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28029",
+        "InterviewEndDate": "2024-02-13 16:59:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28030",
+        "InterviewEndDate": "2024-02-13 16:56:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
         "AirlineCode": "LH"
     }
 ]    
