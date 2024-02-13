@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "13-02-2024 19:28:50"
+        "download_time": "13-02-2024 20:33:51"
     },
     {
         "InterviewId": "1224",
@@ -8007,6 +8007,46 @@ let interview_data_arr_raw = `[
         "Flight": "FM - Shanghai Airlines",
         "Dest": "NGB",
         "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "2236",
+        "InterviewEndDate": "2024-02-13 18:59:22",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2237",
+        "InterviewEndDate": "2024-02-13 19:06:15",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2238",
+        "InterviewEndDate": "2024-02-13 19:11:42",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2239",
+        "InterviewEndDate": "2024-02-13 19:20:12",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2240",
+        "InterviewEndDate": "2024-02-13 19:26:15",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
