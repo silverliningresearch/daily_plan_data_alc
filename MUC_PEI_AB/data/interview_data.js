@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-02-2024 06:26:29"
+        "download_time": "13-02-2024 07:31:30"
     },
     {
         "InterviewId": "15819",
@@ -82290,11 +82290,67 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "27917",
-        "InterviewEndDate": "2024-02-13 05:22:18",
+        "InterviewEndDate": "2024-02-13 05:26:51",
         "InterviewState": "Complete",
         "Flight": "LH 093",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27918",
+        "InterviewEndDate": "2024-02-13 05:28:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 093",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27919",
+        "InterviewEndDate": "2024-02-13 06:01:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2366",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27921",
+        "InterviewEndDate": "2024-02-13 05:59:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2366",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27922",
+        "InterviewEndDate": "2024-02-13 05:57:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2366",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27923",
+        "InterviewEndDate": "2024-02-13 06:14:43",
+        "InterviewState": "Complete",
+        "Flight": "EN 8284",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27924",
+        "InterviewEndDate": "2024-02-13 06:16:37",
+        "InterviewState": "Complete",
+        "Flight": "EN 8284",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "27925",
+        "InterviewEndDate": "2024-02-13 06:19:57",
+        "InterviewState": "Complete",
+        "Flight": "EN 8284",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
     }
 ]    
 
