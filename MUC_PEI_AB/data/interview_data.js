@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-02-2024 14:01:34"
+        "download_time": "13-02-2024 15:06:30"
     },
     {
         "InterviewId": "15819",
@@ -82633,12 +82633,116 @@ let interview_data_raw = `[
         "AirlineCode": "18"
     },
     {
+        "InterviewId": "27968",
+        "InterviewEndDate": "2024-02-13 13:39:32",
+        "InterviewState": "Complete",
+        "Flight": "2070",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27969",
+        "InterviewEndDate": "2024-02-13 13:33:42",
+        "InterviewState": "Complete",
+        "Flight": "2070",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
         "InterviewId": "27974",
         "InterviewEndDate": "2024-02-13 12:56:44",
         "InterviewState": "Complete",
         "Flight": "2126",
         "Dest": "DRS",
         "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "27975",
+        "InterviewEndDate": "2024-02-13 13:03:38",
+        "InterviewState": "Complete",
+        "Flight": "2126",
+        "Dest": "DRS",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "27976",
+        "InterviewEndDate": "2024-02-13 13:10:59",
+        "InterviewState": "Complete",
+        "Flight": "2126",
+        "Dest": "DRS",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "27978",
+        "InterviewEndDate": "2024-02-13 13:34:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2194",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27979",
+        "InterviewEndDate": "2024-02-13 13:36:26",
+        "InterviewState": "Complete",
+        "Flight": "2070",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27980",
+        "InterviewEndDate": "2024-02-13 13:34:29",
+        "InterviewState": "Complete",
+        "Flight": "2070",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27981",
+        "InterviewEndDate": "2024-02-13 13:49:35",
+        "InterviewState": "Complete",
+        "Flight": "2070",
+        "Dest": "HAM",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27982",
+        "InterviewEndDate": "2024-02-13 14:01:32",
+        "InterviewState": "Complete",
+        "Flight": "OS  104",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "27983",
+        "InterviewEndDate": "2024-02-13 14:00:32",
+        "InterviewState": "Complete",
+        "Flight": "OS  104",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "27984",
+        "InterviewEndDate": "2024-02-13 13:59:08",
+        "InterviewState": "Complete",
+        "Flight": "OS  104",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "27985",
+        "InterviewEndDate": "2024-02-13 14:00:43",
+        "InterviewState": "Complete",
+        "Flight": "OS  104",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "27986",
+        "InterviewEndDate": "2024-02-13 14:00:37",
+        "InterviewState": "Complete",
+        "Flight": "Os104",
+        "Dest": "VIE",
+        "AirlineCode": "Os"
     }
 ]    
 
