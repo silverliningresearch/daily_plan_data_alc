@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-02-2024 15:06:30"
+        "download_time": "13-02-2024 16:11:33"
     },
     {
         "InterviewId": "15819",
@@ -82743,6 +82743,86 @@ let interview_data_raw = `[
         "Flight": "Os104",
         "Dest": "VIE",
         "AirlineCode": "Os"
+    },
+    {
+        "InterviewId": "27987",
+        "InterviewEndDate": "2024-02-13 14:31:33",
+        "InterviewState": "Complete",
+        "Flight": "2024",
+        "Dest": "DUS",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27988",
+        "InterviewEndDate": "2024-02-13 14:29:06",
+        "InterviewState": "Complete",
+        "Flight": "2024",
+        "Dest": "DUS",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27989",
+        "InterviewEndDate": "2024-02-13 14:30:48",
+        "InterviewState": "Complete",
+        "Flight": "2024",
+        "Dest": "DUS",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27990",
+        "InterviewEndDate": "2024-02-13 14:31:08",
+        "InterviewState": "Complete",
+        "Flight": "2024",
+        "Dest": "DUS",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27991",
+        "InterviewEndDate": "2024-02-13 14:29:00",
+        "InterviewState": "Complete",
+        "Flight": "2024",
+        "Dest": "DUS",
+        "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27992",
+        "InterviewEndDate": "2024-02-13 14:58:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27993",
+        "InterviewEndDate": "2024-02-13 14:49:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27994",
+        "InterviewEndDate": "2024-02-13 14:59:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27995",
+        "InterviewEndDate": "2024-02-13 14:54:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "27996",
+        "InterviewEndDate": "2024-02-13 14:48:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
