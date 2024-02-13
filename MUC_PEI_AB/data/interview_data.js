@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-02-2024 12:56:33"
+        "download_time": "13-02-2024 14:01:34"
     },
     {
         "InterviewId": "15819",
@@ -82559,6 +82559,86 @@ let interview_data_raw = `[
         "Flight": "2066",
         "Dest": "HAM",
         "AirlineCode": "20"
+    },
+    {
+        "InterviewId": "27958",
+        "InterviewEndDate": "2024-02-13 12:16:26",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27959",
+        "InterviewEndDate": "2024-02-13 12:13:18",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27960",
+        "InterviewEndDate": "2024-02-13 12:20:28",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27962",
+        "InterviewEndDate": "2024-02-13 12:11:35",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27963",
+        "InterviewEndDate": "2024-02-13 12:27:03",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27964",
+        "InterviewEndDate": "2024-02-13 12:40:08",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27965",
+        "InterviewEndDate": "2024-02-13 12:40:43",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27966",
+        "InterviewEndDate": "2024-02-13 12:30:33",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27967",
+        "InterviewEndDate": "2024-02-13 12:37:18",
+        "InterviewState": "Complete",
+        "Flight": "1804",
+        "Dest": "MAD",
+        "AirlineCode": "18"
+    },
+    {
+        "InterviewId": "27974",
+        "InterviewEndDate": "2024-02-13 12:56:44",
+        "InterviewState": "Complete",
+        "Flight": "2126",
+        "Dest": "DRS",
+        "AirlineCode": "21"
     }
 ]    
 
