@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "14-02-2024 16:03:52"
+        "download_time": "14-02-2024 17:08:48"
     },
     {
         "InterviewId": "3965",
@@ -25247,6 +25247,46 @@ let interview_data_raw = `[
         "Flight": "W6 2387",
         "Dest": "ALC",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7290",
+        "InterviewEndDate": "2024-02-14 15:18:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7291",
+        "InterviewEndDate": "2024-02-14 15:19:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7292",
+        "InterviewEndDate": "2024-02-14 15:20:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7293",
+        "InterviewEndDate": "2024-02-14 15:22:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7294",
+        "InterviewEndDate": "2024-02-14 15:30:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
     }
 ]    
 
