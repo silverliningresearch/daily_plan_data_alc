@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-02-2024 08:26:30"
+        "download_time": "14-02-2024 09:31:33"
     },
     {
         "InterviewId": "15819",
@@ -83071,6 +83071,86 @@ let interview_data_raw = `[
         "Flight": "LH 2140",
         "Dest": "FMO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28032",
+        "InterviewEndDate": "2024-02-14 07:50:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28033",
+        "InterviewEndDate": "2024-02-14 07:56:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28034",
+        "InterviewEndDate": "2024-02-14 07:53:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28035",
+        "InterviewEndDate": "2024-02-14 07:46:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28036",
+        "InterviewEndDate": "2024-02-14 07:49:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28037",
+        "InterviewEndDate": "2024-02-14 08:23:17",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28038",
+        "InterviewEndDate": "2024-02-14 08:22:56",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28039",
+        "InterviewEndDate": "2024-02-14 08:21:33",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28040",
+        "InterviewEndDate": "2024-02-14 08:26:22",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28041",
+        "InterviewEndDate": "2024-02-14 08:23:03",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
