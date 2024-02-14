@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-02-2024 09:31:33"
+        "download_time": "14-02-2024 10:36:35"
     },
     {
         "InterviewId": "15819",
@@ -83151,6 +83151,142 @@ let interview_data_raw = `[
         "Flight": "A3  501",
         "Dest": "SKG",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28042",
+        "InterviewEndDate": "2024-02-14 08:31:39",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28043",
+        "InterviewEndDate": "2024-02-14 08:37:31",
+        "InterviewState": "Complete",
+        "Flight": "A3  501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28044",
+        "InterviewEndDate": "2024-02-14 09:01:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28045",
+        "InterviewEndDate": "2024-02-14 08:54:41",
+        "InterviewState": "Complete",
+        "Flight": "2192",
+        "Dest": "BRE",
+        "AirlineCode": "21"
+    },
+    {
+        "InterviewId": "28046",
+        "InterviewEndDate": "2024-02-14 08:56:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28047",
+        "InterviewEndDate": "2024-02-14 08:54:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28048",
+        "InterviewEndDate": "2024-02-14 08:51:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28049",
+        "InterviewEndDate": "2024-02-14 09:01:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28050",
+        "InterviewEndDate": "2024-02-14 08:59:47",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "28051",
+        "InterviewEndDate": "2024-02-14 09:02:07",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "28052",
+        "InterviewEndDate": "2024-02-14 09:04:55",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "28053",
+        "InterviewEndDate": "2024-02-14 09:03:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28054",
+        "InterviewEndDate": "2024-02-14 09:09:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28055",
+        "InterviewEndDate": "2024-02-14 09:11:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2192",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28056",
+        "InterviewEndDate": "2024-02-14 09:17:01",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28057",
+        "InterviewEndDate": "2024-02-14 09:14:21",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28058",
+        "InterviewEndDate": "2024-02-14 09:22:39",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 

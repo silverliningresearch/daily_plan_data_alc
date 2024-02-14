@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-02-2024 09:32:23"
+        "download_time": "14-02-2024 10:37:23"
     },
     {
         "InterviewId": "5167",
@@ -25545,6 +25545,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "EW"
     },
     {
+        "InterviewId": "9023",
+        "InterviewEndDate": "2024-02-14 08:33:13",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
         "InterviewId": "9024",
         "InterviewEndDate": "2024-02-14 07:08:25",
         "InterviewState": "Complete",
@@ -25590,6 +25598,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9031",
+        "InterviewEndDate": "2024-02-14 08:33:04",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "9032",
+        "InterviewEndDate": "2024-02-14 08:36:02",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9033",
+        "InterviewEndDate": "2024-02-14 08:34:52",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "9034",
+        "InterviewEndDate": "2024-02-14 08:58:08",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "9035",
+        "InterviewEndDate": "2024-02-14 09:08:19",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "9036",
+        "InterviewEndDate": "2024-02-14 09:29:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HEL",
         "AirlineCode": "LH"
     }
 ]    
