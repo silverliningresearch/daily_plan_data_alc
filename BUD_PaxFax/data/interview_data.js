@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "14-02-2024 15:02:00"
+        "download_time": "14-02-2024 16:07:08"
     },
     {
         "InterviewId": "7701",
@@ -27774,6 +27774,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2251",
         "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11622",
+        "InterviewEndDate": "2024-02-14 14:24:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11623",
+        "InterviewEndDate": "2024-02-14 14:23:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11624",
+        "InterviewEndDate": "2024-02-14 14:21:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11625",
+        "InterviewEndDate": "2024-02-14 14:25:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11626",
+        "InterviewEndDate": "2024-02-14 14:31:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11627",
+        "InterviewEndDate": "2024-02-14 14:57:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11628",
+        "InterviewEndDate": "2024-02-14 14:55:51",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11629",
+        "InterviewEndDate": "2024-02-14 14:54:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
         "AirlineCode": "W6"
     }
 ]    
