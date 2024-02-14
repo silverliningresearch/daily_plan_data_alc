@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-02-2024 11:41:34"
+        "download_time": "14-02-2024 12:46:35"
     },
     {
         "InterviewId": "15819",
@@ -83377,12 +83377,164 @@ let interview_data_raw = `[
         "AirlineCode": "IB"
     },
     {
+        "InterviewId": "28073",
+        "InterviewEndDate": "2024-02-14 10:42:00",
+        "InterviewState": "Complete",
+        "Flight": "EW 9087",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "28074",
         "InterviewEndDate": "2024-02-14 10:37:44",
         "InterviewState": "Complete",
         "Flight": "EW 9087",
         "Dest": "DUS",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28075",
+        "InterviewEndDate": "2024-02-14 10:41:50",
+        "InterviewState": "Complete",
+        "Flight": "EW 9087",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28076",
+        "InterviewEndDate": "2024-02-14 10:42:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28077",
+        "InterviewEndDate": "2024-02-14 10:44:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28078",
+        "InterviewEndDate": "2024-02-14 10:47:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28079",
+        "InterviewEndDate": "2024-02-14 10:58:43",
+        "InterviewState": "Complete",
+        "Flight": "BA 951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28080",
+        "InterviewEndDate": "2024-02-14 10:59:43",
+        "InterviewState": "Complete",
+        "Flight": "BA 951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28081",
+        "InterviewEndDate": "2024-02-14 10:56:34",
+        "InterviewState": "Complete",
+        "Flight": "BA 951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28082",
+        "InterviewEndDate": "2024-02-14 11:07:04",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "28083",
+        "InterviewEndDate": "2024-02-14 11:06:54",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "28084",
+        "InterviewEndDate": "2024-02-14 11:22:10",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "28085",
+        "InterviewEndDate": "2024-02-14 11:20:21",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "28086",
+        "InterviewEndDate": "2024-02-14 11:23:46",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "28087",
+        "InterviewEndDate": "2024-02-14 11:19:06",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "28088",
+        "InterviewEndDate": "2024-02-14 11:33:13",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "28090",
+        "InterviewEndDate": "2024-02-14 11:35:48",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "28091",
+        "InterviewEndDate": "2024-02-14 11:44:23",
+        "InterviewState": "Complete",
+        "Flight": "XQ 977",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "28092",
+        "InterviewEndDate": "2024-02-14 11:34:13",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "28093",
+        "InterviewEndDate": "2024-02-14 11:36:23",
+        "InterviewState": "Complete",
+        "Flight": "XQ 977",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
     }
 ]    
 
