@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "14-02-2024 21:18:27"
+        "download_time": "14-02-2024 22:23:09"
     },
     {
         "InterviewId": "6722",
@@ -54853,6 +54853,96 @@ let interview_data_raw = `[
         "Flight": "EY085",
         "Dest": "FCO",
         "AirlineCode": "EY085",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13187",
+        "InterviewEndDate": "2024-02-14 17:26:31",
+        "InterviewState": "Complete",
+        "Flight": "W42982",
+        "Dest": "VIE",
+        "AirlineCode": "W42982",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13188",
+        "InterviewEndDate": "2024-02-14 17:26:46",
+        "InterviewState": "Complete",
+        "Flight": "W42982",
+        "Dest": "VIE",
+        "AirlineCode": "W42982",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13189",
+        "InterviewEndDate": "2024-02-14 17:35:41",
+        "InterviewState": "Complete",
+        "Flight": "W42982",
+        "Dest": "VIE",
+        "AirlineCode": "W42982",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13190",
+        "InterviewEndDate": "2024-02-14 17:35:10",
+        "InterviewState": "Complete",
+        "Flight": "W42982",
+        "Dest": "VIE",
+        "AirlineCode": "W42982",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13191",
+        "InterviewEndDate": "2024-02-14 17:51:09",
+        "InterviewState": "Complete",
+        "Flight": "3l127",
+        "Dest": "COK",
+        "AirlineCode": "3l127",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13192",
+        "InterviewEndDate": "2024-02-14 17:45:02",
+        "InterviewState": "Complete",
+        "Flight": "3l 127",
+        "Dest": "COK",
+        "AirlineCode": "3l",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13193",
+        "InterviewEndDate": "2024-02-14 17:50:32",
+        "InterviewState": "Complete",
+        "Flight": "3l 127",
+        "Dest": "COK",
+        "AirlineCode": "3l",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13194",
+        "InterviewEndDate": "2024-02-14 18:00:59",
+        "InterviewState": "Complete",
+        "Flight": "3l 127",
+        "Dest": "COK",
+        "AirlineCode": "3l",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13195",
+        "InterviewEndDate": "2024-02-14 18:08:12",
+        "InterviewState": "Complete",
+        "Flight": "3l 127",
+        "Dest": "COK",
+        "AirlineCode": "3l",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13196",
+        "InterviewEndDate": "2024-02-14 18:18:14",
+        "InterviewState": "Complete",
+        "Flight": "3l 127",
+        "Dest": "COK",
+        "AirlineCode": "3l",
         "Terminal": "T"
     }
 ]    
