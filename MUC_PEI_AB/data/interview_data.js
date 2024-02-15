@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "15-02-2024 10:26:34"
+        "download_time": "15-02-2024 11:31:35"
     },
     {
         "InterviewId": "15819",
@@ -83790,6 +83790,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 766",
         "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28130",
+        "InterviewEndDate": "2024-02-15 09:30:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28131",
+        "InterviewEndDate": "2024-02-15 09:35:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28132",
+        "InterviewEndDate": "2024-02-15 09:36:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28133",
+        "InterviewEndDate": "2024-02-15 09:45:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28134",
+        "InterviewEndDate": "2024-02-15 09:48:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28135",
+        "InterviewEndDate": "2024-02-15 09:48:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28136",
+        "InterviewEndDate": "2024-02-15 10:13:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28137",
+        "InterviewEndDate": "2024-02-15 10:04:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28138",
+        "InterviewEndDate": "2024-02-15 10:06:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
         "AirlineCode": "LH"
     }
 ]    
