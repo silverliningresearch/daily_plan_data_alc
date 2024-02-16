@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "16-02-2024 13:37:07"
+        "download_time": "16-02-2024 14:42:11"
     },
     {
         "InterviewId": "7701",
@@ -28017,12 +28017,68 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "11654",
+        "InterviewEndDate": "2024-02-16 12:37:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewId": "11655",
         "InterviewEndDate": "2024-02-16 12:35:48",
         "InterviewState": "Complete",
         "Flight": "W6 2341",
         "Dest": "FCO",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11656",
+        "InterviewEndDate": "2024-02-16 12:52:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11658",
+        "InterviewEndDate": "2024-02-16 12:46:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11659",
+        "InterviewEndDate": "2024-02-16 13:22:36",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "11660",
+        "InterviewEndDate": "2024-02-16 13:22:28",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "11661",
+        "InterviewEndDate": "2024-02-16 13:23:07",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "11662",
+        "InterviewEndDate": "2024-02-16 13:26:18",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     }
 ]    
 
