@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "16-02-2024 23:08:14"
+        "download_time": "17-02-2024 00:13:06"
     },
     {
         "InterviewId": "6722",
@@ -55222,6 +55222,51 @@ let interview_data_raw = `[
         "Flight": "IX420",
         "Dest": "COK",
         "AirlineCode": "IX420",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13228",
+        "InterviewEndDate": "2024-02-16 19:10:12",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13229",
+        "InterviewEndDate": "2024-02-16 19:24:51",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13230",
+        "InterviewEndDate": "2024-02-16 19:40:06",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13231",
+        "InterviewEndDate": "2024-02-16 19:49:40",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13232",
+        "InterviewEndDate": "2024-02-16 19:54:59",
+        "InterviewState": "Complete",
+        "Flight": "6E1406",
+        "Dest": "DEL",
+        "AirlineCode": "6E1406",
         "Terminal": "T"
     }
 ]    
