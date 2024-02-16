@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-02-2024 11:21:36"
+        "download_time": "16-02-2024 12:26:37"
     },
     {
         "InterviewId": "15819",
@@ -84273,6 +84273,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "28195",
+        "InterviewEndDate": "2024-02-16 10:20:55",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
         "InterviewId": "28196",
         "InterviewEndDate": "2024-02-16 10:14:02",
         "InterviewState": "Complete",
@@ -84311,6 +84319,46 @@ let interview_data_raw = `[
         "Flight": "LH 410",
         "Dest": "JFK",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28201",
+        "InterviewEndDate": "2024-02-16 10:35:40",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "28202",
+        "InterviewEndDate": "2024-02-16 10:36:37",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "28203",
+        "InterviewEndDate": "2024-02-16 10:44:14",
+        "InterviewState": "Complete",
+        "Flight": "KM 307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "28204",
+        "InterviewEndDate": "2024-02-16 10:52:33",
+        "InterviewState": "Complete",
+        "Flight": "KM 307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "28205",
+        "InterviewEndDate": "2024-02-16 10:40:33",
+        "InterviewState": "Complete",
+        "Flight": "KM 307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
     }
 ]    
 
