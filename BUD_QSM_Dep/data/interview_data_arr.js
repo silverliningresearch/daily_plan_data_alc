@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "16-02-2024 16:49:02"
+        "download_time": "16-02-2024 17:53:58"
     },
     {
         "InterviewId": "1224",
@@ -8166,6 +8166,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2257",
+        "InterviewEndDate": "2024-02-16 16:03:33",
+        "InterviewState": "Complete",
+        "Flight": "6H - Israir Airlines",
+        "Dest": "TLV",
+        "AirlineCode": "6H"
+    },
+    {
+        "InterviewId": "2258",
+        "InterviewEndDate": "2024-02-16 16:10:19",
+        "InterviewState": "Complete",
+        "Flight": "6H - Israir Airlines",
+        "Dest": "TLV",
+        "AirlineCode": "6H"
+    },
+    {
+        "InterviewId": "2259",
+        "InterviewEndDate": "2024-02-16 16:22:39",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2260",
+        "InterviewEndDate": "2024-02-16 16:28:21",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2261",
+        "InterviewEndDate": "2024-02-16 16:35:09",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2262",
+        "InterviewEndDate": "2024-02-16 16:42:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CTA",
         "AirlineCode": "FR"
     }
 ]    

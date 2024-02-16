@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-02-2024 16:46:35"
+        "download_time": "16-02-2024 17:51:35"
     },
     {
         "InterviewId": "15819",
@@ -84423,6 +84423,86 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28214",
+        "InterviewEndDate": "2024-02-16 15:46:50",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28215",
+        "InterviewEndDate": "2024-02-16 15:49:26",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28216",
+        "InterviewEndDate": "2024-02-16 15:55:03",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28217",
+        "InterviewEndDate": "2024-02-16 16:01:38",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28218",
+        "InterviewEndDate": "2024-02-16 16:16:02",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "28221",
+        "InterviewEndDate": "2024-02-16 16:34:08",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "28222",
+        "InterviewEndDate": "2024-02-16 16:36:29",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "28224",
+        "InterviewEndDate": "2024-02-16 16:28:22",
+        "InterviewState": "Complete",
+        "Flight": "EW 4063",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28225",
+        "InterviewEndDate": "2024-02-16 16:35:38",
+        "InterviewState": "Complete",
+        "Flight": "EJU3946",
+        "Dest": "MXP",
+        "AirlineCode": "EJ"
+    },
+    {
+        "InterviewId": "28227",
+        "InterviewEndDate": "2024-02-16 16:39:46",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
