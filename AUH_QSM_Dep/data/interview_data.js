@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "16-02-2024 22:03:28"
+        "download_time": "16-02-2024 23:08:14"
     },
     {
         "InterviewId": "6722",
@@ -55150,6 +55150,78 @@ let interview_data_raw = `[
         "Flight": "EY210",
         "Dest": "DEL",
         "AirlineCode": "EY210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13220",
+        "InterviewEndDate": "2024-02-16 18:05:40",
+        "InterviewState": "Complete",
+        "Flight": "3l 133",
+        "Dest": "TRV",
+        "AirlineCode": "3l",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13221",
+        "InterviewEndDate": "2024-02-16 18:14:00",
+        "InterviewState": "Complete",
+        "Flight": "3l133",
+        "Dest": "TRV",
+        "AirlineCode": "3l133",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13222",
+        "InterviewEndDate": "2024-02-16 18:25:15",
+        "InterviewState": "Complete",
+        "Flight": "3l133",
+        "Dest": "TRV",
+        "AirlineCode": "3l133",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13223",
+        "InterviewEndDate": "2024-02-16 18:32:44",
+        "InterviewState": "Complete",
+        "Flight": "3L133",
+        "Dest": "TRV",
+        "AirlineCode": "3L133",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13224",
+        "InterviewEndDate": "2024-02-16 18:37:47",
+        "InterviewState": "Complete",
+        "Flight": "3L133",
+        "Dest": "TRV",
+        "AirlineCode": "3L133",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13225",
+        "InterviewEndDate": "2024-02-16 18:46:15",
+        "InterviewState": "Complete",
+        "Flight": "3l1055",
+        "Dest": "DOH",
+        "AirlineCode": "3l1055",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13226",
+        "InterviewEndDate": "2024-02-16 18:54:10",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13227",
+        "InterviewEndDate": "2024-02-16 19:02:45",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
         "Terminal": "T"
     }
 ]    
