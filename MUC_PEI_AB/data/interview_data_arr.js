@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "16-02-2024 17:52:23"
+        "download_time": "16-02-2024 18:57:20"
     },
     {
         "InterviewId": "5167",
@@ -25943,6 +25943,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "LHR",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9090",
+        "InterviewEndDate": "2024-02-16 17:12:01",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9092",
+        "InterviewEndDate": "2024-02-16 17:27:18",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9093",
+        "InterviewEndDate": "2024-02-16 17:28:01",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9095",
+        "InterviewEndDate": "2024-02-16 17:42:08",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "RMF",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9096",
+        "InterviewEndDate": "2024-02-16 17:47:15",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "RMF",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9098",
+        "InterviewEndDate": "2024-02-16 17:56:33",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
     }
 ]    
 
