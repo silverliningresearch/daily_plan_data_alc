@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "17-02-2024 12:17:16"
+        "download_time": "17-02-2024 13:22:18"
     },
     {
         "InterviewId": "5167",
@@ -26065,12 +26065,60 @@ let interview_data_arr_raw = `[
         "AirlineCode": "SK"
     },
     {
+        "InterviewId": "9110",
+        "InterviewEndDate": "2024-02-17 11:42:57",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
         "InterviewId": "9111",
         "InterviewEndDate": "2024-02-17 11:13:45",
         "InterviewState": "Complete",
         "Flight": "SK - SAS-Scandinavian Airlines System",
         "Dest": "ARN",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "9114",
+        "InterviewEndDate": "2024-02-17 11:44:25",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "9116",
+        "InterviewEndDate": "2024-02-17 11:54:00",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9123",
+        "InterviewEndDate": "2024-02-17 12:16:55",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9124",
+        "InterviewEndDate": "2024-02-17 12:19:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9125",
+        "InterviewEndDate": "2024-02-17 12:21:37",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
     }
 ]    
 

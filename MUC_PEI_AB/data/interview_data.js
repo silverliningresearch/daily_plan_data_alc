@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "17-02-2024 12:16:31"
+        "download_time": "17-02-2024 13:21:33"
     },
     {
         "InterviewId": "15819",
@@ -84855,6 +84855,86 @@ let interview_data_raw = `[
         "Flight": "GQ 871",
         "Dest": "ATH",
         "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "28279",
+        "InterviewEndDate": "2024-02-17 11:23:38",
+        "InterviewState": "Complete",
+        "Flight": "MS 788",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "28280",
+        "InterviewEndDate": "2024-02-17 11:18:25",
+        "InterviewState": "Complete",
+        "Flight": "MS 788",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "28281",
+        "InterviewEndDate": "2024-02-17 11:25:10",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "28282",
+        "InterviewEndDate": "2024-02-17 11:18:30",
+        "InterviewState": "Complete",
+        "Flight": "MS 788",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "28285",
+        "InterviewEndDate": "2024-02-17 11:58:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28286",
+        "InterviewEndDate": "2024-02-17 11:58:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28287",
+        "InterviewEndDate": "2024-02-17 11:59:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28288",
+        "InterviewEndDate": "2024-02-17 12:08:03",
+        "InterviewState": "Complete",
+        "Flight": "EK 050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "28289",
+        "InterviewEndDate": "2024-02-17 12:16:33",
+        "InterviewState": "Complete",
+        "Flight": "EK 050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "28290",
+        "InterviewEndDate": "2024-02-17 12:09:24",
+        "InterviewState": "Complete",
+        "Flight": "EK 050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 

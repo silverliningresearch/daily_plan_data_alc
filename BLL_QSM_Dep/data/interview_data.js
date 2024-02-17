@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-02-2024 12:17:36"
+        "download_time": "17-02-2024 13:22:38"
     },
     {
         "InterviewId": "6093",
@@ -42703,6 +42703,70 @@ let interview_data_raw = `[
         "Flight": "HV367",
         "Dest": "SZG",
         "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14533",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14534",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14535",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14536",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14537",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14538",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14540",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14541",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
     }
 ]    
 
