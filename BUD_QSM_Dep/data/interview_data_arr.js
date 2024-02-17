@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "17-02-2024 18:48:42"
+        "download_time": "17-02-2024 19:53:48"
     },
     {
         "InterviewId": "1224",
@@ -8231,6 +8231,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "2265",
+        "InterviewEndDate": "2024-02-17 18:07:20",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2266",
+        "InterviewEndDate": "2024-02-17 18:14:40",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2267",
+        "InterviewEndDate": "2024-02-17 18:24:53",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2268",
+        "InterviewEndDate": "2024-02-17 18:30:24",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2269",
+        "InterviewEndDate": "2024-02-17 18:37:48",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PRG",
+        "AirlineCode": "FR"
     }
 ]    
 
