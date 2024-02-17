@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "17-02-2024 11:11:31"
+        "download_time": "17-02-2024 12:16:31"
     },
     {
         "InterviewId": "15819",
@@ -84793,12 +84793,68 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "28271",
+        "InterviewEndDate": "2024-02-17 10:12:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "28272",
         "InterviewEndDate": "2024-02-17 10:10:52",
         "InterviewState": "Complete",
         "Flight": "LH 2474",
         "Dest": "LHR",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28273",
+        "InterviewEndDate": "2024-02-17 10:10:19",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "28274",
+        "InterviewEndDate": "2024-02-17 10:25:13",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "28275",
+        "InterviewEndDate": "2024-02-17 10:19:52",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "28276",
+        "InterviewEndDate": "2024-02-17 10:16:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28277",
+        "InterviewEndDate": "2024-02-17 10:30:14",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "28278",
+        "InterviewEndDate": "2024-02-17 11:01:30",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
     }
 ]    
 

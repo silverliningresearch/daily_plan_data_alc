@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-02-2024 11:12:36"
+        "download_time": "17-02-2024 12:17:36"
     },
     {
         "InterviewId": "6093",
@@ -42639,6 +42639,70 @@ let interview_data_raw = `[
         "Flight": "LH837",
         "Dest": "FRA",
         "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "14524",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14525",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14526",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14527",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14529",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14530",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14531",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
+    },
+    {
+        "InterviewId": "14532",
+        "InterviewEndDate": "2024-02-17",
+        "InterviewState": "Complete",
+        "Flight": "HV367",
+        "Dest": "SZG",
+        "AirlineCode": "HV367"
     }
 ]    
 

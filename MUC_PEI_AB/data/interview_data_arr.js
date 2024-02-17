@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "17-02-2024 11:12:17"
+        "download_time": "17-02-2024 12:17:16"
     },
     {
         "InterviewId": "5167",
@@ -26023,6 +26023,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "DRS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9105",
+        "InterviewEndDate": "2024-02-17 11:01:21",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9106",
+        "InterviewEndDate": "2024-02-17 10:58:33",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9107",
+        "InterviewEndDate": "2024-02-17 11:00:58",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9108",
+        "InterviewEndDate": "2024-02-17 11:08:08",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "9109",
+        "InterviewEndDate": "2024-02-17 11:08:09",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "9111",
+        "InterviewEndDate": "2024-02-17 11:13:45",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     }
 ]    
 
