@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "17-02-2024 09:01:36"
+        "download_time": "17-02-2024 10:06:31"
     },
     {
         "InterviewId": "15819",
@@ -84663,6 +84663,78 @@ let interview_data_raw = `[
         "Flight": "LH 1810",
         "Dest": "BCN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28253",
+        "InterviewEndDate": "2024-02-17 08:10:19",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28254",
+        "InterviewEndDate": "2024-02-17 08:11:01",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28255",
+        "InterviewEndDate": "2024-02-17 08:08:10",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28257",
+        "InterviewEndDate": "2024-02-17 08:27:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28258",
+        "InterviewEndDate": "2024-02-17 08:41:19",
+        "InterviewState": "Complete",
+        "Flight": "DY 1157",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "28259",
+        "InterviewEndDate": "2024-02-17 08:23:47",
+        "InterviewState": "Complete",
+        "Flight": "DY 1157",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "28260",
+        "InterviewEndDate": "2024-02-17 09:02:40",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28261",
+        "InterviewEndDate": "2024-02-17 09:03:21",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28263",
+        "InterviewEndDate": "2024-02-17 09:05:59",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
     }
 ]    
 
