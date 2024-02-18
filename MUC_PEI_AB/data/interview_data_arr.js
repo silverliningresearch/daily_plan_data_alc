@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "18-02-2024 08:52:22"
+        "download_time": "18-02-2024 09:57:29"
     },
     {
         "InterviewId": "5167",
@@ -26119,6 +26119,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "ORD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9126",
+        "InterviewEndDate": "2024-02-18 08:33:42",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9127",
+        "InterviewEndDate": "2024-02-18 08:37:12",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "CUN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9129",
+        "InterviewEndDate": "2024-02-18 08:39:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9130",
+        "InterviewEndDate": "2024-02-18 08:41:31",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9131",
+        "InterviewEndDate": "2024-02-18 08:43:29",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9133",
+        "InterviewEndDate": "2024-02-18 08:52:16",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9134",
+        "InterviewEndDate": "2024-02-18 08:54:24",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
