@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-02-2024 19:42:35"
+        "download_time": "18-02-2024 20:47:38"
     },
     {
         "InterviewId": "6093",
@@ -43129,12 +43129,28 @@ let interview_data_raw = `[
         "AirlineCode": "KL1348"
     },
     {
+        "InterviewId": "14620",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
         "InterviewId": "14621",
         "InterviewEndDate": "2024-02-18",
         "InterviewState": "Complete",
         "Flight": "KL1348",
         "Dest": "AMS",
         "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "14622",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
     },
     {
         "InterviewId": "14623",
@@ -43153,6 +43169,14 @@ let interview_data_raw = `[
         "AirlineCode": "KL1348"
     },
     {
+        "InterviewId": "14626",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
         "InterviewId": "14627",
         "InterviewEndDate": "2024-02-18",
         "InterviewState": "Complete",
@@ -43169,12 +43193,28 @@ let interview_data_raw = `[
         "AirlineCode": "FR9752"
     },
     {
+        "InterviewId": "14630",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
         "InterviewId": "14631",
         "InterviewEndDate": "2024-02-18",
         "InterviewState": "Complete",
         "Flight": "FR9752",
         "Dest": "VIE",
         "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "14632",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
     },
     {
         "InterviewId": "14633",
@@ -43193,6 +43233,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR9752"
     },
     {
+        "InterviewId": "14635",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
         "InterviewId": "14637",
         "InterviewEndDate": "2024-02-18",
         "InterviewState": "Complete",
@@ -43207,6 +43255,14 @@ let interview_data_raw = `[
         "Flight": "FR9752",
         "Dest": "VIE",
         "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "14639",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
     },
     {
         "InterviewId": "14640",
@@ -43255,6 +43311,38 @@ let interview_data_raw = `[
         "Flight": "LO468",
         "Dest": "WAW",
         "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "14651",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "14652",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "14667",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "14668",
+        "InterviewEndDate": "2024-02-18",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
     }
 ]    
 
