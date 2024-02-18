@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "18-02-2024 09:57:29"
+        "download_time": "18-02-2024 11:02:25"
     },
     {
         "InterviewId": "5167",
@@ -26175,6 +26175,94 @@ let interview_data_arr_raw = `[
         "Flight": "A3 - Aegean Airlines",
         "Dest": "SKG",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "9135",
+        "InterviewEndDate": "2024-02-18 09:00:46",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "YUL",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "9136",
+        "InterviewEndDate": "2024-02-18 08:59:59",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9137",
+        "InterviewEndDate": "2024-02-18 09:10:24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9138",
+        "InterviewEndDate": "2024-02-18 09:06:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9139",
+        "InterviewEndDate": "2024-02-18 09:13:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9140",
+        "InterviewEndDate": "2024-02-18 09:26:31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9141",
+        "InterviewEndDate": "2024-02-18 09:29:34",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "9142",
+        "InterviewEndDate": "2024-02-18 09:37:18",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "9143",
+        "InterviewEndDate": "2024-02-18 09:38:21",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "CUN",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "9144",
+        "InterviewEndDate": "2024-02-18 09:43:10",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "YYZ",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "9145",
+        "InterviewEndDate": "2024-02-18 09:45:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
     }
 ]    
 
