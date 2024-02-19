@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-02-2024 11:57:52"
+        "download_time": "19-02-2024 13:03:15"
     },
     {
         "InterviewId": "6093",
@@ -43663,6 +43663,54 @@ let interview_data_raw = `[
         "Flight": "KL1344",
         "Dest": "AMS",
         "AirlineCode": "KL1344"
+    },
+    {
+        "InterviewId": "14725",
+        "InterviewEndDate": "2024-02-19",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14726",
+        "InterviewEndDate": "2024-02-19",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14727",
+        "InterviewEndDate": "2024-02-19",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14728",
+        "InterviewEndDate": "2024-02-19",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14730",
+        "InterviewEndDate": "2024-02-19",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "14738",
+        "InterviewEndDate": "2024-02-19",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
     }
 ]    
 
