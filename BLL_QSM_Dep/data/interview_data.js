@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-02-2024 12:53:01"
+        "download_time": "20-02-2024 13:57:56"
     },
     {
         "InterviewId": "6093",
@@ -43903,6 +43903,62 @@ let interview_data_raw = `[
         "Flight": "KL1344",
         "Dest": "AMS",
         "AirlineCode": "KL1344"
+    },
+    {
+        "InterviewId": "14783",
+        "InterviewEndDate": "2024-02-20",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "14784",
+        "InterviewEndDate": "2024-02-20",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "14785",
+        "InterviewEndDate": "2024-02-20",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "14786",
+        "InterviewEndDate": "2024-02-20",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "14787",
+        "InterviewEndDate": "2024-02-20",
+        "InterviewState": "Complete",
+        "Flight": "KL1344",
+        "Dest": "AMS",
+        "AirlineCode": "KL1344"
+    },
+    {
+        "InterviewId": "14788",
+        "InterviewEndDate": "2024-02-20",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
+    },
+    {
+        "InterviewId": "14789",
+        "InterviewEndDate": "2024-02-20",
+        "InterviewState": "Complete",
+        "Flight": "KL1346",
+        "Dest": "AMS",
+        "AirlineCode": "KL1346"
     }
 ]    
 
