@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-02-2024 08:31:40"
+        "download_time": "20-02-2024 09:36:45"
     },
     {
         "InterviewId": "15819",
@@ -85375,6 +85375,78 @@ let interview_data_raw = `[
         "Flight": "TK 1630",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "28371",
+        "InterviewEndDate": "2024-02-20 07:43:52",
+        "InterviewState": "Complete",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28372",
+        "InterviewEndDate": "2024-02-20 07:45:30",
+        "InterviewState": "Complete",
+        "Flight": "7171",
+        "Dest": "HAM",
+        "AirlineCode": "71"
+    },
+    {
+        "InterviewId": "28373",
+        "InterviewEndDate": "2024-02-20 08:05:00",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28374",
+        "InterviewEndDate": "2024-02-20 07:57:23",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28375",
+        "InterviewEndDate": "2024-02-20 08:00:14",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28376",
+        "InterviewEndDate": "2024-02-20 08:15:40",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28377",
+        "InterviewEndDate": "2024-02-20 08:10:10",
+        "InterviewState": "Complete",
+        "Flight": "KL 1792",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28379",
+        "InterviewEndDate": "2024-02-20 08:31:56",
+        "InterviewState": "Complete",
+        "Flight": "Eju4278",
+        "Dest": "NAP",
+        "AirlineCode": "Ej"
+    },
+    {
+        "InterviewId": "28380",
+        "InterviewEndDate": "2024-02-20 08:30:28",
+        "InterviewState": "Complete",
+        "Flight": "Eju4278",
+        "Dest": "NAP",
+        "AirlineCode": "Ej"
     }
 ]    
 
