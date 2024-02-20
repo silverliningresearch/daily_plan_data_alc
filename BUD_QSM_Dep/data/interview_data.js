@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "20-02-2024 16:09:14"
+        "download_time": "20-02-2024 17:14:01"
     },
     {
         "InterviewId": "3965",
@@ -25673,12 +25673,52 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "7344",
+        "InterviewEndDate": "2024-02-20 15:11:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2389",
+        "Dest": "AGP",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewId": "7345",
         "InterviewEndDate": "2024-02-20 15:06:04",
         "InterviewState": "Complete",
         "Flight": "W6 2389",
         "Dest": "AGP",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7346",
+        "InterviewEndDate": "2024-02-20 16:06:19",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "7347",
+        "InterviewEndDate": "2024-02-20 16:01:44",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "7348",
+        "InterviewEndDate": "2024-02-20 16:07:58",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "7349",
+        "InterviewEndDate": "2024-02-20 16:08:02",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
