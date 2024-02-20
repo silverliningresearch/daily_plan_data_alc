@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-02-2024 09:36:45"
+        "download_time": "20-02-2024 10:41:42"
     },
     {
         "InterviewId": "15819",
@@ -85447,6 +85447,78 @@ let interview_data_raw = `[
         "Flight": "Eju4278",
         "Dest": "NAP",
         "AirlineCode": "Ej"
+    },
+    {
+        "InterviewId": "28381",
+        "InterviewEndDate": "2024-02-20 08:38:08",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "28382",
+        "InterviewEndDate": "2024-02-20 08:51:37",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "28383",
+        "InterviewEndDate": "2024-02-20 08:51:54",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "28384",
+        "InterviewEndDate": "2024-02-20 08:49:41",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "28385",
+        "InterviewEndDate": "2024-02-20 08:49:00",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "28386",
+        "InterviewEndDate": "2024-02-20 09:23:39",
+        "InterviewState": "Complete",
+        "Flight": "AZ  437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "28387",
+        "InterviewEndDate": "2024-02-20 09:11:54",
+        "InterviewState": "Complete",
+        "Flight": "AZ  437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "28388",
+        "InterviewEndDate": "2024-02-20 09:20:48",
+        "InterviewState": "Complete",
+        "Flight": "AZ  437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "28389",
+        "InterviewEndDate": "2024-02-20 09:07:37",
+        "InterviewState": "Complete",
+        "Flight": "AZ  437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
     }
 ]    
 
