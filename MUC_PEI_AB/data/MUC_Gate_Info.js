@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C10",
-        "download_time": "20-02-2024 15:01:49"
+        "download_time": "20-02-2024 16:06:49"
     },
     {
         "aodbUniqueId": "20240220691800",
@@ -608,7 +608,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20240220692406",
@@ -649,16 +649,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H30"
-    },
-    {
-        "aodbUniqueId": "20240220692373",
-        "Date": "20-02-2024",
-        "Flight": "LH 2152",
-        "Dest": "STR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20240220692480",
@@ -703,7 +693,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240220692649",
         "Date": "20-02-2024",
-        "Flight": "LH 2142",
+        "Flight": "LH 2142F",
         "Dest": "FMO",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
