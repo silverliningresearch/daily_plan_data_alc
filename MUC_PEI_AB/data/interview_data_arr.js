@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-02-2024 11:27:32"
+        "download_time": "22-02-2024 12:32:40"
     },
     {
         "InterviewId": "5167",
@@ -26751,6 +26751,54 @@ let interview_data_arr_raw = `[
         "Flight": "UA - United Airlines",
         "Dest": "IAD",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9219",
+        "InterviewEndDate": "2024-02-22 10:56:48",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GLA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9220",
+        "InterviewEndDate": "2024-02-22 10:54:50",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "CTA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9221",
+        "InterviewEndDate": "2024-02-22 11:07:46",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EMPTY",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9222",
+        "InterviewEndDate": "2024-02-22 11:08:16",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9223",
+        "InterviewEndDate": "2024-02-22 11:25:01",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "9224",
+        "InterviewEndDate": "2024-02-22 11:31:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
