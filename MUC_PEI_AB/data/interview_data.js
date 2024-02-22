@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-02-2024 09:16:44"
+        "download_time": "22-02-2024 10:21:45"
     },
     {
         "InterviewId": "15819",
@@ -86350,6 +86350,142 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2414",
         "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28532",
+        "InterviewEndDate": "2024-02-22 08:23:48",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28535",
+        "InterviewEndDate": "2024-02-22 08:44:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2434",
+        "Dest": "BLL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28536",
+        "InterviewEndDate": "2024-02-22 08:46:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2434",
+        "Dest": "BLL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28538",
+        "InterviewEndDate": "2024-02-22 08:31:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2178",
+        "Dest": "PAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28539",
+        "InterviewEndDate": "2024-02-22 08:37:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28540",
+        "InterviewEndDate": "2024-02-22 08:41:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28547",
+        "InterviewEndDate": "2024-02-22 09:14:20",
+        "InterviewState": "Complete",
+        "Flight": "En8194",
+        "Dest": "FLR",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "28548",
+        "InterviewEndDate": "2024-02-22 08:54:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1866",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28549",
+        "InterviewEndDate": "2024-02-22 09:06:06",
+        "InterviewState": "Complete",
+        "Flight": "En 8194",
+        "Dest": "FLR",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "28550",
+        "InterviewEndDate": "2024-02-22 08:57:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1866",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28551",
+        "InterviewEndDate": "2024-02-22 08:55:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1866",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28552",
+        "InterviewEndDate": "2024-02-22 09:17:05",
+        "InterviewState": "Complete",
+        "Flight": "En8194",
+        "Dest": "FLR",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "28553",
+        "InterviewEndDate": "2024-02-22 09:11:39",
+        "InterviewState": "Complete",
+        "Flight": "En 8194",
+        "Dest": "FLR",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "28554",
+        "InterviewEndDate": "2024-02-22 09:08:09",
+        "InterviewState": "Complete",
+        "Flight": "En8194",
+        "Dest": "FLR",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "28555",
+        "InterviewEndDate": "2024-02-22 09:10:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28556",
+        "InterviewEndDate": "2024-02-22 09:12:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28557",
+        "InterviewEndDate": "2024-02-22 09:07:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
         "AirlineCode": "LH"
     }
 ]    
