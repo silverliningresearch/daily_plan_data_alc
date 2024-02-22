@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-02-2024 12:32:40"
+        "download_time": "22-02-2024 13:37:39"
     },
     {
         "InterviewId": "5167",
@@ -26798,6 +26798,62 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9225",
+        "InterviewEndDate": "2024-02-22 11:38:59",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "9226",
+        "InterviewEndDate": "2024-02-22 11:41:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9228",
+        "InterviewEndDate": "2024-02-22 11:50:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9229",
+        "InterviewEndDate": "2024-02-22 11:56:25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9230",
+        "InterviewEndDate": "2024-02-22 12:02:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9231",
+        "InterviewEndDate": "2024-02-22 12:04:30",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "FCO",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "9233",
+        "InterviewEndDate": "2024-02-22 12:24:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
