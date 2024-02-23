@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "23-02-2024 19:47:39"
+        "download_time": "23-02-2024 20:54:59"
     },
     {
         "InterviewId": "6722",
@@ -55645,6 +55645,69 @@ let interview_data_raw = `[
         "Flight": "EY309",
         "Dest": "KWI",
         "AirlineCode": "EY309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13278",
+        "InterviewEndDate": "2024-02-23 15:51:18",
+        "InterviewState": "Complete",
+        "Flight": "EY309",
+        "Dest": "KWI",
+        "AirlineCode": "EY309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13279",
+        "InterviewEndDate": "2024-02-23 16:08:24",
+        "InterviewState": "Complete",
+        "Flight": "Ey309",
+        "Dest": "KWI",
+        "AirlineCode": "Ey309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13280",
+        "InterviewEndDate": "2024-02-23 16:18:43",
+        "InterviewState": "Complete",
+        "Flight": "Ey309",
+        "Dest": "KWI",
+        "AirlineCode": "Ey309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13281",
+        "InterviewEndDate": "2024-02-23 16:25:36",
+        "InterviewState": "Complete",
+        "Flight": "Ey309",
+        "Dest": "KWI",
+        "AirlineCode": "Ey309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13283",
+        "InterviewEndDate": "2024-02-23 16:31:55",
+        "InterviewState": "Complete",
+        "Flight": "Ey309",
+        "Dest": "KWI",
+        "AirlineCode": "Ey309",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13284",
+        "InterviewEndDate": "2024-02-23 16:43:06",
+        "InterviewState": "Complete",
+        "Flight": "EY388",
+        "Dest": "MCT",
+        "AirlineCode": "EY388",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13285",
+        "InterviewEndDate": "2024-02-23 16:53:40",
+        "InterviewState": "Complete",
+        "Flight": "EY388",
+        "Dest": "MCT",
+        "AirlineCode": "EY388",
         "Terminal": "T"
     }
 ]    
