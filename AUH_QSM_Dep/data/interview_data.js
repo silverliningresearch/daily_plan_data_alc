@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "23-02-2024 08:57:13"
+        "download_time": "23-02-2024 10:03:37"
     },
     {
         "InterviewId": "6722",
@@ -55510,6 +55510,51 @@ let interview_data_raw = `[
         "Flight": "3L015",
         "Dest": "BAH",
         "AirlineCode": "3L015",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13262",
+        "InterviewEndDate": "2024-02-23 05:23:14",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13264",
+        "InterviewEndDate": "2024-02-23 05:34:27",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13265",
+        "InterviewEndDate": "2024-02-23 05:40:18",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13266",
+        "InterviewEndDate": "2024-02-23 05:47:16",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13268",
+        "InterviewEndDate": "2024-02-23 05:51:31",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
         "Terminal": "T"
     }
 ]    
