@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "23-02-2024 20:54:59"
+        "download_time": "23-02-2024 21:57:30"
     },
     {
         "InterviewId": "6722",
@@ -55708,6 +55708,69 @@ let interview_data_raw = `[
         "Flight": "EY388",
         "Dest": "MCT",
         "AirlineCode": "EY388",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13286",
+        "InterviewEndDate": "2024-02-23 17:02:02",
+        "InterviewState": "Complete",
+        "Flight": "Ey388",
+        "Dest": "MCT",
+        "AirlineCode": "Ey388",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13287",
+        "InterviewEndDate": "2024-02-23 17:10:22",
+        "InterviewState": "Complete",
+        "Flight": "Ey206",
+        "Dest": "BOM",
+        "AirlineCode": "Ey206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13288",
+        "InterviewEndDate": "2024-02-23 17:16:12",
+        "InterviewState": "Complete",
+        "Flight": "Ey206",
+        "Dest": "BOM",
+        "AirlineCode": "Ey206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13289",
+        "InterviewEndDate": "2024-02-23 17:21:15",
+        "InterviewState": "Complete",
+        "Flight": "Ey206",
+        "Dest": "BOM",
+        "AirlineCode": "Ey206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13290",
+        "InterviewEndDate": "2024-02-23 17:28:34",
+        "InterviewState": "Complete",
+        "Flight": "Ey206",
+        "Dest": "BOM",
+        "AirlineCode": "Ey206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13291",
+        "InterviewEndDate": "2024-02-23 17:38:19",
+        "InterviewState": "Complete",
+        "Flight": "Ey206",
+        "Dest": "BOM",
+        "AirlineCode": "Ey206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13292",
+        "InterviewEndDate": "2024-02-23 17:55:10",
+        "InterviewState": "Complete",
+        "Flight": "Ey408",
+        "Dest": "BKK",
+        "AirlineCode": "Ey408",
         "Terminal": "T"
     }
 ]    

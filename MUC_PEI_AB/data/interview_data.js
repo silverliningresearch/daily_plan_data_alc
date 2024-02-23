@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-02-2024 17:46:39"
+        "download_time": "23-02-2024 18:51:35"
     },
     {
         "InterviewId": "15819",
@@ -86775,6 +86775,62 @@ let interview_data_raw = `[
         "Flight": "CA 962",
         "Dest": "PEK",
         "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "28605",
+        "InterviewEndDate": "2024-02-23 17:21:10",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "28606",
+        "InterviewEndDate": "2024-02-23 17:22:18",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "28607",
+        "InterviewEndDate": "2024-02-23 17:24:08",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "28608",
+        "InterviewEndDate": "2024-02-23 17:17:45",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "28610",
+        "InterviewEndDate": "2024-02-23 17:44:37",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "28612",
+        "InterviewEndDate": "2024-02-23 17:42:12",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "28613",
+        "InterviewEndDate": "2024-02-23 17:48:30",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
