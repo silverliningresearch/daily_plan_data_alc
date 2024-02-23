@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "23-02-2024 18:44:23"
+        "download_time": "23-02-2024 19:47:39"
     },
     {
         "InterviewId": "6722",
@@ -55441,6 +55441,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "13252",
+        "InterviewEndDate": "2024-02-23 15:35:37",
+        "InterviewState": "Complete",
+        "Flight": "Ey309",
+        "Dest": "KWI",
+        "AirlineCode": "Ey309",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "13253",
         "InterviewEndDate": "2024-02-23 02:07:51",
         "InterviewState": "Complete",
@@ -55627,6 +55636,15 @@ let interview_data_raw = `[
         "Flight": "3L063",
         "Dest": "DAC",
         "AirlineCode": "3L063",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13277",
+        "InterviewEndDate": "2024-02-23 15:42:13",
+        "InterviewState": "Complete",
+        "Flight": "EY309",
+        "Dest": "KWI",
+        "AirlineCode": "EY309",
         "Terminal": "T"
     }
 ]    
