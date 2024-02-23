@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "23-02-2024 21:57:30"
+        "download_time": "23-02-2024 23:04:03"
     },
     {
         "InterviewId": "6722",
@@ -55771,6 +55771,78 @@ let interview_data_raw = `[
         "Flight": "Ey408",
         "Dest": "BKK",
         "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13293",
+        "InterviewEndDate": "2024-02-23 17:59:57",
+        "InterviewState": "Complete",
+        "Flight": "Ey408",
+        "Dest": "BKK",
+        "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13294",
+        "InterviewEndDate": "2024-02-23 18:14:44",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13295",
+        "InterviewEndDate": "2024-02-23 18:25:17",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13296",
+        "InterviewEndDate": "2024-02-23 18:30:42",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13297",
+        "InterviewEndDate": "2024-02-23 18:36:31",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13298",
+        "InterviewEndDate": "2024-02-23 18:42:28",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13299",
+        "InterviewEndDate": "2024-02-23 18:50:50",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13300",
+        "InterviewEndDate": "2024-02-23 18:56:52",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
         "Terminal": "T"
     }
 ]    
