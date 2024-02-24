@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "24-02-2024 23:57:07"
+        "download_time": "25-02-2024 01:02:04"
     },
     {
         "InterviewId": "6722",
@@ -56536,6 +56536,69 @@ let interview_data_raw = `[
         "Flight": "EY221",
         "Dest": "KHI",
         "AirlineCode": "EY221",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13383",
+        "InterviewEndDate": "2024-02-24 19:57:08",
+        "InterviewState": "Complete",
+        "Flight": "6e094",
+        "Dest": "LKO",
+        "AirlineCode": "6e094",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13384",
+        "InterviewEndDate": "2024-02-24 20:07:27",
+        "InterviewState": "Complete",
+        "Flight": "6e094",
+        "Dest": "LKO",
+        "AirlineCode": "6e094",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13385",
+        "InterviewEndDate": "2024-02-24 20:20:15",
+        "InterviewState": "Complete",
+        "Flight": "6e094",
+        "Dest": "LKO",
+        "AirlineCode": "6e094",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13386",
+        "InterviewEndDate": "2024-02-24 20:31:34",
+        "InterviewState": "Complete",
+        "Flight": "EY313",
+        "Dest": "JED",
+        "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13387",
+        "InterviewEndDate": "2024-02-24 20:37:00",
+        "InterviewState": "Complete",
+        "Flight": "EY313",
+        "Dest": "JED",
+        "AirlineCode": "EY313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13388",
+        "InterviewEndDate": "2024-02-24 20:47:40",
+        "InterviewState": "Complete",
+        "Flight": "Ey313",
+        "Dest": "JED",
+        "AirlineCode": "Ey313",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13389",
+        "InterviewEndDate": "2024-02-24 21:00:16",
+        "InterviewState": "Complete",
+        "Flight": "EY51",
+        "Dest": "GVA",
+        "AirlineCode": "EY51",
         "Terminal": "T"
     }
 ]    
