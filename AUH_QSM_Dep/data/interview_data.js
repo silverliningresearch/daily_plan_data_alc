@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "24-02-2024 12:02:05"
+        "download_time": "24-02-2024 13:07:15"
     },
     {
         "InterviewId": "6722",
@@ -56302,6 +56302,69 @@ let interview_data_raw = `[
         "Flight": "QR1045",
         "Dest": "DOH",
         "AirlineCode": "QR1045",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13354",
+        "InterviewEndDate": "2024-02-24 08:08:04",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13355",
+        "InterviewEndDate": "2024-02-24 08:09:27",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13356",
+        "InterviewEndDate": "2024-02-24 08:32:39",
+        "InterviewState": "Complete",
+        "Flight": "5w7223",
+        "Dest": "MCT",
+        "AirlineCode": "5w7223",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13358",
+        "InterviewEndDate": "2024-02-24 08:36:34",
+        "InterviewState": "Complete",
+        "Flight": "5w7223",
+        "Dest": "MCT",
+        "AirlineCode": "5w7223",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13360",
+        "InterviewEndDate": "2024-02-24 08:41:55",
+        "InterviewState": "Complete",
+        "Flight": "5w7223",
+        "Dest": "MCT",
+        "AirlineCode": "5w7223",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13361",
+        "InterviewEndDate": "2024-02-24 08:50:39",
+        "InterviewState": "Complete",
+        "Flight": "5w7223",
+        "Dest": "MCT",
+        "AirlineCode": "5w7223",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13362",
+        "InterviewEndDate": "2024-02-24 08:53:00",
+        "InterviewState": "Complete",
+        "Flight": "5w7223",
+        "Dest": "MCT",
+        "AirlineCode": "5w7223",
         "Terminal": "T"
     }
 ]    

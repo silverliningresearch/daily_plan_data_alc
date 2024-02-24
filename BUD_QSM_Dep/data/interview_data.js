@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "24-02-2024 08:58:23"
+        "download_time": "24-02-2024 10:03:25"
     },
     {
         "InterviewId": "3965",
@@ -25903,6 +25903,54 @@ let interview_data_raw = `[
         "Flight": "W6 2251",
         "Dest": "CPH",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7374",
+        "InterviewEndDate": "2024-02-24 08:28:41",
+        "InterviewState": "Complete",
+        "Flight": "PC  334",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7375",
+        "InterviewEndDate": "2024-02-24 08:28:44",
+        "InterviewState": "Complete",
+        "Flight": "PC  334",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7376",
+        "InterviewEndDate": "2024-02-24 08:31:17",
+        "InterviewState": "Complete",
+        "Flight": "PC  334",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7377",
+        "InterviewEndDate": "2024-02-24 08:39:35",
+        "InterviewState": "Complete",
+        "Flight": "PC  334",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7378",
+        "InterviewEndDate": "2024-02-24 08:36:34",
+        "InterviewState": "Complete",
+        "Flight": "PC  334",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7379",
+        "InterviewEndDate": "2024-02-24 08:36:50",
+        "InterviewState": "Complete",
+        "Flight": "PC  334",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     }
 ]    
 
