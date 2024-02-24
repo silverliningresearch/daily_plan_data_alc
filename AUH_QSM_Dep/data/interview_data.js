@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "24-02-2024 13:07:15"
+        "download_time": "24-02-2024 14:12:09"
     },
     {
         "InterviewId": "6722",
@@ -56365,6 +56365,69 @@ let interview_data_raw = `[
         "Flight": "5w7223",
         "Dest": "MCT",
         "AirlineCode": "5w7223",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13363",
+        "InterviewEndDate": "2024-02-24 09:11:39",
+        "InterviewState": "Complete",
+        "Flight": "Ey248",
+        "Dest": "CCJ",
+        "AirlineCode": "Ey248",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13364",
+        "InterviewEndDate": "2024-02-24 09:13:58",
+        "InterviewState": "Complete",
+        "Flight": "Ey248",
+        "Dest": "CCJ",
+        "AirlineCode": "Ey248",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13365",
+        "InterviewEndDate": "2024-02-24 09:26:46",
+        "InterviewState": "Complete",
+        "Flight": "Ey248",
+        "Dest": "CCJ",
+        "AirlineCode": "Ey248",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13366",
+        "InterviewEndDate": "2024-02-24 09:20:02",
+        "InterviewState": "Complete",
+        "Flight": "Ey248",
+        "Dest": "CCJ",
+        "AirlineCode": "Ey248",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13367",
+        "InterviewEndDate": "2024-02-24 09:34:52",
+        "InterviewState": "Complete",
+        "Flight": "Ey248",
+        "Dest": "CCJ",
+        "AirlineCode": "Ey248",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13368",
+        "InterviewEndDate": "2024-02-24 09:48:40",
+        "InterviewState": "Complete",
+        "Flight": "Ey248",
+        "Dest": "CCJ",
+        "AirlineCode": "Ey248",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13369",
+        "InterviewEndDate": "2024-02-24 10:10:37",
+        "InterviewState": "Complete",
+        "Flight": "PK262",
+        "Dest": "ISB",
+        "AirlineCode": "PK262",
         "Terminal": "T"
     }
 ]    
