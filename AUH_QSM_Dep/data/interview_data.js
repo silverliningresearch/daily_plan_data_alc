@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "24-02-2024 08:47:05"
+        "download_time": "24-02-2024 09:52:16"
     },
     {
         "InterviewId": "6722",
@@ -56149,6 +56149,78 @@ let interview_data_raw = `[
         "Flight": "EY653",
         "Dest": "CAI",
         "AirlineCode": "EY653",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13337",
+        "InterviewEndDate": "2024-02-24 04:50:09",
+        "InterviewState": "Complete",
+        "Flight": "EY653",
+        "Dest": "CAI",
+        "AirlineCode": "EY653",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13338",
+        "InterviewEndDate": "2024-02-24 04:58:05",
+        "InterviewState": "Complete",
+        "Flight": "EY653",
+        "Dest": "CAI",
+        "AirlineCode": "EY653",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13339",
+        "InterviewEndDate": "2024-02-24 05:08:01",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13340",
+        "InterviewEndDate": "2024-02-24 05:17:48",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13341",
+        "InterviewEndDate": "2024-02-24 05:27:45",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13342",
+        "InterviewEndDate": "2024-02-24 05:32:04",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13343",
+        "InterviewEndDate": "2024-02-24 05:31:51",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13344",
+        "InterviewEndDate": "2024-02-24 05:36:25",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
         "Terminal": "T"
     }
 ]    
