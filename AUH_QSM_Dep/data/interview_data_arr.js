@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "25-02-2024 21:37:46"
+        "download_time": "25-02-2024 22:42:34"
     },
     {
         "InterviewId": "3906",
@@ -27421,6 +27421,69 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "MED",
         "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7094",
+        "InterviewEndDate": "2024-02-25 17:44:08",
+        "InterviewState": "Complete",
+        "Flight": "ME - Middle East Airlines",
+        "Dest": "BEY",
+        "AirlineCode": "ME",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7095",
+        "InterviewEndDate": "2024-02-25 17:50:01",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "SAW",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7096",
+        "InterviewEndDate": "2024-02-25 17:57:52",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "SAW",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7097",
+        "InterviewEndDate": "2024-02-25 18:06:38",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "SAW",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7098",
+        "InterviewEndDate": "2024-02-25 18:15:02",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "BAH",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7099",
+        "InterviewEndDate": "2024-02-25 18:25:14",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "BAH",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7100",
+        "InterviewEndDate": "2024-02-25 18:32:49",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "BAH",
+        "AirlineCode": "3L",
         "Terminal": "T"
     }
 ]    

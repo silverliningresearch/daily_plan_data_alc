@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "25-02-2024 18:33:28"
+        "download_time": "25-02-2024 19:38:33"
     },
     {
         "InterviewId": "3965",
@@ -26382,6 +26382,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 2517",
         "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7434",
+        "InterviewEndDate": "2024-02-25 17:45:27",
+        "InterviewState": "Complete",
+        "Flight": "EZY8734",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "7435",
+        "InterviewEndDate": "2024-02-25 17:49:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7436",
+        "InterviewEndDate": "2024-02-25 17:49:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7437",
+        "InterviewEndDate": "2024-02-25 18:03:57",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7438",
+        "InterviewEndDate": "2024-02-25 18:00:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7439",
+        "InterviewEndDate": "2024-02-25 18:01:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
         "AirlineCode": "FR"
     }
 ]    
