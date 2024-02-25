@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "25-02-2024 18:22:48"
+        "download_time": "25-02-2024 19:27:41"
     },
     {
         "InterviewId": "3906",
@@ -27250,6 +27250,87 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "MCT",
         "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7075",
+        "InterviewEndDate": "2024-02-25 14:25:01",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "MCT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7076",
+        "InterviewEndDate": "2024-02-25 14:32:05",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "TLV",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7077",
+        "InterviewEndDate": "2024-02-25 14:35:42",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "TAS",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7078",
+        "InterviewEndDate": "2024-02-25 14:42:34",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "TAS",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7079",
+        "InterviewEndDate": "2024-02-25 14:56:09",
+        "InterviewState": "Complete",
+        "Flight": "GF - Gulf Air",
+        "Dest": "BAH",
+        "AirlineCode": "GF",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7080",
+        "InterviewEndDate": "2024-02-25 15:01:16",
+        "InterviewState": "Complete",
+        "Flight": "GF - Gulf Air",
+        "Dest": "BAH",
+        "AirlineCode": "GF",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7081",
+        "InterviewEndDate": "2024-02-25 15:09:31",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "AMM",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7082",
+        "InterviewEndDate": "2024-02-25 15:16:03",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "AMM",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7083",
+        "InterviewEndDate": "2024-02-25 15:22:53",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "AMM",
+        "AirlineCode": "EY",
         "Terminal": "T"
     }
 ]    
