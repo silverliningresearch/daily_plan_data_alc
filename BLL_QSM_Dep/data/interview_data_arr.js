@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "25-02-2024 17:27:38"
+        "download_time": "25-02-2024 18:32:39"
     },
     {
         "InterviewId": "2077",
@@ -13687,6 +13687,166 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "STN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5468",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5469",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5470",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5471",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OSL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5472",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5473",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5474",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5475",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5476",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5477",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5478",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5479",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5480",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5481",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5482",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5483",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5484",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5487",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5488",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5489",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
