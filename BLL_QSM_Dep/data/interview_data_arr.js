@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "25-02-2024 20:42:38"
+        "download_time": "25-02-2024 21:47:34"
     },
     {
         "InterviewId": "2077",
@@ -13991,6 +13991,86 @@ let interview_data_arr_raw = `[
         "Flight": "LO - LOT",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "5519",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "5520",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "5521",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "5522",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "5523",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "5524",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "5525",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5526",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5527",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5528",
+        "InterviewEndDate": "2024-02-25",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
     }
 ]    
 
