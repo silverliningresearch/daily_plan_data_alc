@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-02-2024 00:42:19"
+        "download_time": "27-02-2024 01:47:08"
     },
     {
         "InterviewId": "6722",
@@ -56986,6 +56986,69 @@ let interview_data_raw = `[
         "Flight": "Ix348",
         "Dest": "CCJ",
         "AirlineCode": "Ix348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13438",
+        "InterviewEndDate": "2024-02-26 20:54:32",
+        "InterviewState": "Complete",
+        "Flight": "Ey323",
+        "Dest": "DMM",
+        "AirlineCode": "Ey323",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13439",
+        "InterviewEndDate": "2024-02-26 21:00:57",
+        "InterviewState": "Complete",
+        "Flight": "EY323",
+        "Dest": "DMM",
+        "AirlineCode": "EY323",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13440",
+        "InterviewEndDate": "2024-02-26 21:11:15",
+        "InterviewState": "Complete",
+        "Flight": "EY011",
+        "Dest": "LHR",
+        "AirlineCode": "EY011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13441",
+        "InterviewEndDate": "2024-02-26 21:21:40",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13442",
+        "InterviewEndDate": "2024-02-26 21:26:23",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13443",
+        "InterviewEndDate": "2024-02-26 21:34:49",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13444",
+        "InterviewEndDate": "2024-02-26 21:41:20",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
         "Terminal": "T"
     }
 ]    
