@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-02-2024 18:22:37"
+        "download_time": "26-02-2024 19:27:14"
     },
     {
         "InterviewId": "5167",
@@ -27345,11 +27345,83 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "9308",
+        "InterviewEndDate": "2024-02-26 17:23:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "9309",
         "InterviewEndDate": "2024-02-26 17:14:57",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9310",
+        "InterviewEndDate": "2024-02-26 17:26:15",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9311",
+        "InterviewEndDate": "2024-02-26 17:42:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9312",
+        "InterviewEndDate": "2024-02-26 17:35:37",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9313",
+        "InterviewEndDate": "2024-02-26 17:50:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9314",
+        "InterviewEndDate": "2024-02-26 17:55:52",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "VNO",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "9316",
+        "InterviewEndDate": "2024-02-26 18:03:47",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9317",
+        "InterviewEndDate": "2024-02-26 18:12:09",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9318",
+        "InterviewEndDate": "2024-02-26 18:17:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZRH",
         "AirlineCode": "LH"
     }
 ]    

@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "26-02-2024 21:27:52"
+        "download_time": "26-02-2024 22:32:06"
     },
     {
         "InterviewId": "6722",
@@ -56833,6 +56833,78 @@ let interview_data_raw = `[
         "Flight": "EY377",
         "Dest": "BAH",
         "AirlineCode": "EY377",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13421",
+        "InterviewEndDate": "2024-02-26 17:27:22",
+        "InterviewState": "Complete",
+        "Flight": "EY377",
+        "Dest": "BAH",
+        "AirlineCode": "EY377",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13422",
+        "InterviewEndDate": "2024-02-26 17:36:06",
+        "InterviewState": "Complete",
+        "Flight": "Ey454",
+        "Dest": "SYD",
+        "AirlineCode": "Ey454",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13423",
+        "InterviewEndDate": "2024-02-26 17:46:17",
+        "InterviewState": "Complete",
+        "Flight": "Ey454",
+        "Dest": "SYD",
+        "AirlineCode": "Ey454",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13424",
+        "InterviewEndDate": "2024-02-26 17:51:02",
+        "InterviewState": "Complete",
+        "Flight": "Ey454",
+        "Dest": "SYD",
+        "AirlineCode": "Ey454",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13425",
+        "InterviewEndDate": "2024-02-26 18:07:40",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13426",
+        "InterviewEndDate": "2024-02-26 18:16:52",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13427",
+        "InterviewEndDate": "2024-02-26 18:23:24",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13428",
+        "InterviewEndDate": "2024-02-26 18:31:39",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "CDG",
+        "AirlineCode": "EY231",
         "Terminal": "T"
     }
 ]    
