@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "27-02-2024 02:52:53"
+        "download_time": "27-02-2024 03:57:50"
     },
     {
         "InterviewId": "3906",
@@ -28105,6 +28105,33 @@ let interview_data_arr_raw = `[
         "Flight": "MS - Egyptair",
         "Dest": "CAI",
         "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7172",
+        "InterviewEndDate": "2024-02-26 23:23:22",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "LHE",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7173",
+        "InterviewEndDate": "2024-02-26 23:31:47",
+        "InterviewState": "Complete",
+        "Flight": "PA - airblue",
+        "Dest": "LHE",
+        "AirlineCode": "PA",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7174",
+        "InterviewEndDate": "2024-02-26 23:40:54",
+        "InterviewState": "Complete",
+        "Flight": "PA - airblue",
+        "Dest": "LHE",
+        "AirlineCode": "PA",
         "Terminal": "T"
     }
 ]    
