@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "26-02-2024 07:22:47"
+        "download_time": "26-02-2024 08:27:34"
     },
     {
         "InterviewId": "3906",
@@ -27672,6 +27672,78 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L - Air Arabia Abu Dhabi",
         "Dest": "BEY",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7122",
+        "InterviewEndDate": "2024-02-26 03:27:30",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DEL",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7123",
+        "InterviewEndDate": "2024-02-26 03:48:38",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DEL",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7124",
+        "InterviewEndDate": "2024-02-26 03:56:36",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BLR",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7125",
+        "InterviewEndDate": "2024-02-26 04:00:53",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BLR",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7126",
+        "InterviewEndDate": "2024-02-26 04:11:57",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "COK",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7127",
+        "InterviewEndDate": "2024-02-26 04:18:03",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "COK",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7128",
+        "InterviewEndDate": "2024-02-26 04:22:40",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "COK",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7129",
+        "InterviewEndDate": "2024-02-26 04:26:43",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "COK",
         "AirlineCode": "3L",
         "Terminal": "T"
     }
