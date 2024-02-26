@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-02-2024 01:47:08"
+        "download_time": "27-02-2024 02:52:24"
     },
     {
         "InterviewId": "6722",
@@ -57049,6 +57049,69 @@ let interview_data_raw = `[
         "Flight": "Ey011",
         "Dest": "LHR",
         "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13445",
+        "InterviewEndDate": "2024-02-26 21:47:23",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13446",
+        "InterviewEndDate": "2024-02-26 22:03:54",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13447",
+        "InterviewEndDate": "2024-02-26 22:10:01",
+        "InterviewState": "Complete",
+        "Flight": "Ey31",
+        "Dest": "CDG",
+        "AirlineCode": "Ey31",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13448",
+        "InterviewEndDate": "2024-02-26 22:16:36",
+        "InterviewState": "Complete",
+        "Flight": "Ey31",
+        "Dest": "CDG",
+        "AirlineCode": "Ey31",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13449",
+        "InterviewEndDate": "2024-02-26 22:25:26",
+        "InterviewState": "Complete",
+        "Flight": "Ey31",
+        "Dest": "CDG",
+        "AirlineCode": "Ey31",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13450",
+        "InterviewEndDate": "2024-02-26 22:40:31",
+        "InterviewState": "Complete",
+        "Flight": "Ey103",
+        "Dest": "JFK",
+        "AirlineCode": "Ey103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13451",
+        "InterviewEndDate": "2024-02-26 22:49:43",
+        "InterviewState": "Complete",
+        "Flight": "Ey103",
+        "Dest": "JFK",
+        "AirlineCode": "Ey103",
         "Terminal": "T"
     }
 ]    
