@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "27-02-2024 12:48:02"
+        "download_time": "27-02-2024 13:53:04"
     },
     {
         "InterviewId": "2077",
@@ -14209,6 +14209,22 @@ let interview_data_arr_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "5548",
+        "InterviewEndDate": "2024-02-27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5549",
+        "InterviewEndDate": "2024-02-27",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "MUC",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "5550",
         "InterviewEndDate": "2024-02-27",
         "InterviewState": "Complete",
@@ -14247,6 +14263,46 @@ let interview_data_arr_raw = `[
         "Flight": "BA - British Airways",
         "Dest": "LCY",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "5557",
+        "InterviewEndDate": "2024-02-27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5558",
+        "InterviewEndDate": "2024-02-27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5559",
+        "InterviewEndDate": "2024-02-27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5560",
+        "InterviewEndDate": "2024-02-27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5561",
+        "InterviewEndDate": "2024-02-27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
     }
 ]    
 
