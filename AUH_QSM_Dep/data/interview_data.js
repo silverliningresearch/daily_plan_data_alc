@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-02-2024 12:38:56"
+        "download_time": "27-02-2024 13:43:28"
     },
     {
         "InterviewId": "6722",
@@ -57211,6 +57211,69 @@ let interview_data_raw = `[
         "Flight": "EY256",
         "Dest": "CCU",
         "AirlineCode": "EY256",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13463",
+        "InterviewEndDate": "2024-02-27 08:56:18",
+        "InterviewState": "Complete",
+        "Flight": "EY303",
+        "Dest": "KWI",
+        "AirlineCode": "EY303",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13464",
+        "InterviewEndDate": "2024-02-27 09:13:13",
+        "InterviewState": "Complete",
+        "Flight": "EY311",
+        "Dest": "JED",
+        "AirlineCode": "EY311",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13465",
+        "InterviewEndDate": "2024-02-27 09:17:06",
+        "InterviewState": "Complete",
+        "Flight": "EY311",
+        "Dest": "JED",
+        "AirlineCode": "EY311",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13466",
+        "InterviewEndDate": "2024-02-27 09:24:50",
+        "InterviewState": "Complete",
+        "Flight": "EY311",
+        "Dest": "JED",
+        "AirlineCode": "EY311",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13467",
+        "InterviewEndDate": "2024-02-27 09:30:05",
+        "InterviewState": "Complete",
+        "Flight": "EY311",
+        "Dest": "JED",
+        "AirlineCode": "EY311",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13468",
+        "InterviewEndDate": "2024-02-27 09:35:21",
+        "InterviewState": "Complete",
+        "Flight": "EY311",
+        "Dest": "JED",
+        "AirlineCode": "EY311",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13469",
+        "InterviewEndDate": "2024-02-27 09:40:52",
+        "InterviewState": "Complete",
+        "Flight": "EY311",
+        "Dest": "JED",
+        "AirlineCode": "EY311",
         "Terminal": "T"
     }
 ]    

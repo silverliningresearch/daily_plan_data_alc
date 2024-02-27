@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-02-2024 09:32:24"
+        "download_time": "27-02-2024 10:37:28"
     },
     {
         "InterviewId": "5167",
@@ -27478,6 +27478,78 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "UA - United Airlines",
         "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9328",
+        "InterviewEndDate": "2024-02-27 08:36:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9329",
+        "InterviewEndDate": "2024-02-27 08:37:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9330",
+        "InterviewEndDate": "2024-02-27 08:36:55",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9331",
+        "InterviewEndDate": "2024-02-27 08:58:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9332",
+        "InterviewEndDate": "2024-02-27 08:59:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9333",
+        "InterviewEndDate": "2024-02-27 08:59:58",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9334",
+        "InterviewEndDate": "2024-02-27 09:21:22",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9335",
+        "InterviewEndDate": "2024-02-27 09:22:56",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9336",
+        "InterviewEndDate": "2024-02-27 09:23:14",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "SFO",
         "AirlineCode": "UA"
     }
 ]    
