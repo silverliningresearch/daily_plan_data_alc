@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "27-02-2024 19:22:12"
+        "download_time": "27-02-2024 20:28:10"
     },
     {
         "InterviewId": "7701",
@@ -29095,6 +29095,78 @@ let interview_data_raw = `[
         "Flight": "W6 2361",
         "Dest": "BRI",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11795",
+        "InterviewEndDate": "2024-02-27 18:35:30",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11796",
+        "InterviewEndDate": "2024-02-27 18:37:24",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11797",
+        "InterviewEndDate": "2024-02-27 18:45:18",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11798",
+        "InterviewEndDate": "2024-02-27 18:49:46",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11799",
+        "InterviewEndDate": "2024-02-27 18:49:35",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11800",
+        "InterviewEndDate": "2024-02-27 18:46:28",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11801",
+        "InterviewEndDate": "2024-02-27 18:54:10",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11802",
+        "InterviewEndDate": "2024-02-27 18:55:03",
+        "InterviewState": "Complete",
+        "Flight": "EW 9783",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11804",
+        "InterviewEndDate": "2024-02-27 19:27:32",
+        "InterviewState": "Complete",
+        "Flight": "W4 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W4"
     }
 ]    
 
