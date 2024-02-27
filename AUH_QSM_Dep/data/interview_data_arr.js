@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "27-02-2024 14:49:44"
+        "download_time": "27-02-2024 15:54:21"
     },
     {
         "InterviewId": "3906",
@@ -28276,6 +28276,87 @@ let interview_data_arr_raw = `[
         "Flight": "SV - Saudia",
         "Dest": "RUH",
         "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7191",
+        "InterviewEndDate": "2024-02-27 10:54:53",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7192",
+        "InterviewEndDate": "2024-02-27 11:06:02",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7193",
+        "InterviewEndDate": "2024-02-27 11:08:31",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7194",
+        "InterviewEndDate": "2024-02-27 11:15:13",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7195",
+        "InterviewEndDate": "2024-02-27 11:21:51",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7196",
+        "InterviewEndDate": "2024-02-27 11:21:46",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7197",
+        "InterviewEndDate": "2024-02-27 11:31:17",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7198",
+        "InterviewEndDate": "2024-02-27 11:34:51",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7200",
+        "InterviewEndDate": "2024-02-27 11:51:27",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
         "Terminal": "T"
     }
 ]    
