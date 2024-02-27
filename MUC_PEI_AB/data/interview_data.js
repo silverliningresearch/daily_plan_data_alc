@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-02-2024 18:11:41"
+        "download_time": "27-02-2024 19:16:40"
     },
     {
         "InterviewId": "15819",
@@ -87329,6 +87329,30 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "28687",
+        "InterviewEndDate": "2024-02-27 17:12:08",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "28688",
+        "InterviewEndDate": "2024-02-27 17:11:58",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "28689",
+        "InterviewEndDate": "2024-02-27 17:35:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "28690",
         "InterviewEndDate": "2024-02-27 16:58:37",
         "InterviewState": "Complete",
@@ -87343,6 +87367,46 @@ let interview_data_raw = `[
         "Flight": "KM 309",
         "Dest": "MLA",
         "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "28692",
+        "InterviewEndDate": "2024-02-27 17:22:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 574",
+        "Dest": "CPT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28693",
+        "InterviewEndDate": "2024-02-27 17:27:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28694",
+        "InterviewEndDate": "2024-02-27 17:38:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 574",
+        "Dest": "CPT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28695",
+        "InterviewEndDate": "2024-02-27 18:12:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28696",
+        "InterviewEndDate": "2024-02-27 18:13:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
     }
 ]    
 

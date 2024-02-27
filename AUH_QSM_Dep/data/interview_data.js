@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-02-2024 21:19:53"
+        "download_time": "27-02-2024 22:23:35"
     },
     {
         "InterviewId": "6722",
@@ -57445,6 +57445,60 @@ let interview_data_raw = `[
         "Flight": "Ey408",
         "Dest": "BKK",
         "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13492",
+        "InterviewEndDate": "2024-02-27 17:31:25",
+        "InterviewState": "Complete",
+        "Flight": "Ey408",
+        "Dest": "BKK",
+        "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13493",
+        "InterviewEndDate": "2024-02-27 17:37:50",
+        "InterviewState": "Complete",
+        "Flight": "Ey408",
+        "Dest": "BKK",
+        "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13494",
+        "InterviewEndDate": "2024-02-27 17:43:08",
+        "InterviewState": "Complete",
+        "Flight": "Ey408",
+        "Dest": "BKK",
+        "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13495",
+        "InterviewEndDate": "2024-02-27 17:52:18",
+        "InterviewState": "Complete",
+        "Flight": "Ey408",
+        "Dest": "BKK",
+        "AirlineCode": "Ey408",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13496",
+        "InterviewEndDate": "2024-02-27 18:06:54",
+        "InterviewState": "Complete",
+        "Flight": "Ey460",
+        "Dest": "MEL",
+        "AirlineCode": "Ey460",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13497",
+        "InterviewEndDate": "2024-02-27 18:13:46",
+        "InterviewState": "Complete",
+        "Flight": "Ey460",
+        "Dest": "MEL",
+        "AirlineCode": "Ey460",
         "Terminal": "T"
     }
 ]    
