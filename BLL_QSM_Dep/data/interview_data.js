@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "28-02-2024 18:03:20"
+        "download_time": "28-02-2024 19:07:58"
     },
     {
         "InterviewId": "6093",
@@ -45463,6 +45463,62 @@ let interview_data_raw = `[
         "Flight": "AF1265",
         "Dest": "CDG",
         "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15062",
+        "InterviewEndDate": "2024-02-28",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "15063",
+        "InterviewEndDate": "2024-02-28",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "15064",
+        "InterviewEndDate": "2024-02-28",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "15065",
+        "InterviewEndDate": "2024-02-28",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "15071",
+        "InterviewEndDate": "2024-02-28",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "15072",
+        "InterviewEndDate": "2024-02-28",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "15073",
+        "InterviewEndDate": "2024-02-28",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
     }
 ]    
 
