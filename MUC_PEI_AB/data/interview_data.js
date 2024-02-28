@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-02-2024 19:06:43"
+        "download_time": "28-02-2024 20:11:41"
     },
     {
         "InterviewId": "15819",
@@ -87647,6 +87647,78 @@ let interview_data_raw = `[
         "Flight": "OS 116",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "28729",
+        "InterviewEndDate": "2024-02-28 18:24:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28730",
+        "InterviewEndDate": "2024-02-28 18:19:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28731",
+        "InterviewEndDate": "2024-02-28 18:23:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2170",
+        "Dest": "LEJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28732",
+        "InterviewEndDate": "2024-02-28 18:28:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2170",
+        "Dest": "LEJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28734",
+        "InterviewEndDate": "2024-02-28 18:40:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28735",
+        "InterviewEndDate": "2024-02-28 18:41:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28736",
+        "InterviewEndDate": "2024-02-28 18:45:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28737",
+        "InterviewEndDate": "2024-02-28 18:57:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28738",
+        "InterviewEndDate": "2024-02-28 18:56:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
     }
 ]    
 
