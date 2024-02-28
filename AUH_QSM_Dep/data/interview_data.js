@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "28-02-2024 23:18:25"
+        "download_time": "29-02-2024 00:22:57"
     },
     {
         "InterviewId": "6722",
@@ -58129,6 +58129,78 @@ let interview_data_raw = `[
         "Flight": "Ey264",
         "Dest": "CMB",
         "AirlineCode": "Ey264",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13573",
+        "InterviewEndDate": "2024-02-28 19:21:35",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13574",
+        "InterviewEndDate": "2024-02-28 19:22:02",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13575",
+        "InterviewEndDate": "2024-02-28 19:53:18",
+        "InterviewState": "Complete",
+        "Flight": "6E1404",
+        "Dest": "COK",
+        "AirlineCode": "6E1404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13576",
+        "InterviewEndDate": "2024-02-28 19:49:58",
+        "InterviewState": "Complete",
+        "Flight": "6E1404",
+        "Dest": "COK",
+        "AirlineCode": "6E1404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13577",
+        "InterviewEndDate": "2024-02-28 19:57:05",
+        "InterviewState": "Complete",
+        "Flight": "6e1404",
+        "Dest": "COK",
+        "AirlineCode": "6e1404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13578",
+        "InterviewEndDate": "2024-02-28 20:05:11",
+        "InterviewState": "Complete",
+        "Flight": "6e1404",
+        "Dest": "COK",
+        "AirlineCode": "6e1404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13579",
+        "InterviewEndDate": "2024-02-28 20:17:32",
+        "InterviewState": "Complete",
+        "Flight": "Ey045",
+        "Dest": "DUB",
+        "AirlineCode": "Ey045",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13580",
+        "InterviewEndDate": "2024-02-28 20:13:32",
+        "InterviewState": "Complete",
+        "Flight": "Ey045",
+        "Dest": "DUB",
+        "AirlineCode": "Ey045",
         "Terminal": "T"
     }
 ]    
