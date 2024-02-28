@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "29-02-2024 00:22:57"
+        "download_time": "29-02-2024 01:28:19"
     },
     {
         "InterviewId": "6722",
@@ -58201,6 +58201,69 @@ let interview_data_raw = `[
         "Flight": "Ey045",
         "Dest": "DUB",
         "AirlineCode": "Ey045",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13581",
+        "InterviewEndDate": "2024-02-28 20:25:52",
+        "InterviewState": "Complete",
+        "Flight": "EY005",
+        "Dest": "MUC",
+        "AirlineCode": "EY005",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13582",
+        "InterviewEndDate": "2024-02-28 20:31:29",
+        "InterviewState": "Complete",
+        "Flight": "Ey005",
+        "Dest": "MUC",
+        "AirlineCode": "Ey005",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13583",
+        "InterviewEndDate": "2024-02-28 20:30:34",
+        "InterviewState": "Complete",
+        "Flight": "EY005",
+        "Dest": "MUC",
+        "AirlineCode": "EY005",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13584",
+        "InterviewEndDate": "2024-02-28 20:42:10",
+        "InterviewState": "Complete",
+        "Flight": "Ey005",
+        "Dest": "MUC",
+        "AirlineCode": "Ey005",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13585",
+        "InterviewEndDate": "2024-02-28 20:39:42",
+        "InterviewState": "Complete",
+        "Flight": "EY085",
+        "Dest": "FCO",
+        "AirlineCode": "EY085",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13586",
+        "InterviewEndDate": "2024-02-28 20:49:00",
+        "InterviewState": "Complete",
+        "Flight": "EY085",
+        "Dest": "FCO",
+        "AirlineCode": "EY085",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13587",
+        "InterviewEndDate": "2024-02-28 20:54:42",
+        "InterviewState": "Complete",
+        "Flight": "Ey085",
+        "Dest": "FCO",
+        "AirlineCode": "Ey085",
         "Terminal": "T"
     }
 ]    
