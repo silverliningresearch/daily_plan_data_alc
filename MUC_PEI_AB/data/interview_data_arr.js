@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "28-02-2024 07:12:37"
+        "download_time": "28-02-2024 08:17:28"
     },
     {
         "InterviewId": "5167",
@@ -27687,6 +27687,102 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "HEL",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9356",
+        "InterviewEndDate": "2024-02-28 06:26:21",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "9357",
+        "InterviewEndDate": "2024-02-28 06:23:47",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "9358",
+        "InterviewEndDate": "2024-02-28 06:24:07",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "9359",
+        "InterviewEndDate": "2024-02-28 06:36:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9360",
+        "InterviewEndDate": "2024-02-28 06:36:31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9361",
+        "InterviewEndDate": "2024-02-28 06:36:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9362",
+        "InterviewEndDate": "2024-02-28 06:45:42",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9363",
+        "InterviewEndDate": "2024-02-28 06:47:11",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9364",
+        "InterviewEndDate": "2024-02-28 06:45:10",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9365",
+        "InterviewEndDate": "2024-02-28 07:09:35",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9366",
+        "InterviewEndDate": "2024-02-28 07:10:30",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9367",
+        "InterviewEndDate": "2024-02-28 07:11:46",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
     }
 ]    
 
