@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "29-02-2024 10:22:20"
+        "download_time": "29-02-2024 11:27:09"
     },
     {
         "InterviewId": "7701",
@@ -29639,6 +29639,62 @@ let interview_data_raw = `[
         "Flight": "W6 2229",
         "Dest": "SKP",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "11869",
+        "InterviewEndDate": "2024-02-29 10:18:20",
+        "InterviewState": "Complete",
+        "Flight": "AF 1395",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11870",
+        "InterviewEndDate": "2024-02-29 10:17:27",
+        "InterviewState": "Complete",
+        "Flight": "AF 1395",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11871",
+        "InterviewEndDate": "2024-02-29 10:16:17",
+        "InterviewState": "Complete",
+        "Flight": "AF 1395",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11872",
+        "InterviewEndDate": "2024-02-29 10:13:13",
+        "InterviewState": "Complete",
+        "Flight": "AF 1395",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11873",
+        "InterviewEndDate": "2024-02-29 10:22:06",
+        "InterviewState": "Complete",
+        "Flight": "AF 1395",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11874",
+        "InterviewEndDate": "2024-02-29 10:24:56",
+        "InterviewState": "Complete",
+        "Flight": "AF 1395",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11875",
+        "InterviewEndDate": "2024-02-29 10:24:51",
+        "InterviewState": "Complete",
+        "Flight": "AF 1395",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 

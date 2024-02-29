@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "29-02-2024 10:18:05"
+        "download_time": "29-02-2024 11:23:02"
     },
     {
         "InterviewId": "2077",
@@ -14431,6 +14431,102 @@ let interview_data_arr_raw = `[
         "Flight": "SK - Scandinavian Airlines System (SAS)",
         "Dest": "OSL",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "5601",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5603",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5604",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5605",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5606",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5607",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5608",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5609",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5610",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5611",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5612",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5613",
+        "InterviewEndDate": "2024-02-29",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
     }
 ]    
 
