@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-02-2024 20:01:40"
+        "download_time": "29-02-2024 21:06:40"
     },
     {
         "InterviewId": "15819",
@@ -88054,6 +88054,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2310",
         "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28786",
+        "InterviewEndDate": "2024-02-29 19:16:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28787",
+        "InterviewEndDate": "2024-02-29 19:17:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28788",
+        "InterviewEndDate": "2024-02-29 19:12:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28789",
+        "InterviewEndDate": "2024-02-29 19:17:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28791",
+        "InterviewEndDate": "2024-02-29 19:34:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28792",
+        "InterviewEndDate": "2024-02-29 19:34:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28794",
+        "InterviewEndDate": "2024-02-29 19:36:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28795",
+        "InterviewEndDate": "2024-02-29 19:29:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28796",
+        "InterviewEndDate": "2024-02-29 19:35:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28797",
+        "InterviewEndDate": "2024-02-29 19:52:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28800",
+        "InterviewEndDate": "2024-02-29 19:57:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
         "AirlineCode": "LH"
     }
 ]    
