@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-02-2024 07:02:33"
+        "download_time": "29-02-2024 08:07:26"
     },
     {
         "InterviewId": "5167",
@@ -27870,6 +27870,142 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9379",
+        "InterviewEndDate": "2024-02-29 06:10:50",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "9381",
+        "InterviewEndDate": "2024-02-29 06:14:56",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "9382",
+        "InterviewEndDate": "2024-02-29 06:13:22",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "9387",
+        "InterviewEndDate": "2024-02-29 06:14:45",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "9388",
+        "InterviewEndDate": "2024-02-29 06:21:24",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "9389",
+        "InterviewEndDate": "2024-02-29 06:20:33",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "9390",
+        "InterviewEndDate": "2024-02-29 06:19:05",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "9391",
+        "InterviewEndDate": "2024-02-29 06:21:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9393",
+        "InterviewEndDate": "2024-02-29 06:34:00",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "9394",
+        "InterviewEndDate": "2024-02-29 06:28:43",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9395",
+        "InterviewEndDate": "2024-02-29 06:29:18",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9396",
+        "InterviewEndDate": "2024-02-29 06:45:15",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "9397",
+        "InterviewEndDate": "2024-02-29 06:49:41",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "9398",
+        "InterviewEndDate": "2024-02-29 06:52:00",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "9400",
+        "InterviewEndDate": "2024-02-29 06:57:04",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "9401",
+        "InterviewEndDate": "2024-02-29 06:57:57",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "9403",
+        "InterviewEndDate": "2024-02-29 07:05:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
