@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "29-02-2024 12:32:20"
+        "download_time": "29-02-2024 13:37:12"
     },
     {
         "InterviewId": "7701",
@@ -29727,6 +29727,70 @@ let interview_data_raw = `[
         "Flight": "LO  536",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "11880",
+        "InterviewEndDate": "2024-02-29 11:50:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11881",
+        "InterviewEndDate": "2024-02-29 11:51:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11882",
+        "InterviewEndDate": "2024-02-29 11:58:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11883",
+        "InterviewEndDate": "2024-02-29 12:00:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11884",
+        "InterviewEndDate": "2024-02-29 11:59:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11885",
+        "InterviewEndDate": "2024-02-29 12:02:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 8859",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11888",
+        "InterviewEndDate": "2024-02-29 12:34:21",
+        "InterviewState": "Complete",
+        "Flight": "6H  726",
+        "Dest": "TLV",
+        "AirlineCode": "6H"
+    },
+    {
+        "InterviewId": "11889",
+        "InterviewEndDate": "2024-02-29 12:35:58",
+        "InterviewState": "Complete",
+        "Flight": "6H  726",
+        "Dest": "TLV",
+        "AirlineCode": "6H"
     }
 ]    
 
