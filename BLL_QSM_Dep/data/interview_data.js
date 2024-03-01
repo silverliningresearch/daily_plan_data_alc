@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "01-03-2024 12:17:54"
+        "download_time": "01-03-2024 13:22:43"
     },
     {
         "InterviewId": "6093",
@@ -45991,6 +45991,70 @@ let interview_data_raw = `[
         "Flight": "KL1344",
         "Dest": "AMS",
         "AirlineCode": "KL1344"
+    },
+    {
+        "InterviewId": "15147",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "15148",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "15149",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "15150",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "15151",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "15153",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "15155",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "15156",
+        "InterviewEndDate": "2024-03-01",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
     }
 ]    
 
