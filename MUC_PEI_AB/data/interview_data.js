@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "01-03-2024 16:36:37"
+        "download_time": "01-03-2024 17:41:39"
     },
     {
         "InterviewId": "15819",
@@ -88239,6 +88239,70 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28815",
+        "InterviewEndDate": "2024-03-01 15:41:44",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28816",
+        "InterviewEndDate": "2024-03-01 15:44:32",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28817",
+        "InterviewEndDate": "2024-03-01 15:45:20",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "28819",
+        "InterviewEndDate": "2024-03-01 15:54:57",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "28820",
+        "InterviewEndDate": "2024-03-01 16:38:20",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28821",
+        "InterviewEndDate": "2024-03-01 16:28:09",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28822",
+        "InterviewEndDate": "2024-03-01 16:24:57",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28823",
+        "InterviewEndDate": "2024-03-01 16:30:45",
+        "InterviewState": "Complete",
+        "Flight": "EW 6891",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
     }
 ]    
 
