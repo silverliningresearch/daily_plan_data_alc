@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "02-03-2024 06:42:17"
+        "download_time": "02-03-2024 07:47:17"
     },
     {
         "InterviewId": "5167",
@@ -28151,6 +28151,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BKK",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9429",
+        "InterviewEndDate": "2024-03-02 05:51:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9430",
+        "InterviewEndDate": "2024-03-02 05:49:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9431",
+        "InterviewEndDate": "2024-03-02 05:50:57",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9433",
+        "InterviewEndDate": "2024-03-02 06:41:36",
+        "InterviewState": "Complete",
+        "Flight": "BR - Eva Airways",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "9434",
+        "InterviewEndDate": "2024-03-02 06:41:03",
+        "InterviewState": "Complete",
+        "Flight": "BR - Eva Airways",
+        "Dest": "TPE",
+        "AirlineCode": "BR"
     }
 ]    
 

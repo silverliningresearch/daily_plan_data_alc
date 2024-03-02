@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-03-2024 06:41:36"
+        "download_time": "02-03-2024 07:46:36"
     },
     {
         "InterviewId": "15819",
@@ -88503,6 +88503,78 @@ let interview_data_raw = `[
         "Flight": "SM 2999",
         "Dest": "RMF",
         "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "28857",
+        "InterviewEndDate": "2024-03-02 05:49:13",
+        "InterviewState": "Complete",
+        "Flight": "DE 024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "28858",
+        "InterviewEndDate": "2024-03-02 05:44:26",
+        "InterviewState": "Complete",
+        "Flight": "DE 024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "28859",
+        "InterviewEndDate": "2024-03-02 05:47:33",
+        "InterviewState": "Complete",
+        "Flight": "DE 024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "28860",
+        "InterviewEndDate": "2024-03-02 06:15:41",
+        "InterviewState": "Complete",
+        "Flight": "BA 947",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28861",
+        "InterviewEndDate": "2024-03-02 06:19:21",
+        "InterviewState": "Complete",
+        "Flight": "BA 947",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28862",
+        "InterviewEndDate": "2024-03-02 06:11:07",
+        "InterviewState": "Complete",
+        "Flight": "BA 947",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28863",
+        "InterviewEndDate": "2024-03-02 06:43:43",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "28865",
+        "InterviewEndDate": "2024-03-02 06:36:45",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "28866",
+        "InterviewEndDate": "2024-03-02 06:40:37",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 
