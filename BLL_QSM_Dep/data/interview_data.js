@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "02-03-2024 14:18:05"
+        "download_time": "02-03-2024 15:22:41"
     },
     {
         "InterviewId": "6093",
@@ -46575,6 +46575,70 @@ let interview_data_raw = `[
         "Flight": "FR8744",
         "Dest": "BUD",
         "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "15241",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15242",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15243",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15245",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15246",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15247",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15248",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "15249",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
     }
 ]    
 
