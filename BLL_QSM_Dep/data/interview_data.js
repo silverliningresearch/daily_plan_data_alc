@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "02-03-2024 09:58:00"
+        "download_time": "02-03-2024 11:03:05"
     },
     {
         "InterviewId": "6093",
@@ -46391,6 +46391,62 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "15212",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "LH843",
+        "Dest": "FRA",
+        "AirlineCode": "LH843"
+    },
+    {
+        "InterviewId": "15214",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "15215",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "15216",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "15217",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "15218",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "15219",
+        "InterviewEndDate": "2024-03-02",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
     }
 ]    
 

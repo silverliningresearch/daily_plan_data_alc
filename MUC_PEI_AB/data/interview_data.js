@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-03-2024 09:56:39"
+        "download_time": "02-03-2024 11:01:36"
     },
     {
         "InterviewId": "15819",
@@ -88729,12 +88729,92 @@ let interview_data_raw = `[
         "AirlineCode": "DL"
     },
     {
+        "InterviewId": "28887",
+        "InterviewEndDate": "2024-03-02 09:01:08",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28888",
+        "InterviewEndDate": "2024-03-02 08:59:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "28889",
         "InterviewEndDate": "2024-03-02 08:51:10",
         "InterviewState": "Complete",
         "Flight": "LH 1876",
         "Dest": "NAP",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28890",
+        "InterviewEndDate": "2024-03-02 08:57:38",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28891",
+        "InterviewEndDate": "2024-03-02 08:58:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28892",
+        "InterviewEndDate": "2024-03-02 08:59:04",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "28893",
+        "InterviewEndDate": "2024-03-02 09:09:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1866",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28894",
+        "InterviewEndDate": "2024-03-02 09:15:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1866",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28896",
+        "InterviewEndDate": "2024-03-02 10:00:33",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28897",
+        "InterviewEndDate": "2024-03-02 09:59:51",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "28898",
+        "InterviewEndDate": "2024-03-02 10:00:04",
+        "InterviewState": "Complete",
+        "Flight": "KL 1794",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
