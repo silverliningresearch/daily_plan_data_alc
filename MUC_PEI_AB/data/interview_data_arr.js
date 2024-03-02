@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "02-03-2024 12:07:36"
+        "download_time": "02-03-2024 13:12:15"
     },
     {
         "InterviewId": "5167",
@@ -28223,6 +28223,78 @@ let interview_data_arr_raw = `[
         "Flight": "KU - Kuwait Airways",
         "Dest": "KWI",
         "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "9439",
+        "InterviewEndDate": "2024-03-02 11:31:56",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "9440",
+        "InterviewEndDate": "2024-03-02 11:22:53",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "9441",
+        "InterviewEndDate": "2024-03-02 11:28:34",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "9442",
+        "InterviewEndDate": "2024-03-02 11:50:04",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "9443",
+        "InterviewEndDate": "2024-03-02 11:51:48",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "9444",
+        "InterviewEndDate": "2024-03-02 11:48:31",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "9445",
+        "InterviewEndDate": "2024-03-02 11:54:37",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "9446",
+        "InterviewEndDate": "2024-03-02 11:59:39",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "9447",
+        "InterviewEndDate": "2024-03-02 12:10:18",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
