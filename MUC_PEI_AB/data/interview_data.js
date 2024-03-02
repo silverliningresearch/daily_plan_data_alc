@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-03-2024 08:51:37"
+        "download_time": "02-03-2024 09:56:39"
     },
     {
         "InterviewId": "15819",
@@ -88630,6 +88630,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2414",
         "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28875",
+        "InterviewEndDate": "2024-03-02 07:56:26",
+        "InterviewState": "Complete",
+        "Flight": "EZY8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "28876",
+        "InterviewEndDate": "2024-03-02 07:58:11",
+        "InterviewState": "Complete",
+        "Flight": "EZY8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "28877",
+        "InterviewEndDate": "2024-03-02 07:58:29",
+        "InterviewState": "Complete",
+        "Flight": "EZY8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "28878",
+        "InterviewEndDate": "2024-03-02 08:17:18",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "28879",
+        "InterviewEndDate": "2024-03-02 08:14:05",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "28880",
+        "InterviewEndDate": "2024-03-02 08:17:00",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "28881",
+        "InterviewEndDate": "2024-03-02 08:13:49",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28882",
+        "InterviewEndDate": "2024-03-02 08:14:42",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28883",
+        "InterviewEndDate": "2024-03-02 08:16:01",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "28884",
+        "InterviewEndDate": "2024-03-02 08:32:20",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "28885",
+        "InterviewEndDate": "2024-03-02 08:35:06",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "28886",
+        "InterviewEndDate": "2024-03-02 08:38:52",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "28889",
+        "InterviewEndDate": "2024-03-02 08:51:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
         "AirlineCode": "LH"
     }
 ]    
