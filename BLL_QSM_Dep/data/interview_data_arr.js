@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "03-03-2024 18:27:53"
+        "download_time": "03-03-2024 19:32:49"
     },
     {
         "InterviewId": "2077",
@@ -14951,6 +14951,86 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5683",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5684",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5685",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5686",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5687",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5688",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5689",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "Ry",
+        "Dest": "VIE",
+        "AirlineCode": "Ry"
+    },
+    {
+        "InterviewId": "5690",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5691",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "5692",
+        "InterviewEndDate": "2024-03-03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
     }
 ]    
 
