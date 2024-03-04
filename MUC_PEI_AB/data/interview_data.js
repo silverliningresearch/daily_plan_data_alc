@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-03-2024 08:31:41"
+        "download_time": "04-03-2024 09:36:41"
     },
     {
         "InterviewId": "15819",
@@ -89015,6 +89015,70 @@ let interview_data_raw = `[
         "Flight": "EW 4065",
         "Dest": "DTM",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28928",
+        "InterviewEndDate": "2024-03-04 07:34:09",
+        "InterviewState": "Complete",
+        "Flight": "EW 4065",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28929",
+        "InterviewEndDate": "2024-03-04 07:36:42",
+        "InterviewState": "Complete",
+        "Flight": "EW 4065",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "28930",
+        "InterviewEndDate": "2024-03-04 07:48:44",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "28931",
+        "InterviewEndDate": "2024-03-04 08:03:08",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "28932",
+        "InterviewEndDate": "2024-03-04 07:47:56",
+        "InterviewState": "Complete",
+        "Flight": "DE 1584",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "28933",
+        "InterviewEndDate": "2024-03-04 08:12:56",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "28934",
+        "InterviewEndDate": "2024-03-04 08:26:35",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "28935",
+        "InterviewEndDate": "2024-03-04 08:11:44",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
