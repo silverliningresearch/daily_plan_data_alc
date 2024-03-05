@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-03-2024 07:17:17"
+        "download_time": "05-03-2024 08:22:30"
     },
     {
         "InterviewId": "5167",
@@ -28535,6 +28535,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BOM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9479",
+        "InterviewEndDate": "2024-03-05 06:43:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9480",
+        "InterviewEndDate": "2024-03-05 06:45:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9481",
+        "InterviewEndDate": "2024-03-05 06:40:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9482",
+        "InterviewEndDate": "2024-03-05 07:00:00",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9483",
+        "InterviewEndDate": "2024-03-05 07:10:11",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9484",
+        "InterviewEndDate": "2024-03-05 07:10:02",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9485",
+        "InterviewEndDate": "2024-03-05 07:11:36",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
     }
 ]    
 
