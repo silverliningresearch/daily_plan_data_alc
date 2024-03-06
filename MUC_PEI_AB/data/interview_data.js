@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-03-2024 07:06:40"
+        "download_time": "06-03-2024 08:11:39"
     },
     {
         "InterviewId": "15819",
@@ -89305,6 +89305,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "28971",
+        "InterviewEndDate": "2024-03-06 06:07:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2054",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "28972",
         "InterviewEndDate": "2024-03-06 06:04:59",
         "InterviewState": "Complete",
@@ -89319,6 +89327,54 @@ let interview_data_raw = `[
         "Flight": "LH 2054",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28974",
+        "InterviewEndDate": "2024-03-06 06:31:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2144",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28975",
+        "InterviewEndDate": "2024-03-06 06:32:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2144",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28976",
+        "InterviewEndDate": "2024-03-06 06:34:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2144",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "28977",
+        "InterviewEndDate": "2024-03-06 06:57:30",
+        "InterviewState": "Complete",
+        "Flight": "OS 112",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "28978",
+        "InterviewEndDate": "2024-03-06 06:58:50",
+        "InterviewState": "Complete",
+        "Flight": "OS 112",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "28979",
+        "InterviewEndDate": "2024-03-06 07:05:34",
+        "InterviewState": "Complete",
+        "Flight": "Lh 5720",
+        "Dest": "WAW",
+        "AirlineCode": "Lh"
     }
 ]    
 
