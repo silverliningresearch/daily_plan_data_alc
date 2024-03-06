@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "06-03-2024 20:08:01"
+        "download_time": "06-03-2024 21:12:57"
     },
     {
         "InterviewId": "2077",
@@ -15231,6 +15231,70 @@ let interview_data_arr_raw = `[
         "Flight": "AF - AIR FRANCE",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "5747",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5748",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5749",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5750",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5751",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5752",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5753",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "5754",
+        "InterviewEndDate": "2024-03-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "HRG",
+        "AirlineCode": "JTD"
     }
 ]    
 
