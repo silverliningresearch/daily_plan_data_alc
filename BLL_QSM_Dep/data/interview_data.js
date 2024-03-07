@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-03-2024 08:02:49"
+        "download_time": "07-03-2024 09:08:01"
     },
     {
         "InterviewId": "6093",
@@ -47815,6 +47815,70 @@ let interview_data_raw = `[
         "Flight": "DK1214",
         "Dest": "LPA",
         "AirlineCode": "DK1214"
+    },
+    {
+        "InterviewId": "15446",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "15447",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "15448",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "15449",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "15450",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "15451",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "15452",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "15453",
+        "InterviewEndDate": "2024-03-07",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
     }
 ]    
 
