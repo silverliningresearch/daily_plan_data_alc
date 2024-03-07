@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "07-03-2024 09:08:08"
+        "download_time": "07-03-2024 10:13:01"
     },
     {
         "InterviewId": "2077",
@@ -15236,65 +15236,65 @@ let interview_data_arr_raw = `[
         "InterviewId": "5747",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     },
     {
         "InterviewId": "5748",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     },
     {
         "InterviewId": "5749",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     },
     {
         "InterviewId": "5750",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     },
     {
         "InterviewId": "5751",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     },
     {
         "InterviewId": "5752",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     },
     {
         "InterviewId": "5753",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     },
     {
         "InterviewId": "5754",
         "InterviewEndDate": "2024-03-06",
         "InterviewState": "Complete",
-        "Flight": "JTD - Jettime",
-        "Dest": "HRG",
-        "AirlineCode": "JTD"
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
