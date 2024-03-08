@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-03-2024 12:12:56"
+        "download_time": "08-03-2024 13:17:55"
     },
     {
         "InterviewId": "6093",
@@ -48063,6 +48063,62 @@ let interview_data_raw = `[
         "Flight": "KL1344",
         "Dest": "AMS",
         "AirlineCode": "KL1344"
+    },
+    {
+        "InterviewId": "15487",
+        "InterviewEndDate": "2024-03-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "15489",
+        "InterviewEndDate": "2024-03-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "15493",
+        "InterviewEndDate": "2024-03-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "15494",
+        "InterviewEndDate": "2024-03-08",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "15495",
+        "InterviewEndDate": "2024-03-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "15496",
+        "InterviewEndDate": "2024-03-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "15497",
+        "InterviewEndDate": "2024-03-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
     }
 ]    
 
