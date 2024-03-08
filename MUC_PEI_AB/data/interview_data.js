@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-03-2024 19:46:38"
+        "download_time": "08-03-2024 20:51:38"
     },
     {
         "InterviewId": "15819",
@@ -89631,6 +89631,54 @@ let interview_data_raw = `[
         "Flight": "LX 1111",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "29020",
+        "InterviewEndDate": "2024-03-08 18:48:18",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "29021",
+        "InterviewEndDate": "2024-03-08 19:17:30",
+        "InterviewState": "Complete",
+        "Flight": "OS 118",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "29022",
+        "InterviewEndDate": "2024-03-08 19:18:08",
+        "InterviewState": "Complete",
+        "Flight": "OS 118",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "29023",
+        "InterviewEndDate": "2024-03-08 19:11:56",
+        "InterviewState": "Complete",
+        "Flight": "OS 118",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "29024",
+        "InterviewEndDate": "2024-03-08 19:14:32",
+        "InterviewState": "Complete",
+        "Flight": "OS 118",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "29027",
+        "InterviewEndDate": "2024-03-08 19:41:08",
+        "InterviewState": "Complete",
+        "Flight": "OS 118",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
