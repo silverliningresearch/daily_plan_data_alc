@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "09-03-2024 15:08:24"
+        "download_time": "09-03-2024 16:15:06"
     },
     {
         "InterviewId": "3906",
@@ -28929,6 +28929,33 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "7271",
         "InterviewEndDate": "2024-03-09 11:07:26",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7272",
+        "InterviewEndDate": "2024-03-09 11:12:25",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7273",
+        "InterviewEndDate": "2024-03-09 11:18:01",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7274",
+        "InterviewEndDate": "2024-03-09 11:25:00",
         "InterviewState": "Complete",
         "Flight": "MS - Egyptair",
         "Dest": "CAI",
