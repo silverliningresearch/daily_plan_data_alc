@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "09-03-2024 22:44:18"
+        "download_time": "09-03-2024 23:47:52"
     },
     {
         "InterviewId": "6722",
@@ -58606,6 +58606,69 @@ let interview_data_raw = `[
         "Flight": "QR1055",
         "Dest": "DOH",
         "AirlineCode": "QR1055",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13629",
+        "InterviewEndDate": "2024-03-09 18:59:45",
+        "InterviewState": "Complete",
+        "Flight": "6E1025",
+        "Dest": "HYD",
+        "AirlineCode": "6E1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13630",
+        "InterviewEndDate": "2024-03-09 18:49:07",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13632",
+        "InterviewEndDate": "2024-03-09 18:45:19",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13633",
+        "InterviewEndDate": "2024-03-09 18:57:50",
+        "InterviewState": "Complete",
+        "Flight": "6e1025",
+        "Dest": "HYD",
+        "AirlineCode": "6e1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13634",
+        "InterviewEndDate": "2024-03-09 19:03:45",
+        "InterviewState": "Complete",
+        "Flight": "3l123",
+        "Dest": "CCJ",
+        "AirlineCode": "3l123",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13635",
+        "InterviewEndDate": "2024-03-09 19:05:42",
+        "InterviewState": "Complete",
+        "Flight": "3l123",
+        "Dest": "CCJ",
+        "AirlineCode": "3l123",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13636",
+        "InterviewEndDate": "2024-03-09 19:12:23",
+        "InterviewState": "Complete",
+        "Flight": "3l123",
+        "Dest": "CCJ",
+        "AirlineCode": "3l123",
         "Terminal": "T"
     }
 ]    
