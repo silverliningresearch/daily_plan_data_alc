@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "09-03-2024 16:23:00"
+        "download_time": "09-03-2024 17:28:53"
     },
     {
         "InterviewId": "2077",
@@ -15335,6 +15335,78 @@ let interview_data_arr_raw = `[
         "Flight": "RC - Atlantic Airways",
         "Dest": "FUE",
         "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "5791",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Skyalps",
+        "Dest": "BZO",
+        "AirlineCode": "Skyalps"
+    },
+    {
+        "InterviewId": "5792",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Alps",
+        "Dest": "BZO",
+        "AirlineCode": "Alps"
+    },
+    {
+        "InterviewId": "5793",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Skyalpes",
+        "Dest": "BZO",
+        "AirlineCode": "Skyalpes"
+    },
+    {
+        "InterviewId": "5794",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Sky alp",
+        "Dest": "BZO",
+        "AirlineCode": "Sky"
+    },
+    {
+        "InterviewId": "5795",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Sky alps",
+        "Dest": "BZO",
+        "AirlineCode": "Sky"
+    },
+    {
+        "InterviewId": "5796",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Skyalp",
+        "Dest": "BZO",
+        "AirlineCode": "Skyalp"
+    },
+    {
+        "InterviewId": "5797",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Skyalps",
+        "Dest": "BZO",
+        "AirlineCode": "Skyalps"
+    },
+    {
+        "InterviewId": "5798",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Skyalps",
+        "Dest": "BZO",
+        "AirlineCode": "Skyalps"
+    },
+    {
+        "InterviewId": "5799",
+        "InterviewEndDate": "2024-03-09",
+        "InterviewState": "Complete",
+        "Flight": "Sky Alps",
+        "Dest": "BZO",
+        "AirlineCode": "Sky"
     }
 ]    
 
