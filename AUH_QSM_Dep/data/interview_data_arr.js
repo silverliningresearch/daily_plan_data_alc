@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "10-03-2024 21:28:49"
+        "download_time": "10-03-2024 22:33:00"
     },
     {
         "InterviewId": "3906",
@@ -28972,6 +28972,15 @@ let interview_data_arr_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "7276",
+        "InterviewEndDate": "2024-03-10 18:05:41",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "7277",
         "InterviewEndDate": "2024-03-10 05:45:58",
         "InterviewState": "Complete",
@@ -29095,6 +29104,15 @@ let interview_data_arr_raw = `[
         "Flight": "SV - Saudia",
         "Dest": "JED",
         "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7292",
+        "InterviewEndDate": "2024-03-10 18:16:43",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
         "Terminal": "T"
     }
 ]    
