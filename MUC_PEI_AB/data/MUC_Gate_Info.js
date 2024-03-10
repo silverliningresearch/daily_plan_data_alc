@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C10",
-        "download_time": "10-03-2024 22:41:41"
+        "download_time": "10-03-2024 23:46:42"
     },
     {
         "aodbUniqueId": "20240310745305",
@@ -199,6 +199,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K20"
+    },
+    {
+        "aodbUniqueId": "20240310744203",
+        "Date": "10-03-2024",
+        "Flight": "LH 1624",
+        "Dest": "KRK",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K19"
     },
     {
         "aodbUniqueId": "20240310745315",
@@ -1921,16 +1931,6 @@ let MUC_Gate_Info = `[
         "Gate": "G16"
     },
     {
-        "aodbUniqueId": "20240310744203",
-        "Date": "10-03-2024",
-        "Flight": "LH 1624",
-        "Dest": "KRK",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K19"
-    },
-    {
         "aodbUniqueId": "20240310744205",
         "Date": "10-03-2024",
         "Flight": "LH 2366",
@@ -2773,7 +2773,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20240310744344",
         "Date": "10-03-2024",
-        "Flight": "LH 1664",
+        "Flight": "LH 1664U",
         "Dest": "SBZ",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
