@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "10-03-2024 14:58:27"
+        "download_time": "10-03-2024 16:04:35"
     },
     {
         "InterviewId": "3906",
@@ -29023,6 +29023,78 @@ let interview_data_arr_raw = `[
         "Flight": "MS - Egyptair",
         "Dest": "CAI",
         "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7284",
+        "InterviewEndDate": "2024-03-10 11:03:58",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7285",
+        "InterviewEndDate": "2024-03-10 11:11:31",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7286",
+        "InterviewEndDate": "2024-03-10 11:16:46",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7287",
+        "InterviewEndDate": "2024-03-10 11:21:07",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "DME",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7288",
+        "InterviewEndDate": "2024-03-10 11:27:10",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "DME",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7289",
+        "InterviewEndDate": "2024-03-10 11:35:56",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudia",
+        "Dest": "JED",
+        "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7290",
+        "InterviewEndDate": "2024-03-10 11:41:07",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudia",
+        "Dest": "JED",
+        "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7291",
+        "InterviewEndDate": "2024-03-10 11:46:44",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudia",
+        "Dest": "JED",
+        "AirlineCode": "SV",
         "Terminal": "T"
     }
 ]    
