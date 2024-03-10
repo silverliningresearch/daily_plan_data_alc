@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "10-03-2024 17:18:22"
+        "download_time": "10-03-2024 18:23:22"
     },
     {
         "InterviewId": "2077",
@@ -15407,6 +15407,46 @@ let interview_data_arr_raw = `[
         "Flight": "Sky Alps",
         "Dest": "BZO",
         "AirlineCode": "Sky"
+    },
+    {
+        "InterviewId": "5808",
+        "InterviewEndDate": "2024-03-10",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "5809",
+        "InterviewEndDate": "2024-03-10",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "5810",
+        "InterviewEndDate": "2024-03-10",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "5812",
+        "InterviewEndDate": "2024-03-10",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "5813",
+        "InterviewEndDate": "2024-03-10",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling Airlines",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
