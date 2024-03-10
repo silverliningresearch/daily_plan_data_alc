@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "10-03-2024 23:38:34"
+        "download_time": "11-03-2024 00:43:25"
     },
     {
         "InterviewId": "3906",
@@ -29113,6 +29113,42 @@ let interview_data_arr_raw = `[
         "Flight": "RJ - Royal Jordanian",
         "Dest": "AMM",
         "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7293",
+        "InterviewEndDate": "2024-03-10 20:18:06",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "DEL",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7294",
+        "InterviewEndDate": "2024-03-10 20:25:04",
+        "InterviewState": "Complete",
+        "Flight": "UK - Tata SIA Airlines",
+        "Dest": "BOM",
+        "AirlineCode": "UK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7295",
+        "InterviewEndDate": "2024-03-10 20:30:26",
+        "InterviewState": "Complete",
+        "Flight": "UK - Tata SIA Airlines",
+        "Dest": "BOM",
+        "AirlineCode": "UK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7296",
+        "InterviewEndDate": "2024-03-10 20:42:24",
+        "InterviewState": "Complete",
+        "Flight": "UK - Tata SIA Airlines",
+        "Dest": "BOM",
+        "AirlineCode": "UK",
         "Terminal": "T"
     }
 ]    
