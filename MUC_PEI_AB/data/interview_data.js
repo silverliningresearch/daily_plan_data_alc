@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-03-2024 16:01:45"
+        "download_time": "11-03-2024 17:06:48"
     },
     {
         "InterviewId": "15819",
@@ -90481,6 +90481,14 @@ let interview_data_raw = `[
         "AirlineCode": "Lh"
     },
     {
+        "InterviewId": "29137",
+        "InterviewEndDate": "2024-03-11 15:01:33",
+        "InterviewState": "Complete",
+        "Flight": "Lh2024",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
         "InterviewId": "29138",
         "InterviewEndDate": "2024-03-11 14:50:40",
         "InterviewState": "Complete",
@@ -90505,12 +90513,52 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "29141",
+        "InterviewEndDate": "2024-03-11 15:02:09",
+        "InterviewState": "Complete",
+        "Flight": "Lh2024",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
         "InterviewId": "29142",
         "InterviewEndDate": "2024-03-11 14:59:31",
         "InterviewState": "Complete",
         "Flight": "Lh2024",
         "Dest": "DUS",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29146",
+        "InterviewEndDate": "2024-03-11 15:57:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29147",
+        "InterviewEndDate": "2024-03-11 15:52:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29148",
+        "InterviewEndDate": "2024-03-11 16:03:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29149",
+        "InterviewEndDate": "2024-03-11 15:59:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
     }
 ]    
 
