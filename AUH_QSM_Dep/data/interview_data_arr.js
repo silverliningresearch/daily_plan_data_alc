@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "12-03-2024 14:39:19"
+        "download_time": "12-03-2024 15:44:02"
     },
     {
         "InterviewId": "3906",
@@ -29284,6 +29284,60 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "GYD",
         "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7312",
+        "InterviewEndDate": "2024-03-12 10:39:08",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudia",
+        "Dest": "JED",
+        "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7313",
+        "InterviewEndDate": "2024-03-12 10:44:14",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudia",
+        "Dest": "JED",
+        "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7314",
+        "InterviewEndDate": "2024-03-12 11:02:49",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7315",
+        "InterviewEndDate": "2024-03-12 11:05:05",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KUT",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7316",
+        "InterviewEndDate": "2024-03-12 11:13:50",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "PEW",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7317",
+        "InterviewEndDate": "2024-03-12 11:18:46",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "PEW",
+        "AirlineCode": "PK",
         "Terminal": "T"
     }
 ]    
