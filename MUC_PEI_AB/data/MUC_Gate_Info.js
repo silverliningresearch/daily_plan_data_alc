@@ -8,17 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03",
-        "download_time": "13-03-2024 01:36:46"
-    },
-    {
-        "aodbUniqueId": "20240313751686",
-        "Date": "13-03-2024",
-        "Flight": "AC 837",
-        "Dest": "YYZ",
-        "AirlineCode": "AC",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H44"
+        "download_time": "13-03-2024 02:41:46"
     },
     {
         "aodbUniqueId": "20240313751638",
@@ -998,7 +988,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UA",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H14"
+        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20240313753055",
@@ -1038,7 +1028,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UA",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H08"
+        "Gate": "H14"
     },
     {
         "aodbUniqueId": "20240313752800",
@@ -1649,6 +1639,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
+    },
+    {
+        "aodbUniqueId": "20240313751686",
+        "Date": "13-03-2024",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H44"
     }
 ]    
 
