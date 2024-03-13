@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "13-03-2024 10:09:17"
+        "download_time": "13-03-2024 11:13:38"
     },
     {
         "InterviewId": "3906",
@@ -29347,6 +29347,69 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "DMM",
         "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7319",
+        "InterviewEndDate": "2024-03-13 06:12:32",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "DMM",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7320",
+        "InterviewEndDate": "2024-03-13 06:19:27",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MAA",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7321",
+        "InterviewEndDate": "2024-03-13 06:34:30",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "MAA",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7322",
+        "InterviewEndDate": "2024-03-13 06:49:21",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KWI",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7323",
+        "InterviewEndDate": "2024-03-13 06:54:42",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KWI",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7324",
+        "InterviewEndDate": "2024-03-13 07:00:34",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7325",
+        "InterviewEndDate": "2024-03-13 07:10:13",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "CCJ",
+        "AirlineCode": "3L",
         "Terminal": "T"
     }
 ]    
