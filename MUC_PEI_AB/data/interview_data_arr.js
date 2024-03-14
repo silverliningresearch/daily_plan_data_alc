@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-03-2024 10:07:31"
+        "download_time": "14-03-2024 11:12:32"
     },
     {
         "InterviewId": "5167",
@@ -28823,6 +28823,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MAN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9522",
+        "InterviewEndDate": "2024-03-14 09:13:23",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9523",
+        "InterviewEndDate": "2024-03-14 09:22:30",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9524",
+        "InterviewEndDate": "2024-03-14 09:16:08",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9525",
+        "InterviewEndDate": "2024-03-14 09:44:58",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "9526",
+        "InterviewEndDate": "2024-03-14 09:46:40",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
     }
 ]    
 
