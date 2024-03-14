@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "14-03-2024 08:53:10"
+        "download_time": "14-03-2024 09:58:09"
     },
     {
         "InterviewId": "6722",
@@ -58894,6 +58894,69 @@ let interview_data_raw = `[
         "Flight": "6E1406",
         "Dest": "DEL",
         "AirlineCode": "6E1406",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13667",
+        "InterviewEndDate": "2024-03-14 05:05:48",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13668",
+        "InterviewEndDate": "2024-03-14 05:15:50",
+        "InterviewState": "Complete",
+        "Flight": "EY266",
+        "Dest": "CMB",
+        "AirlineCode": "EY266",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13669",
+        "InterviewEndDate": "2024-03-14 05:25:15",
+        "InterviewState": "Complete",
+        "Flight": "EY266",
+        "Dest": "CMB",
+        "AirlineCode": "EY266",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13670",
+        "InterviewEndDate": "2024-03-14 05:31:08",
+        "InterviewState": "Complete",
+        "Flight": "EY266",
+        "Dest": "CMB",
+        "AirlineCode": "EY266",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13671",
+        "InterviewEndDate": "2024-03-14 05:37:53",
+        "InterviewState": "Complete",
+        "Flight": "EY266",
+        "Dest": "CMB",
+        "AirlineCode": "EY266",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13672",
+        "InterviewEndDate": "2024-03-14 05:43:25",
+        "InterviewState": "Complete",
+        "Flight": "EY266",
+        "Dest": "CMB",
+        "AirlineCode": "EY266",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13673",
+        "InterviewEndDate": "2024-03-14 05:56:14",
+        "InterviewState": "Complete",
+        "Flight": "EY513",
+        "Dest": "AMM",
+        "AirlineCode": "EY513",
         "Terminal": "T"
     }
 ]    
