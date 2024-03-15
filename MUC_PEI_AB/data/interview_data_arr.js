@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-03-2024 16:27:33"
+        "download_time": "15-03-2024 17:33:29"
     },
     {
         "InterviewId": "5167",
@@ -29457,6 +29457,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "9623",
+        "InterviewEndDate": "2024-03-15 15:44:42",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "9624",
         "InterviewEndDate": "2024-03-15 15:10:23",
         "InterviewState": "Complete",
@@ -29466,7 +29474,7 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "9625",
-        "InterviewEndDate": "2024-03-15 15:17:41",
+        "InterviewEndDate": "2024-03-15 15:28:43",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "SAN",
@@ -29487,6 +29495,134 @@ let interview_data_arr_raw = `[
         "Flight": "Lh",
         "Dest": "SAN",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "9628",
+        "InterviewEndDate": "2024-03-15 15:30:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9629",
+        "InterviewEndDate": "2024-03-15 16:00:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9630",
+        "InterviewEndDate": "2024-03-15 16:16:25",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "9631",
+        "InterviewEndDate": "2024-03-15 15:40:11",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "AJR",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9632",
+        "InterviewEndDate": "2024-03-15 15:42:20",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9633",
+        "InterviewEndDate": "2024-03-15 15:45:00",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9634",
+        "InterviewEndDate": "2024-03-15 16:06:26",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9635",
+        "InterviewEndDate": "2024-03-15 16:08:54",
+        "InterviewState": "Complete",
+        "Flight": "Kl",
+        "Dest": "AMS",
+        "AirlineCode": "Kl"
+    },
+    {
+        "InterviewId": "9636",
+        "InterviewEndDate": "2024-03-15 16:21:07",
+        "InterviewState": "Complete",
+        "Flight": "AH - Air Algerie",
+        "Dest": "CDG",
+        "AirlineCode": "AH"
+    },
+    {
+        "InterviewId": "9637",
+        "InterviewEndDate": "2024-03-15 16:05:37",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9638",
+        "InterviewEndDate": "2024-03-15 16:21:51",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "9639",
+        "InterviewEndDate": "2024-03-15 16:17:16",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "9640",
+        "InterviewEndDate": "2024-03-15 16:20:07",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "9641",
+        "InterviewEndDate": "2024-03-15 16:18:53",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "9643",
+        "InterviewEndDate": "2024-03-15 16:28:02",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9645",
+        "InterviewEndDate": "2024-03-15 16:23:28",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
