@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-03-2024 07:47:25"
+        "download_time": "15-03-2024 08:52:47"
     },
     {
         "InterviewId": "5167",
@@ -29223,6 +29223,78 @@ let interview_data_arr_raw = `[
         "Flight": "CA - Air China",
         "Dest": "PEK",
         "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "9576",
+        "InterviewEndDate": "2024-03-15 06:55:02",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9577",
+        "InterviewEndDate": "2024-03-15 06:56:23",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9578",
+        "InterviewEndDate": "2024-03-15 06:57:33",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9579",
+        "InterviewEndDate": "2024-03-15 07:04:18",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9580",
+        "InterviewEndDate": "2024-03-15 07:04:11",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9581",
+        "InterviewEndDate": "2024-03-15 07:35:21",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PVG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "9582",
+        "InterviewEndDate": "2024-03-15 07:32:26",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PVG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "9583",
+        "InterviewEndDate": "2024-03-15 07:35:51",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PVG",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "9586",
+        "InterviewEndDate": "2024-03-15 07:50:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
