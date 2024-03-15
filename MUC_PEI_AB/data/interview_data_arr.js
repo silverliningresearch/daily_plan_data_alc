@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-03-2024 20:47:26"
+        "download_time": "15-03-2024 21:52:28"
     },
     {
         "InterviewId": "5167",
@@ -29647,6 +29647,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BER",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9652",
+        "InterviewEndDate": "2024-03-15 20:25:21",
+        "InterviewState": "Complete",
+        "Flight": "Di",
+        "Dest": "TFS",
+        "AirlineCode": "Di"
+    },
+    {
+        "InterviewId": "9653",
+        "InterviewEndDate": "2024-03-15 20:26:14",
+        "InterviewState": "Complete",
+        "Flight": "Di",
+        "Dest": "TFS",
+        "AirlineCode": "Di"
+    },
+    {
+        "InterviewId": "9654",
+        "InterviewEndDate": "2024-03-15 20:33:52",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "9655",
+        "InterviewEndDate": "2024-03-15 20:42:17",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "ACE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "9656",
+        "InterviewEndDate": "2024-03-15 20:50:34",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "ACE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "9657",
+        "InterviewEndDate": "2024-03-15 20:50:39",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "ACE",
+        "AirlineCode": "DE"
     }
 ]    
 
