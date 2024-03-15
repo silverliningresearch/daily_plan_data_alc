@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "15-03-2024 07:38:52"
+        "download_time": "15-03-2024 08:43:02"
     },
     {
         "InterviewId": "6722",
@@ -59362,6 +59362,78 @@ let interview_data_raw = `[
         "Flight": "Af639",
         "Dest": "CDG",
         "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13721",
+        "InterviewEndDate": "2024-03-15 03:41:48",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13722",
+        "InterviewEndDate": "2024-03-15 03:48:15",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13723",
+        "InterviewEndDate": "2024-03-15 03:55:09",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13724",
+        "InterviewEndDate": "2024-03-15 04:02:53",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13726",
+        "InterviewEndDate": "2024-03-15 04:08:46",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13727",
+        "InterviewEndDate": "2024-03-15 04:18:29",
+        "InterviewState": "Complete",
+        "Flight": "3l020",
+        "Dest": "KWI",
+        "AirlineCode": "3l020",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13728",
+        "InterviewEndDate": "2024-03-15 04:27:55",
+        "InterviewState": "Complete",
+        "Flight": "3l020",
+        "Dest": "KWI",
+        "AirlineCode": "3l020",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13729",
+        "InterviewEndDate": "2024-03-15 04:36:48",
+        "InterviewState": "Complete",
+        "Flight": "3l020",
+        "Dest": "KWI",
+        "AirlineCode": "3l020",
         "Terminal": "T"
     }
 ]    
