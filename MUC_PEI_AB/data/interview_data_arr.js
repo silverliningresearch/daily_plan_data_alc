@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "16-03-2024 13:02:29"
+        "download_time": "16-03-2024 14:07:27"
     },
     {
         "InterviewId": "5167",
@@ -29815,6 +29815,70 @@ let interview_data_arr_raw = `[
         "Flight": "KM - Air Malta",
         "Dest": "MLA",
         "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "9680",
+        "InterviewEndDate": "2024-03-16 12:08:40",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EBL",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9683",
+        "InterviewEndDate": "2024-03-16 12:08:34",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EBL",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9684",
+        "InterviewEndDate": "2024-03-16 12:08:34",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EBL",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9685",
+        "InterviewEndDate": "2024-03-16 12:16:48",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9686",
+        "InterviewEndDate": "2024-03-16 12:22:52",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EBL",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9687",
+        "InterviewEndDate": "2024-03-16 12:26:12",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "9688",
+        "InterviewEndDate": "2024-03-16 12:29:23",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "9689",
+        "InterviewEndDate": "2024-03-16 12:30:16",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
     }
 ]    
 
