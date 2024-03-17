@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "17-03-2024 09:28:43"
+        "download_time": "17-03-2024 10:33:19"
     },
     {
         "InterviewId": "6722",
@@ -59857,6 +59857,69 @@ let interview_data_raw = `[
         "Flight": "5w7037",
         "Dest": "MCT",
         "AirlineCode": "5w7037",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13783",
+        "InterviewEndDate": "2024-03-17 05:35:44",
+        "InterviewState": "Complete",
+        "Flight": "5w7037",
+        "Dest": "MCT",
+        "AirlineCode": "5w7037",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13784",
+        "InterviewEndDate": "2024-03-17 05:39:35",
+        "InterviewState": "Complete",
+        "Flight": "5w7037",
+        "Dest": "MCT",
+        "AirlineCode": "5w7037",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13785",
+        "InterviewEndDate": "2024-03-17 05:46:11",
+        "InterviewState": "Complete",
+        "Flight": "Ey210",
+        "Dest": "DEL",
+        "AirlineCode": "Ey210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13786",
+        "InterviewEndDate": "2024-03-17 05:52:23",
+        "InterviewState": "Complete",
+        "Flight": "Ey210",
+        "Dest": "DEL",
+        "AirlineCode": "Ey210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13787",
+        "InterviewEndDate": "2024-03-17 05:58:13",
+        "InterviewState": "Complete",
+        "Flight": "Ey210",
+        "Dest": "DEL",
+        "AirlineCode": "Ey210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13788",
+        "InterviewEndDate": "2024-03-17 06:05:38",
+        "InterviewState": "Complete",
+        "Flight": "Ey210",
+        "Dest": "DEL",
+        "AirlineCode": "Ey210",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13789",
+        "InterviewEndDate": "2024-03-17 06:30:26",
+        "InterviewState": "Complete",
+        "Flight": "Ix368",
+        "Dest": "CCJ",
+        "AirlineCode": "Ix368",
         "Terminal": "T"
     }
 ]    
