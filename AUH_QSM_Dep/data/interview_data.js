@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "17-03-2024 22:28:27"
+        "download_time": "17-03-2024 23:33:24"
     },
     {
         "InterviewId": "6722",
@@ -59842,6 +59842,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "13780",
+        "InterviewEndDate": "2024-03-17 19:03:56",
+        "InterviewState": "Complete",
+        "Flight": "5w7115",
+        "Dest": "MCT",
+        "AirlineCode": "5w7115",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "13781",
         "InterviewEndDate": "2024-03-17 05:15:57",
         "InterviewState": "Complete",
@@ -60208,6 +60217,42 @@ let interview_data_raw = `[
         "Flight": "5w7049",
         "Dest": "FCO",
         "AirlineCode": "5w7049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13822",
+        "InterviewEndDate": "2024-03-17 19:15:31",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13823",
+        "InterviewEndDate": "2024-03-17 19:15:41",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13824",
+        "InterviewEndDate": "2024-03-17 19:19:25",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13825",
+        "InterviewEndDate": "2024-03-17 19:26:44",
+        "InterviewState": "Complete",
+        "Flight": "IX420",
+        "Dest": "COK",
+        "AirlineCode": "IX420",
         "Terminal": "T"
     }
 ]    
