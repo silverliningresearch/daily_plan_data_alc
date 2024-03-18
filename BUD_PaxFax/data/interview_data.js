@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "18-03-2024 14:57:45"
+        "download_time": "18-03-2024 16:02:36"
     },
     {
         "InterviewId": "7701",
@@ -30566,6 +30566,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 5570",
         "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12007",
+        "InterviewEndDate": "2024-03-18 14:02:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12008",
+        "InterviewEndDate": "2024-03-18 14:03:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12009",
+        "InterviewEndDate": "2024-03-18 14:05:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12010",
+        "InterviewEndDate": "2024-03-18 14:03:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12014",
+        "InterviewEndDate": "2024-03-18 14:15:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12017",
+        "InterviewEndDate": "2024-03-18 14:17:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12018",
+        "InterviewEndDate": "2024-03-18 14:19:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12019",
+        "InterviewEndDate": "2024-03-18 14:15:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
         "AirlineCode": "FR"
     }
 ]    
