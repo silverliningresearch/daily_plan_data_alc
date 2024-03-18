@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "18-03-2024 11:37:40"
+        "download_time": "18-03-2024 12:42:34"
     },
     {
         "InterviewId": "5167",
@@ -30023,6 +30023,46 @@ let interview_data_arr_raw = `[
         "Flight": "UA - United Airlines",
         "Dest": "DFW",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "9709",
+        "InterviewEndDate": "2024-03-18 11:14:02",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9710",
+        "InterviewEndDate": "2024-03-18 11:14:31",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9711",
+        "InterviewEndDate": "2024-03-18 11:20:17",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9712",
+        "InterviewEndDate": "2024-03-18 11:21:06",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9714",
+        "InterviewEndDate": "2024-03-18 11:34:23",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "KEF",
+        "AirlineCode": "AY"
     }
 ]    
 
