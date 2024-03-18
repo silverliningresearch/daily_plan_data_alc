@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "18-03-2024 22:18:36"
+        "download_time": "18-03-2024 23:23:50"
     },
     {
         "InterviewId": "6722",
@@ -60397,6 +60397,78 @@ let interview_data_raw = `[
         "Flight": "Ey231",
         "Dest": "ISB",
         "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13844",
+        "InterviewEndDate": "2024-03-18 18:20:05",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13845",
+        "InterviewEndDate": "2024-03-18 18:26:53",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13846",
+        "InterviewEndDate": "2024-03-18 18:30:58",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13847",
+        "InterviewEndDate": "2024-03-18 18:39:13",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13848",
+        "InterviewEndDate": "2024-03-18 18:46:16",
+        "InterviewState": "Complete",
+        "Flight": "Ey231",
+        "Dest": "ISB",
+        "AirlineCode": "Ey231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13849",
+        "InterviewEndDate": "2024-03-18 19:02:56",
+        "InterviewState": "Complete",
+        "Flight": "Ey284",
+        "Dest": "AMD",
+        "AirlineCode": "Ey284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13850",
+        "InterviewEndDate": "2024-03-18 19:11:10",
+        "InterviewState": "Complete",
+        "Flight": "Ey284",
+        "Dest": "AMD",
+        "AirlineCode": "Ey284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13851",
+        "InterviewEndDate": "2024-03-18 19:21:41",
+        "InterviewState": "Complete",
+        "Flight": "Ey424",
+        "Dest": "MNL",
+        "AirlineCode": "Ey424",
         "Terminal": "T"
     }
 ]    
