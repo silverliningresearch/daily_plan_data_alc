@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "19-03-2024 01:33:19"
+        "download_time": "19-03-2024 02:38:25"
     },
     {
         "InterviewId": "6722",
@@ -60532,6 +60532,69 @@ let interview_data_raw = `[
         "Flight": "Ey015",
         "Dest": "MAN",
         "AirlineCode": "Ey015",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13860",
+        "InterviewEndDate": "2024-03-18 21:37:10",
+        "InterviewState": "Complete",
+        "Flight": "Ey015",
+        "Dest": "MAN",
+        "AirlineCode": "Ey015",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13861",
+        "InterviewEndDate": "2024-03-18 21:51:32",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13862",
+        "InterviewEndDate": "2024-03-18 21:55:58",
+        "InterviewState": "Complete",
+        "Flight": "Ey011",
+        "Dest": "LHR",
+        "AirlineCode": "Ey011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13863",
+        "InterviewEndDate": "2024-03-18 22:05:44",
+        "InterviewState": "Complete",
+        "Flight": "Ey196",
+        "Dest": "BOM",
+        "AirlineCode": "Ey196",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13864",
+        "InterviewEndDate": "2024-03-18 22:24:11",
+        "InterviewState": "Complete",
+        "Flight": "Ey081",
+        "Dest": "MXP",
+        "AirlineCode": "Ey081",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13865",
+        "InterviewEndDate": "2024-03-18 22:30:10",
+        "InterviewState": "Complete",
+        "Flight": "Ey081",
+        "Dest": "MXP",
+        "AirlineCode": "Ey081",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13866",
+        "InterviewEndDate": "2024-03-18 22:37:15",
+        "InterviewState": "Complete",
+        "Flight": "Ey081",
+        "Dest": "MXP",
+        "AirlineCode": "Ey081",
         "Terminal": "T"
     }
 ]    

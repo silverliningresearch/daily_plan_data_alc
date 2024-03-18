@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "18-03-2024 22:27:25"
+        "download_time": "18-03-2024 23:32:27"
     },
     {
         "InterviewId": "5167",
@@ -28201,30 +28201,6 @@ let interview_data_arr_raw = `[
         "AirlineCode": "TG"
     },
     {
-        "InterviewId": "9436",
-        "InterviewEndDate": "2024-03-02 10:49:15",
-        "InterviewState": "Complete",
-        "Flight": "KU - Kuwait Airways",
-        "Dest": "KWI",
-        "AirlineCode": "KU"
-    },
-    {
-        "InterviewId": "9437",
-        "InterviewEndDate": "2024-03-02 10:53:05",
-        "InterviewState": "Complete",
-        "Flight": "KU - Kuwait Airways",
-        "Dest": "KWI",
-        "AirlineCode": "KU"
-    },
-    {
-        "InterviewId": "9438",
-        "InterviewEndDate": "2024-03-02 10:52:54",
-        "InterviewState": "Complete",
-        "Flight": "KU - Kuwait Airways",
-        "Dest": "KWI",
-        "AirlineCode": "KU"
-    },
-    {
         "InterviewId": "9439",
         "InterviewEndDate": "2024-03-02 11:31:56",
         "InterviewState": "Complete",
@@ -28247,46 +28223,6 @@ let interview_data_arr_raw = `[
         "Flight": "XQ - Sun Express",
         "Dest": "AYT",
         "AirlineCode": "XQ"
-    },
-    {
-        "InterviewId": "9442",
-        "InterviewEndDate": "2024-03-02 11:50:04",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "9443",
-        "InterviewEndDate": "2024-03-02 11:51:48",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "9444",
-        "InterviewEndDate": "2024-03-02 11:48:31",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "9445",
-        "InterviewEndDate": "2024-03-02 11:54:37",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
-    },
-    {
-        "InterviewId": "9446",
-        "InterviewEndDate": "2024-03-02 11:59:39",
-        "InterviewState": "Complete",
-        "Flight": "EK - Emirates",
-        "Dest": "DXB",
-        "AirlineCode": "EK"
     },
     {
         "InterviewId": "9447",
@@ -28455,198 +28391,6 @@ let interview_data_arr_raw = `[
         "Flight": "FI - Icelandair",
         "Dest": "KEF",
         "AirlineCode": "FI"
-    },
-    {
-        "InterviewId": "9469",
-        "InterviewEndDate": "2024-03-05 05:20:06",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "TSR",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9470",
-        "InterviewEndDate": "2024-03-05 05:18:25",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "TSR",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9471",
-        "InterviewEndDate": "2024-03-05 05:26:25",
-        "InterviewState": "Complete",
-        "Flight": "CA - Air China",
-        "Dest": "PEK",
-        "AirlineCode": "CA"
-    },
-    {
-        "InterviewId": "9472",
-        "InterviewEndDate": "2024-03-05 05:42:54",
-        "InterviewState": "Complete",
-        "Flight": "CA - Air China",
-        "Dest": "PEK",
-        "AirlineCode": "CA"
-    },
-    {
-        "InterviewId": "9473",
-        "InterviewEndDate": "2024-03-05 05:40:15",
-        "InterviewState": "Complete",
-        "Flight": "CA - Air China",
-        "Dest": "PEK",
-        "AirlineCode": "CA"
-    },
-    {
-        "InterviewId": "9474",
-        "InterviewEndDate": "2024-03-05 05:39:19",
-        "InterviewState": "Complete",
-        "Flight": "CA - Air China",
-        "Dest": "PEK",
-        "AirlineCode": "CA"
-    },
-    {
-        "InterviewId": "9475",
-        "InterviewEndDate": "2024-03-05 05:54:32",
-        "InterviewState": "Complete",
-        "Flight": "CA - Air China",
-        "Dest": "PEK",
-        "AirlineCode": "CA"
-    },
-    {
-        "InterviewId": "9476",
-        "InterviewEndDate": "2024-03-05 06:02:43",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "BOM",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9477",
-        "InterviewEndDate": "2024-03-05 06:14:21",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "BOM",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9478",
-        "InterviewEndDate": "2024-03-05 06:12:38",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "BOM",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9479",
-        "InterviewEndDate": "2024-03-05 06:43:50",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "SIN",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9480",
-        "InterviewEndDate": "2024-03-05 06:45:22",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "SIN",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9481",
-        "InterviewEndDate": "2024-03-05 06:40:40",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "SIN",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9482",
-        "InterviewEndDate": "2024-03-05 07:00:00",
-        "InterviewState": "Complete",
-        "Flight": "UA - United Airlines",
-        "Dest": "EWR",
-        "AirlineCode": "UA"
-    },
-    {
-        "InterviewId": "9483",
-        "InterviewEndDate": "2024-03-05 07:10:11",
-        "InterviewState": "Complete",
-        "Flight": "UA - United Airlines",
-        "Dest": "EWR",
-        "AirlineCode": "UA"
-    },
-    {
-        "InterviewId": "9484",
-        "InterviewEndDate": "2024-03-05 07:10:02",
-        "InterviewState": "Complete",
-        "Flight": "UA - United Airlines",
-        "Dest": "EWR",
-        "AirlineCode": "UA"
-    },
-    {
-        "InterviewId": "9485",
-        "InterviewEndDate": "2024-03-05 07:11:36",
-        "InterviewState": "Complete",
-        "Flight": "UA - United Airlines",
-        "Dest": "EWR",
-        "AirlineCode": "UA"
-    },
-    {
-        "InterviewId": "9486",
-        "InterviewEndDate": "2024-03-05 07:30:29",
-        "InterviewState": "Complete",
-        "Flight": "TG - Thai Airways",
-        "Dest": "BKK",
-        "AirlineCode": "TG"
-    },
-    {
-        "InterviewId": "9487",
-        "InterviewEndDate": "2024-03-05 07:27:15",
-        "InterviewState": "Complete",
-        "Flight": "TG - Thai Airways",
-        "Dest": "BKK",
-        "AirlineCode": "TG"
-    },
-    {
-        "InterviewId": "9488",
-        "InterviewEndDate": "2024-03-05 07:41:47",
-        "InterviewState": "Complete",
-        "Flight": "TG - Thai Airways",
-        "Dest": "BKK",
-        "AirlineCode": "TG"
-    },
-    {
-        "InterviewId": "9489",
-        "InterviewEndDate": "2024-03-05 08:06:04",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "DUS",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9490",
-        "InterviewEndDate": "2024-03-05 08:02:08",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "DUS",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9491",
-        "InterviewEndDate": "2024-03-05 08:34:23",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "FRA",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "9492",
-        "InterviewEndDate": "2024-03-05 08:28:50",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "FRA",
-        "AirlineCode": "LH"
     },
     {
         "InterviewId": "9493",
