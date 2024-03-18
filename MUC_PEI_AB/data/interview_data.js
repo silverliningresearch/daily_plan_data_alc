@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-03-2024 08:21:51"
+        "download_time": "18-03-2024 09:26:50"
     },
     {
         "InterviewId": "15819",
@@ -93679,6 +93679,102 @@ let interview_data_raw = `[
         "Flight": "Eju3946",
         "Dest": "MXP",
         "AirlineCode": "Ej"
+    },
+    {
+        "InterviewId": "29617",
+        "InterviewEndDate": "2024-03-18 07:28:38",
+        "InterviewState": "Complete",
+        "Flight": "DI6412",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "29618",
+        "InterviewEndDate": "2024-03-18 07:29:15",
+        "InterviewState": "Complete",
+        "Flight": "DI6412",
+        "Dest": "FUE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "29619",
+        "InterviewEndDate": "2024-03-18 07:27:46",
+        "InterviewState": "Complete",
+        "Flight": "Di 6412",
+        "Dest": "FUE",
+        "AirlineCode": "Di"
+    },
+    {
+        "InterviewId": "29620",
+        "InterviewEndDate": "2024-03-18 07:32:08",
+        "InterviewState": "Complete",
+        "Flight": "Di6412",
+        "Dest": "FUE",
+        "AirlineCode": "Di"
+    },
+    {
+        "InterviewId": "29621",
+        "InterviewEndDate": "2024-03-18 08:11:03",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "29622",
+        "InterviewEndDate": "2024-03-18 08:07:42",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "29623",
+        "InterviewEndDate": "2024-03-18 08:11:47",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "29624",
+        "InterviewEndDate": "2024-03-18 08:05:41",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "29625",
+        "InterviewEndDate": "2024-03-18 08:07:54",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "29626",
+        "InterviewEndDate": "2024-03-18 08:19:51",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "29627",
+        "InterviewEndDate": "2024-03-18 08:17:23",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "29628",
+        "InterviewEndDate": "2024-03-18 08:22:01",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
     }
 ]    
 
