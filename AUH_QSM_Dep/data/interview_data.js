@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "19-03-2024 22:09:35"
+        "download_time": "19-03-2024 23:16:05"
     },
     {
         "InterviewId": "6722",
@@ -60931,12 +60931,66 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "13904",
+        "InterviewEndDate": "2024-03-19 18:09:30",
+        "InterviewState": "Complete",
+        "Flight": "3L133",
+        "Dest": "TRV",
+        "AirlineCode": "3L133",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "13905",
         "InterviewEndDate": "2024-03-19 18:06:28",
         "InterviewState": "Complete",
         "Flight": "3L133",
         "Dest": "TRV",
         "AirlineCode": "3L133",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13906",
+        "InterviewEndDate": "2024-03-19 18:15:20",
+        "InterviewState": "Complete",
+        "Flight": "3L133",
+        "Dest": "TRV",
+        "AirlineCode": "3L133",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13907",
+        "InterviewEndDate": "2024-03-19 18:24:34",
+        "InterviewState": "Complete",
+        "Flight": "5w7115",
+        "Dest": "MCT",
+        "AirlineCode": "5w7115",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13908",
+        "InterviewEndDate": "2024-03-19 18:22:02",
+        "InterviewState": "Complete",
+        "Flight": "W42982",
+        "Dest": "VIE",
+        "AirlineCode": "W42982",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13910",
+        "InterviewEndDate": "2024-03-19 18:33:18",
+        "InterviewState": "Complete",
+        "Flight": "3L133",
+        "Dest": "TRV",
+        "AirlineCode": "3L133",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13911",
+        "InterviewEndDate": "2024-03-19 19:15:12",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
         "Terminal": "T"
     }
 ]    
