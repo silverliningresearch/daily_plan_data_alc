@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-03-2024 10:21:52"
+        "download_time": "19-03-2024 11:26:51"
     },
     {
         "InterviewId": "15819",
@@ -93974,6 +93974,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UA 952",
         "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "29660",
+        "InterviewEndDate": "2024-03-19 09:22:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "29661",
+        "InterviewEndDate": "2024-03-19 09:31:21",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "29662",
+        "InterviewEndDate": "2024-03-19 09:24:34",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "29663",
+        "InterviewEndDate": "2024-03-19 09:52:40",
+        "InterviewState": "Complete",
+        "Flight": "EN 8240",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "29665",
+        "InterviewEndDate": "2024-03-19 10:14:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "29666",
+        "InterviewEndDate": "2024-03-19 10:20:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "29667",
+        "InterviewEndDate": "2024-03-19 10:14:29",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
         "AirlineCode": "UA"
     }
 ]    
