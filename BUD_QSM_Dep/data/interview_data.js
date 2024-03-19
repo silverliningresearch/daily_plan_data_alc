@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "19-03-2024 04:58:54"
+        "download_time": "19-03-2024 06:04:00"
     },
     {
         "InterviewId": "3965",
@@ -27583,6 +27583,70 @@ let interview_data_raw = `[
         "Flight": "FZ 1406",
         "Dest": "DXB",
         "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "7590",
+        "InterviewEndDate": "2024-03-19 04:32:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7593",
+        "InterviewEndDate": "2024-03-19 04:38:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7594",
+        "InterviewEndDate": "2024-03-19 04:15:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7595",
+        "InterviewEndDate": "2024-03-19 04:15:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7597",
+        "InterviewEndDate": "2024-03-19 04:28:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7598",
+        "InterviewEndDate": "2024-03-19 04:39:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "7599",
+        "InterviewEndDate": "2024-03-19 05:03:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 9943",
+        "Dest": "TFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7600",
+        "InterviewEndDate": "2024-03-19 05:02:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 9943",
+        "Dest": "TFS",
+        "AirlineCode": "FR"
     }
 ]    
 

@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "19-03-2024 08:03:46"
+        "download_time": "19-03-2024 09:08:36"
     },
     {
         "InterviewId": "6722",
@@ -60631,6 +60631,60 @@ let interview_data_raw = `[
         "Flight": "Ey103",
         "Dest": "JFK",
         "AirlineCode": "Ey103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13871",
+        "InterviewEndDate": "2024-03-19 04:06:32",
+        "InterviewState": "Complete",
+        "Flight": "EY432",
+        "Dest": "HKT",
+        "AirlineCode": "EY432",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13872",
+        "InterviewEndDate": "2024-03-19 04:18:43",
+        "InterviewState": "Complete",
+        "Flight": "EY432",
+        "Dest": "HKT",
+        "AirlineCode": "EY432",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13873",
+        "InterviewEndDate": "2024-03-19 04:26:38",
+        "InterviewState": "Complete",
+        "Flight": "EY432",
+        "Dest": "HKT",
+        "AirlineCode": "EY432",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13874",
+        "InterviewEndDate": "2024-03-19 04:30:24",
+        "InterviewState": "Complete",
+        "Flight": "EY432",
+        "Dest": "HKT",
+        "AirlineCode": "EY432",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13875",
+        "InterviewEndDate": "2024-03-19 05:02:44",
+        "InterviewState": "Complete",
+        "Flight": "EY653",
+        "Dest": "CAI",
+        "AirlineCode": "EY653",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13876",
+        "InterviewEndDate": "2024-03-19 05:05:07",
+        "InterviewState": "Complete",
+        "Flight": "EY653",
+        "Dest": "CAI",
+        "AirlineCode": "EY653",
         "Terminal": "T"
     }
 ]    
