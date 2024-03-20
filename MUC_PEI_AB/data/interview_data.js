@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-03-2024 17:47:25"
+        "download_time": "20-03-2024 18:51:50"
     },
     {
         "InterviewId": "15819",
@@ -94183,6 +94183,142 @@ let interview_data_raw = `[
         "Flight": "LH 2078",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29691",
+        "InterviewEndDate": "2024-03-20 16:58:36",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "29692",
+        "InterviewEndDate": "2024-03-20 16:50:11",
+        "InterviewState": "Complete",
+        "Flight": "Lh2032",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29695",
+        "InterviewEndDate": "2024-03-20 16:53:50",
+        "InterviewState": "Complete",
+        "Flight": "Lh2032",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29696",
+        "InterviewEndDate": "2024-03-20 16:47:37",
+        "InterviewState": "Complete",
+        "Flight": "Lh2032",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29697",
+        "InterviewEndDate": "2024-03-20 16:47:53",
+        "InterviewState": "Complete",
+        "Flight": "Lh2032",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29698",
+        "InterviewEndDate": "2024-03-20 17:28:26",
+        "InterviewState": "Complete",
+        "Flight": "Lh1954",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29699",
+        "InterviewEndDate": "2024-03-20 17:17:35",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1954",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29701",
+        "InterviewEndDate": "2024-03-20 17:05:30",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "29702",
+        "InterviewEndDate": "2024-03-20 17:06:36",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "29703",
+        "InterviewEndDate": "2024-03-20 17:16:53",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1954",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29704",
+        "InterviewEndDate": "2024-03-20 17:17:41",
+        "InterviewState": "Complete",
+        "Flight": "Lh1954",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29705",
+        "InterviewEndDate": "2024-03-20 17:14:55",
+        "InterviewState": "Complete",
+        "Flight": "Lh1954",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29706",
+        "InterviewEndDate": "2024-03-20 17:11:52",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "29707",
+        "InterviewEndDate": "2024-03-20 17:25:12",
+        "InterviewState": "Complete",
+        "Flight": "Lh1954",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "29708",
+        "InterviewEndDate": "2024-03-20 17:36:57",
+        "InterviewState": "Complete",
+        "Flight": "BT 926",
+        "Dest": "VNO",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "29709",
+        "InterviewEndDate": "2024-03-20 17:35:30",
+        "InterviewState": "Complete",
+        "Flight": "BT 926",
+        "Dest": "VNO",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "29711",
+        "InterviewEndDate": "2024-03-20 17:35:18",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
