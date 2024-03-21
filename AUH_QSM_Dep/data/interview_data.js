@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "21-03-2024 22:53:49"
+        "download_time": "21-03-2024 23:58:48"
     },
     {
         "InterviewId": "6722",
@@ -61525,6 +61525,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "13970",
+        "InterviewEndDate": "2024-03-21 18:59:10",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "13971",
         "InterviewEndDate": "2024-03-21 17:41:27",
         "InterviewState": "Complete",
@@ -61549,6 +61558,96 @@ let interview_data_raw = `[
         "Flight": "EY241",
         "Dest": "LHE",
         "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13974",
+        "InterviewEndDate": "2024-03-21 19:02:57",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13976",
+        "InterviewEndDate": "2024-03-21 19:16:26",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13977",
+        "InterviewEndDate": "2024-03-21 19:12:09",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13978",
+        "InterviewEndDate": "2024-03-21 19:09:21",
+        "InterviewState": "Complete",
+        "Flight": "EY284",
+        "Dest": "AMD",
+        "AirlineCode": "EY284",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13979",
+        "InterviewEndDate": "2024-03-21 19:38:05",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13980",
+        "InterviewEndDate": "2024-03-21 19:21:50",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13981",
+        "InterviewEndDate": "2024-03-21 19:27:11",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13982",
+        "InterviewEndDate": "2024-03-21 19:45:43",
+        "InterviewState": "Complete",
+        "Flight": "6E096",
+        "Dest": "BOM",
+        "AirlineCode": "6E096",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13983",
+        "InterviewEndDate": "2024-03-21 19:46:27",
+        "InterviewState": "Complete",
+        "Flight": "6E096",
+        "Dest": "BOM",
+        "AirlineCode": "6E096",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13984",
+        "InterviewEndDate": "2024-03-21 19:51:56",
+        "InterviewState": "Complete",
+        "Flight": "6E096",
+        "Dest": "BOM",
+        "AirlineCode": "6E096",
         "Terminal": "T"
     }
 ]    
