@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "21-03-2024 05:35:02"
+        "download_time": "21-03-2024 06:39:09"
     },
     {
         "InterviewId": "3906",
@@ -29981,11 +29981,74 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "7390",
-        "InterviewEndDate": "2024-03-20 10:27:10",
+        "InterviewEndDate": "2024-03-21 01:57:45",
         "InterviewState": "Complete",
         "Flight": "PA - airblue",
         "Dest": "ISB",
         "AirlineCode": "PA",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7392",
+        "InterviewEndDate": "2024-03-21 02:01:26",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "MXP",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7393",
+        "InterviewEndDate": "2024-03-21 02:07:34",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "LHE",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7394",
+        "InterviewEndDate": "2024-03-21 02:12:55",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "LHE",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7395",
+        "InterviewEndDate": "2024-03-21 02:22:19",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "SVO",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7396",
+        "InterviewEndDate": "2024-03-21 02:27:45",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "KHI",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7397",
+        "InterviewEndDate": "2024-03-21 02:34:52",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "LHR",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7398",
+        "InterviewEndDate": "2024-03-21 02:38:46",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "FRA",
+        "AirlineCode": "EY",
         "Terminal": "T"
     }
 ]    
