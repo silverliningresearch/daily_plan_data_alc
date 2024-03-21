@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "21-03-2024 20:44:20"
+        "download_time": "21-03-2024 21:48:51"
     },
     {
         "InterviewId": "6722",
@@ -61468,6 +61468,69 @@ let interview_data_raw = `[
         "Flight": "EY258",
         "Dest": "CCU",
         "AirlineCode": "EY258",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13964",
+        "InterviewEndDate": "2024-03-21 16:57:17",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13965",
+        "InterviewEndDate": "2024-03-21 16:55:54",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13966",
+        "InterviewEndDate": "2024-03-21 17:02:11",
+        "InterviewState": "Complete",
+        "Flight": "Ey329",
+        "Dest": "JED",
+        "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13967",
+        "InterviewEndDate": "2024-03-21 17:14:11",
+        "InterviewState": "Complete",
+        "Flight": "EY430",
+        "Dest": "HKT",
+        "AirlineCode": "EY430",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13968",
+        "InterviewEndDate": "2024-03-21 17:45:26",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13969",
+        "InterviewEndDate": "2024-03-21 17:12:35",
+        "InterviewState": "Complete",
+        "Flight": "EY430",
+        "Dest": "HKT",
+        "AirlineCode": "EY430",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "13971",
+        "InterviewEndDate": "2024-03-21 17:41:27",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
         "Terminal": "T"
     }
 ]    
