@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "21-03-2024 16:37:21"
+        "download_time": "21-03-2024 17:42:57"
     },
     {
         "InterviewId": "7701",
@@ -31079,6 +31079,102 @@ let interview_data_raw = `[
         "Flight": "OS  722",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "12084",
+        "InterviewEndDate": "2024-03-21 15:53:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 9894",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12085",
+        "InterviewEndDate": "2024-03-21 15:54:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 9894",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12086",
+        "InterviewEndDate": "2024-03-21 15:54:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 9894",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12087",
+        "InterviewEndDate": "2024-03-21 15:56:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 9894",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12088",
+        "InterviewEndDate": "2024-03-21 16:13:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12089",
+        "InterviewEndDate": "2024-03-21 16:14:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12090",
+        "InterviewEndDate": "2024-03-21 16:31:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12091",
+        "InterviewEndDate": "2024-03-21 16:31:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12092",
+        "InterviewEndDate": "2024-03-21 16:32:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12093",
+        "InterviewEndDate": "2024-03-21 16:32:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12094",
+        "InterviewEndDate": "2024-03-21 16:37:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12095",
+        "InterviewEndDate": "2024-03-21 16:37:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6"
     }
 ]    
 
