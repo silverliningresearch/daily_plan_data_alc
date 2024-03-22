@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-03-2024 16:22:43"
+        "download_time": "22-03-2024 17:27:40"
     },
     {
         "InterviewId": "5167",
@@ -30217,6 +30217,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "9780",
+        "InterviewEndDate": "2024-03-22 15:34:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "9781",
         "InterviewEndDate": "2024-03-21 11:31:39",
         "InterviewState": "Complete",
@@ -30375,6 +30383,70 @@ let interview_data_arr_raw = `[
         "Flight": "XQ - Sun Express",
         "Dest": "ADB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "9808",
+        "InterviewEndDate": "2024-03-22 15:41:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9810",
+        "InterviewEndDate": "2024-03-22 15:53:13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9811",
+        "InterviewEndDate": "2024-03-22 15:59:28",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9812",
+        "InterviewEndDate": "2024-03-22 16:01:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9813",
+        "InterviewEndDate": "2024-03-22 15:58:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9814",
+        "InterviewEndDate": "2024-03-22 16:18:18",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "9815",
+        "InterviewEndDate": "2024-03-22 16:20:25",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "9816",
+        "InterviewEndDate": "2024-03-22 16:22:13",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
     }
 ]    
 
