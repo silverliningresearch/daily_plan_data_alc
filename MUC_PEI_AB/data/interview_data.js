@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-03-2024 09:41:47"
+        "download_time": "23-03-2024 10:46:48"
     },
     {
         "InterviewId": "15819",
@@ -95438,6 +95438,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2286",
         "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29879",
+        "InterviewEndDate": "2024-03-23 09:00:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29880",
+        "InterviewEndDate": "2024-03-23 08:54:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29881",
+        "InterviewEndDate": "2024-03-23 09:01:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29882",
+        "InterviewEndDate": "2024-03-23 09:25:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29883",
+        "InterviewEndDate": "2024-03-23 09:19:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29884",
+        "InterviewEndDate": "2024-03-23 09:24:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29885",
+        "InterviewEndDate": "2024-03-23 09:46:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29886",
+        "InterviewEndDate": "2024-03-23 09:45:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29887",
+        "InterviewEndDate": "2024-03-23 09:46:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
         "AirlineCode": "LH"
     }
 ]    
