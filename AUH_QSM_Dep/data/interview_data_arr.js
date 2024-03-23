@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "23-03-2024 10:39:26"
+        "download_time": "23-03-2024 11:44:16"
     },
     {
         "InterviewId": "3906",
@@ -30093,6 +30093,60 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EY - Etihad Airways",
         "Dest": "JNB",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7404",
+        "InterviewEndDate": "2024-03-23 06:54:28",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "CCJ",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7405",
+        "InterviewEndDate": "2024-03-23 07:00:34",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "CCJ",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7406",
+        "InterviewEndDate": "2024-03-23 07:07:30",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "KWI",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7407",
+        "InterviewEndDate": "2024-03-23 07:19:03",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7408",
+        "InterviewEndDate": "2024-03-23 07:29:36",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7409",
+        "InterviewEndDate": "2024-03-23 07:35:05",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "JFK",
         "AirlineCode": "EY",
         "Terminal": "T"
     }
