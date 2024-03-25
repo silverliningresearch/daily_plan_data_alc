@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "25-03-2024 19:12:51"
+        "download_time": "25-03-2024 20:18:03"
     },
     {
         "InterviewId": "7701",
@@ -31703,6 +31703,70 @@ let interview_data_raw = `[
         "Flight": "FR 4255",
         "Dest": "NUE",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12174",
+        "InterviewEndDate": "2024-03-25 19:02:26",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12175",
+        "InterviewEndDate": "2024-03-25 18:55:30",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12176",
+        "InterviewEndDate": "2024-03-25 18:56:51",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12177",
+        "InterviewEndDate": "2024-03-25 19:03:56",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12178",
+        "InterviewEndDate": "2024-03-25 19:08:04",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12179",
+        "InterviewEndDate": "2024-03-25 19:16:54",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12180",
+        "InterviewEndDate": "2024-03-25 19:14:27",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12181",
+        "InterviewEndDate": "2024-03-25 19:14:38",
+        "InterviewState": "Complete",
+        "Flight": "EZS1214",
+        "Dest": "BSL",
+        "AirlineCode": "EC"
     }
 ]    
 
