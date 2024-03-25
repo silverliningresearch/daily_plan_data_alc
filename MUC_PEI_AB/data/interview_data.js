@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "25-03-2024 16:56:54"
+        "download_time": "25-03-2024 18:01:57"
     },
     {
         "InterviewId": "15819",
@@ -95831,6 +95831,62 @@ let interview_data_raw = `[
         "Flight": "LH 2326",
         "Dest": "VIE",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29936",
+        "InterviewEndDate": "2024-03-25 16:16:39",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "29937",
+        "InterviewEndDate": "2024-03-25 16:21:11",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "29938",
+        "InterviewEndDate": "2024-03-25 16:13:46",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "29939",
+        "InterviewEndDate": "2024-03-25 16:42:30",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "29940",
+        "InterviewEndDate": "2024-03-25 16:35:08",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "29941",
+        "InterviewEndDate": "2024-03-25 16:52:30",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "29942",
+        "InterviewEndDate": "2024-03-25 16:57:26",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
