@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "26-03-2024 17:51:42"
+        "download_time": "26-03-2024 18:56:34"
     },
     {
         "InterviewId": "2077",
@@ -15879,6 +15879,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MUC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5883",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5884",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5885",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5886",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5887",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5888",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5889",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5890",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "BUC - European Air Charter",
+        "Dest": "SZG",
+        "AirlineCode": "BUC"
     }
 ]    
 
