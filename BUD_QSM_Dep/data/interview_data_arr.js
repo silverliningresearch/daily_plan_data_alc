@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "26-03-2024 18:57:40"
+        "download_time": "26-03-2024 20:02:38"
     },
     {
         "InterviewId": "1224",
@@ -9050,10 +9050,74 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "2367",
-        "InterviewEndDate": "2024-03-26 17:56:51",
+        "InterviewEndDate": "2024-03-26 18:00:54",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "MRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2368",
+        "InterviewEndDate": "2024-03-26 18:07:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2369",
+        "InterviewEndDate": "2024-03-26 18:13:56",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2370",
+        "InterviewEndDate": "2024-03-26 18:19:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2371",
+        "InterviewEndDate": "2024-03-26 18:23:03",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2372",
+        "InterviewEndDate": "2024-03-26 18:39:50",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2373",
+        "InterviewEndDate": "2024-03-26 18:43:45",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2374",
+        "InterviewEndDate": "2024-03-26 18:49:35",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2375",
+        "InterviewEndDate": "2024-03-26 18:55:45",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BCN",
         "AirlineCode": "FR"
     }
 ]    

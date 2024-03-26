@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "26-03-2024 18:56:34"
+        "download_time": "26-03-2024 20:01:33"
     },
     {
         "InterviewId": "2077",
@@ -15943,6 +15943,54 @@ let interview_data_arr_raw = `[
         "Flight": "BUC - European Air Charter",
         "Dest": "SZG",
         "AirlineCode": "BUC"
+    },
+    {
+        "InterviewId": "5894",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "TFS",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "5895",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "TFS",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "5897",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "TFS",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "5898",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "TFS",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "5899",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "TFS",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "5900",
+        "InterviewEndDate": "2024-03-26",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "TFS",
+        "AirlineCode": "DK"
     }
 ]    
 

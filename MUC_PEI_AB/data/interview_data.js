@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-03-2024 18:55:44"
+        "download_time": "26-03-2024 20:00:44"
     },
     {
         "InterviewId": "15819",
@@ -96086,6 +96086,142 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1646",
         "Dest": "GDN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29979",
+        "InterviewEndDate": "2024-03-26 17:57:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29980",
+        "InterviewEndDate": "2024-03-26 17:57:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29981",
+        "InterviewEndDate": "2024-03-26 18:21:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29982",
+        "InterviewEndDate": "2024-03-26 18:11:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29983",
+        "InterviewEndDate": "2024-03-26 18:10:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29984",
+        "InterviewEndDate": "2024-03-26 18:12:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29985",
+        "InterviewEndDate": "2024-03-26 18:11:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29986",
+        "InterviewEndDate": "2024-03-26 18:29:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29987",
+        "InterviewEndDate": "2024-03-26 18:33:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29988",
+        "InterviewEndDate": "2024-03-26 18:31:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29989",
+        "InterviewEndDate": "2024-03-26 18:33:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29990",
+        "InterviewEndDate": "2024-03-26 18:33:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29991",
+        "InterviewEndDate": "2024-03-26 18:49:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29992",
+        "InterviewEndDate": "2024-03-26 18:52:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29993",
+        "InterviewEndDate": "2024-03-26 18:53:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29994",
+        "InterviewEndDate": "2024-03-26 18:47:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "29995",
+        "InterviewEndDate": "2024-03-26 18:48:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
         "AirlineCode": "LH"
     }
 ]    
