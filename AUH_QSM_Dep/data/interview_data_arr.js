@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "27-03-2024 09:55:47"
+        "download_time": "27-03-2024 11:00:44"
     },
     {
         "InterviewId": "3906",
@@ -30508,6 +30508,51 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "KUT",
         "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7452",
+        "InterviewEndDate": "2024-03-27 06:18:31",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "FCO",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7453",
+        "InterviewEndDate": "2024-03-27 06:24:47",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "FCO",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7454",
+        "InterviewEndDate": "2024-03-27 06:30:50",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "JED",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7455",
+        "InterviewEndDate": "2024-03-27 06:43:23",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "DMM",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "7456",
+        "InterviewEndDate": "2024-03-27 06:52:18",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "JED",
+        "AirlineCode": "EY",
         "Terminal": "T"
     }
 ]    
