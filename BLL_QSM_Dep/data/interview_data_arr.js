@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "27-03-2024 20:56:34"
+        "download_time": "27-03-2024 22:01:34"
     },
     {
         "InterviewId": "2077",
@@ -15884,113 +15884,113 @@ let interview_data_arr_raw = `[
         "InterviewId": "5883",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5884",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5885",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5886",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5887",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5888",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5889",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5890",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "BUC - European Air Charter",
+        "Flight": "EW - Eurowings",
         "Dest": "SZG",
-        "AirlineCode": "BUC"
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "5894",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "DK - Sunclass Airlines",
-        "Dest": "TFS",
-        "AirlineCode": "DK"
+        "Flight": "SK - SAS - Scandinavian Airlines",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     },
     {
         "InterviewId": "5895",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "DK - Sunclass Airlines",
-        "Dest": "TFS",
-        "AirlineCode": "DK"
+        "Flight": "SK - SAS - Scandinavian Airlines",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     },
     {
         "InterviewId": "5897",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "DK - Sunclass Airlines",
-        "Dest": "TFS",
-        "AirlineCode": "DK"
+        "Flight": "SK - SAS - Scandinavian Airlines",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     },
     {
         "InterviewId": "5898",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "DK - Sunclass Airlines",
-        "Dest": "TFS",
-        "AirlineCode": "DK"
+        "Flight": "SK - SAS - Scandinavian Airlines",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     },
     {
         "InterviewId": "5899",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "DK - Sunclass Airlines",
-        "Dest": "TFS",
-        "AirlineCode": "DK"
+        "Flight": "SK - SAS - Scandinavian Airlines",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     },
     {
         "InterviewId": "5900",
         "InterviewEndDate": "2024-03-26",
         "InterviewState": "Complete",
-        "Flight": "DK - Sunclass Airlines",
-        "Dest": "TFS",
-        "AirlineCode": "DK"
+        "Flight": "SK - SAS - Scandinavian Airlines",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     },
     {
         "InterviewId": "5902",

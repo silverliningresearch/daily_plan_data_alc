@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-03-2024 20:55:45"
+        "download_time": "27-03-2024 22:00:45"
     },
     {
         "InterviewId": "15819",
@@ -96377,8 +96377,24 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "30015",
+        "InterviewEndDate": "2024-03-27 20:35:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "30016",
         "InterviewEndDate": "2024-03-27 19:33:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30017",
+        "InterviewEndDate": "2024-03-27 20:45:11",
         "InterviewState": "Complete",
         "Flight": "LH 772",
         "Dest": "BKK",
@@ -96422,6 +96438,46 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 772",
         "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30023",
+        "InterviewEndDate": "2024-03-27 20:52:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30024",
+        "InterviewEndDate": "2024-03-27 20:51:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30025",
+        "InterviewEndDate": "2024-03-27 19:58:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 586",
+        "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30026",
+        "InterviewEndDate": "2024-03-27 20:06:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 586",
+        "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30027",
+        "InterviewEndDate": "2024-03-27 20:07:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 586",
+        "Dest": "CAI",
         "AirlineCode": "LH"
     }
 ]    
