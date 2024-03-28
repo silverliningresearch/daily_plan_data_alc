@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-03-2024 14:15:46"
+        "download_time": "28-03-2024 15:20:44"
     },
     {
         "InterviewId": "15819",
@@ -96551,6 +96551,78 @@ let interview_data_raw = `[
         "Flight": "LH 1736",
         "Dest": "BEG",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30037",
+        "InterviewEndDate": "2024-03-28 13:30:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30038",
+        "InterviewEndDate": "2024-03-28 13:27:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30039",
+        "InterviewEndDate": "2024-03-28 13:31:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30041",
+        "InterviewEndDate": "2024-03-28 13:39:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30042",
+        "InterviewEndDate": "2024-03-28 13:43:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30044",
+        "InterviewEndDate": "2024-03-28 14:09:35",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30045",
+        "InterviewEndDate": "2024-03-28 14:13:00",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30046",
+        "InterviewEndDate": "2024-03-28 14:09:35",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30047",
+        "InterviewEndDate": "2024-03-28 14:14:41",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
     }
 ]    
 
