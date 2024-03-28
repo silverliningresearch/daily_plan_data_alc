@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-03-2024 16:25:45"
+        "download_time": "28-03-2024 17:30:44"
     },
     {
         "InterviewId": "15819",
@@ -96671,6 +96671,78 @@ let interview_data_raw = `[
         "Flight": "LH 115",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30055",
+        "InterviewEndDate": "2024-03-28 15:28:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2028",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30056",
+        "InterviewEndDate": "2024-03-28 15:26:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2028",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30057",
+        "InterviewEndDate": "2024-03-28 15:28:03",
+        "InterviewState": "Complete",
+        "Flight": "XQ 785",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "30058",
+        "InterviewEndDate": "2024-03-28 15:37:35",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30060",
+        "InterviewEndDate": "2024-03-28 15:34:27",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30061",
+        "InterviewEndDate": "2024-03-28 15:36:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2028",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30062",
+        "InterviewEndDate": "2024-03-28 15:39:58",
+        "InterviewState": "Complete",
+        "Flight": "EZY3264",
+        "Dest": "EDI",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "30063",
+        "InterviewEndDate": "2024-03-28 15:58:51",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30064",
+        "InterviewEndDate": "2024-03-28 16:10:03",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
