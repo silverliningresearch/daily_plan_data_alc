@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "28-03-2024 11:01:42"
+        "download_time": "28-03-2024 12:06:41"
     },
     {
         "InterviewId": "2077",
@@ -16159,6 +16159,70 @@ let interview_data_arr_raw = `[
         "Flight": "DY - Norwegian Air Shuttle",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "5931",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5932",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5933",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5934",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5935",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "5936",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "5939",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "5940",
+        "InterviewEndDate": "2024-03-28",
+        "InterviewState": "Complete",
+        "Flight": "Delta",
+        "Dest": "AMS",
+        "AirlineCode": "Delta"
     }
 ]    
 
