@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "29-03-2024 16:17:44"
+        "download_time": "29-03-2024 17:22:48"
     },
     {
         "InterviewId": "1224",
@@ -9311,6 +9311,46 @@ let interview_data_arr_raw = `[
         "Flight": "MS - Egyptair",
         "Dest": "CAI",
         "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "2401",
+        "InterviewEndDate": "2024-03-29 15:22:25",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "2402",
+        "InterviewEndDate": "2024-03-29 15:36:22",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "BHX",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "2403",
+        "InterviewEndDate": "2024-03-29 15:41:20",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "BHX",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "2404",
+        "InterviewEndDate": "2024-03-29 15:44:44",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "BHX",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "2405",
+        "InterviewEndDate": "2024-03-29 15:50:28",
+        "InterviewState": "Complete",
+        "Flight": "LS - Jet2.com",
+        "Dest": "BHX",
+        "AirlineCode": "LS"
     }
 ]    
 
