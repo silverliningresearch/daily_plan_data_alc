@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-03-2024 08:31:31"
+        "download_time": "30-03-2024 09:36:30"
     },
     {
         "InterviewId": "5167",
@@ -31063,6 +31063,54 @@ let interview_data_arr_raw = `[
         "Flight": "FH - Freebird Airlines",
         "Dest": "AYT",
         "AirlineCode": "FH"
+    },
+    {
+        "InterviewId": "9906",
+        "InterviewEndDate": "2024-03-30 08:09:37",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "9907",
+        "InterviewEndDate": "2024-03-30 08:12:11",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "9908",
+        "InterviewEndDate": "2024-03-30 08:03:11",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "9909",
+        "InterviewEndDate": "2024-03-30 08:14:16",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "9911",
+        "InterviewEndDate": "2024-03-30 08:26:49",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "LGW",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "9912",
+        "InterviewEndDate": "2024-03-30 08:27:38",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "LGW",
+        "AirlineCode": ""
     }
 ]    
 
