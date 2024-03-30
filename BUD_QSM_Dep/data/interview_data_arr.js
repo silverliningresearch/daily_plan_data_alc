@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "30-03-2024 10:42:37"
+        "download_time": "30-03-2024 11:47:42"
     },
     {
         "InterviewId": "1224",
@@ -9351,6 +9351,54 @@ let interview_data_arr_raw = `[
         "Flight": "LS - Jet2.com",
         "Dest": "BHX",
         "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "2406",
+        "InterviewEndDate": "2024-03-30 09:45:37",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2407",
+        "InterviewEndDate": "2024-03-30 09:54:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2408",
+        "InterviewEndDate": "2024-03-30 10:01:56",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2409",
+        "InterviewEndDate": "2024-03-30 10:08:24",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "2410",
+        "InterviewEndDate": "2024-03-30 10:12:05",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2411",
+        "InterviewEndDate": "2024-03-30 10:17:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
     }
 ]    
 
