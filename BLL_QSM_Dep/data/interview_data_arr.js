@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "30-03-2024 11:46:40"
+        "download_time": "30-03-2024 12:51:39"
     },
     {
         "InterviewId": "2077",
@@ -16567,6 +16567,70 @@ let interview_data_arr_raw = `[
         "Flight": "Klm",
         "Dest": "AMS",
         "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "5996",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "5998",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Transavia",
+        "Dest": "SZG",
+        "AirlineCode": "Transavia"
+    },
+    {
+        "InterviewId": "5999",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Transavia",
+        "Dest": "SZG",
+        "AirlineCode": "Transavia"
+    },
+    {
+        "InterviewId": "6000",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Transavia",
+        "Dest": "SZG",
+        "AirlineCode": "Transavia"
+    },
+    {
+        "InterviewId": "6001",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Transavia",
+        "Dest": "SZG",
+        "AirlineCode": "Transavia"
+    },
+    {
+        "InterviewId": "6002",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Transavia",
+        "Dest": "SZG",
+        "AirlineCode": "Transavia"
+    },
+    {
+        "InterviewId": "6003",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Transavia",
+        "Dest": "SZG",
+        "AirlineCode": "Transavia"
+    },
+    {
+        "InterviewId": "6004",
+        "InterviewEndDate": "2024-03-30",
+        "InterviewState": "Complete",
+        "Flight": "Transavia",
+        "Dest": "SZG",
+        "AirlineCode": "Transavia"
     }
 ]    
 
