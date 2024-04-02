@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "02-04-2024 20:56:41"
+        "download_time": "02-04-2024 22:02:03"
     },
     {
         "InterviewId": "2077",
@@ -16695,6 +16695,86 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "PMI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6016",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6017",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6018",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6019",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6020",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6021",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6022",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6023",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6025",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6026",
+        "InterviewEndDate": "2024-04-02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LCY",
+        "AirlineCode": "BA"
     }
 ]    
 
