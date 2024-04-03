@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-04-2024 19:40:47"
+        "download_time": "03-04-2024 20:45:48"
     },
     {
         "InterviewId": "15819",
@@ -97685,6 +97685,62 @@ let interview_data_raw = `[
         "InterviewEndDate": "2024-04-03 17:10:14",
         "InterviewState": "Complete",
         "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30198",
+        "InterviewEndDate": "2024-04-03 17:52:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30199",
+        "InterviewEndDate": "2024-04-03 17:47:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30200",
+        "InterviewEndDate": "2024-04-03 17:44:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30201",
+        "InterviewEndDate": "2024-04-03 18:11:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30202",
+        "InterviewEndDate": "2024-04-03 18:14:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30203",
+        "InterviewEndDate": "2024-04-03 18:06:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30204",
+        "InterviewEndDate": "2024-04-03 18:18:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
         "Dest": "HAM",
         "AirlineCode": "LH"
     }
