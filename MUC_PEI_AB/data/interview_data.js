@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-04-2024 19:21:28"
+        "download_time": "05-04-2024 20:25:49"
     },
     {
         "InterviewId": "15819",
@@ -98326,6 +98326,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1960",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30287",
+        "InterviewEndDate": "2024-04-05 17:22:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30288",
+        "InterviewEndDate": "2024-04-05 17:24:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30291",
+        "InterviewEndDate": "2024-04-05 17:54:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30292",
+        "InterviewEndDate": "2024-04-05 17:38:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30293",
+        "InterviewEndDate": "2024-04-05 17:39:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30295",
+        "InterviewEndDate": "2024-04-05 17:54:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30296",
+        "InterviewEndDate": "2024-04-05 17:49:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30298",
+        "InterviewEndDate": "2024-04-05 17:55:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30300",
+        "InterviewEndDate": "2024-04-05 18:21:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30301",
+        "InterviewEndDate": "2024-04-05 18:19:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30303",
+        "InterviewEndDate": "2024-04-05 18:20:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
         "AirlineCode": "LH"
     }
 ]    

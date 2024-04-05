@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-04-2024 19:22:30"
+        "download_time": "05-04-2024 20:26:35"
     },
     {
         "InterviewId": "5167",
@@ -31439,6 +31439,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MIA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9954",
+        "InterviewEndDate": "2024-04-05 17:44:53",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9957",
+        "InterviewEndDate": "2024-04-05 17:52:08",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "9960",
+        "InterviewEndDate": "2024-04-05 17:57:13",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9961",
+        "InterviewEndDate": "2024-04-05 18:04:38",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9962",
+        "InterviewEndDate": "2024-04-05 18:03:22",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9965",
+        "InterviewEndDate": "2024-04-05 18:11:59",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "9966",
+        "InterviewEndDate": "2024-04-05 18:19:33",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "9967",
+        "InterviewEndDate": "2024-04-05 18:22:05",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
     }
 ]    
 
