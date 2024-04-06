@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "06-04-2024 11:36:50"
+        "download_time": "06-04-2024 12:41:46"
     },
     {
         "InterviewId": "2077",
@@ -16961,6 +16961,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "6057",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "6058",
         "InterviewEndDate": "2024-04-06",
         "InterviewState": "Complete",
@@ -16977,12 +16985,76 @@ let interview_data_arr_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "6060",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "6061",
         "InterviewEndDate": "2024-04-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "BGY",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6062",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6063",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6066",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6067",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6068",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6069",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6070",
+        "InterviewEndDate": "2024-04-06",
+        "InterviewState": "Complete",
+        "Flight": "Rtanair",
+        "Dest": "STN",
+        "AirlineCode": "Rtanair"
     }
 ]    
 
