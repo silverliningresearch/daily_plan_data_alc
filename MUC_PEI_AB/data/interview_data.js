@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-04-2024 19:10:49"
+        "download_time": "06-04-2024 20:15:48"
     },
     {
         "InterviewId": "15819",
@@ -98495,6 +98495,54 @@ let interview_data_raw = `[
         "Flight": "BA  953",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30315",
+        "InterviewEndDate": "2024-04-06 17:53:26",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30316",
+        "InterviewEndDate": "2024-04-06 17:53:21",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30317",
+        "InterviewEndDate": "2024-04-06 17:45:48",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30318",
+        "InterviewEndDate": "2024-04-06 17:57:52",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30319",
+        "InterviewEndDate": "2024-04-06 17:53:51",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30320",
+        "InterviewEndDate": "2024-04-06 18:05:35",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
