@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-04-2024 17:01:34"
+        "download_time": "06-04-2024 18:06:50"
     },
     {
         "InterviewId": "5167",
@@ -31535,6 +31535,70 @@ let interview_data_arr_raw = `[
         "Flight": "X3 - TUIFly",
         "Dest": "TFS",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "9973",
+        "InterviewEndDate": "2024-04-06 15:03:05",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "9975",
+        "InterviewEndDate": "2024-04-06 15:31:46",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "9977",
+        "InterviewEndDate": "2024-04-06 15:17:16",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9978",
+        "InterviewEndDate": "2024-04-06 15:13:51",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9979",
+        "InterviewEndDate": "2024-04-06 15:39:17",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9980",
+        "InterviewEndDate": "2024-04-06 15:24:32",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9983",
+        "InterviewEndDate": "2024-04-06 15:46:00",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "9984",
+        "InterviewEndDate": "2024-04-06 15:53:10",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
     }
 ]    
 
