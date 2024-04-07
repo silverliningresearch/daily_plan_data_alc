@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-04-2024 13:35:51"
+        "download_time": "07-04-2024 14:40:51"
     },
     {
         "InterviewId": "15819",
@@ -98895,6 +98895,78 @@ let interview_data_raw = `[
         "Flight": "UA 109",
         "Dest": "IAD",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30372",
+        "InterviewEndDate": "2024-04-07 11:58:49",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30373",
+        "InterviewEndDate": "2024-04-07 11:38:45",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30374",
+        "InterviewEndDate": "2024-04-07 11:50:55",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30375",
+        "InterviewEndDate": "2024-04-07 11:38:17",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30376",
+        "InterviewEndDate": "2024-04-07 11:46:37",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30377",
+        "InterviewEndDate": "2024-04-07 12:01:57",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30378",
+        "InterviewEndDate": "2024-04-07 11:56:39",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30383",
+        "InterviewEndDate": "2024-04-07 12:02:20",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30384",
+        "InterviewEndDate": "2024-04-07 12:01:19",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EMPTY",
+        "AirlineCode": ""
     }
 ]    
 
