@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-04-2024 09:15:48"
+        "download_time": "07-04-2024 10:20:49"
     },
     {
         "InterviewId": "15819",
@@ -98719,6 +98719,70 @@ let interview_data_raw = `[
         "Flight": "EK  052",
         "Dest": "DXB",
         "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "30344",
+        "InterviewEndDate": "2024-04-07 08:01:05",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30346",
+        "InterviewEndDate": "2024-04-07 07:52:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30347",
+        "InterviewEndDate": "2024-04-07 07:59:30",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30348",
+        "InterviewEndDate": "2024-04-07 08:01:57",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30349",
+        "InterviewEndDate": "2024-04-07 08:03:43",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30350",
+        "InterviewEndDate": "2024-04-07 08:04:15",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30351",
+        "InterviewEndDate": "2024-04-07 08:17:51",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "30354",
+        "InterviewEndDate": "2024-04-07 08:18:03",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
     }
 ]    
 
