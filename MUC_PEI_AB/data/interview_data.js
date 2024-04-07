@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-04-2024 14:40:51"
+        "download_time": "07-04-2024 15:45:50"
     },
     {
         "InterviewId": "15819",
@@ -98897,6 +98897,30 @@ let interview_data_raw = `[
         "AirlineCode": "UA"
     },
     {
+        "InterviewId": "30367",
+        "InterviewEndDate": "2024-04-07 13:33:51",
+        "InterviewState": "Complete",
+        "Flight": "BA  953",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30368",
+        "InterviewEndDate": "2024-04-07 13:23:13",
+        "InterviewState": "Complete",
+        "Flight": "BA  953",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30370",
+        "InterviewEndDate": "2024-04-07 13:27:58",
+        "InterviewState": "Complete",
+        "Flight": "BA  953",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "30372",
         "InterviewEndDate": "2024-04-07 11:58:49",
         "InterviewState": "Complete",
@@ -98967,6 +98991,30 @@ let interview_data_raw = `[
         "Flight": "",
         "Dest": "EMPTY",
         "AirlineCode": ""
+    },
+    {
+        "InterviewId": "30385",
+        "InterviewEndDate": "2024-04-07 13:30:51",
+        "InterviewState": "Complete",
+        "Flight": "BA  953",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30386",
+        "InterviewEndDate": "2024-04-07 13:21:16",
+        "InterviewState": "Complete",
+        "Flight": "BA  953",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30388",
+        "InterviewEndDate": "2024-04-07 13:44:12",
+        "InterviewState": "Complete",
+        "Flight": "BA  953",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
