@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "07-04-2024 16:51:41"
+        "download_time": "07-04-2024 17:56:36"
     },
     {
         "InterviewId": "5167",
@@ -31795,6 +31795,78 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "10018",
         "InterviewEndDate": "2024-04-07 14:43:37",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10020",
+        "InterviewEndDate": "2024-04-07 14:50:00",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10021",
+        "InterviewEndDate": "2024-04-07 15:14:41",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10022",
+        "InterviewEndDate": "2024-04-07 15:02:14",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10023",
+        "InterviewEndDate": "2024-04-07 15:05:09",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10024",
+        "InterviewEndDate": "2024-04-07 15:07:15",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10025",
+        "InterviewEndDate": "2024-04-07 15:12:57",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10026",
+        "InterviewEndDate": "2024-04-07 15:13:02",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10027",
+        "InterviewEndDate": "2024-04-07 15:20:46",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10028",
+        "InterviewEndDate": "2024-04-07 15:25:31",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
         "Dest": "LHR",

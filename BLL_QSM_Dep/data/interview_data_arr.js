@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "07-04-2024 16:51:54"
+        "download_time": "07-04-2024 17:56:49"
     },
     {
         "InterviewId": "2077",
@@ -17055,6 +17055,110 @@ let interview_data_arr_raw = `[
         "Flight": "Rtanair",
         "Dest": "STN",
         "AirlineCode": "Rtanair"
+    },
+    {
+        "InterviewId": "6075",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6076",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "Sas",
+        "Dest": "OSL",
+        "AirlineCode": "Sas"
+    },
+    {
+        "InterviewId": "6077",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "Sas",
+        "Dest": "OSL",
+        "AirlineCode": "Sas"
+    },
+    {
+        "InterviewId": "6078",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6079",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6080",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6081",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6082",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6083",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6084",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "Rayan",
+        "Dest": "BRU",
+        "AirlineCode": "Rayan"
+    },
+    {
+        "InterviewId": "6085",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "Belgium",
+        "Dest": "CRL",
+        "AirlineCode": "Belgium"
+    },
+    {
+        "InterviewId": "6086",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6088",
+        "InterviewEndDate": "2024-04-07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
     }
 ]    
 
