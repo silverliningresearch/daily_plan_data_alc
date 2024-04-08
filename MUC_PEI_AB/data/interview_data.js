@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-04-2024 19:55:51"
+        "download_time": "08-04-2024 21:00:52"
     },
     {
         "InterviewId": "15819",
@@ -99241,6 +99241,46 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "30419",
+        "InterviewEndDate": "2024-04-08 17:57:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30420",
+        "InterviewEndDate": "2024-04-08 18:01:47",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30421",
+        "InterviewEndDate": "2024-04-08 18:00:50",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30422",
+        "InterviewEndDate": "2024-04-08 18:01:21",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30423",
+        "InterviewEndDate": "2024-04-08 17:59:12",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "30424",
         "InterviewEndDate": "2024-04-08 17:19:45",
         "InterviewState": "Complete",
@@ -99311,6 +99351,38 @@ let interview_data_raw = `[
         "Flight": "LH 1730",
         "Dest": "ZAG",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30433",
+        "InterviewEndDate": "2024-04-08 17:59:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30434",
+        "InterviewEndDate": "2024-04-08 18:02:42",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30435",
+        "InterviewEndDate": "2024-04-08 18:08:59",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30436",
+        "InterviewEndDate": "2024-04-08 18:26:53",
+        "InterviewState": "Complete",
+        "Flight": "KL1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
