@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-04-2024 15:35:51"
+        "download_time": "08-04-2024 16:40:50"
     },
     {
         "InterviewId": "15819",
@@ -99047,6 +99047,70 @@ let interview_data_raw = `[
         "Flight": "BA  953",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "30392",
+        "InterviewEndDate": "2024-04-08 14:30:04",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30394",
+        "InterviewEndDate": "2024-04-08 14:25:48",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "SPC",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30396",
+        "InterviewEndDate": "2024-04-08 14:21:04",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30397",
+        "InterviewEndDate": "2024-04-08 14:14:39",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "SPC",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30398",
+        "InterviewEndDate": "2024-04-08 14:30:02",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30399",
+        "InterviewEndDate": "2024-04-08 14:29:57",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30400",
+        "InterviewEndDate": "2024-04-08 14:30:40",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30401",
+        "InterviewEndDate": "2024-04-08 14:37:20",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
     }
 ]    
 
