@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-04-2024 18:50:51"
+        "download_time": "08-04-2024 19:55:51"
     },
     {
         "InterviewId": "15819",
@@ -99238,6 +99238,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1756",
         "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30424",
+        "InterviewEndDate": "2024-04-08 17:19:45",
+        "InterviewState": "Complete",
+        "Flight": "TP 555",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "30425",
+        "InterviewEndDate": "2024-04-08 17:30:50",
+        "InterviewState": "Complete",
+        "Flight": "TP 555",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "30426",
+        "InterviewEndDate": "2024-04-08 17:27:42",
+        "InterviewState": "Complete",
+        "Flight": "TP 555",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "30427",
+        "InterviewEndDate": "2024-04-08 17:26:16",
+        "InterviewState": "Complete",
+        "Flight": "TP 555",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "30428",
+        "InterviewEndDate": "2024-04-08 17:42:33",
+        "InterviewState": "Complete",
+        "Flight": "EW  087X",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30429",
+        "InterviewEndDate": "2024-04-08 17:46:07",
+        "InterviewState": "Complete",
+        "Flight": "EW  087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30430",
+        "InterviewEndDate": "2024-04-08 17:43:41",
+        "InterviewState": "Complete",
+        "Flight": "EW  087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30431",
+        "InterviewEndDate": "2024-04-08 17:41:50",
+        "InterviewState": "Complete",
+        "Flight": "EW  087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30432",
+        "InterviewEndDate": "2024-04-08 17:48:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
         "AirlineCode": "LH"
     }
 ]    
