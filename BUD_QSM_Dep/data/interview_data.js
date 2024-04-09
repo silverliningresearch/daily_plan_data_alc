@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "09-04-2024 14:22:57"
+        "download_time": "09-04-2024 15:27:55"
     },
     {
         "InterviewId": "3965",
@@ -29623,6 +29623,46 @@ let interview_data_raw = `[
         "Flight": "D8 3551",
         "Dest": "CPH",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "7864",
+        "InterviewEndDate": "2024-04-09 12:28:18",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "7865",
+        "InterviewEndDate": "2024-04-09 12:29:59",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "7866",
+        "InterviewEndDate": "2024-04-09 13:09:14",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "7867",
+        "InterviewEndDate": "2024-04-09 13:21:14",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "7868",
+        "InterviewEndDate": "2024-04-09 13:22:27",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
