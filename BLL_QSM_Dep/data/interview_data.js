@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-04-2024 16:12:19"
+        "download_time": "11-04-2024 17:16:58"
     },
     {
         "InterviewId": "6093",
@@ -54015,6 +54015,70 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "16408",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16409",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16410",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16411",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16412",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16413",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16414",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16415",
+        "InterviewEndDate": "2024-04-11",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
     }
 ]    
 
