@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "12-04-2024 12:49:59"
+        "download_time": "12-04-2024 13:54:58"
     },
     {
         "InterviewId": "7701",
@@ -32975,6 +32975,46 @@ let interview_data_raw = `[
         "Flight": "FM  870",
         "Dest": "PVG",
         "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "12358",
+        "InterviewEndDate": "2024-04-12 11:05:42",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "12359",
+        "InterviewEndDate": "2024-04-12 11:04:20",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "12360",
+        "InterviewEndDate": "2024-04-12 10:57:30",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "12361",
+        "InterviewEndDate": "2024-04-12 11:50:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12362",
+        "InterviewEndDate": "2024-04-12 11:50:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 5254",
+        "Dest": "RMI",
+        "AirlineCode": "FR"
     }
 ]    
 
