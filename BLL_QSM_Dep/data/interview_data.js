@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-04-2024 11:31:54"
+        "download_time": "13-04-2024 12:37:00"
     },
     {
         "InterviewId": "6093",
@@ -54583,6 +54583,70 @@ let interview_data_raw = `[
         "Flight": "LH837",
         "Dest": "FRA",
         "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "16506",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "16507",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "16508",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "16509",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "16510",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "16512",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "16513",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "16514",
+        "InterviewEndDate": "2024-04-13",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
     }
 ]    
 
