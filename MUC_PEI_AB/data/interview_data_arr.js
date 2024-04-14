@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-04-2024 10:16:39"
+        "download_time": "14-04-2024 11:21:59"
     },
     {
         "InterviewId": "5167",
@@ -32326,6 +32326,62 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10098",
+        "InterviewEndDate": "2024-04-14 08:48:24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10099",
+        "InterviewEndDate": "2024-04-14 08:48:36",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "10100",
+        "InterviewEndDate": "2024-04-14 08:50:33",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "10102",
+        "InterviewEndDate": "2024-04-14 09:11:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10103",
+        "InterviewEndDate": "2024-04-14 09:10:01",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "10104",
+        "InterviewEndDate": "2024-04-14 09:11:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10105",
+        "InterviewEndDate": "2024-04-14 09:15:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
