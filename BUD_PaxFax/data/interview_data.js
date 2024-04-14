@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "14-04-2024 11:25:08"
+        "download_time": "14-04-2024 12:30:14"
     },
     {
         "InterviewId": "7701",
@@ -33231,6 +33231,54 @@ let interview_data_raw = `[
         "Flight": "A3  879",
         "Dest": "ATH",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "12393",
+        "InterviewEndDate": "2024-04-14 09:33:40",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "12394",
+        "InterviewEndDate": "2024-04-14 09:31:35",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "12395",
+        "InterviewEndDate": "2024-04-14 09:25:51",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "12396",
+        "InterviewEndDate": "2024-04-14 10:26:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2203",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12398",
+        "InterviewEndDate": "2024-04-14 10:23:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2203",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12399",
+        "InterviewEndDate": "2024-04-14 10:24:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2203",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
     }
 ]    
 
