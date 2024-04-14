@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "14-04-2024 09:11:58"
+        "download_time": "14-04-2024 10:16:57"
     },
     {
         "InterviewId": "2077",
@@ -17551,6 +17551,142 @@ let interview_data_arr_raw = `[
         "Flight": "Ryanair",
         "Dest": "MLA",
         "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": "6206",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6207",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6209",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "IST",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6210",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6211",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "IST",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6214",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "Tu",
+        "Dest": "IST",
+        "AirlineCode": "Tu"
+    },
+    {
+        "InterviewId": "6215",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "6216",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "6217",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6218",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6219",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6220",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6221",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6222",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "6223",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "6224",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "6225",
+        "InterviewEndDate": "2024-04-14",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "A3"
     }
 ]    
 

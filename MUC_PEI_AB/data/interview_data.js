@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-04-2024 09:10:52"
+        "download_time": "14-04-2024 10:15:52"
     },
     {
         "InterviewId": "15819",
@@ -100231,6 +100231,102 @@ let interview_data_raw = `[
         "Flight": "LH 1874",
         "Dest": "FCO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30554",
+        "InterviewEndDate": "2024-04-14 07:15:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30556",
+        "InterviewEndDate": "2024-04-14 07:27:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30558",
+        "InterviewEndDate": "2024-04-14 07:45:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30559",
+        "InterviewEndDate": "2024-04-14 07:44:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30560",
+        "InterviewEndDate": "2024-04-14 07:45:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30561",
+        "InterviewEndDate": "2024-04-14 07:44:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30562",
+        "InterviewEndDate": "2024-04-14 07:44:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30563",
+        "InterviewEndDate": "2024-04-14 08:08:15",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "30564",
+        "InterviewEndDate": "2024-04-14 08:06:21",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "30565",
+        "InterviewEndDate": "2024-04-14 08:07:22",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "30566",
+        "InterviewEndDate": "2024-04-14 08:14:16",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "30567",
+        "InterviewEndDate": "2024-04-14 08:05:10",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
     }
 ]    
 
