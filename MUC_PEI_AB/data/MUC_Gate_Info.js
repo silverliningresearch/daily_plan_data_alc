@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G66",
-        "download_time": "15-04-2024 22:00:59"
+        "download_time": "15-04-2024 23:06:01"
     },
     {
         "aodbUniqueId": "20240415104579",
@@ -579,6 +579,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K05"
+    },
+    {
+        "aodbUniqueId": "20240415104390",
+        "Date": "15-04-2024",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K06"
+    },
+    {
+        "aodbUniqueId": "20240415104351",
+        "Date": "15-04-2024",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K25"
     },
     {
         "aodbUniqueId": "20240415104118",
@@ -1221,6 +1241,16 @@ let MUC_Gate_Info = `[
         "Gate": "B15"
     },
     {
+        "aodbUniqueId": "20240415104112",
+        "Date": "15-04-2024",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H40"
+    },
+    {
         "aodbUniqueId": "20240415104309",
         "Date": "15-04-2024",
         "Flight": "LH 1794",
@@ -1441,16 +1471,6 @@ let MUC_Gate_Info = `[
         "Gate": "K06"
     },
     {
-        "aodbUniqueId": "20240415104351",
-        "Date": "15-04-2024",
-        "Flight": "LH 1994",
-        "Dest": "CGN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K25"
-    },
-    {
         "aodbUniqueId": "20240415104357",
         "Date": "15-04-2024",
         "Flight": "LH 2012",
@@ -1601,16 +1621,6 @@ let MUC_Gate_Info = `[
         "Gate": "G35"
     },
     {
-        "aodbUniqueId": "20240415104390",
-        "Date": "15-04-2024",
-        "Flight": "LH 1626",
-        "Dest": "KRK",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K06"
-    },
-    {
         "aodbUniqueId": "20240415103858",
         "Date": "15-04-2024",
         "Flight": "EI 353",
@@ -1639,16 +1649,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C06"
-    },
-    {
-        "aodbUniqueId": "20240415104112",
-        "Date": "15-04-2024",
-        "Flight": "LH 2558",
-        "Dest": "TBS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H40"
     },
     {
         "aodbUniqueId": "20240415104114",
