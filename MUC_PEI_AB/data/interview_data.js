@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "15-04-2024 19:50:59"
+        "download_time": "15-04-2024 20:55:55"
     },
     {
         "InterviewId": "15819",
@@ -100379,6 +100379,62 @@ let interview_data_raw = `[
     {
         "InterviewId": "30577",
         "InterviewEndDate": "2024-04-15 16:59:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 586",
+        "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30578",
+        "InterviewEndDate": "2024-04-15 18:40:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 586",
+        "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30579",
+        "InterviewEndDate": "2024-04-15 17:52:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30580",
+        "InterviewEndDate": "2024-04-15 18:42:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 586",
+        "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30581",
+        "InterviewEndDate": "2024-04-15 17:57:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30582",
+        "InterviewEndDate": "2024-04-15 18:11:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30583",
+        "InterviewEndDate": "2024-04-15 18:05:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30584",
+        "InterviewEndDate": "2024-04-15 18:43:06",
         "InterviewState": "Complete",
         "Flight": "LH 586",
         "Dest": "CAI",
