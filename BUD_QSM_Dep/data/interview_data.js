@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "16-04-2024 16:28:11"
+        "download_time": "16-04-2024 17:33:10"
     },
     {
         "InterviewId": "3965",
@@ -30355,6 +30355,22 @@ let interview_data_raw = `[
     {
         "InterviewId": "7960",
         "InterviewEndDate": "2024-04-16 14:21:05",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7961",
+        "InterviewEndDate": "2024-04-16 14:31:18",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7962",
+        "InterviewEndDate": "2024-04-16 14:47:19",
         "InterviewState": "Complete",
         "Flight": "KL 1368",
         "Dest": "AMS",
