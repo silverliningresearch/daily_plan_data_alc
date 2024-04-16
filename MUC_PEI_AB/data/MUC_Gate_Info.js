@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G16",
-        "download_time": "16-04-2024 20:45:59"
+        "download_time": "16-04-2024 21:51:01"
     },
     {
         "aodbUniqueId": "20240416108450",
@@ -369,6 +369,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06"
+    },
+    {
+        "aodbUniqueId": "20240416107282",
+        "Date": "16-04-2024",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G46"
+    },
+    {
+        "aodbUniqueId": "20240416107183",
+        "Date": "16-04-2024",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20240416107171",
@@ -1081,6 +1101,16 @@ let MUC_Gate_Info = `[
         "Gate": "G82"
     },
     {
+        "aodbUniqueId": "20240416107109",
+        "Date": "16-04-2024",
+        "Flight": "LH 790",
+        "Dest": "SIN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H14"
+    },
+    {
         "aodbUniqueId": "20240416107292",
         "Date": "16-04-2024",
         "Flight": "LH 1908",
@@ -1259,16 +1289,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
-    },
-    {
-        "aodbUniqueId": "20240416107183",
-        "Date": "16-04-2024",
-        "Flight": "LH 2078",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20240416107187",
@@ -1958,7 +1978,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EK",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C06"
+        "Gate": "C25"
     },
     {
         "aodbUniqueId": "20240416107050",
@@ -2239,16 +2259,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G24"
-    },
-    {
-        "aodbUniqueId": "20240416107282",
-        "Date": "16-04-2024",
-        "Flight": "LH 2076",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G46"
     },
     {
         "aodbUniqueId": "20240416107284",
@@ -2939,16 +2949,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G39"
-    },
-    {
-        "aodbUniqueId": "20240416107109",
-        "Date": "16-04-2024",
-        "Flight": "LH 790",
-        "Dest": "SIN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H14"
     },
     {
         "aodbUniqueId": "20240416107111",
