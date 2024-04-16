@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-04-2024 19:40:53"
+        "download_time": "16-04-2024 20:45:54"
     },
     {
         "InterviewId": "15819",
@@ -100641,11 +100641,67 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "30610",
+        "InterviewEndDate": "2024-04-16 17:41:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "30611",
         "InterviewEndDate": "2024-04-16 17:26:54",
         "InterviewState": "Complete",
         "Flight": "LH 1960",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30612",
+        "InterviewEndDate": "2024-04-16 17:56:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30613",
+        "InterviewEndDate": "2024-04-16 17:55:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30614",
+        "InterviewEndDate": "2024-04-16 17:40:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30615",
+        "InterviewEndDate": "2024-04-16 18:23:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2446",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30616",
+        "InterviewEndDate": "2024-04-16 18:22:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2446",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30617",
+        "InterviewEndDate": "2024-04-16 18:18:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2446",
+        "Dest": "CPH",
         "AirlineCode": "LH"
     }
 ]    
