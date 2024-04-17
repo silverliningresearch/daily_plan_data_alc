@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "17-04-2024 19:33:13"
+        "download_time": "17-04-2024 20:38:17"
     },
     {
         "InterviewId": "1224",
@@ -9599,6 +9599,54 @@ let interview_data_arr_raw = `[
         "Flight": "LY - El Al Israel Airlines",
         "Dest": "TLV",
         "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "2439",
+        "InterviewEndDate": "2024-04-17 17:43:15",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2440",
+        "InterviewEndDate": "2024-04-17 17:48:22",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2441",
+        "InterviewEndDate": "2024-04-17 17:54:02",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "2442",
+        "InterviewEndDate": "2024-04-17 18:00:59",
+        "InterviewState": "Complete",
+        "Flight": "EZY - EasyJet",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "2443",
+        "InterviewEndDate": "2024-04-17 18:06:35",
+        "InterviewState": "Complete",
+        "Flight": "EZY - EasyJet",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "2444",
+        "InterviewEndDate": "2024-04-17 18:18:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
     }
 ]    
 
