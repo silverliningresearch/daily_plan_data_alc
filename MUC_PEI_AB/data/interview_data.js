@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-04-2024 15:00:58"
+        "download_time": "18-04-2024 16:06:24"
     },
     {
         "InterviewId": "15819",
@@ -100886,6 +100886,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH434",
         "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30645",
+        "InterviewEndDate": "2024-04-18 13:06:01",
+        "InterviewState": "Complete",
+        "Flight": "LH434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30646",
+        "InterviewEndDate": "2024-04-18 13:02:46",
+        "InterviewState": "Complete",
+        "Flight": "LH414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30647",
+        "InterviewEndDate": "2024-04-18 13:13:11",
+        "InterviewState": "Complete",
+        "Flight": "LH414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30648",
+        "InterviewEndDate": "2024-04-18 13:17:20",
+        "InterviewState": "Complete",
+        "Flight": "LH414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30649",
+        "InterviewEndDate": "2024-04-18 13:12:25",
+        "InterviewState": "Complete",
+        "Flight": "LH414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30650",
+        "InterviewEndDate": "2024-04-18 13:19:31",
+        "InterviewState": "Complete",
+        "Flight": "Lh414",
+        "Dest": "IAD",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "30651",
+        "InterviewEndDate": "2024-04-18 13:26:22",
+        "InterviewState": "Complete",
+        "Flight": "LH414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30652",
+        "InterviewEndDate": "2024-04-18 13:26:56",
+        "InterviewState": "Complete",
+        "Flight": "LH414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30656",
+        "InterviewEndDate": "2024-04-18 14:00:33",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30657",
+        "InterviewEndDate": "2024-04-18 13:52:01",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30658",
+        "InterviewEndDate": "2024-04-18 13:56:07",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30659",
+        "InterviewEndDate": "2024-04-18 13:47:21",
+        "InterviewState": "Complete",
+        "Flight": "LH474",
+        "Dest": "YUL",
         "AirlineCode": "LH"
     }
 ]    
