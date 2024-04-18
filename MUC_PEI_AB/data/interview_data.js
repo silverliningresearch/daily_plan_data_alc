@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-04-2024 12:51:01"
+        "download_time": "18-04-2024 13:55:54"
     },
     {
         "InterviewId": "15819",
@@ -100718,6 +100718,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH2304",
         "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30621",
+        "InterviewEndDate": "2024-04-18 10:49:14",
+        "InterviewState": "Complete",
+        "Flight": "LH2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30622",
+        "InterviewEndDate": "2024-04-18 10:49:41",
+        "InterviewState": "Complete",
+        "Flight": "LH2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30623",
+        "InterviewEndDate": "2024-04-18 10:51:47",
+        "InterviewState": "Complete",
+        "Flight": "LH2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30624",
+        "InterviewEndDate": "2024-04-18 10:57:17",
+        "InterviewState": "Complete",
+        "Flight": "LH2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30625",
+        "InterviewEndDate": "2024-04-18 11:09:01",
+        "InterviewState": "Complete",
+        "Flight": "LH2288",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30626",
+        "InterviewEndDate": "2024-04-18 11:10:59",
+        "InterviewState": "Complete",
+        "Flight": "LH2288",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30627",
+        "InterviewEndDate": "2024-04-18 11:09:47",
+        "InterviewState": "Complete",
+        "Flight": "LH2288",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30628",
+        "InterviewEndDate": "2024-04-18 11:14:54",
+        "InterviewState": "Complete",
+        "Flight": "LH2288",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30629",
+        "InterviewEndDate": "2024-04-18 11:24:54",
+        "InterviewState": "Complete",
+        "Flight": "LH2288",
+        "Dest": "BRU",
         "AirlineCode": "LH"
     }
 ]    
