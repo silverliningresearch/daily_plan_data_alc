@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-04-2024 12:40:55"
+        "download_time": "19-04-2024 13:45:56"
     },
     {
         "InterviewId": "15819",
@@ -101303,6 +101303,46 @@ let interview_data_raw = `[
         "Flight": "DY 1157",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "30713",
+        "InterviewEndDate": "2024-04-19 11:15:05",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30716",
+        "InterviewEndDate": "2024-04-19 11:22:14",
+        "InterviewState": "Complete",
+        "Flight": "IV 521",
+        "Dest": "PRN",
+        "AirlineCode": "IV"
+    },
+    {
+        "InterviewId": "30717",
+        "InterviewEndDate": "2024-04-19 11:16:08",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30718",
+        "InterviewEndDate": "2024-04-19 11:24:11",
+        "InterviewState": "Complete",
+        "Flight": "TK 1634",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "30719",
+        "InterviewEndDate": "2024-04-19 11:38:53",
+        "InterviewState": "Complete",
+        "Flight": "XQ 977",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
     }
 ]    
 
