@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-04-2024 11:35:59"
+        "download_time": "19-04-2024 12:40:55"
     },
     {
         "InterviewId": "15819",
@@ -101255,6 +101255,54 @@ let interview_data_raw = `[
         "Flight": "AY 1402",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "30704",
+        "InterviewEndDate": "2024-04-19 09:36:37",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "30705",
+        "InterviewEndDate": "2024-04-19 09:40:59",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "30706",
+        "InterviewEndDate": "2024-04-19 09:39:09",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "30707",
+        "InterviewEndDate": "2024-04-19 10:11:00",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30709",
+        "InterviewEndDate": "2024-04-19 10:03:27",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30712",
+        "InterviewEndDate": "2024-04-19 10:24:58",
+        "InterviewState": "Complete",
+        "Flight": "DY 1157",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
     }
 ]    
 
