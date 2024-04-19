@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "19-04-2024 08:22:07"
+        "download_time": "19-04-2024 09:27:06"
     },
     {
         "InterviewId": "2077",
@@ -17687,6 +17687,62 @@ let interview_data_arr_raw = `[
         "Flight": "A3 - Aegean Airlines",
         "Dest": "RHO",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "6226",
+        "InterviewEndDate": "2024-04-19",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6229",
+        "InterviewEndDate": "2024-04-19",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6230",
+        "InterviewEndDate": "2024-04-19",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6231",
+        "InterviewEndDate": "2024-04-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6232",
+        "InterviewEndDate": "2024-04-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6233",
+        "InterviewEndDate": "2024-04-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6234",
+        "InterviewEndDate": "2024-04-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
     }
 ]    
 
