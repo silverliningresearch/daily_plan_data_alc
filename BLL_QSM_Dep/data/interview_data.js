@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "21-04-2024 15:37:03"
+        "download_time": "21-04-2024 16:41:56"
     },
     {
         "InterviewId": "6093",
@@ -55263,6 +55263,70 @@ let interview_data_raw = `[
         "Flight": "LH2435",
         "Dest": "MUC",
         "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "16610",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "16612",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "16614",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "16615",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "16616",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "16617",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "16618",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "16619",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "21-04-2024 15:40:14"
+        "download_time": "21-04-2024 16:45:01"
     },
     {
         "InterviewId": "7701",
@@ -33839,6 +33839,54 @@ let interview_data_raw = `[
         "Flight": "",
         "Dest": "BGY",
         "AirlineCode": ""
+    },
+    {
+        "InterviewId": "12483",
+        "InterviewEndDate": "2024-04-21 14:14:53",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12484",
+        "InterviewEndDate": "2024-04-21 14:18:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12485",
+        "InterviewEndDate": "2024-04-21 14:19:58",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12486",
+        "InterviewEndDate": "2024-04-21 14:22:00",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12487",
+        "InterviewEndDate": "2024-04-21 14:23:33",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12488",
+        "InterviewEndDate": "2024-04-21 14:31:47",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 

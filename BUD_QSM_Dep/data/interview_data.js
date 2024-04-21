@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "21-04-2024 15:38:09"
+        "download_time": "21-04-2024 16:43:03"
     },
     {
         "InterviewId": "3965",
@@ -30633,6 +30633,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "8001",
+        "InterviewEndDate": "2024-04-21 13:57:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 3586",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "8002",
         "InterviewEndDate": "2024-04-21 13:21:35",
         "InterviewState": "Complete",
@@ -30655,6 +30663,62 @@ let interview_data_raw = `[
         "Flight": "FR 3586",
         "Dest": "BGY",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8005",
+        "InterviewEndDate": "2024-04-21 14:24:16",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8006",
+        "InterviewEndDate": "2024-04-21 14:29:24",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8007",
+        "InterviewEndDate": "2024-04-21 14:28:35",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8008",
+        "InterviewEndDate": "2024-04-21 14:38:48",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8009",
+        "InterviewEndDate": "2024-04-21 14:31:36",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8010",
+        "InterviewEndDate": "2024-04-21 14:38:55",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8011",
+        "InterviewEndDate": "2024-04-21 14:37:40",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
