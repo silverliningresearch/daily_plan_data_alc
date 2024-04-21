@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "21-04-2024 11:18:19"
+        "download_time": "21-04-2024 12:23:17"
     },
     {
         "InterviewId": "1224",
@@ -9766,6 +9766,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2460",
+        "InterviewEndDate": "2024-04-21 09:28:19",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "2461",
+        "InterviewEndDate": "2024-04-21 09:34:00",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "2462",
+        "InterviewEndDate": "2024-04-21 09:42:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "ARN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2463",
+        "InterviewEndDate": "2024-04-21 09:48:24",
+        "InterviewState": "Complete",
+        "Flight": "LG - Luxair",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "2464",
+        "InterviewEndDate": "2024-04-21 09:52:44",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2465",
+        "InterviewEndDate": "2024-04-21 10:20:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CIA",
         "AirlineCode": "FR"
     }
 ]    
