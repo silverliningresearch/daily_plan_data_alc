@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "21-04-2024 16:45:01"
+        "download_time": "21-04-2024 17:50:09"
     },
     {
         "InterviewId": "7701",
@@ -33801,6 +33801,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "12477",
+        "InterviewEndDate": "2024-04-21 15:04:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "12478",
         "InterviewEndDate": "2024-04-21 13:10:42",
         "InterviewState": "Complete",
@@ -33887,6 +33895,54 @@ let interview_data_raw = `[
         "Flight": "KL 1368",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12490",
+        "InterviewEndDate": "2024-04-21 15:08:11",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12491",
+        "InterviewEndDate": "2024-04-21 14:47:13",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12492",
+        "InterviewEndDate": "2024-04-21 15:43:25",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "12493",
+        "InterviewEndDate": "2024-04-21 15:38:20",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "12494",
+        "InterviewEndDate": "2024-04-21 15:40:40",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "12495",
+        "InterviewEndDate": "2024-04-21 15:40:16",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
     }
 ]    
 
