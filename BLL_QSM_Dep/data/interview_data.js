@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "21-04-2024 18:52:00"
+        "download_time": "21-04-2024 19:56:57"
     },
     {
         "InterviewId": "6093",
@@ -55391,6 +55391,70 @@ let interview_data_raw = `[
         "Flight": "SK1904",
         "Dest": "OSL",
         "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "16629",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR7642",
+        "Dest": "BUD",
+        "AirlineCode": "FR7642"
+    },
+    {
+        "InterviewId": "16630",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR7642",
+        "Dest": "BUD",
+        "AirlineCode": "FR7642"
+    },
+    {
+        "InterviewId": "16631",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "16633",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR7642",
+        "Dest": "BUD",
+        "AirlineCode": "FR7642"
+    },
+    {
+        "InterviewId": "16634",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR7642",
+        "Dest": "BUD",
+        "AirlineCode": "FR7642"
+    },
+    {
+        "InterviewId": "16635",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR7642",
+        "Dest": "BUD",
+        "AirlineCode": "FR7642"
+    },
+    {
+        "InterviewId": "16636",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR7642",
+        "Dest": "BUD",
+        "AirlineCode": "FR7642"
+    },
+    {
+        "InterviewId": "16637",
+        "InterviewEndDate": "2024-04-21",
+        "InterviewState": "Complete",
+        "Flight": "FR7642",
+        "Dest": "BUD",
+        "AirlineCode": "FR7642"
     }
 ]    
 
