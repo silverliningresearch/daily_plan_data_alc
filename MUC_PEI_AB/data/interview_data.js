@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-04-2024 14:20:56"
+        "download_time": "22-04-2024 15:25:57"
     },
     {
         "InterviewId": "15819",
@@ -101702,6 +101702,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH1870",
         "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30778",
+        "InterviewEndDate": "2024-04-22 12:41:40",
+        "InterviewState": "Complete",
+        "Flight": "LH476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30779",
+        "InterviewEndDate": "2024-04-22 12:45:05",
+        "InterviewState": "Complete",
+        "Flight": "LH476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30782",
+        "InterviewEndDate": "2024-04-22 12:56:27",
+        "InterviewState": "Complete",
+        "Flight": "LH476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30783",
+        "InterviewEndDate": "2024-04-22 12:53:26",
+        "InterviewState": "Complete",
+        "Flight": "LH476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30787",
+        "InterviewEndDate": "2024-04-22 13:15:55",
+        "InterviewState": "Complete",
+        "Flight": "LH452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30789",
+        "InterviewEndDate": "2024-04-22 13:20:35",
+        "InterviewState": "Complete",
+        "Flight": "LH456",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30791",
+        "InterviewEndDate": "2024-04-22 13:21:17",
+        "InterviewState": "Complete",
+        "Flight": "LH456",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30792",
+        "InterviewEndDate": "2024-04-22 13:24:36",
+        "InterviewState": "Complete",
+        "Flight": "LH456",
+        "Dest": "LAX",
         "AirlineCode": "LH"
     }
 ]    
