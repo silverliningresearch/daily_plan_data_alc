@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-04-2024 20:51:51"
+        "download_time": "22-04-2024 21:56:44"
     },
     {
         "InterviewId": "5167",
@@ -32522,7 +32522,7 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "10126",
-        "InterviewEndDate": "2024-04-20 16:14:49",
+        "InterviewEndDate": "2024-04-22 18:57:44",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "SFO",
@@ -32663,6 +32663,54 @@ let interview_data_arr_raw = `[
         "Flight": "0B - Blue Air",
         "Dest": "MCT",
         "AirlineCode": "0B"
+    },
+    {
+        "InterviewId": "10150",
+        "InterviewEndDate": "2024-04-22 18:58:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SPC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10152",
+        "InterviewEndDate": "2024-04-22 19:08:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TLV",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10153",
+        "InterviewEndDate": "2024-04-22 19:13:58",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10154",
+        "InterviewEndDate": "2024-04-22 19:27:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10155",
+        "InterviewEndDate": "2024-04-22 19:38:31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10156",
+        "InterviewEndDate": "2024-04-22 19:50:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
     }
 ]    
 
