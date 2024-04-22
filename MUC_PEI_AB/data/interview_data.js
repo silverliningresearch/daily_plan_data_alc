@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-04-2024 18:40:58"
+        "download_time": "22-04-2024 19:45:57"
     },
     {
         "InterviewId": "15819",
@@ -102151,6 +102151,110 @@ let interview_data_raw = `[
         "Flight": "AF 1023",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "30851",
+        "InterviewEndDate": "2024-04-22 16:51:07",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30852",
+        "InterviewEndDate": "2024-04-22 16:54:38",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "30854",
+        "InterviewEndDate": "2024-04-22 17:05:50",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "30855",
+        "InterviewEndDate": "2024-04-22 17:18:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30856",
+        "InterviewEndDate": "2024-04-22 17:12:58",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "30857",
+        "InterviewEndDate": "2024-04-22 17:17:48",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "30859",
+        "InterviewEndDate": "2024-04-22 17:25:47",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "30863",
+        "InterviewEndDate": "2024-04-22 17:33:27",
+        "InterviewState": "Complete",
+        "Flight": "EN8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "30866",
+        "InterviewEndDate": "2024-04-22 17:29:31",
+        "InterviewState": "Complete",
+        "Flight": "EN8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "30867",
+        "InterviewEndDate": "2024-04-22 17:30:23",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "30868",
+        "InterviewEndDate": "2024-04-22 17:39:12",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "30870",
+        "InterviewEndDate": "2024-04-22 17:43:58",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "30871",
+        "InterviewEndDate": "2024-04-22 17:39:35",
+        "InterviewState": "Complete",
+        "Flight": "EN8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
     }
 ]    
 
