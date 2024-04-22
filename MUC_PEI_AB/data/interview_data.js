@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-04-2024 17:35:59"
+        "download_time": "22-04-2024 18:40:58"
     },
     {
         "InterviewId": "15819",
@@ -102031,6 +102031,126 @@ let interview_data_raw = `[
         "Flight": "LH2236",
         "Dest": "CDG",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30828",
+        "InterviewEndDate": "2024-04-22 15:40:56",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "30830",
+        "InterviewEndDate": "2024-04-22 15:55:18",
+        "InterviewState": "Complete",
+        "Flight": "LH2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30831",
+        "InterviewEndDate": "2024-04-22 15:50:03",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "30832",
+        "InterviewEndDate": "2024-04-22 15:43:14",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "30833",
+        "InterviewEndDate": "2024-04-22 15:46:44",
+        "InterviewState": "Complete",
+        "Flight": "LH2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30834",
+        "InterviewEndDate": "2024-04-22 15:47:13",
+        "InterviewState": "Complete",
+        "Flight": "LH2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30836",
+        "InterviewEndDate": "2024-04-22 16:13:38",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "30837",
+        "InterviewEndDate": "2024-04-22 16:09:16",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "30839",
+        "InterviewEndDate": "2024-04-22 16:06:19",
+        "InterviewState": "Complete",
+        "Flight": "KM309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "30840",
+        "InterviewEndDate": "2024-04-22 16:07:02",
+        "InterviewState": "Complete",
+        "Flight": "KM309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "30841",
+        "InterviewEndDate": "2024-04-22 16:05:51",
+        "InterviewState": "Complete",
+        "Flight": "KM309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "30842",
+        "InterviewEndDate": "2024-04-22 16:08:39",
+        "InterviewState": "Complete",
+        "Flight": "KM309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "30843",
+        "InterviewEndDate": "2024-04-22 16:04:33",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "30844",
+        "InterviewEndDate": "2024-04-22 16:07:10",
+        "InterviewState": "Complete",
+        "Flight": "KM309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "30846",
+        "InterviewEndDate": "2024-04-22 16:35:39",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
