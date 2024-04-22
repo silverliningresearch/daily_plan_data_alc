@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "22-04-2024 11:08:35"
+        "download_time": "22-04-2024 12:12:11"
     },
     {
         "InterviewId": "2077",
@@ -17935,6 +17935,86 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6277",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6278",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6283",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6285",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6286",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6287",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6288",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6289",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6290",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6291",
+        "InterviewEndDate": "2024-04-22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
     }
 ]    
 
