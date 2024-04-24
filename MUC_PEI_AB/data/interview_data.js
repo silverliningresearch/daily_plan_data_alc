@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-04-2024 15:05:59"
+        "download_time": "24-04-2024 16:10:58"
     },
     {
         "InterviewId": "15819",
@@ -102558,6 +102558,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1828",
         "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30911",
+        "InterviewEndDate": "2024-04-24 13:12:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1828",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30912",
+        "InterviewEndDate": "2024-04-24 13:18:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1828",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30913",
+        "InterviewEndDate": "2024-04-24 13:21:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1828",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30914",
+        "InterviewEndDate": "2024-04-24 13:23:30",
+        "InterviewState": "Complete",
+        "Flight": "LH1828",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30915",
+        "InterviewEndDate": "2024-04-24 13:46:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30916",
+        "InterviewEndDate": "2024-04-24 13:50:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30917",
+        "InterviewEndDate": "2024-04-24 13:56:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30918",
+        "InterviewEndDate": "2024-04-24 13:57:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30919",
+        "InterviewEndDate": "2024-04-24 14:02:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30920",
+        "InterviewEndDate": "2024-04-24 14:02:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
         "AirlineCode": "LH"
     }
 ]    
