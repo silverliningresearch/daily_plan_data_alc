@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-04-2024 17:16:00"
+        "download_time": "24-04-2024 18:20:58"
     },
     {
         "InterviewId": "15819",
@@ -102651,6 +102651,62 @@ let interview_data_raw = `[
     {
         "InterviewId": "30924",
         "InterviewEndDate": "2024-04-24 15:13:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30925",
+        "InterviewEndDate": "2024-04-24 15:21:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30926",
+        "InterviewEndDate": "2024-04-24 15:21:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30927",
+        "InterviewEndDate": "2024-04-24 15:39:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30929",
+        "InterviewEndDate": "2024-04-24 15:35:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30930",
+        "InterviewEndDate": "2024-04-24 15:51:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30931",
+        "InterviewEndDate": "2024-04-24 15:53:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30932",
+        "InterviewEndDate": "2024-04-24 15:58:25",
         "InterviewState": "Complete",
         "Flight": "LH 2102",
         "Dest": "HAJ",
