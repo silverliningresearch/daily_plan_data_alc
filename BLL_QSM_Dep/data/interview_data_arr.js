@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "24-04-2024 18:22:19"
+        "download_time": "24-04-2024 19:27:12"
     },
     {
         "InterviewId": "2077",
@@ -18015,6 +18015,166 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "FCO",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6292",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6293",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "6294",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6295",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6296",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6297",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6298",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6299",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "6300",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6301",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6302",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6304",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "6305",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "6306",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6307",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6308",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "6309",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6310",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "Hansa",
+        "Dest": "FRA",
+        "AirlineCode": "Hansa"
+    },
+    {
+        "InterviewId": "6311",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6312",
+        "InterviewEndDate": "2024-04-24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
