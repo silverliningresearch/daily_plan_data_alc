@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "25-04-2024 16:07:28"
+        "download_time": "25-04-2024 17:10:46"
     },
     {
         "InterviewId": "7701",
@@ -34374,6 +34374,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2389",
         "Dest": "AGP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12560",
+        "InterviewEndDate": "2024-04-25 14:37:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12561",
+        "InterviewEndDate": "2024-04-25 14:32:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12562",
+        "InterviewEndDate": "2024-04-25 14:28:19",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12563",
+        "InterviewEndDate": "2024-04-25 14:30:20",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12564",
+        "InterviewEndDate": "2024-04-25 14:32:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12565",
+        "InterviewEndDate": "2024-04-25 14:41:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12566",
+        "InterviewEndDate": "2024-04-25 14:42:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12567",
+        "InterviewEndDate": "2024-04-25 14:41:25",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12568",
+        "InterviewEndDate": "2024-04-25 14:51:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12569",
+        "InterviewEndDate": "2024-04-25 14:55:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
         "AirlineCode": "W6"
     }
 ]    
