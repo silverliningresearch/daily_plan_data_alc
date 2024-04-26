@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-04-2024 20:11:50"
+        "download_time": "26-04-2024 21:16:57"
     },
     {
         "InterviewId": "5167",
@@ -32947,6 +32947,46 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "10200",
         "InterviewEndDate": "2024-04-26 18:08:54",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "10201",
+        "InterviewEndDate": "2024-04-26 18:13:38",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "10202",
+        "InterviewEndDate": "2024-04-26 18:18:43",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "10203",
+        "InterviewEndDate": "2024-04-26 18:24:09",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "10204",
+        "InterviewEndDate": "2024-04-26 18:41:15",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "10205",
+        "InterviewEndDate": "2024-04-26 18:29:52",
         "InterviewState": "Complete",
         "Flight": "XQ - Sun Express",
         "Dest": "ASR",
