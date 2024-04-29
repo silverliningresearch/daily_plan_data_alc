@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-04-2024 19:41:52"
+        "download_time": "29-04-2024 20:46:54"
     },
     {
         "InterviewId": "5167",
@@ -33009,6 +33009,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "A3"
     },
     {
+        "InterviewId": "10209",
+        "InterviewEndDate": "2024-04-29 17:51:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "10210",
         "InterviewEndDate": "2024-04-29 17:21:18",
         "InterviewState": "Complete",
@@ -33023,6 +33031,46 @@ let interview_data_arr_raw = `[
         "Flight": "BT - Air Baltic",
         "Dest": "RIX",
         "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "10212",
+        "InterviewEndDate": "2024-04-29 17:43:48",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "10213",
+        "InterviewEndDate": "2024-04-29 17:48:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10214",
+        "InterviewEndDate": "2024-04-29 18:03:10",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "TBS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "10215",
+        "InterviewEndDate": "2024-04-29 18:08:16",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10216",
+        "InterviewEndDate": "2024-04-29 18:15:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
     }
 ]    
 
