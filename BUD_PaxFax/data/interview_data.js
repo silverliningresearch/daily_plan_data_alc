@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "29-04-2024 10:00:53"
+        "download_time": "29-04-2024 11:05:56"
     },
     {
         "InterviewId": "7701",
@@ -34846,6 +34846,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4091",
         "Dest": "PRG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12620",
+        "InterviewEndDate": "2024-04-29 08:09:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2337",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12621",
+        "InterviewEndDate": "2024-04-29 08:10:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2337",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12622",
+        "InterviewEndDate": "2024-04-29 08:09:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2337",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12623",
+        "InterviewEndDate": "2024-04-29 08:15:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2337",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12624",
+        "InterviewEndDate": "2024-04-29 08:17:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2337",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12626",
+        "InterviewEndDate": "2024-04-29 08:19:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2337",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12627",
+        "InterviewEndDate": "2024-04-29 08:17:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2337",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "12629",
+        "InterviewEndDate": "2024-04-29 08:58:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12630",
+        "InterviewEndDate": "2024-04-29 09:00:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12631",
+        "InterviewEndDate": "2024-04-29 09:02:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "12632",
+        "InterviewEndDate": "2024-04-29 08:59:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
         "AirlineCode": "FR"
     }
 ]    
