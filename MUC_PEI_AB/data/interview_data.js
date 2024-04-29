@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-04-2024 17:31:01"
+        "download_time": "29-04-2024 18:36:01"
     },
     {
         "InterviewId": "15819",
@@ -103033,12 +103033,236 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "30998",
+        "InterviewEndDate": "2024-04-29 15:39:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "30999",
+        "InterviewEndDate": "2024-04-29 15:33:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31000",
+        "InterviewEndDate": "2024-04-29 15:31:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31001",
+        "InterviewEndDate": "2024-04-29 15:40:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31002",
+        "InterviewEndDate": "2024-04-29 15:35:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31003",
+        "InterviewEndDate": "2024-04-29 15:32:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31004",
         "InterviewEndDate": "2024-04-29 15:30:04",
         "InterviewState": "Complete",
         "Flight": "LH 2400",
         "Dest": "BSL",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31005",
+        "InterviewEndDate": "2024-04-29 15:35:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31006",
+        "InterviewEndDate": "2024-04-29 15:38:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31007",
+        "InterviewEndDate": "2024-04-29 15:37:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31010",
+        "InterviewEndDate": "2024-04-29 15:46:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31012",
+        "InterviewEndDate": "2024-04-29 15:42:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31013",
+        "InterviewEndDate": "2024-04-29 15:46:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31014",
+        "InterviewEndDate": "2024-04-29 15:59:14",
+        "InterviewState": "Complete",
+        "Flight": "EN 8278",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31017",
+        "InterviewEndDate": "2024-04-29 16:05:10",
+        "InterviewState": "Complete",
+        "Flight": "EN 8278",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31018",
+        "InterviewEndDate": "2024-04-29 15:56:50",
+        "InterviewState": "Complete",
+        "Flight": "EN 8278",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31019",
+        "InterviewEndDate": "2024-04-29 15:49:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31020",
+        "InterviewEndDate": "2024-04-29 15:50:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31023",
+        "InterviewEndDate": "2024-04-29 16:08:10",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31024",
+        "InterviewEndDate": "2024-04-29 16:13:40",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31025",
+        "InterviewEndDate": "2024-04-29 16:10:23",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31028",
+        "InterviewEndDate": "2024-04-29 16:20:05",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "31030",
+        "InterviewEndDate": "2024-04-29 16:22:58",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "31031",
+        "InterviewEndDate": "2024-04-29 16:22:19",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "31032",
+        "InterviewEndDate": "2024-04-29 16:20:27",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "31033",
+        "InterviewEndDate": "2024-04-29 16:33:22",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31034",
+        "InterviewEndDate": "2024-04-29 16:31:39",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31035",
+        "InterviewEndDate": "2024-04-29 16:31:28",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31038",
+        "InterviewEndDate": "2024-04-29 16:30:44",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
     }
 ]    
 
