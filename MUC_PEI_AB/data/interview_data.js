@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-05-2024 17:56:01"
+        "download_time": "03-05-2024 19:01:02"
     },
     {
         "InterviewId": "15819",
@@ -103631,6 +103631,54 @@ let interview_data_raw = `[
         "Flight": "UX 1518",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "31101",
+        "InterviewEndDate": "2024-05-03 15:58:52",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "31102",
+        "InterviewEndDate": "2024-05-03 15:59:45",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "31103",
+        "InterviewEndDate": "2024-05-03 16:09:26",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "31104",
+        "InterviewEndDate": "2024-05-03 16:39:18",
+        "InterviewState": "Complete",
+        "Flight": "DE 1864",
+        "Dest": "SPU",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "31105",
+        "InterviewEndDate": "2024-05-03 16:40:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31106",
+        "InterviewEndDate": "2024-05-03 16:41:45",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
