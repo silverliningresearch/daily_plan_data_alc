@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "03-05-2024 19:01:56"
+        "download_time": "03-05-2024 20:07:35"
     },
     {
         "InterviewId": "5167",
@@ -33183,6 +33183,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FAO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10237",
+        "InterviewEndDate": "2024-05-03 17:27:58",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "10239",
+        "InterviewEndDate": "2024-05-03 17:25:59",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "10240",
+        "InterviewEndDate": "2024-05-03 17:29:34",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "10243",
+        "InterviewEndDate": "2024-05-03 17:35:48",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "RHO",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "10246",
+        "InterviewEndDate": "2024-05-03 17:50:47",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "10247",
+        "InterviewEndDate": "2024-05-03 17:57:31",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "HER",
+        "AirlineCode": "X3"
     }
 ]    
 
