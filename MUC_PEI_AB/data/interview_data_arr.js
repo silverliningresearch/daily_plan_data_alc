@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "03-05-2024 20:07:35"
+        "download_time": "03-05-2024 21:12:00"
     },
     {
         "InterviewId": "5167",
@@ -33231,6 +33231,70 @@ let interview_data_arr_raw = `[
         "Flight": "X3 - TUIFly",
         "Dest": "HER",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "10252",
+        "InterviewEndDate": "2024-05-03 18:12:44",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "NAP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "10253",
+        "InterviewEndDate": "2024-05-03 18:16:22",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "NAP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "10254",
+        "InterviewEndDate": "2024-05-03 18:24:05",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10255",
+        "InterviewEndDate": "2024-05-03 18:31:54",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10256",
+        "InterviewEndDate": "2024-05-03 18:34:16",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10257",
+        "InterviewEndDate": "2024-05-03 18:36:07",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "10258",
+        "InterviewEndDate": "2024-05-03 18:38:54",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "10260",
+        "InterviewEndDate": "2024-05-03 18:49:16",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 
