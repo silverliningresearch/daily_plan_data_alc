@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-05-2024 16:40:59"
+        "download_time": "04-05-2024 17:46:00"
     },
     {
         "InterviewId": "15819",
@@ -103742,6 +103742,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 474",
         "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31115",
+        "InterviewEndDate": "2024-05-04 14:55:10",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "31116",
+        "InterviewEndDate": "2024-05-04 14:53:41",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "31117",
+        "InterviewEndDate": "2024-05-04 14:49:51",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "31118",
+        "InterviewEndDate": "2024-05-04 14:56:13",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "31119",
+        "InterviewEndDate": "2024-05-04 15:00:32",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "31120",
+        "InterviewEndDate": "2024-05-04 15:32:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1798",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31121",
+        "InterviewEndDate": "2024-05-04 15:32:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1798",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31122",
+        "InterviewEndDate": "2024-05-04 15:28:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1798",
+        "Dest": "PMI",
         "AirlineCode": "LH"
     }
 ]    
