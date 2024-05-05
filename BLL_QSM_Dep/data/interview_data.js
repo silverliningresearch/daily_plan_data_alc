@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "05-05-2024 12:12:22"
+        "download_time": "05-05-2024 13:17:09"
     },
     {
         "InterviewId": "6093",
@@ -57479,6 +57479,70 @@ let interview_data_raw = `[
         "Flight": "LH837",
         "Dest": "FRA",
         "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "16973",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
+    },
+    {
+        "InterviewId": "16974",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
+    },
+    {
+        "InterviewId": "16975",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
+    },
+    {
+        "InterviewId": "16976",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
+    },
+    {
+        "InterviewId": "16977",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
+    },
+    {
+        "InterviewId": "16978",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
+    },
+    {
+        "InterviewId": "16979",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
+    },
+    {
+        "InterviewId": "16980",
+        "InterviewEndDate": "2024-05-05",
+        "InterviewState": "Complete",
+        "Flight": "FR6343",
+        "Dest": "WRO",
+        "AirlineCode": "FR6343"
     }
 ]    
 
