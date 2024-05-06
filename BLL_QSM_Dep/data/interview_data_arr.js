@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "06-05-2024 12:03:01"
+        "download_time": "06-05-2024 13:07:28"
     },
     {
         "InterviewId": "2077",
@@ -18585,12 +18585,84 @@ let interview_data_arr_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "6406",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6410",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6411",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "FCO",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "6412",
         "InterviewEndDate": "2024-05-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "FCO",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6415",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6416",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6417",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6418",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6419",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6420",
+        "InterviewEndDate": "2024-05-06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
     }
 ]    
 
