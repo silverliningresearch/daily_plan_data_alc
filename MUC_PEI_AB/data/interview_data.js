@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-05-2024 18:31:01"
+        "download_time": "06-05-2024 19:36:03"
     },
     {
         "InterviewId": "15819",
@@ -104254,6 +104254,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1660",
         "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31181",
+        "InterviewEndDate": "2024-05-06 16:37:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31182",
+        "InterviewEndDate": "2024-05-06 16:37:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31183",
+        "InterviewEndDate": "2024-05-06 16:43:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31185",
+        "InterviewEndDate": "2024-05-06 17:10:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31186",
+        "InterviewEndDate": "2024-05-06 16:56:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31187",
+        "InterviewEndDate": "2024-05-06 16:59:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31189",
+        "InterviewEndDate": "2024-05-06 16:58:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31190",
+        "InterviewEndDate": "2024-05-06 17:07:38",
+        "InterviewState": "Complete",
+        "Flight": "EN 8730",
+        "Dest": "DRS",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31191",
+        "InterviewEndDate": "2024-05-06 17:25:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2420",
+        "Dest": "ARN",
         "AirlineCode": "LH"
     }
 ]    
