@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L21",
-        "download_time": "07-05-2024 20:31:10"
+        "download_time": "07-05-2024 21:36:11"
     },
     {
         "aodbUniqueId": "20240507509016",
@@ -99,16 +99,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G28"
-    },
-    {
-        "aodbUniqueId": "20240507508809",
-        "Date": "07-05-2024",
-        "Flight": "LH 1714",
-        "Dest": "TIA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H04"
     },
     {
         "aodbUniqueId": "20240507508813",
@@ -1801,16 +1791,6 @@ let MUC_Gate_Info = `[
         "Gate": "G65"
     },
     {
-        "aodbUniqueId": "20240507508774",
-        "Date": "07-05-2024",
-        "Flight": "EN 8298",
-        "Dest": "GOA",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G36"
-    },
-    {
         "aodbUniqueId": "20240507508782",
         "Date": "07-05-2024",
         "Flight": "EN 8314",
@@ -1869,16 +1849,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G28"
-    },
-    {
-        "aodbUniqueId": "20240507508548",
-        "Date": "07-05-2024",
-        "Flight": "EN 8304",
-        "Dest": "AOI",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K28"
     },
     {
         "aodbUniqueId": "20240507508551",
@@ -2419,16 +2389,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B14"
-    },
-    {
-        "aodbUniqueId": "20240507509359",
-        "Date": "07-05-2024",
-        "Flight": "LH 1788",
-        "Dest": "OPO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K13"
     },
     {
         "aodbUniqueId": "20240507509360",
@@ -4101,6 +4061,26 @@ let MUC_Gate_Info = `[
         "Gate": "G82"
     },
     {
+        "aodbUniqueId": "20240507509359",
+        "Date": "07-05-2024",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K13"
+    },
+    {
+        "aodbUniqueId": "20240507508774",
+        "Date": "07-05-2024",
+        "Flight": "EN 8298",
+        "Dest": "GOA",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G36"
+    },
+    {
         "aodbUniqueId": "20240507509254",
         "Date": "07-05-2024",
         "Flight": "SM 2999",
@@ -4139,6 +4119,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G04"
+    },
+    {
+        "aodbUniqueId": "20240507508809",
+        "Date": "07-05-2024",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H04"
+    },
+    {
+        "aodbUniqueId": "20240507508548",
+        "Date": "07-05-2024",
+        "Flight": "EN 8304",
+        "Dest": "AOI",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K28"
     },
     {
         "aodbUniqueId": "20240507509378",
