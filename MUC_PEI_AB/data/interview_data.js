@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-05-2024 21:36:03"
+        "download_time": "07-05-2024 22:41:02"
     },
     {
         "InterviewId": "15819",
@@ -105118,6 +105118,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2484",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31313",
+        "InterviewEndDate": "2024-05-07 19:39:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31314",
+        "InterviewEndDate": "2024-05-07 19:45:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31315",
+        "InterviewEndDate": "2024-05-07 19:40:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31316",
+        "InterviewEndDate": "2024-05-07 19:43:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31317",
+        "InterviewEndDate": "2024-05-07 20:02:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31318",
+        "InterviewEndDate": "2024-05-07 20:03:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31319",
+        "InterviewEndDate": "2024-05-07 20:03:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31320",
+        "InterviewEndDate": "2024-05-07 20:03:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
         "AirlineCode": "LH"
     }
 ]    
