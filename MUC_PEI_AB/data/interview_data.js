@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-05-2024 12:56:02"
+        "download_time": "07-05-2024 14:01:15"
     },
     {
         "InterviewId": "15819",
@@ -104470,6 +104470,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH  714",
         "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31215",
+        "InterviewEndDate": "2024-05-07 11:17:08",
+        "InterviewState": "Complete",
+        "Flight": "TG  925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "31216",
+        "InterviewEndDate": "2024-05-07 11:10:20",
+        "InterviewState": "Complete",
+        "Flight": "TG  925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "31217",
+        "InterviewEndDate": "2024-05-07 11:12:04",
+        "InterviewState": "Complete",
+        "Flight": "TG  925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "31218",
+        "InterviewEndDate": "2024-05-07 11:36:10",
+        "InterviewState": "Complete",
+        "Flight": "TG  925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "31219",
+        "InterviewEndDate": "2024-05-07 11:17:54",
+        "InterviewState": "Complete",
+        "Flight": "TG  925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "31221",
+        "InterviewEndDate": "2024-05-07 11:38:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31222",
+        "InterviewEndDate": "2024-05-07 11:42:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31223",
+        "InterviewEndDate": "2024-05-07 11:44:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31224",
+        "InterviewEndDate": "2024-05-07 11:46:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31225",
+        "InterviewEndDate": "2024-05-07 11:48:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31226",
+        "InterviewEndDate": "2024-05-07 11:58:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
         "AirlineCode": "LH"
     }
 ]    
