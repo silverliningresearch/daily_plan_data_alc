@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-05-2024 09:31:13"
+        "download_time": "08-05-2024 10:36:07"
     },
     {
         "InterviewId": "15819",
@@ -105230,6 +105230,118 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "DL  131",
         "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "31327",
+        "InterviewEndDate": "2024-05-08 07:45:56",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31328",
+        "InterviewEndDate": "2024-05-08 07:51:12",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31329",
+        "InterviewEndDate": "2024-05-08 07:51:07",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31330",
+        "InterviewEndDate": "2024-05-08 07:53:41",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31331",
+        "InterviewEndDate": "2024-05-08 07:59:25",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31332",
+        "InterviewEndDate": "2024-05-08 07:43:05",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31333",
+        "InterviewEndDate": "2024-05-08 07:56:12",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31335",
+        "InterviewEndDate": "2024-05-08 08:04:15",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31336",
+        "InterviewEndDate": "2024-05-08 08:04:05",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31337",
+        "InterviewEndDate": "2024-05-08 08:09:17",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31338",
+        "InterviewEndDate": "2024-05-08 08:09:26",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31341",
+        "InterviewEndDate": "2024-05-08 08:23:48",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "31342",
+        "InterviewEndDate": "2024-05-08 08:25:16",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "31343",
+        "InterviewEndDate": "2024-05-08 08:32:56",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
         "AirlineCode": "DL"
     }
 ]    
