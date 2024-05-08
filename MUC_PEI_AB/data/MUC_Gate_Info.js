@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L08",
-        "download_time": "08-05-2024 23:36:13"
+        "download_time": "09-05-2024 00:41:08"
     },
     {
         "aodbUniqueId": "20240508511612",
@@ -694,7 +694,7 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20240508511343",
         "Date": "08-05-2024",
         "Flight": "LH 428",
-        "Dest": "CLT",
+        "Dest": "IAD",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
@@ -2561,16 +2561,6 @@ let MUC_Gate_Info = `[
         "Gate": "L03"
     },
     {
-        "aodbUniqueId": "20240508511878",
-        "Date": "08-05-2024",
-        "Flight": "EJU4278",
-        "Dest": "NAP",
-        "AirlineCode": "EJU",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D05"
-    },
-    {
         "aodbUniqueId": "20240508511883",
         "Date": "08-05-2024",
         "Flight": "LH 2486",
@@ -3289,6 +3279,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B15"
+    },
+    {
+        "aodbUniqueId": "20240508511878",
+        "Date": "08-05-2024",
+        "Flight": "EJU4278",
+        "Dest": "FCO",
+        "AirlineCode": "EJU",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D05"
     },
     {
         "aodbUniqueId": "20240508512026",
