@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "09-05-2024 10:27:26"
+        "download_time": "09-05-2024 11:32:53"
     },
     {
         "InterviewId": "2077",
@@ -18767,6 +18767,118 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BCN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6435",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6436",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6437",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6438",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6439",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6440",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6442",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6443",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6444",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6445",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6446",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6447",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6448",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6449",
+        "InterviewEndDate": "2024-05-09",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
