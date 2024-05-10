@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-05-2024 20:01:08"
+        "download_time": "10-05-2024 21:06:05"
     },
     {
         "InterviewId": "15819",
@@ -105591,6 +105591,70 @@ let interview_data_raw = `[
         "Flight": "A3 503",
         "Dest": "SKG",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "31378",
+        "InterviewEndDate": "2024-05-10 18:10:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31379",
+        "InterviewEndDate": "2024-05-10 18:07:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31380",
+        "InterviewEndDate": "2024-05-10 18:22:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31382",
+        "InterviewEndDate": "2024-05-10 18:28:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31383",
+        "InterviewEndDate": "2024-05-10 18:28:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31384",
+        "InterviewEndDate": "2024-05-10 18:29:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31385",
+        "InterviewEndDate": "2024-05-10 18:36:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31386",
+        "InterviewEndDate": "2024-05-10 18:32:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
     }
 ]    
 
