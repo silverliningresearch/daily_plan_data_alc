@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-05-2024 18:56:03"
+        "download_time": "10-05-2024 20:01:08"
     },
     {
         "InterviewId": "15819",
@@ -105513,6 +105513,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "31365",
+        "InterviewEndDate": "2024-05-10 16:57:41",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
         "InterviewId": "31366",
         "InterviewEndDate": "2024-05-10 16:42:22",
         "InterviewState": "Complete",
@@ -105543,6 +105551,46 @@ let interview_data_raw = `[
         "Flight": "OS 116",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "31371",
+        "InterviewEndDate": "2024-05-10 17:41:00",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "31372",
+        "InterviewEndDate": "2024-05-10 17:43:23",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "31373",
+        "InterviewEndDate": "2024-05-10 17:50:10",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "31376",
+        "InterviewEndDate": "2024-05-10 17:45:30",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "31377",
+        "InterviewEndDate": "2024-05-10 17:54:39",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
