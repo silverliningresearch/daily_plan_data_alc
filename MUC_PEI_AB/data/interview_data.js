@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-05-2024 17:51:16"
+        "download_time": "10-05-2024 18:56:03"
     },
     {
         "InterviewId": "15819",
@@ -105487,6 +105487,62 @@ let interview_data_raw = `[
         "Flight": "XQ  977",
         "Dest": "ADB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31362",
+        "InterviewEndDate": "2024-05-10 16:20:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2196",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31363",
+        "InterviewEndDate": "2024-05-10 16:18:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2196",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31364",
+        "InterviewEndDate": "2024-05-10 16:16:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2196",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31366",
+        "InterviewEndDate": "2024-05-10 16:42:22",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "31367",
+        "InterviewEndDate": "2024-05-10 16:55:33",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "31368",
+        "InterviewEndDate": "2024-05-10 16:43:03",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "31369",
+        "InterviewEndDate": "2024-05-10 16:42:05",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
