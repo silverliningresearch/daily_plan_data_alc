@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "13-05-2024 14:08:32"
+        "download_time": "13-05-2024 15:12:51"
     },
     {
         "InterviewId": "2077",
@@ -19095,6 +19095,62 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6501",
+        "InterviewEndDate": "2024-05-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6502",
+        "InterviewEndDate": "2024-05-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6504",
+        "InterviewEndDate": "2024-05-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6505",
+        "InterviewEndDate": "2024-05-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6510",
+        "InterviewEndDate": "2024-05-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6511",
+        "InterviewEndDate": "2024-05-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6512",
+        "InterviewEndDate": "2024-05-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
     }
 ]    
 
