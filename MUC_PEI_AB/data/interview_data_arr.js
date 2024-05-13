@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "13-05-2024 17:22:37"
+        "download_time": "13-05-2024 18:27:01"
     },
     {
         "InterviewId": "5167",
@@ -33993,12 +33993,28 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "10359",
+        "InterviewEndDate": "2024-05-13 15:29:24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "10360",
         "InterviewEndDate": "2024-05-13 14:58:08",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10361",
+        "InterviewEndDate": "2024-05-13 15:25:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "VLC",
+        "AirlineCode": "LH"
     },
     {
         "InterviewId": "10362",
@@ -34017,11 +34033,83 @@ let interview_data_arr_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "10365",
+        "InterviewEndDate": "2024-05-13 15:43:03",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "KIX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10367",
+        "InterviewEndDate": "2024-05-13 15:29:56",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "HRG",
+        "AirlineCode": ""
+    },
+    {
         "InterviewId": "10368",
         "InterviewEndDate": "2024-05-13 15:19:42",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "VLC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10369",
+        "InterviewEndDate": "2024-05-13 15:29:45",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "HRG",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "10371",
+        "InterviewEndDate": "2024-05-13 15:53:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10372",
+        "InterviewEndDate": "2024-05-13 15:39:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10374",
+        "InterviewEndDate": "2024-05-13 15:41:46",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "HRG",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "10375",
+        "InterviewEndDate": "2024-05-13 15:56:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10376",
+        "InterviewEndDate": "2024-05-13 15:38:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10378",
+        "InterviewEndDate": "2024-05-13 16:04:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CGN",
         "AirlineCode": "LH"
     }
 ]    
