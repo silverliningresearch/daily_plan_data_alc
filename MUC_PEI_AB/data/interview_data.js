@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-05-2024 15:11:08"
+        "download_time": "13-05-2024 16:16:07"
     },
     {
         "InterviewId": "15819",
@@ -106537,6 +106537,14 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "31519",
+        "InterviewEndDate": "2024-05-13 13:18:42",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "31520",
         "InterviewEndDate": "2024-05-13 12:55:15",
         "InterviewState": "Complete",
@@ -106551,6 +106559,14 @@ let interview_data_raw = `[
         "Flight": "UA 761",
         "Dest": "DEN",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31522",
+        "InterviewEndDate": "2024-05-13 13:25:31",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     },
     {
         "InterviewId": "31523",
@@ -106571,6 +106587,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "31525",
         "InterviewEndDate": "2024-05-13 12:51:22",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "31526",
+        "InterviewEndDate": "2024-05-13 13:18:24",
         "InterviewState": "Complete",
         "Flight": "BA  951",
         "Dest": "LHR",
@@ -106647,6 +106671,86 @@ let interview_data_raw = `[
         "Flight": "UA 761",
         "Dest": "DEN",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31536",
+        "InterviewEndDate": "2024-05-13 13:20:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31537",
+        "InterviewEndDate": "2024-05-13 13:24:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31538",
+        "InterviewEndDate": "2024-05-13 13:20:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31539",
+        "InterviewEndDate": "2024-05-13 13:25:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31540",
+        "InterviewEndDate": "2024-05-13 13:18:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31541",
+        "InterviewEndDate": "2024-05-13 13:24:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31542",
+        "InterviewEndDate": "2024-05-13 13:29:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31545",
+        "InterviewEndDate": "2024-05-13 14:02:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31546",
+        "InterviewEndDate": "2024-05-13 14:01:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31547",
+        "InterviewEndDate": "2024-05-13 14:12:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
