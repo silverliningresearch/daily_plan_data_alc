@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-05-2024 11:56:06"
+        "download_time": "13-05-2024 13:01:17"
     },
     {
         "InterviewId": "15819",
@@ -106183,6 +106183,206 @@ let interview_data_raw = `[
         "Flight": "LH 466",
         "Dest": "SAN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31471",
+        "InterviewEndDate": "2024-05-13 09:58:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31472",
+        "InterviewEndDate": "2024-05-13 09:56:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31473",
+        "InterviewEndDate": "2024-05-13 09:57:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31474",
+        "InterviewEndDate": "2024-05-13 10:23:03",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31475",
+        "InterviewEndDate": "2024-05-13 10:00:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31477",
+        "InterviewEndDate": "2024-05-13 10:34:03",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31478",
+        "InterviewEndDate": "2024-05-13 10:02:35",
+        "InterviewState": "Complete",
+        "Flight": "Lh 466",
+        "Dest": "SAN",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "31479",
+        "InterviewEndDate": "2024-05-13 10:28:41",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31480",
+        "InterviewEndDate": "2024-05-13 10:30:53",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31481",
+        "InterviewEndDate": "2024-05-13 10:18:41",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31482",
+        "InterviewEndDate": "2024-05-13 10:18:34",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31483",
+        "InterviewEndDate": "2024-05-13 10:16:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31484",
+        "InterviewEndDate": "2024-05-13 10:08:02",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31485",
+        "InterviewEndDate": "2024-05-13 10:11:31",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31486",
+        "InterviewEndDate": "2024-05-13 10:20:28",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31487",
+        "InterviewEndDate": "2024-05-13 10:29:50",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31488",
+        "InterviewEndDate": "2024-05-13 10:28:05",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31489",
+        "InterviewEndDate": "2024-05-13 10:28:49",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31490",
+        "InterviewEndDate": "2024-05-13 10:30:09",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31491",
+        "InterviewEndDate": "2024-05-13 10:35:45",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31492",
+        "InterviewEndDate": "2024-05-13 10:30:15",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31493",
+        "InterviewEndDate": "2024-05-13 10:32:51",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "31494",
+        "InterviewEndDate": "2024-05-13 10:44:02",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31495",
+        "InterviewEndDate": "2024-05-13 10:46:35",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "31496",
+        "InterviewEndDate": "2024-05-13 10:41:54",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
     }
 ]    
 
