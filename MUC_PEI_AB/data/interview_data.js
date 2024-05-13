@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-05-2024 20:36:08"
+        "download_time": "13-05-2024 21:41:06"
     },
     {
         "InterviewId": "15819",
@@ -106806,6 +106806,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2484",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31556",
+        "InterviewEndDate": "2024-05-13 18:43:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31557",
+        "InterviewEndDate": "2024-05-13 18:48:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31558",
+        "InterviewEndDate": "2024-05-13 19:10:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31559",
+        "InterviewEndDate": "2024-05-13 19:16:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31560",
+        "InterviewEndDate": "2024-05-13 19:08:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31561",
+        "InterviewEndDate": "2024-05-13 19:12:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31562",
+        "InterviewEndDate": "2024-05-13 19:22:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31563",
+        "InterviewEndDate": "2024-05-13 19:22:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
         "AirlineCode": "LH"
     }
 ]    
