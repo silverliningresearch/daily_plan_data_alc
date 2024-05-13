@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "13-05-2024 16:17:00"
+        "download_time": "13-05-2024 17:22:37"
     },
     {
         "InterviewId": "5167",
@@ -33911,6 +33911,118 @@ let interview_data_arr_raw = `[
         "Flight": "TP - TAP Air Portugal",
         "Dest": "LIS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "10345",
+        "InterviewEndDate": "2024-05-13 14:28:00",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "10347",
+        "InterviewEndDate": "2024-05-13 14:31:30",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "10348",
+        "InterviewEndDate": "2024-05-13 14:34:31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10349",
+        "InterviewEndDate": "2024-05-13 14:36:46",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "10350",
+        "InterviewEndDate": "2024-05-13 14:36:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10351",
+        "InterviewEndDate": "2024-05-13 14:36:10",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "10352",
+        "InterviewEndDate": "2024-05-13 14:53:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10353",
+        "InterviewEndDate": "2024-05-13 14:48:09",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "10357",
+        "InterviewEndDate": "2024-05-13 15:04:31",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10358",
+        "InterviewEndDate": "2024-05-13 14:57:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10360",
+        "InterviewEndDate": "2024-05-13 14:58:08",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10362",
+        "InterviewEndDate": "2024-05-13 14:58:33",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10363",
+        "InterviewEndDate": "2024-05-13 15:05:19",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10368",
+        "InterviewEndDate": "2024-05-13 15:19:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "VLC",
+        "AirlineCode": "LH"
     }
 ]    
 
