@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-05-2024 10:51:08"
+        "download_time": "13-05-2024 11:56:06"
     },
     {
         "InterviewId": "15819",
@@ -106078,6 +106078,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2060",
         "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31457",
+        "InterviewEndDate": "2024-05-13 08:56:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 1992",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31458",
+        "InterviewEndDate": "2024-05-13 08:58:46",
+        "InterviewState": "Complete",
+        "Flight": "EW 1992",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31459",
+        "InterviewEndDate": "2024-05-13 09:03:48",
+        "InterviewState": "Complete",
+        "Flight": "EW 1992",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31461",
+        "InterviewEndDate": "2024-05-13 09:26:03",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31462",
+        "InterviewEndDate": "2024-05-13 09:27:14",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31463",
+        "InterviewEndDate": "2024-05-13 09:28:25",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31464",
+        "InterviewEndDate": "2024-05-13 09:22:58",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31465",
+        "InterviewEndDate": "2024-05-13 09:35:02",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31466",
+        "InterviewEndDate": "2024-05-13 09:31:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "31467",
+        "InterviewEndDate": "2024-05-13 09:40:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31468",
+        "InterviewEndDate": "2024-05-13 09:45:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31469",
+        "InterviewEndDate": "2024-05-13 09:46:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31470",
+        "InterviewEndDate": "2024-05-13 09:51:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
         "AirlineCode": "LH"
     }
 ]    
