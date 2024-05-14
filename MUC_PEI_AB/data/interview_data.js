@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-05-2024 19:22:24"
+        "download_time": "14-05-2024 20:26:07"
     },
     {
         "InterviewId": "15819",
@@ -107415,6 +107415,110 @@ let interview_data_raw = `[
         "Flight": "A3 503",
         "Dest": "SKG",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "31641",
+        "InterviewEndDate": "2024-05-14 17:27:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31642",
+        "InterviewEndDate": "2024-05-14 17:27:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31643",
+        "InterviewEndDate": "2024-05-14 17:23:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31644",
+        "InterviewEndDate": "2024-05-14 17:28:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31645",
+        "InterviewEndDate": "2024-05-14 17:37:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31646",
+        "InterviewEndDate": "2024-05-14 17:41:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31647",
+        "InterviewEndDate": "2024-05-14 17:54:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31648",
+        "InterviewEndDate": "2024-05-14 17:56:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31649",
+        "InterviewEndDate": "2024-05-14 17:53:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31650",
+        "InterviewEndDate": "2024-05-14 17:53:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31651",
+        "InterviewEndDate": "2024-05-14 18:16:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31652",
+        "InterviewEndDate": "2024-05-14 18:15:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31653",
+        "InterviewEndDate": "2024-05-14 18:10:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
     }
 ]    
 
