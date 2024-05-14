@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "14-05-2024 16:10:19"
+        "download_time": "14-05-2024 17:14:16"
     },
     {
         "InterviewId": "1224",
@@ -10407,6 +10407,62 @@ let interview_data_arr_raw = `[
         "Flight": "AY - Finnair",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2541",
+        "InterviewEndDate": "2024-05-14 14:29:45",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2542",
+        "InterviewEndDate": "2024-05-14 14:35:19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2543",
+        "InterviewEndDate": "2024-05-14 14:41:16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2544",
+        "InterviewEndDate": "2024-05-14 14:46:21",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2545",
+        "InterviewEndDate": "2024-05-14 15:03:36",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2546",
+        "InterviewEndDate": "2024-05-14 15:07:31",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2547",
+        "InterviewEndDate": "2024-05-14 15:11:55",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
     }
 ]    
 
