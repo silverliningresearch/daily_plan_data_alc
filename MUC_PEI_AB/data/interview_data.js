@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-05-2024 18:16:07"
+        "download_time": "14-05-2024 19:22:24"
     },
     {
         "InterviewId": "15819",
@@ -107337,12 +107337,84 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "31631",
+        "InterviewEndDate": "2024-05-14 16:20:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31632",
+        "InterviewEndDate": "2024-05-14 16:18:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31633",
         "InterviewEndDate": "2024-05-14 16:15:41",
         "InterviewState": "Complete",
         "Flight": "LH 1806",
         "Dest": "MAD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31634",
+        "InterviewEndDate": "2024-05-14 16:15:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31635",
+        "InterviewEndDate": "2024-05-14 16:40:06",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "31636",
+        "InterviewEndDate": "2024-05-14 16:44:32",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "31637",
+        "InterviewEndDate": "2024-05-14 16:48:56",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "31638",
+        "InterviewEndDate": "2024-05-14 16:48:31",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "31639",
+        "InterviewEndDate": "2024-05-14 16:56:28",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "31640",
+        "InterviewEndDate": "2024-05-14 16:56:16",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
