@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-05-2024 15:01:11"
+        "download_time": "14-05-2024 16:07:11"
     },
     {
         "InterviewId": "15819",
@@ -107241,6 +107241,14 @@ let interview_data_raw = `[
         "AirlineCode": "4Y"
     },
     {
+        "InterviewId": "31617",
+        "InterviewEndDate": "2024-05-14 13:01:57",
+        "InterviewState": "Complete",
+        "Flight": "LH1652",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31618",
         "InterviewEndDate": "2024-05-14 12:59:51",
         "InterviewState": "Complete",
@@ -107262,6 +107270,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH1652",
         "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31623",
+        "InterviewEndDate": "2024-05-14 13:48:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31624",
+        "InterviewEndDate": "2024-05-14 13:45:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31625",
+        "InterviewEndDate": "2024-05-14 13:49:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31626",
+        "InterviewEndDate": "2024-05-14 13:49:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31627",
+        "InterviewEndDate": "2024-05-14 13:55:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31628",
+        "InterviewEndDate": "2024-05-14 13:54:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
         "AirlineCode": "LH"
     }
 ]    
