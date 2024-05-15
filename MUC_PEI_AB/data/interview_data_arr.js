@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-05-2024 09:27:06"
+        "download_time": "15-05-2024 10:32:31"
     },
     {
         "InterviewId": "5167",
@@ -34310,6 +34310,94 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10407",
+        "InterviewEndDate": "2024-05-15 07:30:42",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "10409",
+        "InterviewEndDate": "2024-05-15 07:40:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10410",
+        "InterviewEndDate": "2024-05-15 07:41:03",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10411",
+        "InterviewEndDate": "2024-05-15 07:55:44",
+        "InterviewState": "Complete",
+        "Flight": "OU - Croatia Airlines",
+        "Dest": "ZAG",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "10412",
+        "InterviewEndDate": "2024-05-15 07:55:42",
+        "InterviewState": "Complete",
+        "Flight": "OU - Croatia Airlines",
+        "Dest": "ZAG",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "10413",
+        "InterviewEndDate": "2024-05-15 08:01:24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10414",
+        "InterviewEndDate": "2024-05-15 08:00:57",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10415",
+        "InterviewEndDate": "2024-05-15 08:20:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10416",
+        "InterviewEndDate": "2024-05-15 08:15:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10420",
+        "InterviewEndDate": "2024-05-15 08:23:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10422",
+        "InterviewEndDate": "2024-05-15 08:30:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
         "AirlineCode": "LH"
     }
 ]    
