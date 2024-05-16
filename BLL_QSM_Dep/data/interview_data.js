@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-05-2024 16:52:39"
+        "download_time": "16-05-2024 17:57:30"
     },
     {
         "InterviewId": "6093",
@@ -60111,6 +60111,78 @@ let interview_data_raw = `[
         "Flight": "FR8744",
         "Dest": "BUD",
         "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17407",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17408",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17409",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17410",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17412",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17413",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17414",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17415",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "17416",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2532",
+        "Dest": "AGP",
+        "AirlineCode": "FR2532"
     }
 ]    
 
