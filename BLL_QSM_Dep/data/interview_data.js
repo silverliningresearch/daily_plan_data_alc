@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-05-2024 15:47:33"
+        "download_time": "16-05-2024 16:52:39"
     },
     {
         "InterviewId": "6093",
@@ -60009,6 +60009,22 @@ let interview_data_raw = `[
         "AirlineCode": "SK1902"
     },
     {
+        "InterviewId": "17383",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "17392",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
         "InterviewId": "17393",
         "InterviewEndDate": "2024-05-16",
         "InterviewState": "Complete",
@@ -60023,6 +60039,78 @@ let interview_data_raw = `[
         "Flight": "SK1498",
         "Dest": "ARN",
         "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17396",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17397",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17398",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17399",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17400",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17401",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17402",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17403",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "17404",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
     }
 ]    
 
