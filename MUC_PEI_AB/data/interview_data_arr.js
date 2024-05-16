@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "16-05-2024 13:37:08"
+        "download_time": "16-05-2024 14:42:05"
     },
     {
         "InterviewId": "5167",
@@ -34463,6 +34463,70 @@ let interview_data_arr_raw = `[
         "Flight": "TP - TAP Air Portugal",
         "Dest": "LIS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "10430",
+        "InterviewEndDate": "2024-05-16 11:53:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10432",
+        "InterviewEndDate": "2024-05-16 11:39:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10433",
+        "InterviewEndDate": "2024-05-16 11:45:07",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10434",
+        "InterviewEndDate": "2024-05-16 11:50:07",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "10435",
+        "InterviewEndDate": "2024-05-16 11:53:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GIG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10436",
+        "InterviewEndDate": "2024-05-16 12:12:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10437",
+        "InterviewEndDate": "2024-05-16 12:01:27",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "DUS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "10438",
+        "InterviewEndDate": "2024-05-16 12:22:24",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
     }
 ]    
 
