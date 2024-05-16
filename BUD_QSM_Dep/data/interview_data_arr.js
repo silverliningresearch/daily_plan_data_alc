@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "16-05-2024 21:13:50"
+        "download_time": "16-05-2024 22:18:45"
     },
     {
         "InterviewId": "1224",
@@ -10479,6 +10479,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "STN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2550",
+        "InterviewEndDate": "2024-05-16 19:17:03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2551",
+        "InterviewEndDate": "2024-05-16 19:23:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2552",
+        "InterviewEndDate": "2024-05-16 19:30:31",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2553",
+        "InterviewEndDate": "2024-05-16 19:35:23",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2554",
+        "InterviewEndDate": "2024-05-16 19:43:31",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 
