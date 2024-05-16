@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "16-05-2024 14:42:51"
+        "download_time": "16-05-2024 15:47:40"
     },
     {
         "InterviewId": "2077",
@@ -19255,6 +19255,78 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6530",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6531",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6532",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6533",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6534",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6535",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6536",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss International Air Lines",
+        "Dest": "OTP",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6537",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6538",
+        "InterviewEndDate": "2024-05-16",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
     }
 ]    
 
