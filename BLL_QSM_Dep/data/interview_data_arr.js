@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "21-05-2024 17:07:54"
+        "download_time": "21-05-2024 18:13:11"
     },
     {
         "InterviewId": "2077",
@@ -19447,6 +19447,126 @@ let interview_data_arr_raw = `[
         "Flight": "SK - Scandinavian Airlines System (SAS)",
         "Dest": "OSL",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6566",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6567",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "Atlantic airways",
+        "Dest": "FUE",
+        "AirlineCode": "Atlantic"
+    },
+    {
+        "InterviewId": "6568",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6569",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6570",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6571",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6572",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6573",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6575",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6576",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "FUE",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6577",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6578",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6579",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6580",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "6581",
+        "InterviewEndDate": "2024-05-21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "FUE",
+        "AirlineCode": "KL"
     }
 ]    
 
