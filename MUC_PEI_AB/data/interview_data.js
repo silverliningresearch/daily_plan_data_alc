@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-05-2024 12:36:09"
+        "download_time": "22-05-2024 13:41:14"
     },
     {
         "InterviewId": "15819",
@@ -108350,6 +108350,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2060",
         "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31775",
+        "InterviewEndDate": "2024-05-22 10:44:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31776",
+        "InterviewEndDate": "2024-05-22 10:33:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31778",
+        "InterviewEndDate": "2024-05-22 11:30:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31779",
+        "InterviewEndDate": "2024-05-22 11:39:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31780",
+        "InterviewEndDate": "2024-05-22 11:40:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31781",
+        "InterviewEndDate": "2024-05-22 11:36:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31783",
+        "InterviewEndDate": "2024-05-22 11:32:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31784",
+        "InterviewEndDate": "2024-05-22 11:29:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
         "AirlineCode": "LH"
     }
 ]    
