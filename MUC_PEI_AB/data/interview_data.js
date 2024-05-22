@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-05-2024 13:41:14"
+        "download_time": "22-05-2024 14:46:12"
     },
     {
         "InterviewId": "15819",
@@ -108369,6 +108369,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "31777",
+        "InterviewEndDate": "2024-05-22 11:43:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1662",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31778",
         "InterviewEndDate": "2024-05-22 11:30:56",
         "InterviewState": "Complete",
@@ -108401,6 +108409,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "31782",
+        "InterviewEndDate": "2024-05-22 12:09:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31783",
         "InterviewEndDate": "2024-05-22 11:32:59",
         "InterviewState": "Complete",
@@ -108414,6 +108430,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1980",
         "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31785",
+        "InterviewEndDate": "2024-05-22 12:10:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31786",
+        "InterviewEndDate": "2024-05-22 11:48:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1980",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31787",
+        "InterviewEndDate": "2024-05-22 12:40:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2138",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31788",
+        "InterviewEndDate": "2024-05-22 12:38:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2138",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31789",
+        "InterviewEndDate": "2024-05-22 12:39:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2138",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31790",
+        "InterviewEndDate": "2024-05-22 12:37:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2138",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31791",
+        "InterviewEndDate": "2024-05-22 12:36:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2138",
+        "Dest": "FMO",
         "AirlineCode": "LH"
     }
 ]    
