@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "22-05-2024 09:22:57"
+        "download_time": "22-05-2024 10:27:41"
     },
     {
         "InterviewId": "6093",
@@ -60954,6 +60954,62 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "17534",
+        "InterviewEndDate": "2024-05-22",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "17536",
+        "InterviewEndDate": "2024-05-22",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "17537",
+        "InterviewEndDate": "2024-05-22",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "17538",
+        "InterviewEndDate": "2024-05-22",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "17539",
+        "InterviewEndDate": "2024-05-22",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "17540",
+        "InterviewEndDate": "2024-05-22",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "17541",
+        "InterviewEndDate": "2024-05-22",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "17542",
         "InterviewEndDate": "2024-05-22",
         "InterviewState": "Complete",
         "Flight": "XQ575",
