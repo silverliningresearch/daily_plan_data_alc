@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-05-2024 11:31:43"
+        "download_time": "22-05-2024 12:36:09"
     },
     {
         "InterviewId": "15819",
@@ -108286,6 +108286,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2368",
         "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31767",
+        "InterviewEndDate": "2024-05-22 09:33:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2396",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31768",
+        "InterviewEndDate": "2024-05-22 09:33:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2396",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31769",
+        "InterviewEndDate": "2024-05-22 09:32:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2396",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31770",
+        "InterviewEndDate": "2024-05-22 10:18:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31771",
+        "InterviewEndDate": "2024-05-22 10:16:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31772",
+        "InterviewEndDate": "2024-05-22 10:33:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31773",
+        "InterviewEndDate": "2024-05-22 10:16:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31774",
+        "InterviewEndDate": "2024-05-22 10:16:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
