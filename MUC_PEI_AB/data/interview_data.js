@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-05-2024 10:26:11"
+        "download_time": "22-05-2024 11:31:43"
     },
     {
         "InterviewId": "15819",
@@ -108223,6 +108223,70 @@ let interview_data_raw = `[
         "Flight": "4Y 450",
         "Dest": "PMI",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "31756",
+        "InterviewEndDate": "2024-05-22 08:53:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1642",
+        "Dest": "GDN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31757",
+        "InterviewEndDate": "2024-05-22 08:44:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1642",
+        "Dest": "GDN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31758",
+        "InterviewEndDate": "2024-05-22 08:44:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1642",
+        "Dest": "GDN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31760",
+        "InterviewEndDate": "2024-05-22 09:15:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31761",
+        "InterviewEndDate": "2024-05-22 09:14:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31762",
+        "InterviewEndDate": "2024-05-22 09:04:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31763",
+        "InterviewEndDate": "2024-05-22 09:07:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31764",
+        "InterviewEndDate": "2024-05-22 09:07:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
     }
 ]    
 
