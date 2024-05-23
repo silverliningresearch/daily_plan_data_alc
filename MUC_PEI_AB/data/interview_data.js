@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-05-2024 10:16:10"
+        "download_time": "23-05-2024 11:21:18"
     },
     {
         "InterviewId": "15819",
@@ -108705,6 +108705,22 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
+        "InterviewId": "31824",
+        "InterviewEndDate": "2024-05-23 08:23:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31825",
+        "InterviewEndDate": "2024-05-23 08:26:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31826",
         "InterviewEndDate": "2024-05-23 07:54:48",
         "InterviewState": "Complete",
@@ -108735,6 +108751,94 @@ let interview_data_raw = `[
         "Flight": "LH 1874",
         "Dest": "FCO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31832",
+        "InterviewEndDate": "2024-05-23 08:29:04",
+        "InterviewState": "Complete",
+        "Flight": "DL239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "31833",
+        "InterviewEndDate": "2024-05-23 08:28:24",
+        "InterviewState": "Complete",
+        "Flight": "DL239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "31834",
+        "InterviewEndDate": "2024-05-23 08:30:08",
+        "InterviewState": "Complete",
+        "Flight": "DL239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "31835",
+        "InterviewEndDate": "2024-05-23 08:26:18",
+        "InterviewState": "Complete",
+        "Flight": "DL239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "31836",
+        "InterviewEndDate": "2024-05-23 08:37:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31838",
+        "InterviewEndDate": "2024-05-23 08:54:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31840",
+        "InterviewEndDate": "2024-05-23 08:46:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31842",
+        "InterviewEndDate": "2024-05-23 08:44:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31843",
+        "InterviewEndDate": "2024-05-23 08:50:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31848",
+        "InterviewEndDate": "2024-05-23 09:19:44",
+        "InterviewState": "Complete",
+        "Flight": "EN 8210",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31850",
+        "InterviewEndDate": "2024-05-23 09:19:14",
+        "InterviewState": "Complete",
+        "Flight": "EN 8210",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
     }
 ]    
 
