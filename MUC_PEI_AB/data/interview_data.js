@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-05-2024 16:46:11"
+        "download_time": "23-05-2024 17:51:13"
     },
     {
         "InterviewId": "15819",
@@ -108919,6 +108919,70 @@ let interview_data_raw = `[
         "Flight": "4Y 452",
         "Dest": "PMI",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "31870",
+        "InterviewEndDate": "2024-05-23 15:15:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31871",
+        "InterviewEndDate": "2024-05-23 15:18:57",
+        "InterviewState": "Complete",
+        "Flight": "EN 8278",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31872",
+        "InterviewEndDate": "2024-05-23 15:21:31",
+        "InterviewState": "Complete",
+        "Flight": "EN 8278",
+        "Dest": "MXP",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31873",
+        "InterviewEndDate": "2024-05-23 15:25:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31874",
+        "InterviewEndDate": "2024-05-23 15:27:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31875",
+        "InterviewEndDate": "2024-05-23 15:31:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31876",
+        "InterviewEndDate": "2024-05-23 15:32:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31878",
+        "InterviewEndDate": "2024-05-23 15:37:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
     }
 ]    
 
