@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "24-05-2024 06:52:34"
+        "download_time": "24-05-2024 07:57:30"
     },
     {
         "InterviewId": "6093",
@@ -61135,6 +61135,78 @@ let interview_data_raw = `[
         "Flight": "FR2809",
         "Dest": "POZ",
         "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17569",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17570",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17571",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17572",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17573",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17575",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17576",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17577",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "17578",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
     }
 ]    
 
