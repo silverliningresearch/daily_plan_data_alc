@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-05-2024 20:56:09"
+        "download_time": "24-05-2024 22:01:19"
     },
     {
         "InterviewId": "15819",
@@ -109137,6 +109137,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "31908",
+        "InterviewEndDate": "2024-05-24 19:09:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31909",
         "InterviewEndDate": "2024-05-24 18:49:25",
         "InterviewState": "Complete",
@@ -109158,6 +109166,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1904",
         "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31913",
+        "InterviewEndDate": "2024-05-24 19:00:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31914",
+        "InterviewEndDate": "2024-05-24 19:40:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31915",
+        "InterviewEndDate": "2024-05-24 19:44:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31916",
+        "InterviewEndDate": "2024-05-24 19:39:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31917",
+        "InterviewEndDate": "2024-05-24 19:38:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31918",
+        "InterviewEndDate": "2024-05-24 19:41:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31919",
+        "InterviewEndDate": "2024-05-24 19:57:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
         "AirlineCode": "LH"
     }
 ]    
