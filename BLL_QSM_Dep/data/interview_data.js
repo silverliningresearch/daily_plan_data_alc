@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "24-05-2024 09:03:11"
+        "download_time": "24-05-2024 10:08:49"
     },
     {
         "InterviewId": "6093",
@@ -61279,6 +61279,62 @@ let interview_data_raw = `[
         "Flight": "SK1904",
         "Dest": "OSL",
         "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "17589",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "17590",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "17591",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "17592",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "17593",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "17595",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "17597",
+        "InterviewEndDate": "2024-05-24",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
     }
 ]    
 
