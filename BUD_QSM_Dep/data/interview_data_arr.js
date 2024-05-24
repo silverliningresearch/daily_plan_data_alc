@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "24-05-2024 19:54:43"
+        "download_time": "24-05-2024 20:58:53"
     },
     {
         "InterviewId": "1224",
@@ -10751,6 +10751,54 @@ let interview_data_arr_raw = `[
         "Flight": "KE - Korean Air",
         "Dest": "ICN",
         "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "2586",
+        "InterviewEndDate": "2024-05-24 18:07:45",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2587",
+        "InterviewEndDate": "2024-05-24 18:16:06",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2588",
+        "InterviewEndDate": "2024-05-24 18:33:07",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2589",
+        "InterviewEndDate": "2024-05-24 18:40:04",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2590",
+        "InterviewEndDate": "2024-05-24 18:43:10",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "2591",
+        "InterviewEndDate": "2024-05-24 18:54:01",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 

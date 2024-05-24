@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-05-2024 19:51:14"
+        "download_time": "24-05-2024 20:56:09"
     },
     {
         "InterviewId": "15819",
@@ -109046,6 +109046,118 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1730",
         "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31897",
+        "InterviewEndDate": "2024-05-24 18:06:52",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "31898",
+        "InterviewEndDate": "2024-05-24 18:02:40",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "31899",
+        "InterviewEndDate": "2024-05-24 18:05:21",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "31900",
+        "InterviewEndDate": "2024-05-24 18:06:41",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "31901",
+        "InterviewEndDate": "2024-05-24 18:07:41",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "31902",
+        "InterviewEndDate": "2024-05-24 18:20:05",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "31903",
+        "InterviewEndDate": "2024-05-24 18:32:11",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "31904",
+        "InterviewEndDate": "2024-05-24 18:33:54",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "31905",
+        "InterviewEndDate": "2024-05-24 18:35:12",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "31906",
+        "InterviewEndDate": "2024-05-24 18:33:58",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "31907",
+        "InterviewEndDate": "2024-05-24 18:55:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31909",
+        "InterviewEndDate": "2024-05-24 18:49:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31910",
+        "InterviewEndDate": "2024-05-24 18:49:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31911",
+        "InterviewEndDate": "2024-05-24 18:51:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
         "AirlineCode": "LH"
     }
 ]    
