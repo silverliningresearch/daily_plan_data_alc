@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "25-05-2024 15:23:23"
+        "download_time": "25-05-2024 16:27:37"
     },
     {
         "InterviewId": "2077",
@@ -19767,6 +19767,110 @@ let interview_data_arr_raw = `[
         "Flight": "DK - Sunclass Airlines",
         "Dest": "PMI",
         "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6624",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6625",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6626",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6627",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "J",
+        "Dest": "CHQ",
+        "AirlineCode": "J"
+    },
+    {
+        "InterviewId": "6628",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6629",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6630",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CRL",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6631",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6632",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6633",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "6634",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6640",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6641",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
