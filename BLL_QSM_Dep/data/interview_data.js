@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-05-2024 07:47:31"
+        "download_time": "25-05-2024 08:53:08"
     },
     {
         "InterviewId": "6093",
@@ -61487,6 +61487,78 @@ let interview_data_raw = `[
         "Flight": "FR5165",
         "Dest": "STN",
         "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "17621",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17622",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17623",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17624",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17625",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17626",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17627",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17629",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17630",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
     }
 ]    
 
