@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-05-2024 14:17:34"
+        "download_time": "25-05-2024 15:23:16"
     },
     {
         "InterviewId": "6093",
@@ -61775,6 +61775,70 @@ let interview_data_raw = `[
         "Flight": "FR4211",
         "Dest": "VNO",
         "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "17661",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "17662",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "17663",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "17665",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "17666",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "17667",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "17668",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "17669",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
     }
 ]    
 

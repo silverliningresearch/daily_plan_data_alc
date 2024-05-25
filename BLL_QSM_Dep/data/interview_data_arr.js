@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "25-05-2024 14:17:40"
+        "download_time": "25-05-2024 15:23:23"
     },
     {
         "InterviewId": "2077",
@@ -19687,6 +19687,86 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MUC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6606",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6607",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6608",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6609",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6610",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6611",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6612",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "SPC",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6613",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6614",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
+    },
+    {
+        "InterviewId": "6615",
+        "InterviewEndDate": "2024-05-25",
+        "InterviewState": "Complete",
+        "Flight": "DK - Sunclass Airlines",
+        "Dest": "PMI",
+        "AirlineCode": "DK"
     }
 ]    
 
