@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-05-2024 07:37:07"
+        "download_time": "26-05-2024 08:42:37"
     },
     {
         "InterviewId": "5167",
@@ -35047,6 +35047,78 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "PAD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10537",
+        "InterviewEndDate": "2024-05-26 06:09:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10538",
+        "InterviewEndDate": "2024-05-26 06:17:05",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "10539",
+        "InterviewEndDate": "2024-05-26 06:19:33",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "10541",
+        "InterviewEndDate": "2024-05-26 06:18:20",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "10542",
+        "InterviewEndDate": "2024-05-26 06:26:01",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "TIA",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "10543",
+        "InterviewEndDate": "2024-05-26 06:30:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10544",
+        "InterviewEndDate": "2024-05-26 06:30:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10546",
+        "InterviewEndDate": "2024-05-26 06:32:10",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10548",
+        "InterviewEndDate": "2024-05-26 06:38:20",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
     }
 ]    
 
