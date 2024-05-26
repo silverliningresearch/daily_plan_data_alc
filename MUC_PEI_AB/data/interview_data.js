@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-05-2024 05:26:11"
+        "download_time": "26-05-2024 06:31:20"
     },
     {
         "InterviewId": "15819",
@@ -109569,12 +109569,68 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "31985",
+        "InterviewEndDate": "2024-05-26 03:57:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2004",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31987",
+        "InterviewEndDate": "2024-05-26 03:58:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2004",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31988",
+        "InterviewEndDate": "2024-05-26 03:55:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2004",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "31990",
         "InterviewEndDate": "2024-05-26 03:23:42",
         "InterviewState": "Complete",
         "Flight": "LH 2004",
         "Dest": "DUS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31991",
+        "InterviewEndDate": "2024-05-26 03:56:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2004",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31993",
+        "InterviewEndDate": "2024-05-26 04:04:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2004",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "31995",
+        "InterviewEndDate": "2024-05-26 04:26:54",
+        "InterviewState": "Complete",
+        "Flight": "EN 8192",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "31996",
+        "InterviewEndDate": "2024-05-26 04:27:24",
+        "InterviewState": "Complete",
+        "Flight": "EN 8192",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
     }
 ]    
 
