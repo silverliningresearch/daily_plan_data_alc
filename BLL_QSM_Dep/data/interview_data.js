@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "26-05-2024 13:03:47"
+        "download_time": "26-05-2024 14:08:25"
     },
     {
         "InterviewId": "6093",
@@ -61898,7 +61898,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "17686",
-        "InterviewEndDate": "2024-05-25",
+        "InterviewEndDate": "2024-05-26",
         "InterviewState": "Complete",
         "Flight": "FR9003",
         "Dest": "BCN",
@@ -61943,6 +61943,142 @@ let interview_data_raw = `[
         "Flight": "FR9003",
         "Dest": "BCN",
         "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "17693",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17694",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17695",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17696",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17697",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17698",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17699",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17700",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17701",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "17703",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "17708",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "17709",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "17710",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "17715",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "17716",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "17717",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "17721",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
     }
 ]    
 
