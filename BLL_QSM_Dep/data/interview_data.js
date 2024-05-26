@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "26-05-2024 16:17:34"
+        "download_time": "26-05-2024 17:24:57"
     },
     {
         "InterviewId": "6093",
@@ -62191,6 +62191,78 @@ let interview_data_raw = `[
         "Flight": "FR5165",
         "Dest": "STN",
         "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "17736",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "17737",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "17738",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "17740",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "17743",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17744",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17745",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "17746",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "17747",
+        "InterviewEndDate": "2024-05-26",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
     }
 ]    
 
