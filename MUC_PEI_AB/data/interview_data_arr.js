@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-05-2024 09:47:02"
+        "download_time": "26-05-2024 10:53:08"
     },
     {
         "InterviewId": "5167",
@@ -35185,6 +35185,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "10555",
+        "InterviewEndDate": "2024-05-26 08:36:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "10556",
         "InterviewEndDate": "2024-05-26 07:05:08",
         "InterviewState": "Complete",
@@ -35207,6 +35215,38 @@ let interview_data_arr_raw = `[
         "Flight": "EN - AirDolomiti",
         "Dest": "VRN",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "10559",
+        "InterviewEndDate": "2024-05-26 08:43:13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10560",
+        "InterviewEndDate": "2024-05-26 08:45:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10561",
+        "InterviewEndDate": "2024-05-26 08:42:59",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "10562",
+        "InterviewEndDate": "2024-05-26 08:48:53",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
     }
 ]    
 

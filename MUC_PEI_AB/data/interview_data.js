@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-05-2024 09:46:11"
+        "download_time": "26-05-2024 10:51:18"
     },
     {
         "InterviewId": "15819",
@@ -109710,6 +109710,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1782",
         "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32022",
+        "InterviewEndDate": "2024-05-26 07:49:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32023",
+        "InterviewEndDate": "2024-05-26 07:46:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32024",
+        "InterviewEndDate": "2024-05-26 07:49:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32025",
+        "InterviewEndDate": "2024-05-26 07:49:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32026",
+        "InterviewEndDate": "2024-05-26 08:14:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32027",
+        "InterviewEndDate": "2024-05-26 08:19:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32028",
+        "InterviewEndDate": "2024-05-26 08:13:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32030",
+        "InterviewEndDate": "2024-05-26 08:11:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
         "AirlineCode": "LH"
     }
 ]    
