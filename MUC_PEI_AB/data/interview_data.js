@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-05-2024 06:31:20"
+        "download_time": "26-05-2024 07:36:14"
     },
     {
         "InterviewId": "15819",
@@ -109631,6 +109631,70 @@ let interview_data_raw = `[
         "Flight": "EN 8192",
         "Dest": "FLR",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "32005",
+        "InterviewEndDate": "2024-05-26 04:54:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32006",
+        "InterviewEndDate": "2024-05-26 04:48:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32008",
+        "InterviewEndDate": "2024-05-26 04:49:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32009",
+        "InterviewEndDate": "2024-05-26 05:04:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2316",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32010",
+        "InterviewEndDate": "2024-05-26 05:30:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32011",
+        "InterviewEndDate": "2024-05-26 05:28:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32012",
+        "InterviewEndDate": "2024-05-26 05:33:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32013",
+        "InterviewEndDate": "2024-05-26 05:33:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
     }
 ]    
 
