@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-05-2024 16:08:11"
+        "download_time": "27-05-2024 17:12:15"
     },
     {
         "InterviewId": "5167",
@@ -35303,6 +35303,78 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "PUY",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10573",
+        "InterviewEndDate": "2024-05-27 14:25:06",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "10574",
+        "InterviewEndDate": "2024-05-27 14:40:52",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "10577",
+        "InterviewEndDate": "2024-05-27 14:21:20",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "10578",
+        "InterviewEndDate": "2024-05-27 14:39:42",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "10579",
+        "InterviewEndDate": "2024-05-27 14:37:00",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "10580",
+        "InterviewEndDate": "2024-05-27 14:41:07",
+        "InterviewState": "Complete",
+        "Flight": "Dy",
+        "Dest": "OSL",
+        "AirlineCode": "Dy"
+    },
+    {
+        "InterviewId": "10582",
+        "InterviewEndDate": "2024-05-27 15:10:52",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "10584",
+        "InterviewEndDate": "2024-05-27 14:57:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10585",
+        "InterviewEndDate": "2024-05-27 14:57:21",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "FRA",
+        "AirlineCode": "DE"
     }
 ]    
 
