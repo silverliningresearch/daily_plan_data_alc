@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-05-2024 17:11:17"
+        "download_time": "27-05-2024 18:16:14"
     },
     {
         "InterviewId": "15819",
@@ -110169,6 +110169,38 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "32088",
+        "InterviewEndDate": "2024-05-27 15:38:52",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "32089",
+        "InterviewEndDate": "2024-05-27 15:31:30",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "32090",
+        "InterviewEndDate": "2024-05-27 15:27:10",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "32091",
+        "InterviewEndDate": "2024-05-27 15:29:43",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
         "InterviewId": "32093",
         "InterviewEndDate": "2024-05-27 15:07:10",
         "InterviewState": "Complete",
@@ -110182,6 +110214,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2236",
         "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32095",
+        "InterviewEndDate": "2024-05-27 15:17:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32096",
+        "InterviewEndDate": "2024-05-27 15:33:47",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "32097",
+        "InterviewEndDate": "2024-05-27 15:41:00",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "32098",
+        "InterviewEndDate": "2024-05-27 15:36:15",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "32099",
+        "InterviewEndDate": "2024-05-27 15:56:59",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "32100",
+        "InterviewEndDate": "2024-05-27 15:57:26",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "32101",
+        "InterviewEndDate": "2024-05-27 16:02:25",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "32102",
+        "InterviewEndDate": "2024-05-27 15:55:48",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "32103",
+        "InterviewEndDate": "2024-05-27 15:51:38",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "32108",
+        "InterviewEndDate": "2024-05-27 16:14:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
         "AirlineCode": "LH"
     }
 ]    
