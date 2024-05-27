@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-05-2024 12:51:15"
+        "download_time": "27-05-2024 13:56:13"
     },
     {
         "InterviewId": "15819",
@@ -109870,6 +109870,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1868",
         "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32044",
+        "InterviewEndDate": "2024-05-27 10:51:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32045",
+        "InterviewEndDate": "2024-05-27 10:56:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32046",
+        "InterviewEndDate": "2024-05-27 10:57:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32047",
+        "InterviewEndDate": "2024-05-27 11:37:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1710",
+        "Dest": "DBV",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32049",
+        "InterviewEndDate": "2024-05-27 11:11:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1710",
+        "Dest": "DBV",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32050",
+        "InterviewEndDate": "2024-05-27 11:07:50",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "32052",
+        "InterviewEndDate": "2024-05-27 11:11:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1710",
+        "Dest": "DBV",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32054",
+        "InterviewEndDate": "2024-05-27 11:24:47",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "32055",
+        "InterviewEndDate": "2024-05-27 11:19:25",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "32057",
+        "InterviewEndDate": "2024-05-27 11:44:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1710",
+        "Dest": "DBV",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32060",
+        "InterviewEndDate": "2024-05-27 11:37:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1710",
+        "Dest": "DBV",
         "AirlineCode": "LH"
     }
 ]    
