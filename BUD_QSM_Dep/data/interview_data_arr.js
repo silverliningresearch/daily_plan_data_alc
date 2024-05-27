@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "27-05-2024 10:44:11"
+        "download_time": "27-05-2024 11:49:13"
     },
     {
         "InterviewId": "1224",
@@ -10887,6 +10887,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "WMI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2603",
+        "InterviewEndDate": "2024-05-27 09:19:10",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "2604",
+        "InterviewEndDate": "2024-05-27 09:24:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2605",
+        "InterviewEndDate": "2024-05-27 09:36:36",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "2606",
+        "InterviewEndDate": "2024-05-27 09:45:31",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "2607",
+        "InterviewEndDate": "2024-05-27 09:48:16",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
