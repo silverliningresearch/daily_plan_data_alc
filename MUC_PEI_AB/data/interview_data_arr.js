@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-05-2024 19:22:21"
+        "download_time": "27-05-2024 20:27:06"
     },
     {
         "InterviewId": "5167",
@@ -35543,6 +35543,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10612",
+        "InterviewEndDate": "2024-05-27 17:28:22",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "10613",
+        "InterviewEndDate": "2024-05-27 17:28:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10614",
+        "InterviewEndDate": "2024-05-27 17:47:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10615",
+        "InterviewEndDate": "2024-05-27 17:45:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10616",
+        "InterviewEndDate": "2024-05-27 17:50:17",
+        "InterviewState": "Complete",
+        "Flight": "BT - AirBaltic",
+        "Dest": "VNO",
+        "AirlineCode": "BT"
     }
 ]    
 
