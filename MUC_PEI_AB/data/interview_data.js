@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-05-2024 13:56:13"
+        "download_time": "27-05-2024 15:01:16"
     },
     {
         "InterviewId": "15819",
@@ -109953,12 +109953,156 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "32058",
+        "InterviewEndDate": "2024-05-27 12:22:43",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32059",
+        "InterviewEndDate": "2024-05-27 12:29:58",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
         "InterviewId": "32060",
         "InterviewEndDate": "2024-05-27 11:37:19",
         "InterviewState": "Complete",
         "Flight": "LH 1710",
         "Dest": "DBV",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32061",
+        "InterviewEndDate": "2024-05-27 12:49:38",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32062",
+        "InterviewEndDate": "2024-05-27 12:27:04",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32063",
+        "InterviewEndDate": "2024-05-27 12:33:21",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32064",
+        "InterviewEndDate": "2024-05-27 12:05:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32065",
+        "InterviewEndDate": "2024-05-27 12:08:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32066",
+        "InterviewEndDate": "2024-05-27 12:07:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32068",
+        "InterviewEndDate": "2024-05-27 11:58:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32069",
+        "InterviewEndDate": "2024-05-27 12:06:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32071",
+        "InterviewEndDate": "2024-05-27 12:25:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32072",
+        "InterviewEndDate": "2024-05-27 12:20:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32073",
+        "InterviewEndDate": "2024-05-27 12:24:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32074",
+        "InterviewEndDate": "2024-05-27 12:25:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32075",
+        "InterviewEndDate": "2024-05-27 12:25:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 474",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32076",
+        "InterviewEndDate": "2024-05-27 12:33:35",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32077",
+        "InterviewEndDate": "2024-05-27 12:41:11",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32078",
+        "InterviewEndDate": "2024-05-27 12:40:51",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
