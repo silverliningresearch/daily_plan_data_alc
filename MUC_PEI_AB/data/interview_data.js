@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-05-2024 19:11:14"
+        "download_time": "28-05-2024 20:16:14"
     },
     {
         "InterviewId": "15819",
@@ -110766,6 +110766,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2482",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32180",
+        "InterviewEndDate": "2024-05-28 17:15:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 472",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32181",
+        "InterviewEndDate": "2024-05-28 17:17:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 472",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32182",
+        "InterviewEndDate": "2024-05-28 17:36:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32183",
+        "InterviewEndDate": "2024-05-28 17:28:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32184",
+        "InterviewEndDate": "2024-05-28 17:53:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32185",
+        "InterviewEndDate": "2024-05-28 17:31:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32186",
+        "InterviewEndDate": "2024-05-28 17:47:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
         "AirlineCode": "LH"
     }
 ]    
