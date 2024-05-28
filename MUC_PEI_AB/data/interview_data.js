@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-05-2024 10:31:15"
+        "download_time": "28-05-2024 11:36:17"
     },
     {
         "InterviewId": "15819",
@@ -110551,6 +110551,78 @@ let interview_data_raw = `[
         "Flight": "KL 1852",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "32144",
+        "InterviewEndDate": "2024-05-28 08:32:48",
+        "InterviewState": "Complete",
+        "Flight": "KL 1852",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "32145",
+        "InterviewEndDate": "2024-05-28 09:03:58",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "32146",
+        "InterviewEndDate": "2024-05-28 09:11:10",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "32147",
+        "InterviewEndDate": "2024-05-28 09:03:32",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "32149",
+        "InterviewEndDate": "2024-05-28 09:03:37",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "32150",
+        "InterviewEndDate": "2024-05-28 09:19:40",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "32151",
+        "InterviewEndDate": "2024-05-28 09:20:57",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "32153",
+        "InterviewEndDate": "2024-05-28 09:32:33",
+        "InterviewState": "Complete",
+        "Flight": "GQ  871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "32154",
+        "InterviewEndDate": "2024-05-28 09:30:31",
+        "InterviewState": "Complete",
+        "Flight": "GQ  871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "28-05-2024 10:32:11"
+        "download_time": "28-05-2024 11:37:15"
     },
     {
         "InterviewId": "5167",
@@ -35585,12 +35585,68 @@ let interview_data_arr_raw = `[
         "AirlineCode": "BT"
     },
     {
+        "InterviewId": "10617",
+        "InterviewEndDate": "2024-05-28 08:57:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10620",
+        "InterviewEndDate": "2024-05-28 08:57:58",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
         "InterviewId": "10621",
         "InterviewEndDate": "2024-05-28 07:59:39",
         "InterviewState": "Complete",
         "Flight": "Air Dolomiti",
         "Dest": "FLR",
         "AirlineCode": "Air"
+    },
+    {
+        "InterviewId": "10622",
+        "InterviewEndDate": "2024-05-28 08:34:55",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10623",
+        "InterviewEndDate": "2024-05-28 08:56:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10624",
+        "InterviewEndDate": "2024-05-28 09:08:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10625",
+        "InterviewEndDate": "2024-05-28 09:24:54",
+        "InterviewState": "Complete",
+        "Flight": "Agean",
+        "Dest": "ATH",
+        "AirlineCode": "Agean"
+    },
+    {
+        "InterviewId": "10626",
+        "InterviewEndDate": "2024-05-28 09:22:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
     }
 ]    
 
