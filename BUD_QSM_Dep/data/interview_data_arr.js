@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "28-05-2024 09:29:11"
+        "download_time": "28-05-2024 10:34:14"
     },
     {
         "InterviewId": "1224",
@@ -10978,11 +10978,43 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "2614",
-        "InterviewEndDate": "2024-05-28 07:25:51",
+        "InterviewEndDate": "2024-05-28 07:30:37",
         "InterviewState": "Complete",
         "Flight": "LY - El Al Israel Airlines",
         "Dest": "TLV",
         "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "2615",
+        "InterviewEndDate": "2024-05-28 07:36:27",
+        "InterviewState": "Complete",
+        "Flight": "LY - El Al Israel Airlines",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "2616",
+        "InterviewEndDate": "2024-05-28 07:45:19",
+        "InterviewState": "Complete",
+        "Flight": "LY - El Al Israel Airlines",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "2617",
+        "InterviewEndDate": "2024-05-28 08:03:05",
+        "InterviewState": "Complete",
+        "Flight": "LY - El Al Israel Airlines",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "2618",
+        "InterviewEndDate": "2024-05-28 08:10:43",
+        "InterviewState": "Complete",
+        "Flight": "W4 - Wizz Air Malta",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
     }
 ]    
 
