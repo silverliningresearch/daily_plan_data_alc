@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-05-2024 12:32:12"
+        "download_time": "29-05-2024 13:37:19"
     },
     {
         "InterviewId": "5167",
@@ -35647,6 +35647,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "CDG",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10629",
+        "InterviewEndDate": "2024-05-29 10:53:27",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10630",
+        "InterviewEndDate": "2024-05-29 11:04:22",
+        "InterviewState": "Complete",
+        "Flight": "VF",
+        "Dest": "IST",
+        "AirlineCode": "VF"
+    },
+    {
+        "InterviewId": "10631",
+        "InterviewEndDate": "2024-05-29 10:51:38",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "10632",
+        "InterviewEndDate": "2024-05-29 11:04:43",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10634",
+        "InterviewEndDate": "2024-05-29 11:11:47",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10635",
+        "InterviewEndDate": "2024-05-29 11:13:37",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PRN",
+        "AirlineCode": "EW"
     }
 ]    
 
