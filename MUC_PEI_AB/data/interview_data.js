@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-05-2024 17:56:17"
+        "download_time": "29-05-2024 19:01:19"
     },
     {
         "InterviewId": "15819",
@@ -111439,6 +111439,78 @@ let interview_data_raw = `[
         "Flight": "LH 2322",
         "Dest": "LUX",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32276",
+        "InterviewEndDate": "2024-05-29 16:04:45",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "32279",
+        "InterviewEndDate": "2024-05-29 16:08:22",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "32280",
+        "InterviewEndDate": "2024-05-29 16:11:13",
+        "InterviewState": "Complete",
+        "Flight": "EJU3946",
+        "Dest": "MXP",
+        "AirlineCode": "EJ"
+    },
+    {
+        "InterviewId": "32281",
+        "InterviewEndDate": "2024-05-29 16:36:02",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "32283",
+        "InterviewEndDate": "2024-05-29 16:35:52",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "32284",
+        "InterviewEndDate": "2024-05-29 16:45:22",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "32285",
+        "InterviewEndDate": "2024-05-29 16:57:09",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "32287",
+        "InterviewEndDate": "2024-05-29 16:57:13",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "32288",
+        "InterviewEndDate": "2024-05-29 16:52:52",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
