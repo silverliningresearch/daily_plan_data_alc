@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-05-2024 19:01:19"
+        "download_time": "29-05-2024 20:06:56"
     },
     {
         "InterviewId": "15819",
@@ -111497,6 +111497,14 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
+        "InterviewId": "32286",
+        "InterviewEndDate": "2024-05-29 17:04:17",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
         "InterviewId": "32287",
         "InterviewEndDate": "2024-05-29 16:57:13",
         "InterviewState": "Complete",
@@ -111511,6 +111519,102 @@ let interview_data_raw = `[
         "Flight": "BT 224",
         "Dest": "RIX",
         "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "32289",
+        "InterviewEndDate": "2024-05-29 17:08:19",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "32290",
+        "InterviewEndDate": "2024-05-29 17:05:49",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "32291",
+        "InterviewEndDate": "2024-05-29 17:43:34",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32292",
+        "InterviewEndDate": "2024-05-29 17:33:14",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32293",
+        "InterviewEndDate": "2024-05-29 17:23:35",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32294",
+        "InterviewEndDate": "2024-05-29 17:33:46",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32295",
+        "InterviewEndDate": "2024-05-29 17:35:52",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32296",
+        "InterviewEndDate": "2024-05-29 17:36:23",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32297",
+        "InterviewEndDate": "2024-05-29 18:03:03",
+        "InterviewState": "Complete",
+        "Flight": "EW 4063",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "32301",
+        "InterviewEndDate": "2024-05-29 18:00:43",
+        "InterviewState": "Complete",
+        "Flight": "EJU4278",
+        "Dest": "NAP",
+        "AirlineCode": "EJ"
+    },
+    {
+        "InterviewId": "32302",
+        "InterviewEndDate": "2024-05-29 18:01:27",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32303",
+        "InterviewEndDate": "2024-05-29 18:05:46",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
