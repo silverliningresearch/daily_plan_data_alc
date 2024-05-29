@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-05-2024 11:26:16"
+        "download_time": "29-05-2024 12:31:16"
     },
     {
         "InterviewId": "15819",
@@ -111161,6 +111161,14 @@ let interview_data_raw = `[
         "AirlineCode": "UA"
     },
     {
+        "InterviewId": "32235",
+        "InterviewEndDate": "2024-05-29 09:24:05",
+        "InterviewState": "Complete",
+        "Flight": "DI 6522",
+        "Dest": "LPA",
+        "AirlineCode": "DI"
+    },
+    {
         "InterviewId": "32236",
         "InterviewEndDate": "2024-05-29 09:15:06",
         "InterviewState": "Complete",
@@ -111175,6 +111183,70 @@ let interview_data_raw = `[
         "Flight": "UA 952",
         "Dest": "ORD",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "32238",
+        "InterviewEndDate": "2024-05-29 09:45:26",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "32239",
+        "InterviewEndDate": "2024-05-29 09:48:27",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "32240",
+        "InterviewEndDate": "2024-05-29 09:42:37",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "32241",
+        "InterviewEndDate": "2024-05-29 09:41:30",
+        "InterviewState": "Complete",
+        "Flight": "Di 6584",
+        "Dest": "TFS",
+        "AirlineCode": "Di"
+    },
+    {
+        "InterviewId": "32242",
+        "InterviewEndDate": "2024-05-29 09:41:34",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "32243",
+        "InterviewEndDate": "2024-05-29 10:12:25",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "32244",
+        "InterviewEndDate": "2024-05-29 10:09:56",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "32245",
+        "InterviewEndDate": "2024-05-29 10:12:36",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
     }
 ]    
 
