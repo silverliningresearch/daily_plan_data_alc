@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-05-2024 20:08:36"
+        "download_time": "29-05-2024 21:12:10"
     },
     {
         "InterviewId": "5167",
@@ -35871,6 +35871,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "LHR",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10669",
+        "InterviewEndDate": "2024-05-29 18:13:29",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "10671",
+        "InterviewEndDate": "2024-05-29 18:29:39",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "10672",
+        "InterviewEndDate": "2024-05-29 18:41:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10673",
+        "InterviewEndDate": "2024-05-29 18:44:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10676",
+        "InterviewEndDate": "2024-05-29 18:53:27",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HER",
+        "AirlineCode": "EW"
     }
 ]    
 
