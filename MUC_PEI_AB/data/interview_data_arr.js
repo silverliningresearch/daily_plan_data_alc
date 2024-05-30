@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-05-2024 15:37:23"
+        "download_time": "30-05-2024 16:42:25"
     },
     {
         "InterviewId": "5167",
@@ -35942,6 +35942,38 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10690",
+        "InterviewEndDate": "2024-05-30 13:39:19",
+        "InterviewState": "Complete",
+        "Flight": "LX - Swiss",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "10691",
+        "InterviewEndDate": "2024-05-30 13:53:28",
+        "InterviewState": "Complete",
+        "Flight": "Egypt",
+        "Dest": "CAI",
+        "AirlineCode": "Egypt"
+    },
+    {
+        "InterviewId": "10692",
+        "InterviewEndDate": "2024-05-30 14:01:44",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "10693",
+        "InterviewEndDate": "2024-05-30 14:31:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRE",
         "AirlineCode": "LH"
     }
 ]    
