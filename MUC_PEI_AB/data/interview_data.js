@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "31-05-2024 17:36:19"
+        "download_time": "31-05-2024 18:41:20"
     },
     {
         "InterviewId": "15819",
@@ -112135,6 +112135,166 @@ let interview_data_raw = `[
         "Flight": "LH 2102",
         "Dest": "HAJ",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32397",
+        "InterviewEndDate": "2024-05-31 15:47:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32398",
+        "InterviewEndDate": "2024-05-31 15:50:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1648",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32399",
+        "InterviewEndDate": "2024-05-31 15:57:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1648",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32400",
+        "InterviewEndDate": "2024-05-31 15:57:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32401",
+        "InterviewEndDate": "2024-05-31 16:07:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1648",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32402",
+        "InterviewEndDate": "2024-05-31 15:55:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32403",
+        "InterviewEndDate": "2024-05-31 15:59:41",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "32405",
+        "InterviewEndDate": "2024-05-31 16:06:04",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "32406",
+        "InterviewEndDate": "2024-05-31 16:04:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32408",
+        "InterviewEndDate": "2024-05-31 16:11:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32409",
+        "InterviewEndDate": "2024-05-31 16:08:14",
+        "InterviewState": "Complete",
+        "Flight": "TU 543",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "32410",
+        "InterviewEndDate": "2024-05-31 16:13:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32411",
+        "InterviewEndDate": "2024-05-31 16:08:35",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "32413",
+        "InterviewEndDate": "2024-05-31 16:22:20",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "32414",
+        "InterviewEndDate": "2024-05-31 16:17:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32416",
+        "InterviewEndDate": "2024-05-31 16:34:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32417",
+        "InterviewEndDate": "2024-05-31 16:18:59",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "32418",
+        "InterviewEndDate": "2024-05-31 16:33:23",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "32420",
+        "InterviewEndDate": "2024-05-31 16:37:56",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "32421",
+        "InterviewEndDate": "2024-05-31 16:39:02",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
