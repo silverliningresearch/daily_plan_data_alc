@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "31-05-2024 12:17:26"
+        "download_time": "31-05-2024 13:22:47"
     },
     {
         "InterviewId": "7701",
@@ -37727,6 +37727,62 @@ let interview_data_raw = `[
         "Flight": "FR 5023",
         "Dest": "PSA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13023",
+        "InterviewEndDate": "2024-05-31 10:19:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13024",
+        "InterviewEndDate": "2024-05-31 10:18:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13025",
+        "InterviewEndDate": "2024-05-31 10:17:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13026",
+        "InterviewEndDate": "2024-05-31 10:33:17",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "13027",
+        "InterviewEndDate": "2024-05-31 10:36:08",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "13030",
+        "InterviewEndDate": "2024-05-31 11:20:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13031",
+        "InterviewEndDate": "2024-05-31 11:19:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
     }
 ]    
 
