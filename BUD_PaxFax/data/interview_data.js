@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "31-05-2024 10:09:46"
+        "download_time": "31-05-2024 11:12:40"
     },
     {
         "InterviewId": "7701",
@@ -37575,6 +37575,126 @@ let interview_data_raw = `[
         "Flight": "KL 1366",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "13002",
+        "InterviewEndDate": "2024-05-31 08:23:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13003",
+        "InterviewEndDate": "2024-05-31 08:22:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13004",
+        "InterviewEndDate": "2024-05-31 08:22:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13005",
+        "InterviewEndDate": "2024-05-31 08:25:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13006",
+        "InterviewEndDate": "2024-05-31 08:32:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13007",
+        "InterviewEndDate": "2024-05-31 08:33:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13008",
+        "InterviewEndDate": "2024-05-31 08:32:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13009",
+        "InterviewEndDate": "2024-05-31 08:34:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13010",
+        "InterviewEndDate": "2024-05-31 08:56:46",
+        "InterviewState": "Complete",
+        "Flight": "KL 1364",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "13012",
+        "InterviewEndDate": "2024-05-31 08:57:55",
+        "InterviewState": "Complete",
+        "Flight": "KL 1364",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "13013",
+        "InterviewEndDate": "2024-05-31 08:53:28",
+        "InterviewState": "Complete",
+        "Flight": "KL 1364",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "13014",
+        "InterviewEndDate": "2024-05-31 08:57:34",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "13015",
+        "InterviewEndDate": "2024-05-31 09:00:20",
+        "InterviewState": "Complete",
+        "Flight": "KL 1364",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "13016",
+        "InterviewEndDate": "2024-05-31 09:07:45",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "13017",
+        "InterviewEndDate": "2024-05-31 09:12:02",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
