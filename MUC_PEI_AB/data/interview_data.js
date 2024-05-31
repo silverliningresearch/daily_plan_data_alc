@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "31-05-2024 16:31:20"
+        "download_time": "31-05-2024 17:36:19"
     },
     {
         "InterviewId": "15819",
@@ -112033,11 +112033,107 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "32383",
+        "InterviewEndDate": "2024-05-31 14:29:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "32385",
         "InterviewEndDate": "2024-05-31 14:29:40",
         "InterviewState": "Complete",
         "Flight": "LH 2022",
         "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32386",
+        "InterviewEndDate": "2024-05-31 14:36:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32387",
+        "InterviewEndDate": "2024-05-31 14:48:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32388",
+        "InterviewEndDate": "2024-05-31 14:54:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32389",
+        "InterviewEndDate": "2024-05-31 14:58:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32390",
+        "InterviewEndDate": "2024-05-31 15:00:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32391",
+        "InterviewEndDate": "2024-05-31 14:54:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32392",
+        "InterviewEndDate": "2024-05-31 15:13:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32393",
+        "InterviewEndDate": "2024-05-31 15:14:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32394",
+        "InterviewEndDate": "2024-05-31 15:16:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32395",
+        "InterviewEndDate": "2024-05-31 15:13:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32396",
+        "InterviewEndDate": "2024-05-31 15:27:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
         "AirlineCode": "LH"
     }
 ]    

@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "31-05-2024 16:32:23"
+        "download_time": "31-05-2024 17:37:16"
     },
     {
         "InterviewId": "5167",
@@ -36063,6 +36063,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10707",
+        "InterviewEndDate": "2024-05-31 14:41:27",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10710",
+        "InterviewEndDate": "2024-05-31 14:42:41",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10711",
+        "InterviewEndDate": "2024-05-31 14:42:20",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10712",
+        "InterviewEndDate": "2024-05-31 14:47:07",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10713",
+        "InterviewEndDate": "2024-05-31 14:48:02",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10717",
+        "InterviewEndDate": "2024-05-31 15:13:27",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10719",
+        "InterviewEndDate": "2024-05-31 15:06:50",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
