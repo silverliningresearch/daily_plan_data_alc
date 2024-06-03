@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-06-2024 07:21:24"
+        "download_time": "03-06-2024 08:26:18"
     },
     {
         "InterviewId": "15819",
@@ -112479,6 +112479,70 @@ let interview_data_raw = `[
         "Flight": "LH 1868",
         "Dest": "FCO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32449",
+        "InterviewEndDate": "2024-06-03 06:02:49",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CDG",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32450",
+        "InterviewEndDate": "2024-06-03 06:24:29",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32453",
+        "InterviewEndDate": "2024-06-03 06:00:15",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32454",
+        "InterviewEndDate": "2024-06-03 06:04:56",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CDG",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32455",
+        "InterviewEndDate": "2024-06-03 06:12:41",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CDG",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32456",
+        "InterviewEndDate": "2024-06-03 06:01:48",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32457",
+        "InterviewEndDate": "2024-06-03 06:09:19",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32458",
+        "InterviewEndDate": "2024-06-03 06:14:29",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
     }
 ]    
 
