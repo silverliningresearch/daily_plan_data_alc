@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-06-2024 08:26:18"
+        "download_time": "03-06-2024 09:31:23"
     },
     {
         "InterviewId": "15819",
@@ -112543,6 +112543,86 @@ let interview_data_raw = `[
         "Flight": "AA  717",
         "Dest": "CLT",
         "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "32459",
+        "InterviewEndDate": "2024-06-03 06:55:41",
+        "InterviewState": "Complete",
+        "Flight": "EZY 8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "32460",
+        "InterviewEndDate": "2024-06-03 06:40:05",
+        "InterviewState": "Complete",
+        "Flight": "EZY 8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "32461",
+        "InterviewEndDate": "2024-06-03 06:43:31",
+        "InterviewState": "Complete",
+        "Flight": "EZY 8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "32462",
+        "InterviewEndDate": "2024-06-03 07:24:28",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "32463",
+        "InterviewEndDate": "2024-06-03 07:16:15",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "32465",
+        "InterviewEndDate": "2024-06-03 07:24:34",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "32466",
+        "InterviewEndDate": "2024-06-03 07:23:18",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "32467",
+        "InterviewEndDate": "2024-06-03 07:19:01",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "32468",
+        "InterviewEndDate": "2024-06-03 07:27:05",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "32469",
+        "InterviewEndDate": "2024-06-03 07:27:58",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
     }
 ]    
 
