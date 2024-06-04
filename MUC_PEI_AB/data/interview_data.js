@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-06-2024 10:26:20"
+        "download_time": "04-06-2024 11:31:22"
     },
     {
         "InterviewId": "15819",
@@ -112982,6 +112982,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2262",
         "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32541",
+        "InterviewEndDate": "2024-06-04 08:27:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32542",
+        "InterviewEndDate": "2024-06-04 08:30:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32543",
+        "InterviewEndDate": "2024-06-04 08:33:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32544",
+        "InterviewEndDate": "2024-06-04 08:41:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32545",
+        "InterviewEndDate": "2024-06-04 08:41:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32549",
+        "InterviewEndDate": "2024-06-04 09:00:42",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "32550",
+        "InterviewEndDate": "2024-06-04 09:05:00",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "32554",
+        "InterviewEndDate": "2024-06-04 09:27:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32555",
+        "InterviewEndDate": "2024-06-04 09:24:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32557",
+        "InterviewEndDate": "2024-06-04 09:27:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
         "AirlineCode": "LH"
     }
 ]    
