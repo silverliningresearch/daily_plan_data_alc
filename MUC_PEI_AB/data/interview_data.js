@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-06-2024 11:31:22"
+        "download_time": "04-06-2024 12:36:23"
     },
     {
         "InterviewId": "15819",
@@ -113041,6 +113041,14 @@ let interview_data_raw = `[
         "AirlineCode": "AC"
     },
     {
+        "InterviewId": "32553",
+        "InterviewEndDate": "2024-06-04 09:29:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "32554",
         "InterviewEndDate": "2024-06-04 09:27:48",
         "InterviewState": "Complete",
@@ -113057,11 +113065,43 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "32556",
+        "InterviewEndDate": "2024-06-04 09:32:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "32557",
         "InterviewEndDate": "2024-06-04 09:27:15",
         "InterviewState": "Complete",
         "Flight": "LH 452",
         "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32560",
+        "InterviewEndDate": "2024-06-04 10:05:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32563",
+        "InterviewEndDate": "2024-06-04 10:07:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32564",
+        "InterviewEndDate": "2024-06-04 09:59:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
         "AirlineCode": "LH"
     }
 ]    
