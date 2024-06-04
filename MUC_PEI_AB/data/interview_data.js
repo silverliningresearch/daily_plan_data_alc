@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-06-2024 13:41:21"
+        "download_time": "04-06-2024 14:46:22"
     },
     {
         "InterviewId": "15819",
@@ -113105,6 +113105,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "32568",
+        "InterviewEndDate": "2024-06-04 11:41:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "32570",
         "InterviewEndDate": "2024-06-04 11:36:03",
         "InterviewState": "Complete",
@@ -113126,6 +113134,46 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2418",
         "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32573",
+        "InterviewEndDate": "2024-06-04 12:32:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32574",
+        "InterviewEndDate": "2024-06-04 12:25:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32575",
+        "InterviewEndDate": "2024-06-04 12:25:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32576",
+        "InterviewEndDate": "2024-06-04 12:21:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32577",
+        "InterviewEndDate": "2024-06-04 12:18:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
         "AirlineCode": "LH"
     }
 ]    
