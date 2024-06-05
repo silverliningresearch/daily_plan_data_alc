@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-06-2024 11:21:27"
+        "download_time": "05-06-2024 12:26:23"
     },
     {
         "InterviewId": "15819",
@@ -113415,6 +113415,62 @@ let interview_data_raw = `[
         "Flight": "EY126",
         "Dest": "AUH",
         "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "32609",
+        "InterviewEndDate": "2024-06-05 09:48:08",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "32610",
+        "InterviewEndDate": "2024-06-05 09:41:40",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "32614",
+        "InterviewEndDate": "2024-06-05 09:56:01",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "32615",
+        "InterviewEndDate": "2024-06-05 09:59:47",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "32616",
+        "InterviewEndDate": "2024-06-05 09:53:49",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "32618",
+        "InterviewEndDate": "2024-06-05 10:06:40",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "32620",
+        "InterviewEndDate": "2024-06-05 10:24:51",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
