@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-06-2024 14:27:22"
+        "download_time": "06-06-2024 15:32:24"
     },
     {
         "InterviewId": "5167",
@@ -36351,6 +36351,70 @@ let interview_data_arr_raw = `[
         "Flight": "EK - Emirates",
         "Dest": "DXB",
         "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "10775",
+        "InterviewEndDate": "2024-06-06 12:33:05",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "10776",
+        "InterviewEndDate": "2024-06-06 12:34:49",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "10777",
+        "InterviewEndDate": "2024-06-06 12:33:00",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10778",
+        "InterviewEndDate": "2024-06-06 12:38:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10779",
+        "InterviewEndDate": "2024-06-06 13:08:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10780",
+        "InterviewEndDate": "2024-06-06 12:54:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10781",
+        "InterviewEndDate": "2024-06-06 13:12:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10782",
+        "InterviewEndDate": "2024-06-06 13:25:01",
+        "InterviewState": "Complete",
+        "Flight": "Sn brussels airlines",
+        "Dest": "BRU",
+        "AirlineCode": "Sn"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-06-2024 14:26:24"
+        "download_time": "06-06-2024 15:31:23"
     },
     {
         "InterviewId": "15819",
@@ -113913,6 +113913,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "32696",
+        "InterviewEndDate": "2024-06-06 12:28:21",
+        "InterviewState": "Complete",
+        "Flight": "LH  424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "32697",
         "InterviewEndDate": "2024-06-06 12:08:37",
         "InterviewState": "Complete",
@@ -113921,11 +113929,59 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "32699",
+        "InterviewEndDate": "2024-06-06 12:27:00",
+        "InterviewState": "Complete",
+        "Flight": "LH  434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "32700",
         "InterviewEndDate": "2024-06-06 12:19:40",
         "InterviewState": "Complete",
         "Flight": "LH 424",
         "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32703",
+        "InterviewEndDate": "2024-06-06 12:35:43",
+        "InterviewState": "Complete",
+        "Flight": "LH  434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32704",
+        "InterviewEndDate": "2024-06-06 12:33:16",
+        "InterviewState": "Complete",
+        "Flight": "LH  434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32705",
+        "InterviewEndDate": "2024-06-06 12:45:36",
+        "InterviewState": "Complete",
+        "Flight": "LH  434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32706",
+        "InterviewEndDate": "2024-06-06 12:49:40",
+        "InterviewState": "Complete",
+        "Flight": "LH  434",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32707",
+        "InterviewEndDate": "2024-06-06 12:43:53",
+        "InterviewState": "Complete",
+        "Flight": "LH  434",
+        "Dest": "ORD",
         "AirlineCode": "LH"
     }
 ]    
