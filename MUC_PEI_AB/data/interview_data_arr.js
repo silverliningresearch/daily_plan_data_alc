@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "07-06-2024 19:42:16"
+        "download_time": "07-06-2024 20:47:15"
     },
     {
         "InterviewId": "5167",
@@ -36449,6 +36449,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "AY"
     },
     {
+        "InterviewId": "10790",
+        "InterviewEndDate": "2024-06-07 18:04:12",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "RHO",
+        "AirlineCode": "DE"
+    },
+    {
         "InterviewId": "10791",
         "InterviewEndDate": "2024-06-07 17:31:47",
         "InterviewState": "Complete",
@@ -36463,6 +36471,78 @@ let interview_data_arr_raw = `[
         "Flight": "IB - Iberia",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "10793",
+        "InterviewEndDate": "2024-06-07 17:57:12",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "RHO",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "10794",
+        "InterviewEndDate": "2024-06-07 17:47:33",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "RHO",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "10795",
+        "InterviewEndDate": "2024-06-07 18:16:48",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "10796",
+        "InterviewEndDate": "2024-06-07 18:09:15",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "NAP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "10797",
+        "InterviewEndDate": "2024-06-07 18:16:20",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "10798",
+        "InterviewEndDate": "2024-06-07 18:18:14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "10800",
+        "InterviewEndDate": "2024-06-07 18:26:19",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "NAP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "10801",
+        "InterviewEndDate": "2024-06-07 18:22:16",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "NAP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "10802",
+        "InterviewEndDate": "2024-06-07 18:30:21",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
