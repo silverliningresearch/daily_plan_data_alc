@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "10-06-2024 11:38:02"
+        "download_time": "10-06-2024 12:43:04"
     },
     {
         "InterviewId": "6093",
@@ -62263,6 +62263,70 @@ let interview_data_raw = `[
         "Flight": "BT814",
         "Dest": "TLL",
         "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "17750",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17751",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17752",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17753",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17754",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17755",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17756",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "17757",
+        "InterviewEndDate": "2024-06-10",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
     }
 ]    
 
