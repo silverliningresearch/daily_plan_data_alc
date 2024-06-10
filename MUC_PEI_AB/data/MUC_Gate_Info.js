@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G19",
-        "download_time": "10-06-2024 17:01:35"
+        "download_time": "10-06-2024 18:07:13"
     },
     {
         "aodbUniqueId": "20240610682000",
@@ -389,6 +389,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G14"
+    },
+    {
+        "aodbUniqueId": "20240610681388",
+        "Date": "10-06-2024",
+        "Flight": "OS 118",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K12"
     },
     {
         "aodbUniqueId": "20240610682165",
@@ -1011,6 +1021,16 @@ let MUC_Gate_Info = `[
         "Gate": "G43"
     },
     {
+        "aodbUniqueId": "20240610681958",
+        "Date": "10-06-2024",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D06"
+    },
+    {
         "aodbUniqueId": "20240610681408",
         "Date": "10-06-2024",
         "Flight": "LH 1658",
@@ -1231,6 +1251,16 @@ let MUC_Gate_Info = `[
         "Gate": "K14"
     },
     {
+        "aodbUniqueId": "20240610681776",
+        "Date": "10-06-2024",
+        "Flight": "OU 4433",
+        "Dest": "DBV",
+        "AirlineCode": "OU",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G44"
+    },
+    {
         "aodbUniqueId": "20240610681718",
         "Date": "10-06-2024",
         "Flight": "LH 2558",
@@ -1269,6 +1299,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G20"
+    },
+    {
+        "aodbUniqueId": "20240610681864",
+        "Date": "10-06-2024",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G04"
+    },
+    {
+        "aodbUniqueId": "20240610682167",
+        "Date": "10-06-2024",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20240610682154",
@@ -1319,16 +1369,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K28"
-    },
-    {
-        "aodbUniqueId": "20240610682167",
-        "Date": "10-06-2024",
-        "Flight": "EW 9091",
-        "Dest": "DUS",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20240610681426",
@@ -1499,16 +1539,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K20"
-    },
-    {
-        "aodbUniqueId": "20240610681776",
-        "Date": "10-06-2024",
-        "Flight": "OU 4433",
-        "Dest": "DBV",
-        "AirlineCode": "OU",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G44"
     },
     {
         "aodbUniqueId": "20240610681780",
@@ -1725,16 +1755,6 @@ let MUC_Gate_Info = `[
         "Date": "10-06-2024",
         "Flight": "LH 1930",
         "Dest": "BER",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
-    },
-    {
-        "aodbUniqueId": "20240610681864",
-        "Date": "10-06-2024",
-        "Flight": "LH 2236",
-        "Dest": "CDG",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
@@ -2207,8 +2227,8 @@ let MUC_Gate_Info = `[
         "Dest": "BLL",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G31"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K22"
     },
     {
         "aodbUniqueId": "20240610681917",
@@ -2428,7 +2448,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K08"
+        "Gate": "K23"
     },
     {
         "aodbUniqueId": "20240610682041",
@@ -2659,16 +2679,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G32"
-    },
-    {
-        "aodbUniqueId": "20240610681958",
-        "Date": "10-06-2024",
-        "Flight": "AF 1823",
-        "Dest": "CDG",
-        "AirlineCode": "AF",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D06"
     },
     {
         "aodbUniqueId": "20240610682050",
@@ -3398,7 +3408,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G82"
+        "Gate": "G33"
     },
     {
         "aodbUniqueId": "20240610681541",
@@ -3568,7 +3578,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G63"
+        "Gate": "G81"
     },
     {
         "aodbUniqueId": "20240610681852",
@@ -3628,7 +3638,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G81"
+        "Gate": "G09"
     },
     {
         "aodbUniqueId": "20240610681198",
@@ -3788,7 +3798,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G64"
+        "Gate": "G82"
     },
     {
         "aodbUniqueId": "20240610681232",
@@ -4028,7 +4038,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "A3",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K30"
+        "Gate": "K24"
     },
     {
         "aodbUniqueId": "20240610681350",
@@ -4229,16 +4239,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C10"
-    },
-    {
-        "aodbUniqueId": "20240610681388",
-        "Date": "10-06-2024",
-        "Flight": "OS 118",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K12"
     },
     {
         "aodbUniqueId": "20240610681381",
