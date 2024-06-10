@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "10-06-2024 19:11:27"
+        "download_time": "10-06-2024 20:16:24"
     },
     {
         "InterviewId": "15819",
@@ -114871,6 +114871,94 @@ let interview_data_raw = `[
         "Flight": "IB 8715",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "32858",
+        "InterviewEndDate": "2024-06-10 17:23:11",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32859",
+        "InterviewEndDate": "2024-06-10 17:28:58",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "32860",
+        "InterviewEndDate": "2024-06-10 17:24:10",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "32861",
+        "InterviewEndDate": "2024-06-10 17:32:23",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "32865",
+        "InterviewEndDate": "2024-06-10 17:45:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "32866",
+        "InterviewEndDate": "2024-06-10 17:46:03",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "32867",
+        "InterviewEndDate": "2024-06-10 17:50:52",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "32869",
+        "InterviewEndDate": "2024-06-10 17:59:39",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "32870",
+        "InterviewEndDate": "2024-06-10 18:00:39",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "32871",
+        "InterviewEndDate": "2024-06-10 18:00:35",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "32872",
+        "InterviewEndDate": "2024-06-10 18:11:37",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
