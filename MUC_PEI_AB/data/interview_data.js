@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-06-2024 10:21:29"
+        "download_time": "11-06-2024 11:26:27"
     },
     {
         "InterviewId": "15819",
@@ -115015,6 +115015,62 @@ let interview_data_raw = `[
         "Flight": "LH 1734",
         "Dest": "BEG",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32887",
+        "InterviewEndDate": "2024-06-11 08:40:31",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "32891",
+        "InterviewEndDate": "2024-06-11 08:45:19",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "32893",
+        "InterviewEndDate": "2024-06-11 08:47:38",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "32894",
+        "InterviewEndDate": "2024-06-11 08:48:54",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "32895",
+        "InterviewEndDate": "2024-06-11 09:12:01",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "32896",
+        "InterviewEndDate": "2024-06-11 09:13:19",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "32897",
+        "InterviewEndDate": "2024-06-11 09:14:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
     }
 ]    
 
