@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-06-2024 12:31:26"
+        "download_time": "11-06-2024 13:36:30"
     },
     {
         "InterviewId": "15819",
@@ -115102,6 +115102,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 466",
         "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32904",
+        "InterviewEndDate": "2024-06-11 10:43:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2016",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32905",
+        "InterviewEndDate": "2024-06-11 10:58:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2016",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32906",
+        "InterviewEndDate": "2024-06-11 10:55:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2016",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32907",
+        "InterviewEndDate": "2024-06-11 10:53:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2016",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32908",
+        "InterviewEndDate": "2024-06-11 10:35:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2016",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32911",
+        "InterviewEndDate": "2024-06-11 11:28:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1942",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32912",
+        "InterviewEndDate": "2024-06-11 11:24:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1942",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "32913",
+        "InterviewEndDate": "2024-06-11 11:22:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1942",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
