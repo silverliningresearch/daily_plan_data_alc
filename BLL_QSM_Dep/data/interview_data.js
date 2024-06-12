@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "12-06-2024 18:53:01"
+        "download_time": "12-06-2024 19:57:50"
     },
     {
         "InterviewId": "6093",
@@ -62993,12 +62993,116 @@ let interview_data_raw = `[
         "AirlineCode": "LH841"
     },
     {
+        "InterviewId": "17864",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
         "InterviewId": "17865",
         "InterviewEndDate": "2024-06-12",
         "InterviewState": "Complete",
         "Flight": "LH841",
         "Dest": "FRA",
         "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17866",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17867",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17868",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17869",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17870",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17871",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17872",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17873",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17874",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17876",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17877",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "17878",
+        "InterviewEndDate": "2024-06-12",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
     }
 ]    
 
