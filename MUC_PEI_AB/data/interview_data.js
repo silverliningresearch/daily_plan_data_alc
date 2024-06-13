@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-06-2024 19:46:26"
+        "download_time": "13-06-2024 20:51:28"
     },
     {
         "InterviewId": "15819",
@@ -115913,6 +115913,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "33031",
+        "InterviewEndDate": "2024-06-13 18:12:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "33032",
         "InterviewEndDate": "2024-06-13 16:50:38",
         "InterviewState": "Complete",
@@ -115977,6 +115985,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "33042",
+        "InterviewEndDate": "2024-06-13 18:13:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33043",
+        "InterviewEndDate": "2024-06-13 18:09:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "33044",
         "InterviewEndDate": "2024-06-13 17:33:42",
         "InterviewState": "Complete",
@@ -115993,6 +116017,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "33046",
+        "InterviewEndDate": "2024-06-13 18:06:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "33047",
         "InterviewEndDate": "2024-06-13 17:37:33",
         "InterviewState": "Complete",
@@ -116006,6 +116038,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1706",
         "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33049",
+        "InterviewEndDate": "2024-06-13 18:00:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33050",
+        "InterviewEndDate": "2024-06-13 17:57:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33051",
+        "InterviewEndDate": "2024-06-13 18:00:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33052",
+        "InterviewEndDate": "2024-06-13 18:14:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33053",
+        "InterviewEndDate": "2024-06-13 18:37:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33054",
+        "InterviewEndDate": "2024-06-13 18:45:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
