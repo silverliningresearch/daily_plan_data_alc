@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-06-2024 16:31:25"
+        "download_time": "13-06-2024 17:36:30"
     },
     {
         "InterviewId": "15819",
@@ -115679,6 +115679,78 @@ let interview_data_raw = `[
         "Flight": "LH 1948",
         "Dest": "BER",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33001",
+        "InterviewEndDate": "2024-06-13 15:02:29",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33002",
+        "InterviewEndDate": "2024-06-13 14:55:20",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33003",
+        "InterviewEndDate": "2024-06-13 14:57:33",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33004",
+        "InterviewEndDate": "2024-06-13 14:50:36",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33005",
+        "InterviewEndDate": "2024-06-13 14:50:49",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33006",
+        "InterviewEndDate": "2024-06-13 15:01:20",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33007",
+        "InterviewEndDate": "2024-06-13 15:08:02",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33008",
+        "InterviewEndDate": "2024-06-13 15:04:13",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33013",
+        "InterviewEndDate": "2024-06-13 15:25:35",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
     }
 ]    
 
