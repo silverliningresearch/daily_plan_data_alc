@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "13-06-2024 12:13:06"
+        "download_time": "13-06-2024 13:18:45"
     },
     {
         "InterviewId": "2077",
@@ -20247,6 +20247,86 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6768",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6776",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6777",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6779",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6780",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "Bt",
+        "Dest": "MUC",
+        "AirlineCode": "Bt"
+    },
+    {
+        "InterviewId": "6781",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "MUC",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6783",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "MUC",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6784",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "MUC",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6785",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "MUC",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6795",
+        "InterviewEndDate": "2024-06-13",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
     }
 ]    
 
