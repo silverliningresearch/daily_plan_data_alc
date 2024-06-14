@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "14-06-2024 12:05:31"
+        "download_time": "14-06-2024 13:10:34"
     },
     {
         "InterviewId": "3965",
@@ -34459,6 +34459,62 @@ let interview_data_raw = `[
     {
         "InterviewId": "8493",
         "InterviewEndDate": "2024-06-14 10:03:42",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8494",
+        "InterviewEndDate": "2024-06-14 10:05:25",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8495",
+        "InterviewEndDate": "2024-06-14 10:06:24",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8496",
+        "InterviewEndDate": "2024-06-14 10:05:55",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8497",
+        "InterviewEndDate": "2024-06-14 10:12:07",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8498",
+        "InterviewEndDate": "2024-06-14 10:13:47",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8499",
+        "InterviewEndDate": "2024-06-14 10:17:47",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "8500",
+        "InterviewEndDate": "2024-06-14 10:19:03",
         "InterviewState": "Complete",
         "Flight": "AF 1295",
         "Dest": "CDG",
