@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-06-2024 18:32:24"
+        "download_time": "14-06-2024 19:38:04"
     },
     {
         "InterviewId": "5167",
@@ -37071,6 +37071,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BER",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10886",
+        "InterviewEndDate": "2024-06-14 17:21:36",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "10887",
+        "InterviewEndDate": "2024-06-14 17:08:59",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "10888",
+        "InterviewEndDate": "2024-06-14 17:16:50",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "10889",
+        "InterviewEndDate": "2024-06-14 17:31:33",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "10890",
+        "InterviewEndDate": "2024-06-14 17:25:06",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
