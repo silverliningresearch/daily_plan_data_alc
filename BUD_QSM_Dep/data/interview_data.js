@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "14-06-2024 14:14:31"
+        "download_time": "14-06-2024 15:20:22"
     },
     {
         "InterviewId": "3965",
@@ -34531,6 +34531,62 @@ let interview_data_raw = `[
     {
         "InterviewId": "8502",
         "InterviewEndDate": "2024-06-14 11:37:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8503",
+        "InterviewEndDate": "2024-06-14 12:48:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8504",
+        "InterviewEndDate": "2024-06-14 12:43:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8505",
+        "InterviewEndDate": "2024-06-14 12:47:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8506",
+        "InterviewEndDate": "2024-06-14 12:48:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8507",
+        "InterviewEndDate": "2024-06-14 13:03:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8508",
+        "InterviewEndDate": "2024-06-14 13:00:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8509",
+        "InterviewEndDate": "2024-06-14 12:59:11",
         "InterviewState": "Complete",
         "Flight": "W6 2273",
         "Dest": "EIN",
