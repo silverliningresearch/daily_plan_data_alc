@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-06-2024 18:23:02"
+        "download_time": "15-06-2024 19:27:53"
     },
     {
         "InterviewId": "6093",
@@ -63727,6 +63727,70 @@ let interview_data_raw = `[
         "Flight": "JTD507",
         "Dest": "PMI",
         "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17976",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17977",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17979",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17980",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17981",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17982",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17983",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "17984",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
     }
 ]    
 
