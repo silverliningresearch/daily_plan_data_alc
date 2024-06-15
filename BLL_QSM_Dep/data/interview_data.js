@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-06-2024 17:17:56"
+        "download_time": "15-06-2024 18:23:02"
     },
     {
         "InterviewId": "6093",
@@ -63663,6 +63663,70 @@ let interview_data_raw = `[
         "Flight": "DK1254",
         "Dest": "CHQ",
         "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17965",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17966",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17967",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17968",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17969",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17970",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17971",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
+    },
+    {
+        "InterviewId": "17972",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD507",
+        "Dest": "PMI",
+        "AirlineCode": "JTD507"
     }
 ]    
 
