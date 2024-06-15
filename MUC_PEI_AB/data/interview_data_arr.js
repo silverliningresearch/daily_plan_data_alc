@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-06-2024 08:37:25"
+        "download_time": "15-06-2024 09:42:18"
     },
     {
         "InterviewId": "5167",
@@ -37135,6 +37135,46 @@ let interview_data_arr_raw = `[
         "Flight": "WY - Oman Air",
         "Dest": "MCT",
         "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "10898",
+        "InterviewEndDate": "2024-06-15 07:03:46",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10899",
+        "InterviewEndDate": "2024-06-15 07:10:02",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "10900",
+        "InterviewEndDate": "2024-06-15 07:15:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10901",
+        "InterviewEndDate": "2024-06-15 07:15:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10902",
+        "InterviewEndDate": "2024-06-15 07:29:40",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
     }
 ]    
 
