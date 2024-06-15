@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-06-2024 15:08:01"
+        "download_time": "15-06-2024 16:12:53"
     },
     {
         "InterviewId": "6093",
@@ -63535,6 +63535,134 @@ let interview_data_raw = `[
         "Flight": "KL1296",
         "Dest": "AMS",
         "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "17944",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "17946",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "17947",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "17950",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "17951",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "17952",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "17953",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "17954",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17956",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17957",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17958",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17959",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17960",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17961",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17963",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
+    },
+    {
+        "InterviewId": "17964",
+        "InterviewEndDate": "2024-06-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1254",
+        "Dest": "CHQ",
+        "AirlineCode": "DK1254"
     }
 ]    
 
