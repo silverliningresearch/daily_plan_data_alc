@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "16-06-2024 13:52:36"
+        "download_time": "16-06-2024 14:56:15"
     },
     {
         "InterviewId": "5167",
@@ -37343,6 +37343,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "YYZ",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10925",
+        "InterviewEndDate": "2024-06-16 11:58:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10926",
+        "InterviewEndDate": "2024-06-16 12:04:02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10928",
+        "InterviewEndDate": "2024-06-16 12:01:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10929",
+        "InterviewEndDate": "2024-06-16 12:11:43",
+        "InterviewState": "Complete",
+        "Flight": "Discover",
+        "Dest": "IBZ",
+        "AirlineCode": "Discover"
+    },
+    {
+        "InterviewId": "10930",
+        "InterviewEndDate": "2024-06-16 12:14:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10931",
+        "InterviewEndDate": "2024-06-16 12:31:20",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "10932",
+        "InterviewEndDate": "2024-06-16 12:37:54",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "10933",
+        "InterviewEndDate": "2024-06-16 12:42:34",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
     }
 ]    
 
