@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-06-2024 16:01:50"
+        "download_time": "16-06-2024 17:07:02"
     },
     {
         "InterviewId": "6093",
@@ -63951,6 +63951,86 @@ let interview_data_raw = `[
         "Flight": "FR9926",
         "Dest": "AHO",
         "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "18008",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18009",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18011",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18012",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18013",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18014",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18015",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18016",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18017",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18018",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
     }
 ]    
 
