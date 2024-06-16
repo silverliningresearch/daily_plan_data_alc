@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-06-2024 17:05:25"
+        "download_time": "16-06-2024 18:10:23"
     },
     {
         "InterviewId": "15819",
@@ -116558,6 +116558,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2236",
         "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33130",
+        "InterviewEndDate": "2024-06-16 15:25:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33131",
+        "InterviewEndDate": "2024-06-16 15:08:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33133",
+        "InterviewEndDate": "2024-06-16 15:14:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33134",
+        "InterviewEndDate": "2024-06-16 15:11:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33135",
+        "InterviewEndDate": "2024-06-16 15:16:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33136",
+        "InterviewEndDate": "2024-06-16 15:16:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33137",
+        "InterviewEndDate": "2024-06-16 15:42:06",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "33139",
+        "InterviewEndDate": "2024-06-16 16:08:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33140",
+        "InterviewEndDate": "2024-06-16 16:00:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33141",
+        "InterviewEndDate": "2024-06-16 16:05:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33142",
+        "InterviewEndDate": "2024-06-16 16:06:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33143",
+        "InterviewEndDate": "2024-06-16 16:09:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
         "AirlineCode": "LH"
     }
 ]    

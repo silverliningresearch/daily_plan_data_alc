@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-06-2024 17:07:02"
+        "download_time": "16-06-2024 18:11:53"
     },
     {
         "InterviewId": "6093",
@@ -64031,6 +64031,86 @@ let interview_data_raw = `[
         "Flight": "JTD539",
         "Dest": "CHQ",
         "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "18019",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18020",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18021",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18022",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18023",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18024",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18025",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18026",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18027",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18028",
+        "InterviewEndDate": "2024-06-16",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
     }
 ]    
 
