@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-06-2024 14:47:05"
+        "download_time": "17-06-2024 15:52:14"
     },
     {
         "InterviewId": "6093",
@@ -64167,6 +64167,110 @@ let interview_data_raw = `[
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18038",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18041",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18042",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18043",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18048",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18049",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18050",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "18051",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18052",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "18053",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "18056",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18057",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "18060",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
     }
 ]    
 
