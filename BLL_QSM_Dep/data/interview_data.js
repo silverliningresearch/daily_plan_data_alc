@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-06-2024 13:42:00"
+        "download_time": "17-06-2024 14:47:05"
     },
     {
         "InterviewId": "6093",
@@ -64111,6 +64111,62 @@ let interview_data_raw = `[
         "Flight": "AF1265",
         "Dest": "CDG",
         "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "18029",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18030",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18031",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18032",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18034",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18035",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "18037",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
     }
 ]    
 
