@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-06-2024 15:52:14"
+        "download_time": "17-06-2024 16:57:01"
     },
     {
         "InterviewId": "6093",
@@ -64249,6 +64249,14 @@ let interview_data_raw = `[
         "AirlineCode": "SK1902"
     },
     {
+        "InterviewId": "18054",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
         "InterviewId": "18056",
         "InterviewEndDate": "2024-06-17",
         "InterviewState": "Complete",
@@ -64271,6 +64279,78 @@ let interview_data_raw = `[
         "Flight": "SK1902",
         "Dest": "OSL",
         "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "18061",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18062",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18063",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18064",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18065",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18066",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18067",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18068",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18069",
+        "InterviewEndDate": "2024-06-17",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
     }
 ]    
 
