@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "18-06-2024 17:53:58"
+        "download_time": "18-06-2024 18:58:35"
     },
     {
         "InterviewId": "1224",
@@ -11319,6 +11319,46 @@ let interview_data_arr_raw = `[
         "Flight": "LS - Jet2.com",
         "Dest": "BHX",
         "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "2658",
+        "InterviewEndDate": "2024-06-18 16:13:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "2659",
+        "InterviewEndDate": "2024-06-18 16:19:36",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2660",
+        "InterviewEndDate": "2024-06-18 16:29:24",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "RHO",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "2661",
+        "InterviewEndDate": "2024-06-18 16:40:26",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2662",
+        "InterviewEndDate": "2024-06-18 16:48:47",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
