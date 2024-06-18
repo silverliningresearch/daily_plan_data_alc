@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-06-2024 13:32:05"
+        "download_time": "18-06-2024 14:37:13"
     },
     {
         "InterviewId": "6093",
@@ -64647,6 +64647,150 @@ let interview_data_raw = `[
         "Flight": "FR5165",
         "Dest": "STN",
         "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "18115",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18116",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18117",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18118",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18119",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18120",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18121",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18122",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18123",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "KL1296",
+        "Dest": "AMS",
+        "AirlineCode": "KL1296"
+    },
+    {
+        "InterviewId": "18124",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18125",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18126",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18127",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18128",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18130",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18131",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18132",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18133",
+        "InterviewEndDate": "2024-06-18",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
     }
 ]    
 

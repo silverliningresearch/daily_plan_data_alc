@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "18-06-2024 13:33:25"
+        "download_time": "18-06-2024 14:38:38"
     },
     {
         "InterviewId": "3965",
@@ -34839,6 +34839,62 @@ let interview_data_raw = `[
         "Flight": "BT  492",
         "Dest": "RIX",
         "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "8543",
+        "InterviewEndDate": "2024-06-18 11:44:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8544",
+        "InterviewEndDate": "2024-06-18 11:41:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8545",
+        "InterviewEndDate": "2024-06-18 11:46:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8546",
+        "InterviewEndDate": "2024-06-18 11:58:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8547",
+        "InterviewEndDate": "2024-06-18 12:29:11",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "8548",
+        "InterviewEndDate": "2024-06-18 12:32:31",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "8549",
+        "InterviewEndDate": "2024-06-18 12:31:09",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
