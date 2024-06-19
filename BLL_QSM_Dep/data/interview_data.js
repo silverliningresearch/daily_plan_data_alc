@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-06-2024 09:01:51"
+        "download_time": "19-06-2024 10:08:14"
     },
     {
         "InterviewId": "6093",
@@ -64967,6 +64967,78 @@ let interview_data_raw = `[
         "Flight": "FR989",
         "Dest": "BRI",
         "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18167",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18168",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18169",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18170",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18171",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18172",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18173",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18174",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18175",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
     }
 ]    
 
