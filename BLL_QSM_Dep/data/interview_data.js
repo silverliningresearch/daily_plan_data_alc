@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-06-2024 11:11:59"
+        "download_time": "19-06-2024 12:17:00"
     },
     {
         "InterviewId": "6093",
@@ -65039,6 +65039,78 @@ let interview_data_raw = `[
         "Flight": "FR9752",
         "Dest": "VIE",
         "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "18176",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18177",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18178",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18179",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18180",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18181",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18182",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18183",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18184",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
     }
 ]    
 

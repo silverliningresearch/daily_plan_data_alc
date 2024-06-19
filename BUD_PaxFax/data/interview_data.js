@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "19-06-2024 11:16:47"
+        "download_time": "19-06-2024 12:22:01"
     },
     {
         "InterviewId": "7701",
@@ -38921,12 +38921,76 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "13183",
+        "InterviewEndDate": "2024-06-19 09:19:55",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "13184",
         "InterviewEndDate": "2024-06-19 09:09:28",
         "InterviewState": "Complete",
         "Flight": "BA  867",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "13185",
+        "InterviewEndDate": "2024-06-19 09:17:36",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "13186",
+        "InterviewEndDate": "2024-06-19 09:17:07",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "13187",
+        "InterviewEndDate": "2024-06-19 09:19:05",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "13188",
+        "InterviewEndDate": "2024-06-19 09:22:55",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "13189",
+        "InterviewEndDate": "2024-06-19 09:21:38",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "LTN",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "13190",
+        "InterviewEndDate": "2024-06-19 10:17:51",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13191",
+        "InterviewEndDate": "2024-06-19 10:20:57",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
