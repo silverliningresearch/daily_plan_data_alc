@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "19-06-2024 12:22:01"
+        "download_time": "19-06-2024 13:27:08"
     },
     {
         "InterviewId": "7701",
@@ -38986,11 +38986,75 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "13191",
-        "InterviewEndDate": "2024-06-19 10:20:57",
+        "InterviewEndDate": "2024-06-19 10:22:32",
         "InterviewState": "Complete",
         "Flight": "LO  536",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13192",
+        "InterviewEndDate": "2024-06-19 10:23:19",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13193",
+        "InterviewEndDate": "2024-06-19 10:30:19",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13194",
+        "InterviewEndDate": "2024-06-19 10:33:07",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13195",
+        "InterviewEndDate": "2024-06-19 10:33:28",
+        "InterviewState": "Complete",
+        "Flight": "LO  536",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13196",
+        "InterviewEndDate": "2024-06-19 11:09:20",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "13197",
+        "InterviewEndDate": "2024-06-19 11:14:47",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "13198",
+        "InterviewEndDate": "2024-06-19 11:06:25",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "13199",
+        "InterviewEndDate": "2024-06-19 11:08:14",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 

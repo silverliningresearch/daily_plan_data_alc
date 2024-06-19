@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "19-06-2024 12:17:09"
+        "download_time": "19-06-2024 13:22:32"
     },
     {
         "InterviewId": "2077",
@@ -20695,6 +20695,38 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6887",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6888",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6889",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6890",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
     }
 ]    
 
