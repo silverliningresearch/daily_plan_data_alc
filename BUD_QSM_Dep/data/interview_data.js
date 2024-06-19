@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "19-06-2024 07:58:02"
+        "download_time": "19-06-2024 09:03:07"
     },
     {
         "InterviewId": "3965",
@@ -34935,6 +34935,118 @@ let interview_data_raw = `[
         "Flight": "FR 8054",
         "Dest": "CFU",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8555",
+        "InterviewEndDate": "2024-06-19 05:58:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8556",
+        "InterviewEndDate": "2024-06-19 06:09:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8557",
+        "InterviewEndDate": "2024-06-19 06:02:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8558",
+        "InterviewEndDate": "2024-06-19 06:03:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8559",
+        "InterviewEndDate": "2024-06-19 06:06:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8560",
+        "InterviewEndDate": "2024-06-19 06:08:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8561",
+        "InterviewEndDate": "2024-06-19 06:15:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8562",
+        "InterviewEndDate": "2024-06-19 06:17:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8563",
+        "InterviewEndDate": "2024-06-19 06:51:59",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "8564",
+        "InterviewEndDate": "2024-06-19 06:49:12",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "8565",
+        "InterviewEndDate": "2024-06-19 06:54:40",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "8566",
+        "InterviewEndDate": "2024-06-19 06:57:09",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "8567",
+        "InterviewEndDate": "2024-06-19 06:59:41",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "8568",
+        "InterviewEndDate": "2024-06-19 07:01:38",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     }
 ]    
 

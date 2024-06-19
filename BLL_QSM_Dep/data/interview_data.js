@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-06-2024 07:56:50"
+        "download_time": "19-06-2024 09:01:51"
     },
     {
         "InterviewId": "6093",
@@ -64895,6 +64895,78 @@ let interview_data_raw = `[
         "Flight": "FR3687",
         "Dest": "GDN",
         "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "18148",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18149",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18150",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18151",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18152",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18153",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18154",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18155",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "18156",
+        "InterviewEndDate": "2024-06-19",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
     }
 ]    
 
