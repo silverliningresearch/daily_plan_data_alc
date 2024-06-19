@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-06-2024 18:45:22"
+        "download_time": "19-06-2024 19:50:52"
     },
     {
         "InterviewId": "15819",
@@ -117265,11 +117265,27 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "33233",
+        "InterviewEndDate": "2024-06-19 16:48:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "33234",
         "InterviewEndDate": "2024-06-19 16:14:01",
         "InterviewState": "Complete",
         "Flight": "LH 2150",
         "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33235",
+        "InterviewEndDate": "2024-06-19 16:49:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
         "AirlineCode": "LH"
     },
     {
@@ -117287,6 +117303,54 @@ let interview_data_raw = `[
         "Flight": "LH 1780",
         "Dest": "LIS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33238",
+        "InterviewEndDate": "2024-06-19 16:48:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33239",
+        "InterviewEndDate": "2024-06-19 17:34:37",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33240",
+        "InterviewEndDate": "2024-06-19 17:32:00",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33241",
+        "InterviewEndDate": "2024-06-19 17:01:55",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33242",
+        "InterviewEndDate": "2024-06-19 17:24:30",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33243",
+        "InterviewEndDate": "2024-06-19 17:00:49",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
     }
 ]    
 

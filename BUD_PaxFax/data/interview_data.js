@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "19-06-2024 18:52:02"
+        "download_time": "19-06-2024 19:57:12"
     },
     {
         "InterviewId": "7701",
@@ -39198,6 +39198,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2445",
         "Dest": "CFU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13220",
+        "InterviewEndDate": "2024-06-19 17:04:31",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13221",
+        "InterviewEndDate": "2024-06-19 17:03:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13222",
+        "InterviewEndDate": "2024-06-19 17:15:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13223",
+        "InterviewEndDate": "2024-06-19 17:15:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13224",
+        "InterviewEndDate": "2024-06-19 17:13:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13225",
+        "InterviewEndDate": "2024-06-19 17:26:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13226",
+        "InterviewEndDate": "2024-06-19 17:24:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13227",
+        "InterviewEndDate": "2024-06-19 17:27:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13228",
+        "InterviewEndDate": "2024-06-19 17:27:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
         "AirlineCode": "W6"
     }
 ]    
