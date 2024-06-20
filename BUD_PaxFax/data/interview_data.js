@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "20-06-2024 12:13:26"
+        "download_time": "20-06-2024 13:16:56"
     },
     {
         "InterviewId": "7701",
@@ -39367,6 +39367,70 @@ let interview_data_raw = `[
         "Flight": "LY 2360",
         "Dest": "TLV",
         "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "13243",
+        "InterviewEndDate": "2024-06-20 10:43:13",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "13245",
+        "InterviewEndDate": "2024-06-20 10:46:40",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "13246",
+        "InterviewEndDate": "2024-06-20 10:49:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13247",
+        "InterviewEndDate": "2024-06-20 10:48:03",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "13248",
+        "InterviewEndDate": "2024-06-20 10:51:19",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "13249",
+        "InterviewEndDate": "2024-06-20 10:49:58",
+        "InterviewState": "Complete",
+        "Flight": "AF 1295",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "13250",
+        "InterviewEndDate": "2024-06-20 10:55:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13251",
+        "InterviewEndDate": "2024-06-20 11:02:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
     }
 ]    
 
