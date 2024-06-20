@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "20-06-2024 11:07:05"
+        "download_time": "20-06-2024 12:13:26"
     },
     {
         "InterviewId": "7701",
@@ -39319,6 +39319,54 @@ let interview_data_raw = `[
         "Flight": "W6 2315",
         "Dest": "BER",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13236",
+        "InterviewEndDate": "2024-06-20 09:16:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2443",
+        "Dest": "HER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13237",
+        "InterviewEndDate": "2024-06-20 09:29:15",
+        "InterviewState": "Complete",
+        "Flight": "LY 2360",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "13238",
+        "InterviewEndDate": "2024-06-20 09:29:10",
+        "InterviewState": "Complete",
+        "Flight": "LY 2360",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "13239",
+        "InterviewEndDate": "2024-06-20 09:23:46",
+        "InterviewState": "Complete",
+        "Flight": "LY 2360",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "13240",
+        "InterviewEndDate": "2024-06-20 09:22:32",
+        "InterviewState": "Complete",
+        "Flight": "LY 2360",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "13242",
+        "InterviewEndDate": "2024-06-20 09:33:54",
+        "InterviewState": "Complete",
+        "Flight": "LY 2360",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
     }
 ]    
 
