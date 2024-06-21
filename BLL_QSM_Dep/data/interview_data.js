@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "21-06-2024 15:12:03"
+        "download_time": "21-06-2024 16:16:59"
     },
     {
         "InterviewId": "6093",
@@ -65319,6 +65319,78 @@ let interview_data_raw = `[
         "Flight": "DY995",
         "Dest": "OSL",
         "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18214",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18215",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18216",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18217",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18218",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18219",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18220",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18221",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "18222",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
     }
 ]    
 
