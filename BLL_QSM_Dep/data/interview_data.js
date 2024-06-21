@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "21-06-2024 14:07:53"
+        "download_time": "21-06-2024 15:12:03"
     },
     {
         "InterviewId": "6093",
@@ -65185,7 +65185,55 @@ let interview_data_raw = `[
         "AirlineCode": "KL1296"
     },
     {
+        "InterviewId": "18195",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "18196",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "18197",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "18198",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "18199",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
         "InterviewId": "18200",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "18201",
         "InterviewEndDate": "2024-06-21",
         "InterviewState": "Complete",
         "Flight": "FR3761",
@@ -65199,6 +65247,78 @@ let interview_data_raw = `[
         "Flight": "FR3761",
         "Dest": "CRL",
         "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "18203",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "FR3761",
+        "Dest": "CRL",
+        "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "18205",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18206",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18207",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18208",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18210",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18211",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18212",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "18213",
+        "InterviewEndDate": "2024-06-21",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
     }
 ]    
 
