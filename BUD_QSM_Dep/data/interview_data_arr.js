@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "21-06-2024 17:23:42"
+        "download_time": "21-06-2024 18:28:24"
     },
     {
         "InterviewId": "1224",
@@ -11415,6 +11415,62 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BVA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2670",
+        "InterviewEndDate": "2024-06-21 15:39:19",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "2671",
+        "InterviewEndDate": "2024-06-21 15:44:44",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "2672",
+        "InterviewEndDate": "2024-06-21 15:53:48",
+        "InterviewState": "Complete",
+        "Flight": "7O - Travel Service",
+        "Dest": "ZTH",
+        "AirlineCode": "7O"
+    },
+    {
+        "InterviewId": "2673",
+        "InterviewEndDate": "2024-06-21 15:58:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2674",
+        "InterviewEndDate": "2024-06-21 16:12:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2675",
+        "InterviewEndDate": "2024-06-21 16:21:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2676",
+        "InterviewEndDate": "2024-06-21 16:25:25",
+        "InterviewState": "Complete",
+        "Flight": "RO - Tarom",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
     }
 ]    
 
