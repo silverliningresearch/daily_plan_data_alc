@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "22-06-2024 16:07:56"
+        "download_time": "22-06-2024 17:11:56"
     },
     {
         "InterviewId": "6093",
@@ -65631,6 +65631,86 @@ let interview_data_raw = `[
         "Flight": "FR997",
         "Dest": "MAD",
         "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18253",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18254",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18255",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18256",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18257",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18258",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18259",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18260",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18261",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18262",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
     }
 ]    
 
