@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "22-06-2024 17:13:24"
+        "download_time": "22-06-2024 18:18:24"
     },
     {
         "InterviewId": "1224",
@@ -11479,6 +11479,54 @@ let interview_data_arr_raw = `[
         "Flight": "RO - Tarom",
         "Dest": "OTP",
         "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "2678",
+        "InterviewEndDate": "2024-06-22 15:30:18",
+        "InterviewState": "Complete",
+        "Flight": "4M - Mavi Gok Aviation",
+        "Dest": "AYT",
+        "AirlineCode": "4M"
+    },
+    {
+        "InterviewId": "2679",
+        "InterviewEndDate": "2024-06-22 15:33:53",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2680",
+        "InterviewEndDate": "2024-06-22 15:38:53",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2681",
+        "InterviewEndDate": "2024-06-22 15:48:08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2682",
+        "InterviewEndDate": "2024-06-22 15:53:00",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2683",
+        "InterviewEndDate": "2024-06-22 15:58:15",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
     }
 ]    
 
