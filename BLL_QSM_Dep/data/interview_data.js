@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "22-06-2024 15:01:56"
+        "download_time": "22-06-2024 16:07:56"
     },
     {
         "InterviewId": "6093",
@@ -65551,6 +65551,86 @@ let interview_data_raw = `[
         "Flight": "VY1881",
         "Dest": "BCN",
         "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18243",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18244",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18245",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18246",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18247",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18248",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18249",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18250",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18251",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "18252",
+        "InterviewEndDate": "2024-06-22",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
     }
 ]    
 
