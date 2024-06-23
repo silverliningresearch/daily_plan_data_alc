@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "23-06-2024 17:02:51"
+        "download_time": "23-06-2024 18:08:25"
     },
     {
         "InterviewId": "2077",
@@ -20983,6 +20983,78 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6957",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6958",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6960",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6961",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "AOK",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6962",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "AOK",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6963",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "AOK",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6964",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "AOK",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6965",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "AOK",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "6968",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
     }
 ]    
 
