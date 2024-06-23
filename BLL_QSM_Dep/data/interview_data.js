@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-06-2024 15:56:53"
+        "download_time": "23-06-2024 17:02:43"
     },
     {
         "InterviewId": "6093",
@@ -65983,6 +65983,78 @@ let interview_data_raw = `[
         "Flight": "FR2801",
         "Dest": "MAN",
         "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18301",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18302",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18303",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18304",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18305",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18306",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18307",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18308",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18311",
+        "InterviewEndDate": "2024-06-23",
+        "InterviewState": "Complete",
+        "Flight": "DK1276",
+        "Dest": "RHO",
+        "AirlineCode": "DK1276"
     }
 ]    
 
