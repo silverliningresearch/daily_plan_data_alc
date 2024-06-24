@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "24-06-2024 18:02:30"
+        "download_time": "24-06-2024 19:08:38"
     },
     {
         "InterviewId": "7701",
@@ -39729,12 +39729,60 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "13291",
+        "InterviewEndDate": "2024-06-24 16:03:33",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
         "InterviewId": "13292",
         "InterviewEndDate": "2024-06-24 16:01:51",
         "InterviewState": "Complete",
         "Flight": "LO  538",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13293",
+        "InterviewEndDate": "2024-06-24 16:07:54",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13294",
+        "InterviewEndDate": "2024-06-24 16:13:28",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "13295",
+        "InterviewEndDate": "2024-06-24 16:56:16",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "13296",
+        "InterviewEndDate": "2024-06-24 16:52:28",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "13297",
+        "InterviewEndDate": "2024-06-24 17:01:34",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
     }
 ]    
 
