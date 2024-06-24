@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-06-2024 16:51:18"
+        "download_time": "24-06-2024 17:55:29"
     },
     {
         "InterviewId": "15819",
@@ -117910,6 +117910,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1948",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33342",
+        "InterviewEndDate": "2024-06-24 15:05:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33343",
+        "InterviewEndDate": "2024-06-24 15:10:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33344",
+        "InterviewEndDate": "2024-06-24 15:04:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33345",
+        "InterviewEndDate": "2024-06-24 15:16:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33346",
+        "InterviewEndDate": "2024-06-24 15:19:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33347",
+        "InterviewEndDate": "2024-06-24 15:36:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33348",
+        "InterviewEndDate": "2024-06-24 15:34:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33349",
+        "InterviewEndDate": "2024-06-24 15:41:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33350",
+        "InterviewEndDate": "2024-06-24 15:42:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33351",
+        "InterviewEndDate": "2024-06-24 15:49:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
         "AirlineCode": "LH"
     }
 ]    
