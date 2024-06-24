@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "24-06-2024 19:04:39"
+        "download_time": "24-06-2024 20:09:45"
     },
     {
         "InterviewId": "3965",
@@ -35879,6 +35879,46 @@ let interview_data_raw = `[
         "Flight": "LH 1341",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8679",
+        "InterviewEndDate": "2024-06-24 17:05:41",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "8680",
+        "InterviewEndDate": "2024-06-24 17:12:46",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "8681",
+        "InterviewEndDate": "2024-06-24 17:06:32",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "8682",
+        "InterviewEndDate": "2024-06-24 17:16:23",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "8683",
+        "InterviewEndDate": "2024-06-24 17:17:08",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
     }
 ]    
 
