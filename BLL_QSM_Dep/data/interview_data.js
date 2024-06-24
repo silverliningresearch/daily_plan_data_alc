@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "24-06-2024 10:22:19"
+        "download_time": "24-06-2024 11:27:10"
     },
     {
         "InterviewId": "6093",
@@ -66055,6 +66055,70 @@ let interview_data_raw = `[
         "Flight": "DK1276",
         "Dest": "RHO",
         "AirlineCode": "DK1276"
+    },
+    {
+        "InterviewId": "18314",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "18315",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18316",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18318",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18319",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "18320",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "18321",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "18322",
+        "InterviewEndDate": "2024-06-24",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
     }
 ]    
 
