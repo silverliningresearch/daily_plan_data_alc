@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "26-06-2024 08:58:29"
+        "download_time": "26-06-2024 10:03:57"
     },
     {
         "InterviewId": "3965",
@@ -35927,6 +35927,54 @@ let interview_data_raw = `[
         "Flight": "FR 4309",
         "Dest": "ACE",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8685",
+        "InterviewEndDate": "2024-06-26 07:21:39",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "8686",
+        "InterviewEndDate": "2024-06-26 07:26:33",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "8687",
+        "InterviewEndDate": "2024-06-26 07:27:17",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "8688",
+        "InterviewEndDate": "2024-06-26 07:33:56",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "8689",
+        "InterviewEndDate": "2024-06-26 07:29:33",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
+    },
+    {
+        "InterviewId": "8690",
+        "InterviewEndDate": "2024-06-26 07:35:55",
+        "InterviewState": "Complete",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY"
     }
 ]    
 
