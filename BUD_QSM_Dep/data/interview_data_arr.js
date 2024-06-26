@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "26-06-2024 15:28:43"
+        "download_time": "26-06-2024 16:33:43"
     },
     {
         "InterviewId": "1224",
@@ -11679,6 +11679,54 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BGY",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2704",
+        "InterviewEndDate": "2024-06-26 13:44:17",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "2705",
+        "InterviewEndDate": "2024-06-26 13:48:46",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "2706",
+        "InterviewEndDate": "2024-06-26 14:00:55",
+        "InterviewState": "Complete",
+        "Flight": "SM - Air Cairo",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "2707",
+        "InterviewEndDate": "2024-06-26 14:12:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LPL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2708",
+        "InterviewEndDate": "2024-06-26 14:20:22",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "2709",
+        "InterviewEndDate": "2024-06-26 14:26:54",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
     }
 ]    
 
