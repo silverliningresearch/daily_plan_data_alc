@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-06-2024 19:45:23"
+        "download_time": "26-06-2024 20:50:27"
     },
     {
         "InterviewId": "15819",
@@ -118271,6 +118271,62 @@ let interview_data_raw = `[
         "Flight": "IB 8715",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "33436",
+        "InterviewEndDate": "2024-06-26 17:57:13",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "33437",
+        "InterviewEndDate": "2024-06-26 17:58:27",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "33438",
+        "InterviewEndDate": "2024-06-26 18:01:59",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "33439",
+        "InterviewEndDate": "2024-06-26 18:37:33",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "33440",
+        "InterviewEndDate": "2024-06-26 18:30:58",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "33441",
+        "InterviewEndDate": "2024-06-26 18:42:59",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "33442",
+        "InterviewEndDate": "2024-06-26 18:43:37",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
