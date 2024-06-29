@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-06-2024 17:05:33"
+        "download_time": "29-06-2024 18:10:25"
     },
     {
         "InterviewId": "15819",
@@ -119018,11 +119018,51 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "33570",
-        "InterviewEndDate": "2024-06-29 15:00:35",
+        "InterviewEndDate": "2024-06-29 15:23:34",
         "InterviewState": "Complete",
         "Flight": "DE 168",
         "Dest": "PRN",
         "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "33571",
+        "InterviewEndDate": "2024-06-29 15:42:35",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "33572",
+        "InterviewEndDate": "2024-06-29 15:40:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "33573",
+        "InterviewEndDate": "2024-06-29 15:46:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33574",
+        "InterviewEndDate": "2024-06-29 15:47:58",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "33579",
+        "InterviewEndDate": "2024-06-29 15:59:25",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
     }
 ]    
 
