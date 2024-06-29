@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-06-2024 14:55:34"
+        "download_time": "29-06-2024 16:00:24"
     },
     {
         "InterviewId": "15819",
@@ -118865,6 +118865,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "33546",
+        "InterviewEndDate": "2024-06-29 13:01:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "33547",
         "InterviewEndDate": "2024-06-29 12:41:51",
         "InterviewState": "Complete",
@@ -118878,6 +118886,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 494",
         "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33549",
+        "InterviewEndDate": "2024-06-29 13:01:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33551",
+        "InterviewEndDate": "2024-06-29 12:57:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33554",
+        "InterviewEndDate": "2024-06-29 13:39:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 520",
+        "Dest": "MEX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33555",
+        "InterviewEndDate": "2024-06-29 13:44:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 520",
+        "Dest": "MEX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33556",
+        "InterviewEndDate": "2024-06-29 13:39:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 520",
+        "Dest": "MEX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33557",
+        "InterviewEndDate": "2024-06-29 13:34:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 520",
+        "Dest": "MEX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33558",
+        "InterviewEndDate": "2024-06-29 13:43:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 520",
+        "Dest": "MEX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33559",
+        "InterviewEndDate": "2024-06-29 13:47:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 520",
+        "Dest": "MEX",
         "AirlineCode": "LH"
     }
 ]    
