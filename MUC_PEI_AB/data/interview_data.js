@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-06-2024 21:24:35"
+        "download_time": "29-06-2024 22:29:34"
     },
     {
         "InterviewId": "15819",
@@ -119098,7 +119098,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "33580",
-        "InterviewEndDate": "2024-06-29 16:39:40",
+        "InterviewEndDate": "2024-06-29 19:36:40",
         "InterviewState": "Complete",
         "Flight": "LH 1756",
         "Dest": "ATH",
@@ -119318,6 +119318,46 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH  586",
         "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33613",
+        "InterviewEndDate": "2024-06-29 19:33:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33614",
+        "InterviewEndDate": "2024-06-29 19:47:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33615",
+        "InterviewEndDate": "2024-06-29 19:32:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33616",
+        "InterviewEndDate": "2024-06-29 19:34:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33617",
+        "InterviewEndDate": "2024-06-29 19:32:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
         "AirlineCode": "LH"
     }
 ]    
