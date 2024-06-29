@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-06-2024 18:10:25"
+        "download_time": "29-06-2024 19:00:19"
     },
     {
         "InterviewId": "15819",
@@ -119057,12 +119057,116 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
+        "InterviewId": "33575",
+        "InterviewEndDate": "2024-06-29 16:18:28",
+        "InterviewState": "Complete",
+        "Flight": "LH722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33576",
+        "InterviewEndDate": "2024-06-29 16:16:40",
+        "InterviewState": "Complete",
+        "Flight": "LH722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33577",
+        "InterviewEndDate": "2024-06-29 16:15:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33578",
+        "InterviewEndDate": "2024-06-29 16:14:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "33579",
         "InterviewEndDate": "2024-06-29 15:59:25",
         "InterviewState": "Complete",
         "Flight": "XQ 715",
         "Dest": "ESB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "33580",
+        "InterviewEndDate": "2024-06-29 16:39:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33582",
+        "InterviewEndDate": "2024-06-29 16:36:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33584",
+        "InterviewEndDate": "2024-06-29 16:47:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33585",
+        "InterviewEndDate": "2024-06-29 16:43:10",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "33586",
+        "InterviewEndDate": "2024-06-29 16:42:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33587",
+        "InterviewEndDate": "2024-06-29 16:40:47",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "33588",
+        "InterviewEndDate": "2024-06-29 16:52:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33589",
+        "InterviewEndDate": "2024-06-29 16:53:09",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "33590",
+        "InterviewEndDate": "2024-06-29 16:51:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
     }
 ]    
 
