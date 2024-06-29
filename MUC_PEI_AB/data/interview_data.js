@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-06-2024 10:35:24"
+        "download_time": "29-06-2024 11:40:27"
     },
     {
         "InterviewId": "15819",
@@ -118703,6 +118703,62 @@ let interview_data_raw = `[
         "Flight": "EN 8222",
         "Dest": "BRI",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33509",
+        "InterviewEndDate": "2024-06-29 08:48:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1854",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33510",
+        "InterviewEndDate": "2024-06-29 08:53:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1854",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33511",
+        "InterviewEndDate": "2024-06-29 09:14:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1636",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33512",
+        "InterviewEndDate": "2024-06-29 09:16:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1636",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33517",
+        "InterviewEndDate": "2024-06-29 09:36:17",
+        "InterviewState": "Complete",
+        "Flight": "KM 307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "33519",
+        "InterviewEndDate": "2024-06-29 09:33:19",
+        "InterviewState": "Complete",
+        "Flight": "8300",
+        "Dest": "AOI",
+        "AirlineCode": "83"
+    },
+    {
+        "InterviewId": "33520",
+        "InterviewEndDate": "2024-06-29 09:33:07",
+        "InterviewState": "Complete",
+        "Flight": "7418",
+        "Dest": "AOI",
+        "AirlineCode": "74"
     }
 ]    
 
