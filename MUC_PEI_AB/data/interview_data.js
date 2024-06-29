@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-06-2024 16:00:24"
+        "download_time": "29-06-2024 17:05:33"
     },
     {
         "InterviewId": "15819",
@@ -118951,6 +118951,78 @@ let interview_data_raw = `[
         "Flight": "LH 520",
         "Dest": "MEX",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33561",
+        "InterviewEndDate": "2024-06-29 14:24:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2442",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33562",
+        "InterviewEndDate": "2024-06-29 14:31:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2442",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33563",
+        "InterviewEndDate": "2024-06-29 14:35:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2442",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33565",
+        "InterviewEndDate": "2024-06-29 14:11:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1818",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33566",
+        "InterviewEndDate": "2024-06-29 14:43:28",
+        "InterviewState": "Complete",
+        "Flight": "IV 6251",
+        "Dest": "PRN",
+        "AirlineCode": "IV"
+    },
+    {
+        "InterviewId": "33567",
+        "InterviewEndDate": "2024-06-29 14:51:30",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "33568",
+        "InterviewEndDate": "2024-06-29 14:53:00",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "33569",
+        "InterviewEndDate": "2024-06-29 14:57:31",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "33570",
+        "InterviewEndDate": "2024-06-29 15:00:35",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
     }
 ]    
 
