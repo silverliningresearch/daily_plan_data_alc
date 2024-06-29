@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "29-06-2024 11:43:33"
+        "download_time": "29-06-2024 12:48:54"
     },
     {
         "InterviewId": "1224",
@@ -11855,6 +11855,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BLQ",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2726",
+        "InterviewEndDate": "2024-06-29 09:54:36",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2727",
+        "InterviewEndDate": "2024-06-29 09:58:48",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2728",
+        "InterviewEndDate": "2024-06-29 10:06:00",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SVQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2729",
+        "InterviewEndDate": "2024-06-29 10:35:15",
+        "InterviewState": "Complete",
+        "Flight": "EI - Aer Lingus",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "2730",
+        "InterviewEndDate": "2024-06-29 10:40:58",
+        "InterviewState": "Complete",
+        "Flight": "EI - Aer Lingus",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
