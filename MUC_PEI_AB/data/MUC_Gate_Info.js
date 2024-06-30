@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L07",
-        "download_time": "30-06-2024 22:19:45"
+        "download_time": "30-06-2024 23:24:48"
     },
     {
         "aodbUniqueId": "20240630743831",
@@ -509,6 +509,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G38"
+    },
+    {
+        "aodbUniqueId": "20240630743266",
+        "Date": "30-06-2024",
+        "Flight": "LH 2276",
+        "Dest": "NCE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K24"
     },
     {
         "aodbUniqueId": "20240630743310",
@@ -1149,6 +1159,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H08"
+    },
+    {
+        "aodbUniqueId": "20240630743561",
+        "Date": "30-06-2024",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H44"
     },
     {
         "aodbUniqueId": "20240630743702",
@@ -2611,16 +2631,6 @@ let MUC_Gate_Info = `[
         "Gate": "G29"
     },
     {
-        "aodbUniqueId": "20240630743266",
-        "Date": "30-06-2024",
-        "Flight": "LH 2276",
-        "Dest": "NCE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K24"
-    },
-    {
         "aodbUniqueId": "20240630743446",
         "Date": "30-06-2024",
         "Flight": "UA 952",
@@ -3369,16 +3379,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G82"
-    },
-    {
-        "aodbUniqueId": "20240630743561",
-        "Date": "30-06-2024",
-        "Flight": "LH 726",
-        "Dest": "PVG",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H44"
     },
     {
         "aodbUniqueId": "20240630743562",
