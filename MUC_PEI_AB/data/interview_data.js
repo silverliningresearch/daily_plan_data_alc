@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-06-2024 14:44:35"
+        "download_time": "30-06-2024 15:49:37"
     },
     {
         "InterviewId": "15819",
@@ -119358,6 +119358,270 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1714",
         "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33624",
+        "InterviewEndDate": "2024-06-30 12:37:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33625",
+        "InterviewEndDate": "2024-06-30 12:33:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33626",
+        "InterviewEndDate": "2024-06-30 12:40:34",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33627",
+        "InterviewEndDate": "2024-06-30 12:31:48",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33628",
+        "InterviewEndDate": "2024-06-30 12:30:35",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33629",
+        "InterviewEndDate": "2024-06-30 12:30:03",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33630",
+        "InterviewEndDate": "2024-06-30 12:25:47",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33631",
+        "InterviewEndDate": "2024-06-30 12:35:33",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33632",
+        "InterviewEndDate": "2024-06-30 12:35:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33633",
+        "InterviewEndDate": "2024-06-30 12:37:23",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33634",
+        "InterviewEndDate": "2024-06-30 12:42:24",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33635",
+        "InterviewEndDate": "2024-06-30 12:44:56",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33636",
+        "InterviewEndDate": "2024-06-30 12:45:00",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33637",
+        "InterviewEndDate": "2024-06-30 12:48:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33638",
+        "InterviewEndDate": "2024-06-30 12:48:48",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33639",
+        "InterviewEndDate": "2024-06-30 12:49:28",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33640",
+        "InterviewEndDate": "2024-06-30 12:50:07",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33641",
+        "InterviewEndDate": "2024-06-30 12:54:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33642",
+        "InterviewEndDate": "2024-06-30 12:54:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33643",
+        "InterviewEndDate": "2024-06-30 12:55:00",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33644",
+        "InterviewEndDate": "2024-06-30 12:57:33",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "33645",
+        "InterviewEndDate": "2024-06-30 12:58:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1856",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33646",
+        "InterviewEndDate": "2024-06-30 13:29:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1918",
+        "Dest": "CAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33647",
+        "InterviewEndDate": "2024-06-30 13:13:51",
+        "InterviewState": "Complete",
+        "Flight": "QR  058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "33648",
+        "InterviewEndDate": "2024-06-30 13:14:25",
+        "InterviewState": "Complete",
+        "Flight": "QR  058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "33649",
+        "InterviewEndDate": "2024-06-30 13:24:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1918",
+        "Dest": "CAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33650",
+        "InterviewEndDate": "2024-06-30 13:16:49",
+        "InterviewState": "Complete",
+        "Flight": "QR  058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "33651",
+        "InterviewEndDate": "2024-06-30 13:17:28",
+        "InterviewState": "Complete",
+        "Flight": "QR  058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "33652",
+        "InterviewEndDate": "2024-06-30 13:18:06",
+        "InterviewState": "Complete",
+        "Flight": "QR  058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "33653",
+        "InterviewEndDate": "2024-06-30 13:27:03",
+        "InterviewState": "Complete",
+        "Flight": "QR  058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "33654",
+        "InterviewEndDate": "2024-06-30 13:28:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1918",
+        "Dest": "CAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33664",
+        "InterviewEndDate": "2024-06-30 13:47:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33666",
+        "InterviewEndDate": "2024-06-30 13:44:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
         "AirlineCode": "LH"
     }
 ]    
