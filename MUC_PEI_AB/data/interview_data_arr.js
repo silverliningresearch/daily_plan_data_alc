@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-06-2024 18:00:42"
+        "download_time": "30-06-2024 19:05:59"
     },
     {
         "InterviewId": "5167",
@@ -38361,6 +38361,22 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "11074",
+        "InterviewEndDate": "2024-06-30 16:08:58",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11075",
+        "InterviewEndDate": "2024-06-30 16:05:15",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "11076",
         "InterviewEndDate": "2024-06-30 15:36:15",
         "InterviewState": "Complete",
@@ -38369,12 +38385,100 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "11077",
+        "InterviewEndDate": "2024-06-30 16:00:06",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "11078",
         "InterviewEndDate": "2024-06-30 15:43:44",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "LCA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11079",
+        "InterviewEndDate": "2024-06-30 16:07:43",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11080",
+        "InterviewEndDate": "2024-06-30 16:10:27",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11081",
+        "InterviewEndDate": "2024-06-30 16:28:19",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11082",
+        "InterviewEndDate": "2024-06-30 16:22:46",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11084",
+        "InterviewEndDate": "2024-06-30 16:38:51",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "11085",
+        "InterviewEndDate": "2024-06-30 16:33:52",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "11087",
+        "InterviewEndDate": "2024-06-30 16:31:47",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "11088",
+        "InterviewEndDate": "2024-06-30 16:32:11",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "11089",
+        "InterviewEndDate": "2024-06-30 16:43:44",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "11091",
+        "InterviewEndDate": "2024-06-30 16:42:08",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
