@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-07-2024 11:09:38"
+        "download_time": "02-07-2024 12:14:36"
     },
     {
         "InterviewId": "15819",
@@ -120007,6 +120007,150 @@ let interview_data_raw = `[
         "Flight": "4Y 450",
         "Dest": "PMI",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "33708",
+        "InterviewEndDate": "2024-07-02 09:31:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33709",
+        "InterviewEndDate": "2024-07-02 09:30:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33711",
+        "InterviewEndDate": "2024-07-02 09:34:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 765",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33712",
+        "InterviewEndDate": "2024-07-02 09:28:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33713",
+        "InterviewEndDate": "2024-07-02 09:37:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33714",
+        "InterviewEndDate": "2024-07-02 09:28:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33715",
+        "InterviewEndDate": "2024-07-02 09:25:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33716",
+        "InterviewEndDate": "2024-07-02 09:27:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33718",
+        "InterviewEndDate": "2024-07-02 09:36:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33719",
+        "InterviewEndDate": "2024-07-02 09:50:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33720",
+        "InterviewEndDate": "2024-07-02 09:52:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33721",
+        "InterviewEndDate": "2024-07-02 09:53:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33722",
+        "InterviewEndDate": "2024-07-02 09:50:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33723",
+        "InterviewEndDate": "2024-07-02 09:46:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33724",
+        "InterviewEndDate": "2024-07-02 09:56:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33725",
+        "InterviewEndDate": "2024-07-02 09:53:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33726",
+        "InterviewEndDate": "2024-07-02 09:59:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33728",
+        "InterviewEndDate": "2024-07-02 10:02:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
     }
 ]    
 
