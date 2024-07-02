@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "02-07-2024 05:45:30"
+        "download_time": "02-07-2024 06:50:38"
     },
     {
         "InterviewId": "6093",
@@ -66295,6 +66295,62 @@ let interview_data_raw = `[
         "Flight": "FR9432",
         "Dest": "TLL",
         "AirlineCode": "FR9432"
+    },
+    {
+        "InterviewId": "18348",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "18350",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "18351",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "18352",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "18353",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "18354",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "18355",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "AY986",
+        "Dest": "HEL",
+        "AirlineCode": "AY986"
     }
 ]    
 
