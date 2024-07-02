@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-07-2024 07:54:37"
+        "download_time": "02-07-2024 08:59:37"
     },
     {
         "InterviewId": "15819",
@@ -119873,6 +119873,14 @@ let interview_data_raw = `[
         "AirlineCode": "EK"
     },
     {
+        "InterviewId": "33690",
+        "InterviewEndDate": "2024-07-02 06:51:05",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
         "InterviewId": "33691",
         "InterviewEndDate": "2024-06-30 19:39:17",
         "InterviewState": "Complete",
@@ -119935,6 +119943,70 @@ let interview_data_raw = `[
         "Flight": "LH  095",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33700",
+        "InterviewEndDate": "2024-07-02 06:11:11",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33701",
+        "InterviewEndDate": "2024-07-02 06:12:08",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33702",
+        "InterviewEndDate": "2024-07-02 06:03:58",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33703",
+        "InterviewEndDate": "2024-07-02 06:09:43",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33704",
+        "InterviewEndDate": "2024-07-02 06:49:12",
+        "InterviewState": "Complete",
+        "Flight": "4Y 450",
+        "Dest": "PMI",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "33705",
+        "InterviewEndDate": "2024-07-02 06:36:27",
+        "InterviewState": "Complete",
+        "Flight": "4Y 450",
+        "Dest": "PMI",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "33706",
+        "InterviewEndDate": "2024-07-02 06:34:49",
+        "InterviewState": "Complete",
+        "Flight": "4Y 450",
+        "Dest": "PMI",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "33707",
+        "InterviewEndDate": "2024-07-02 06:39:36",
+        "InterviewState": "Complete",
+        "Flight": "4Y 450",
+        "Dest": "PMI",
+        "AirlineCode": "4Y"
     }
 ]    
 

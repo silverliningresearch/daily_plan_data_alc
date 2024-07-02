@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "02-07-2024 07:55:33"
+        "download_time": "02-07-2024 09:00:35"
     },
     {
         "InterviewId": "6093",
@@ -66375,6 +66375,70 @@ let interview_data_raw = `[
         "Flight": "AY986",
         "Dest": "HEL",
         "AirlineCode": "AY986"
+    },
+    {
+        "InterviewId": "18358",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "18359",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "18362",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "18363",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "18364",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "18365",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "18366",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "18367",
+        "InterviewEndDate": "2024-07-02",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
     }
 ]    
 
