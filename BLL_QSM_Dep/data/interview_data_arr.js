@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "04-07-2024 18:25:39"
+        "download_time": "04-07-2024 19:30:42"
     },
     {
         "InterviewId": "2077",
@@ -21279,6 +21279,54 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "KRK",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7009",
+        "InterviewEndDate": "2024-07-04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7010",
+        "InterviewEndDate": "2024-07-04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7011",
+        "InterviewEndDate": "2024-07-04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7012",
+        "InterviewEndDate": "2024-07-04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7016",
+        "InterviewEndDate": "2024-07-04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "AGP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7022",
+        "InterviewEndDate": "2024-07-04",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Hava Tasimaciligi",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
     }
 ]    
 
