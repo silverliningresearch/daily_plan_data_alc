@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-07-2024 13:54:39"
+        "download_time": "05-07-2024 14:59:40"
     },
     {
         "InterviewId": "15819",
@@ -121201,8 +121201,24 @@ let interview_data_raw = `[
         "AirlineCode": "TG"
     },
     {
+        "InterviewId": "33911",
+        "InterviewEndDate": "2024-07-05 11:54:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "33912",
         "InterviewEndDate": "2024-07-05 11:47:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33913",
+        "InterviewEndDate": "2024-07-05 11:57:24",
         "InterviewState": "Complete",
         "Flight": "LH 2476",
         "Dest": "LHR",
@@ -121214,6 +121230,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2476",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33915",
+        "InterviewEndDate": "2024-07-05 12:01:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33916",
+        "InterviewEndDate": "2024-07-05 12:28:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33917",
+        "InterviewEndDate": "2024-07-05 12:34:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33918",
+        "InterviewEndDate": "2024-07-05 12:33:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33919",
+        "InterviewEndDate": "2024-07-05 12:38:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33920",
+        "InterviewEndDate": "2024-07-05 12:42:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33921",
+        "InterviewEndDate": "2024-07-05 12:47:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
         "AirlineCode": "LH"
     }
 ]    
