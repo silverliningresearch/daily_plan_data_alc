@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-07-2024 09:34:39"
+        "download_time": "05-07-2024 10:39:39"
     },
     {
         "InterviewId": "15819",
@@ -120975,6 +120975,94 @@ let interview_data_raw = `[
         "Flight": "LH 2106",
         "Dest": "HAJ",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33866",
+        "InterviewEndDate": "2024-07-05 07:35:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33867",
+        "InterviewEndDate": "2024-07-05 07:34:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33868",
+        "InterviewEndDate": "2024-07-05 07:42:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33869",
+        "InterviewEndDate": "2024-07-05 07:45:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33870",
+        "InterviewEndDate": "2024-07-05 07:36:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33871",
+        "InterviewEndDate": "2024-07-05 08:16:51",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33872",
+        "InterviewEndDate": "2024-07-05 08:25:25",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33873",
+        "InterviewEndDate": "2024-07-05 08:17:02",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33875",
+        "InterviewEndDate": "2024-07-05 08:07:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33876",
+        "InterviewEndDate": "2024-07-05 08:16:32",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "33877",
+        "InterviewEndDate": "2024-07-05 08:22:37",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
     }
 ]    
 
