@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-07-2024 19:10:34"
+        "download_time": "06-07-2024 20:15:32"
     },
     {
         "InterviewId": "5167",
@@ -38825,6 +38825,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "11164",
+        "InterviewEndDate": "2024-07-06 17:32:58",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
         "InterviewId": "11165",
         "InterviewEndDate": "2024-07-06 16:34:39",
         "InterviewState": "Complete",
@@ -38847,6 +38855,30 @@ let interview_data_arr_raw = `[
         "Flight": "X3 - TUIFly",
         "Dest": "TFS",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "11168",
+        "InterviewEndDate": "2024-07-06 17:13:14",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11169",
+        "InterviewEndDate": "2024-07-06 17:21:29",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "11170",
+        "InterviewEndDate": "2024-07-06 17:50:50",
+        "InterviewState": "Complete",
+        "Flight": "EY - ETIHAD Airways",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
     }
 ]    
 
