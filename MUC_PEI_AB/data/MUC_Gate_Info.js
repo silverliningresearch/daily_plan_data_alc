@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G70",
-        "download_time": "06-07-2024 22:24:48"
+        "download_time": "06-07-2024 23:29:45"
     },
     {
         "aodbUniqueId": "20240706761883",
@@ -139,6 +139,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G65"
+    },
+    {
+        "aodbUniqueId": "20240706762654",
+        "Date": "06-07-2024",
+        "Flight": "EN 8074",
+        "Dest": "GVA",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G23"
+    },
+    {
+        "aodbUniqueId": "20240706761924",
+        "Date": "06-07-2024",
+        "Flight": "WY 124",
+        "Dest": "MCT",
+        "AirlineCode": "WY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C04"
     },
     {
         "aodbUniqueId": "20240706762505",
@@ -1621,16 +1641,6 @@ let MUC_Gate_Info = `[
         "Gate": "L06"
     },
     {
-        "aodbUniqueId": "20240706761924",
-        "Date": "06-07-2024",
-        "Flight": "WY 124",
-        "Dest": "MCT",
-        "AirlineCode": "WY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C04"
-    },
-    {
         "aodbUniqueId": "20240706761925",
         "Date": "06-07-2024",
         "Flight": "LH 1914",
@@ -2149,16 +2159,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G27"
-    },
-    {
-        "aodbUniqueId": "20240706762310",
-        "Date": "06-07-2024",
-        "Flight": "LH 2222",
-        "Dest": "TLS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K01"
     },
     {
         "aodbUniqueId": "20240706762518",
@@ -2691,16 +2691,6 @@ let MUC_Gate_Info = `[
         "Gate": "G37"
     },
     {
-        "aodbUniqueId": "20240706762654",
-        "Date": "06-07-2024",
-        "Flight": "EN 8074",
-        "Dest": "GVA",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G23"
-    },
-    {
         "aodbUniqueId": "20240706762570",
         "Date": "06-07-2024",
         "Flight": "AY 1406",
@@ -2729,16 +2719,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G63"
-    },
-    {
-        "aodbUniqueId": "20240706762489",
-        "Date": "06-07-2024",
-        "Flight": "LH 1666",
-        "Dest": "SBZ",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G31"
     },
     {
         "aodbUniqueId": "20240706762490",
@@ -3381,6 +3361,26 @@ let MUC_Gate_Info = `[
         "Gate": "G69"
     },
     {
+        "aodbUniqueId": "20240706762489",
+        "Date": "06-07-2024",
+        "Flight": "LH 1666",
+        "Dest": "SBZ",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G31"
+    },
+    {
+        "aodbUniqueId": "20240706762310",
+        "Date": "06-07-2024",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K01"
+    },
+    {
         "aodbUniqueId": "20240706761974",
         "Date": "06-07-2024",
         "Flight": "LH 1716",
@@ -3479,6 +3479,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G39"
+    },
+    {
+        "aodbUniqueId": "20240706762722",
+        "Date": "06-07-2024",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L21"
     },
     {
         "aodbUniqueId": "20240706761912",
@@ -4019,16 +4029,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G37"
-    },
-    {
-        "aodbUniqueId": "20240706762722",
-        "Date": "06-07-2024",
-        "Flight": "LH 772",
-        "Dest": "BKK",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L21"
     },
     {
         "aodbUniqueId": "20240706762723",
