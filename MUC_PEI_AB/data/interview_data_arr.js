@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "08-07-2024 17:45:39"
+        "download_time": "08-07-2024 18:50:42"
     },
     {
         "InterviewId": "5167",
@@ -38951,6 +38951,62 @@ let interview_data_arr_raw = `[
         "Flight": "EN - AirDolomiti",
         "Dest": "KRK",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "11181",
+        "InterviewEndDate": "2024-07-08 16:05:07",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11182",
+        "InterviewEndDate": "2024-07-08 16:12:17",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "11183",
+        "InterviewEndDate": "2024-07-08 16:16:21",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "11184",
+        "InterviewEndDate": "2024-07-08 16:30:04",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansam",
+        "Dest": "BCN",
+        "AirlineCode": "Lufthansam"
+    },
+    {
+        "InterviewId": "11185",
+        "InterviewEndDate": "2024-07-08 16:29:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11187",
+        "InterviewEndDate": "2024-07-08 16:36:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11189",
+        "InterviewEndDate": "2024-07-08 16:50:13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
