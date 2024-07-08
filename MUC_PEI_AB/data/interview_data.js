@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-07-2024 14:29:40"
+        "download_time": "08-07-2024 15:34:43"
     },
     {
         "InterviewId": "15819",
@@ -121566,6 +121566,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2486",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33960",
+        "InterviewEndDate": "2024-07-08 12:57:26",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33961",
+        "InterviewEndDate": "2024-07-08 12:56:50",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33963",
+        "InterviewEndDate": "2024-07-08 12:59:50",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33964",
+        "InterviewEndDate": "2024-07-08 13:01:43",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33965",
+        "InterviewEndDate": "2024-07-08 13:01:31",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33966",
+        "InterviewEndDate": "2024-07-08 13:05:16",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "33968",
+        "InterviewEndDate": "2024-07-08 13:18:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33969",
+        "InterviewEndDate": "2024-07-08 13:22:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33970",
+        "InterviewEndDate": "2024-07-08 13:15:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33971",
+        "InterviewEndDate": "2024-07-08 13:28:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33972",
+        "InterviewEndDate": "2024-07-08 13:19:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33973",
+        "InterviewEndDate": "2024-07-08 13:23:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
