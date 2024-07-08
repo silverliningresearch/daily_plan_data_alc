@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "08-07-2024 15:37:17"
+        "download_time": "08-07-2024 16:42:12"
     },
     {
         "InterviewId": "3965",
@@ -36223,6 +36223,62 @@ let interview_data_raw = `[
         "Flight": "FR 2855",
         "Dest": "ZTH",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8726",
+        "InterviewEndDate": "2024-07-08 13:37:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8727",
+        "InterviewEndDate": "2024-07-08 13:40:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8728",
+        "InterviewEndDate": "2024-07-08 13:46:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8729",
+        "InterviewEndDate": "2024-07-08 13:50:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2217",
+        "Dest": "BHX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8730",
+        "InterviewEndDate": "2024-07-08 13:50:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2217",
+        "Dest": "BHX",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8731",
+        "InterviewEndDate": "2024-07-08 13:50:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "8732",
+        "InterviewEndDate": "2024-07-08 14:39:51",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 

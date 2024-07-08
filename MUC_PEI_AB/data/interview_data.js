@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-07-2024 15:34:43"
+        "download_time": "08-07-2024 16:39:40"
     },
     {
         "InterviewId": "15819",
@@ -121662,6 +121662,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1946",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33974",
+        "InterviewEndDate": "2024-07-08 13:43:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2064",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33975",
+        "InterviewEndDate": "2024-07-08 13:50:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2064",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33976",
+        "InterviewEndDate": "2024-07-08 13:40:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2064",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33977",
+        "InterviewEndDate": "2024-07-08 13:42:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2064",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33978",
+        "InterviewEndDate": "2024-07-08 13:44:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2064",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33979",
+        "InterviewEndDate": "2024-07-08 14:09:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33980",
+        "InterviewEndDate": "2024-07-08 14:08:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33981",
+        "InterviewEndDate": "2024-07-08 14:08:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33982",
+        "InterviewEndDate": "2024-07-08 14:17:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "33983",
+        "InterviewEndDate": "2024-07-08 14:09:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
         "AirlineCode": "LH"
     }
 ]    
