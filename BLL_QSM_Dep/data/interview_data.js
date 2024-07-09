@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-07-2024 14:20:47"
+        "download_time": "09-07-2024 15:25:47"
     },
     {
         "InterviewId": "6093",
@@ -67873,6 +67873,14 @@ let interview_data_raw = `[
         "AirlineCode": "RC471"
     },
     {
+        "InterviewId": "18616",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
         "InterviewId": "18617",
         "InterviewEndDate": "2024-07-09",
         "InterviewState": "Complete",
@@ -67913,12 +67921,100 @@ let interview_data_raw = `[
         "AirlineCode": "VY1881"
     },
     {
+        "InterviewId": "18622",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
         "InterviewId": "18623",
         "InterviewEndDate": "2024-07-09",
         "InterviewState": "Complete",
         "Flight": "VY1881",
         "Dest": "BCN",
         "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18624",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18625",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18626",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18627",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18628",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18629",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18630",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18631",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18632",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "18633",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
     }
 ]    
 
