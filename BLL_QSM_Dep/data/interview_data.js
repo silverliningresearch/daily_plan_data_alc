@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-07-2024 17:35:57"
+        "download_time": "09-07-2024 18:40:42"
     },
     {
         "InterviewId": "6093",
@@ -68087,6 +68087,150 @@ let interview_data_raw = `[
         "Flight": "FR987",
         "Dest": "TPS",
         "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "18646",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18647",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18648",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18649",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18650",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18651",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18652",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18653",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18654",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "BGH4024",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH4024"
+    },
+    {
+        "InterviewId": "18655",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18656",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18657",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18658",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18659",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18660",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18661",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18662",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "18663",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "KL1298",
+        "Dest": "AMS",
+        "AirlineCode": "KL1298"
     }
 ]    
 
