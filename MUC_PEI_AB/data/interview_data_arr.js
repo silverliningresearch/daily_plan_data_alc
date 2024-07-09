@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "09-07-2024 07:51:31"
+        "download_time": "09-07-2024 08:55:38"
     },
     {
         "InterviewId": "5167",
