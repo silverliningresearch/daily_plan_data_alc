@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-07-2024 13:15:45"
+        "download_time": "09-07-2024 14:20:47"
     },
     {
         "InterviewId": "6093",
@@ -67871,6 +67871,54 @@ let interview_data_raw = `[
         "Flight": "RC471",
         "Dest": "FAE",
         "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "18617",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18618",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18619",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18620",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18621",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
+    },
+    {
+        "InterviewId": "18623",
+        "InterviewEndDate": "2024-07-09",
+        "InterviewState": "Complete",
+        "Flight": "VY1881",
+        "Dest": "BCN",
+        "AirlineCode": "VY1881"
     }
 ]    
 
