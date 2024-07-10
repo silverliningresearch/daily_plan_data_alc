@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "10-07-2024 09:51:38"
+        "download_time": "10-07-2024 10:55:52"
     },
     {
         "InterviewId": "6093",
@@ -68455,6 +68455,158 @@ let interview_data_raw = `[
         "Flight": "XQ575",
         "Dest": "AYT",
         "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "18695",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18696",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18697",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18698",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18701",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18702",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18703",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18704",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18705",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18706",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18707",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18708",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18709",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18710",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18711",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18712",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18713",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18714",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "18715",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
     }
 ]    
 
