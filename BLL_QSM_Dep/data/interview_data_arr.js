@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "10-07-2024 10:55:54"
+        "download_time": "10-07-2024 12:00:55"
     },
     {
         "InterviewId": "2077",
@@ -21567,6 +21567,78 @@ let interview_data_arr_raw = `[
         "Flight": "Luftansa",
         "Dest": "FRA",
         "AirlineCode": "Luftansa"
+    },
+    {
+        "InterviewId": "7065",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7066",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7067",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7068",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7069",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7070",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7071",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7072",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7073",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
     }
 ]    
 
