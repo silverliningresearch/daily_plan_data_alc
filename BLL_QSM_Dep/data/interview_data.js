@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "10-07-2024 07:40:43"
+        "download_time": "10-07-2024 08:45:47"
     },
     {
         "InterviewId": "6093",
@@ -68303,6 +68303,78 @@ let interview_data_raw = `[
         "Flight": "FR3687",
         "Dest": "GDN",
         "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "18675",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18676",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18677",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18678",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18680",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18681",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18682",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18683",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
+    },
+    {
+        "InterviewId": "18684",
+        "InterviewEndDate": "2024-07-10",
+        "InterviewState": "Complete",
+        "Flight": "FR7997",
+        "Dest": "PSA",
+        "AirlineCode": "FR7997"
     }
 ]    
 
