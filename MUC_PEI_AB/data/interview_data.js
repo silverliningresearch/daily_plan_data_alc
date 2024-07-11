@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-07-2024 18:19:44"
+        "download_time": "11-07-2024 19:24:46"
     },
     {
         "InterviewId": "15819",
@@ -122846,6 +122846,142 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2308",
         "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34177",
+        "InterviewEndDate": "2024-07-11 16:27:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34178",
+        "InterviewEndDate": "2024-07-11 16:32:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34179",
+        "InterviewEndDate": "2024-07-11 16:31:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34180",
+        "InterviewEndDate": "2024-07-11 16:25:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34181",
+        "InterviewEndDate": "2024-07-11 16:29:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34183",
+        "InterviewEndDate": "2024-07-11 16:40:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34184",
+        "InterviewEndDate": "2024-07-11 16:42:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34185",
+        "InterviewEndDate": "2024-07-11 16:37:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34186",
+        "InterviewEndDate": "2024-07-11 16:44:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34187",
+        "InterviewEndDate": "2024-07-11 16:46:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34188",
+        "InterviewEndDate": "2024-07-11 17:14:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34189",
+        "InterviewEndDate": "2024-07-11 17:17:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34190",
+        "InterviewEndDate": "2024-07-11 17:10:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34191",
+        "InterviewEndDate": "2024-07-11 17:10:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34192",
+        "InterviewEndDate": "2024-07-11 17:06:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34193",
+        "InterviewEndDate": "2024-07-11 17:22:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34195",
+        "InterviewEndDate": "2024-07-11 17:21:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
         "AirlineCode": "LH"
     }
 ]    
