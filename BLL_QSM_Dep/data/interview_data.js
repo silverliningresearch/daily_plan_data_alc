@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-07-2024 07:30:43"
+        "download_time": "11-07-2024 08:35:56"
     },
     {
         "InterviewId": "6093",
@@ -68679,6 +68679,86 @@ let interview_data_raw = `[
         "Flight": "FR2809",
         "Dest": "POZ",
         "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "18726",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18727",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18728",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18729",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18730",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18731",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18732",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18734",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "18738",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "18740",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
     }
 ]    
 
