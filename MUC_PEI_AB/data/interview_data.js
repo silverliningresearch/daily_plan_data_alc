@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-07-2024 06:24:40"
+        "download_time": "11-07-2024 07:29:42"
     },
     {
         "InterviewId": "15819",
@@ -122111,6 +122111,78 @@ let interview_data_raw = `[
         "Flight": "LH 2068",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34074",
+        "InterviewEndDate": "2024-07-11 04:56:40",
+        "InterviewState": "Complete",
+        "Flight": "IB8827",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "34075",
+        "InterviewEndDate": "2024-07-11 04:55:25",
+        "InterviewState": "Complete",
+        "Flight": "IB8827",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "34076",
+        "InterviewEndDate": "2024-07-11 04:51:13",
+        "InterviewState": "Complete",
+        "Flight": "IB8827",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "34077",
+        "InterviewEndDate": "2024-07-11 04:49:44",
+        "InterviewState": "Complete",
+        "Flight": "IB8827",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "34078",
+        "InterviewEndDate": "2024-07-11 05:02:08",
+        "InterviewState": "Complete",
+        "Flight": "IB8827",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "34080",
+        "InterviewEndDate": "2024-07-11 05:28:45",
+        "InterviewState": "Complete",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "34081",
+        "InterviewEndDate": "2024-07-11 05:28:44",
+        "InterviewState": "Complete",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "34082",
+        "InterviewEndDate": "2024-07-11 05:19:30",
+        "InterviewState": "Complete",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "34083",
+        "InterviewEndDate": "2024-07-11 05:22:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
     }
 ]    
 
