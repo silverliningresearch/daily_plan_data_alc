@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-07-2024 19:24:46"
+        "download_time": "11-07-2024 20:29:42"
     },
     {
         "InterviewId": "15819",
@@ -122977,11 +122977,131 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "34194",
+        "InterviewEndDate": "2024-07-11 18:02:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "34195",
         "InterviewEndDate": "2024-07-11 17:21:04",
         "InterviewState": "Complete",
         "Flight": "LH 1660",
         "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34196",
+        "InterviewEndDate": "2024-07-11 18:15:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34197",
+        "InterviewEndDate": "2024-07-11 17:56:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34198",
+        "InterviewEndDate": "2024-07-11 17:57:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34199",
+        "InterviewEndDate": "2024-07-11 17:52:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34200",
+        "InterviewEndDate": "2024-07-11 17:52:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34201",
+        "InterviewEndDate": "2024-07-11 17:50:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34203",
+        "InterviewEndDate": "2024-07-11 18:00:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34204",
+        "InterviewEndDate": "2024-07-11 18:00:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34205",
+        "InterviewEndDate": "2024-07-11 18:05:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2432",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34206",
+        "InterviewEndDate": "2024-07-11 18:15:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34207",
+        "InterviewEndDate": "2024-07-11 18:26:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34209",
+        "InterviewEndDate": "2024-07-11 18:24:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34210",
+        "InterviewEndDate": "2024-07-11 18:20:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34211",
+        "InterviewEndDate": "2024-07-11 18:25:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
         "AirlineCode": "LH"
     }
 ]    
