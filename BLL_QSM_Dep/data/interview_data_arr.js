@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "11-07-2024 12:55:49"
+        "download_time": "11-07-2024 14:00:55"
     },
     {
         "InterviewId": "2077",
@@ -21713,6 +21713,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "7087",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "7088",
         "InterviewEndDate": "2024-07-11",
         "InterviewState": "Complete",
@@ -21767,6 +21775,38 @@ let interview_data_arr_raw = `[
         "Flight": "Klm",
         "Dest": "AMS",
         "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "7096",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7097",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7098",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7099",
+        "InterviewEndDate": "2024-07-11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
     }
 ]    
 
