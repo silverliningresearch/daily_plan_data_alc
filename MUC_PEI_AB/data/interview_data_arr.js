@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "11-07-2024 10:45:38"
+        "download_time": "11-07-2024 11:51:14"
     },
     {
         "InterviewId": "5167",
@@ -39231,6 +39231,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MAD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11223",
+        "InterviewEndDate": "2024-07-11 09:31:02",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11224",
+        "InterviewEndDate": "2024-07-11 09:28:14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11225",
+        "InterviewEndDate": "2024-07-11 09:29:47",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11226",
+        "InterviewEndDate": "2024-07-11 09:38:10",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "11230",
+        "InterviewEndDate": "2024-07-11 09:42:59",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
