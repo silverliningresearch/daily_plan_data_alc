@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "11-07-2024 17:17:17"
+        "download_time": "11-07-2024 18:22:26"
     },
     {
         "InterviewId": "3965",
@@ -36398,6 +36398,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2383",
         "Dest": "PMI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8748",
+        "InterviewEndDate": "2024-07-11 15:24:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8749",
+        "InterviewEndDate": "2024-07-11 15:24:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8750",
+        "InterviewEndDate": "2024-07-11 15:28:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8751",
+        "InterviewEndDate": "2024-07-11 15:30:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8752",
+        "InterviewEndDate": "2024-07-11 16:03:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8753",
+        "InterviewEndDate": "2024-07-11 16:09:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8754",
+        "InterviewEndDate": "2024-07-11 16:06:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8755",
+        "InterviewEndDate": "2024-07-11 16:06:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8756",
+        "InterviewEndDate": "2024-07-11 16:20:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2251",
+        "Dest": "CPH",
         "AirlineCode": "W6"
     }
 ]    
