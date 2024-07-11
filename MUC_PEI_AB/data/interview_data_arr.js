@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "11-07-2024 11:51:14"
+        "download_time": "11-07-2024 12:55:39"
     },
     {
         "InterviewId": "5167",
@@ -39265,12 +39265,76 @@ let interview_data_arr_raw = `[
         "AirlineCode": "DY"
     },
     {
+        "InterviewId": "11227",
+        "InterviewEndDate": "2024-07-11 10:37:17",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "11229",
+        "InterviewEndDate": "2024-07-11 09:58:46",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
         "InterviewId": "11230",
         "InterviewEndDate": "2024-07-11 09:42:59",
         "InterviewState": "Complete",
         "Flight": "IB - Iberia",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "11231",
+        "InterviewEndDate": "2024-07-11 09:50:14",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "11233",
+        "InterviewEndDate": "2024-07-11 10:26:20",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "11234",
+        "InterviewEndDate": "2024-07-11 10:37:34",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "PMI",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "11235",
+        "InterviewEndDate": "2024-07-11 10:07:59",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "11236",
+        "InterviewEndDate": "2024-07-11 10:27:45",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "ATH",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "11239",
+        "InterviewEndDate": "2024-07-11 10:32:35",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "EMPTY",
+        "AirlineCode": "X3"
     }
 ]    
 
