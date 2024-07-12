@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "12-07-2024 20:22:16"
+        "download_time": "12-07-2024 21:27:17"
     },
     {
         "InterviewId": "3965",
@@ -36703,6 +36703,54 @@ let interview_data_raw = `[
         "Flight": "W6 2445",
         "Dest": "CFU",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8786",
+        "InterviewEndDate": "2024-07-12 18:21:39",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8787",
+        "InterviewEndDate": "2024-07-12 18:24:40",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8788",
+        "InterviewEndDate": "2024-07-12 18:33:22",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8789",
+        "InterviewEndDate": "2024-07-12 18:38:33",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8790",
+        "InterviewEndDate": "2024-07-12 19:23:17",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "8791",
+        "InterviewEndDate": "2024-07-12 19:24:23",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
     }
 ]    
 
