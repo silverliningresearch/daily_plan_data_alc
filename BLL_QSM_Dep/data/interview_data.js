@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "12-07-2024 16:00:57"
+        "download_time": "12-07-2024 17:06:02"
     },
     {
         "InterviewId": "6093",
@@ -69183,6 +69183,62 @@ let interview_data_raw = `[
         "Flight": "FR5173",
         "Dest": "STN",
         "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "18827",
+        "InterviewEndDate": "2024-07-12",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "18828",
+        "InterviewEndDate": "2024-07-12",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "18829",
+        "InterviewEndDate": "2024-07-12",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "18830",
+        "InterviewEndDate": "2024-07-12",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "18832",
+        "InterviewEndDate": "2024-07-12",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "18833",
+        "InterviewEndDate": "2024-07-12",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "18834",
+        "InterviewEndDate": "2024-07-12",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
     }
 ]    
 

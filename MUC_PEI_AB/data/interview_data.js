@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "12-07-2024 15:59:44"
+        "download_time": "12-07-2024 17:04:46"
     },
     {
         "InterviewId": "15819",
@@ -123366,6 +123366,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1704",
         "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34256",
+        "InterviewEndDate": "2024-07-12 14:10:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34257",
+        "InterviewEndDate": "2024-07-12 14:07:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34261",
+        "InterviewEndDate": "2024-07-12 14:33:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34262",
+        "InterviewEndDate": "2024-07-12 14:10:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34263",
+        "InterviewEndDate": "2024-07-12 14:15:25",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34264",
+        "InterviewEndDate": "2024-07-12 14:10:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1704",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34265",
+        "InterviewEndDate": "2024-07-12 14:14:19",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34266",
+        "InterviewEndDate": "2024-07-12 14:11:29",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34267",
+        "InterviewEndDate": "2024-07-12 14:15:56",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34268",
+        "InterviewEndDate": "2024-07-12 14:19:58",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34269",
+        "InterviewEndDate": "2024-07-12 14:46:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34270",
+        "InterviewEndDate": "2024-07-12 14:38:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34272",
+        "InterviewEndDate": "2024-07-12 14:32:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
         "AirlineCode": "LH"
     }
 ]    
