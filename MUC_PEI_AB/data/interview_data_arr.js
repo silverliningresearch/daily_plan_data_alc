@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "12-07-2024 19:15:44"
+        "download_time": "12-07-2024 20:20:51"
     },
     {
         "InterviewId": "5167",
@@ -39457,6 +39457,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "11255",
+        "InterviewEndDate": "2024-07-12 17:26:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "11256",
         "InterviewEndDate": "2024-07-12 16:53:17",
         "InterviewState": "Complete",
@@ -39481,6 +39489,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "11259",
+        "InterviewEndDate": "2024-07-12 17:06:34",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "11260",
         "InterviewEndDate": "2024-07-12 17:00:09",
         "InterviewState": "Complete",
@@ -39494,6 +39510,86 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11264",
+        "InterviewEndDate": "2024-07-12 17:14:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11265",
+        "InterviewEndDate": "2024-07-12 17:31:21",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "11266",
+        "InterviewEndDate": "2024-07-12 17:23:08",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "11267",
+        "InterviewEndDate": "2024-07-12 17:41:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11269",
+        "InterviewEndDate": "2024-07-12 17:30:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11270",
+        "InterviewEndDate": "2024-07-12 17:41:33",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "11272",
+        "InterviewEndDate": "2024-07-12 17:44:54",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11273",
+        "InterviewEndDate": "2024-07-12 17:53:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11274",
+        "InterviewEndDate": "2024-07-12 17:51:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11275",
+        "InterviewEndDate": "2024-07-12 18:05:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MAD",
         "AirlineCode": "LH"
     }
 ]    
