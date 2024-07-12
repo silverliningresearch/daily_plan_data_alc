@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "12-07-2024 17:04:46"
+        "download_time": "12-07-2024 18:10:41"
     },
     {
         "InterviewId": "15819",
@@ -123470,6 +123470,118 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2022",
         "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34274",
+        "InterviewEndDate": "2024-07-12 15:15:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34275",
+        "InterviewEndDate": "2024-07-12 15:15:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34276",
+        "InterviewEndDate": "2024-07-12 15:15:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34281",
+        "InterviewEndDate": "2024-07-12 15:12:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34282",
+        "InterviewEndDate": "2024-07-12 15:05:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34283",
+        "InterviewEndDate": "2024-07-12 15:09:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34284",
+        "InterviewEndDate": "2024-07-12 15:04:44",
+        "InterviewState": "Complete",
+        "Flight": "Lh 458",
+        "Dest": "SFO",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "34285",
+        "InterviewEndDate": "2024-07-12 15:06:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34286",
+        "InterviewEndDate": "2024-07-12 15:08:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34287",
+        "InterviewEndDate": "2024-07-12 15:20:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34288",
+        "InterviewEndDate": "2024-07-12 15:44:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34289",
+        "InterviewEndDate": "2024-07-12 15:35:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34294",
+        "InterviewEndDate": "2024-07-12 15:58:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2290",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34295",
+        "InterviewEndDate": "2024-07-12 15:50:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2290",
+        "Dest": "BRU",
         "AirlineCode": "LH"
     }
 ]    

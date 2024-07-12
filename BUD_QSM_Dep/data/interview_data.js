@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "12-07-2024 17:07:20"
+        "download_time": "12-07-2024 18:13:01"
     },
     {
         "InterviewId": "3965",
@@ -36585,11 +36585,67 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "8772",
-        "InterviewEndDate": "2024-07-12 15:05:50",
+        "InterviewId": "8771",
+        "InterviewEndDate": "2024-07-12 15:12:11",
         "InterviewState": "Complete",
         "Flight": "W6 2335",
         "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8772",
+        "InterviewEndDate": "2024-07-12 15:06:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8773",
+        "InterviewEndDate": "2024-07-12 15:11:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8774",
+        "InterviewEndDate": "2024-07-12 15:09:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8775",
+        "InterviewEndDate": "2024-07-12 15:44:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8776",
+        "InterviewEndDate": "2024-07-12 15:48:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8777",
+        "InterviewEndDate": "2024-07-12 15:40:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "8778",
+        "InterviewEndDate": "2024-07-12 15:49:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
         "AirlineCode": "W6"
     }
 ]    
