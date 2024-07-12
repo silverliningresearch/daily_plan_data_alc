@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "12-07-2024 18:11:37"
+        "download_time": "12-07-2024 19:15:44"
     },
     {
         "InterviewId": "5167",
@@ -39438,6 +39438,62 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11253",
+        "InterviewEndDate": "2024-07-12 16:25:47",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "11254",
+        "InterviewEndDate": "2024-07-12 16:49:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11256",
+        "InterviewEndDate": "2024-07-12 16:53:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11257",
+        "InterviewEndDate": "2024-07-12 16:53:57",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11258",
+        "InterviewEndDate": "2024-07-12 16:54:00",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11260",
+        "InterviewEndDate": "2024-07-12 17:00:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11262",
+        "InterviewEndDate": "2024-07-12 17:02:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OSL",
         "AirlineCode": "LH"
     }
 ]    
