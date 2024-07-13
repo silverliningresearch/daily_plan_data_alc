@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-07-2024 10:24:43"
+        "download_time": "13-07-2024 11:29:44"
     },
     {
         "InterviewId": "15819",
@@ -123671,6 +123671,62 @@ let interview_data_raw = `[
         "Flight": "LH 2078",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34317",
+        "InterviewEndDate": "2024-07-13 08:30:59",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34319",
+        "InterviewEndDate": "2024-07-13 08:45:14",
+        "InterviewState": "Complete",
+        "Flight": "XQ  997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34322",
+        "InterviewEndDate": "2024-07-13 08:54:05",
+        "InterviewState": "Complete",
+        "Flight": "XQ  997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34323",
+        "InterviewEndDate": "2024-07-13 08:59:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ  997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34324",
+        "InterviewEndDate": "2024-07-13 09:15:16",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34325",
+        "InterviewEndDate": "2024-07-13 09:23:16",
+        "InterviewState": "Complete",
+        "Flight": "Dl 239",
+        "Dest": "JFK",
+        "AirlineCode": "Dl"
+    },
+    {
+        "InterviewId": "34326",
+        "InterviewEndDate": "2024-07-13 09:27:55",
+        "InterviewState": "Complete",
+        "Flight": "Dl239",
+        "Dest": "JFK",
+        "AirlineCode": "Dl"
     }
 ]    
 
