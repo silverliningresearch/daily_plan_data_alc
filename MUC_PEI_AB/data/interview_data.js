@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-07-2024 17:59:44"
+        "download_time": "13-07-2024 19:04:47"
     },
     {
         "InterviewId": "15819",
@@ -123993,6 +123993,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "34366",
+        "InterviewEndDate": "2024-07-13 16:02:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "34367",
         "InterviewEndDate": "2024-07-13 15:53:28",
         "InterviewState": "Complete",
@@ -124015,6 +124023,62 @@ let interview_data_raw = `[
         "Flight": "LH 2480",
         "Dest": "LHR",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34370",
+        "InterviewEndDate": "2024-07-13 16:44:51",
+        "InterviewState": "Complete",
+        "Flight": "XQ  133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34371",
+        "InterviewEndDate": "2024-07-13 16:43:48",
+        "InterviewState": "Complete",
+        "Flight": "XQ  133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34372",
+        "InterviewEndDate": "2024-07-13 16:44:05",
+        "InterviewState": "Complete",
+        "Flight": "XQ  133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34373",
+        "InterviewEndDate": "2024-07-13 16:45:41",
+        "InterviewState": "Complete",
+        "Flight": "XQ  133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34374",
+        "InterviewEndDate": "2024-07-13 16:56:21",
+        "InterviewState": "Complete",
+        "Flight": "XQ  133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34375",
+        "InterviewEndDate": "2024-07-13 16:54:54",
+        "InterviewState": "Complete",
+        "Flight": "XQ  133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34376",
+        "InterviewEndDate": "2024-07-13 17:00:24",
+        "InterviewState": "Complete",
+        "Flight": "XQ  133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
