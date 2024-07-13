@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-07-2024 11:29:44"
+        "download_time": "13-07-2024 12:34:46"
     },
     {
         "InterviewId": "15819",
@@ -123727,6 +123727,62 @@ let interview_data_raw = `[
         "Flight": "Dl239",
         "Dest": "JFK",
         "AirlineCode": "Dl"
+    },
+    {
+        "InterviewId": "34327",
+        "InterviewEndDate": "2024-07-13 09:31:56",
+        "InterviewState": "Complete",
+        "Flight": "Dl239",
+        "Dest": "JFK",
+        "AirlineCode": "Dl"
+    },
+    {
+        "InterviewId": "34328",
+        "InterviewEndDate": "2024-07-13 09:55:55",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "34329",
+        "InterviewEndDate": "2024-07-13 10:00:41",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "34330",
+        "InterviewEndDate": "2024-07-13 10:04:08",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "34331",
+        "InterviewEndDate": "2024-07-13 10:18:42",
+        "InterviewState": "Complete",
+        "Flight": "VF 0 42",
+        "Dest": "SAW",
+        "AirlineCode": "VF"
+    },
+    {
+        "InterviewId": "34333",
+        "InterviewEndDate": "2024-07-13 10:32:39",
+        "InterviewState": "Complete",
+        "Flight": "Vf 042",
+        "Dest": "SAW",
+        "AirlineCode": "Vf"
+    },
+    {
+        "InterviewId": "34334",
+        "InterviewEndDate": "2024-07-13 10:31:25",
+        "InterviewState": "Complete",
+        "Flight": "Vf042",
+        "Dest": "SAW",
+        "AirlineCode": "Vf"
     }
 ]    
 
