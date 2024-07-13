@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-07-2024 19:04:47"
+        "download_time": "13-07-2024 20:10:55"
     },
     {
         "InterviewId": "15819",
@@ -124079,6 +124079,86 @@ let interview_data_raw = `[
         "Flight": "XQ  133",
         "Dest": "AYT",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34378",
+        "InterviewEndDate": "2024-07-13 17:30:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34379",
+        "InterviewEndDate": "2024-07-13 17:10:54",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34381",
+        "InterviewEndDate": "2024-07-13 17:14:04",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34382",
+        "InterviewEndDate": "2024-07-13 17:21:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34383",
+        "InterviewEndDate": "2024-07-13 17:32:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34384",
+        "InterviewEndDate": "2024-07-13 17:10:30",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34386",
+        "InterviewEndDate": "2024-07-13 17:17:48",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34387",
+        "InterviewEndDate": "2024-07-13 17:37:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34388",
+        "InterviewEndDate": "2024-07-13 17:41:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34393",
+        "InterviewEndDate": "2024-07-13 18:05:58",
+        "InterviewState": "Complete",
+        "Flight": "EY 128",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
     }
 ]    
 
