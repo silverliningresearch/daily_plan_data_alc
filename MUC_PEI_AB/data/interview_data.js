@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-07-2024 18:54:45"
+        "download_time": "14-07-2024 19:59:47"
     },
     {
         "InterviewId": "15819",
@@ -124777,6 +124777,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "34496",
+        "InterviewEndDate": "2024-07-14 16:58:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "34497",
         "InterviewEndDate": "2024-07-14 16:44:11",
         "InterviewState": "Complete",
@@ -124798,6 +124806,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2150",
         "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34502",
+        "InterviewEndDate": "2024-07-14 17:27:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2266",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34504",
+        "InterviewEndDate": "2024-07-14 17:26:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2266",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34505",
+        "InterviewEndDate": "2024-07-14 17:36:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2266",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34506",
+        "InterviewEndDate": "2024-07-14 17:26:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2266",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34507",
+        "InterviewEndDate": "2024-07-14 17:13:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2266",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34508",
+        "InterviewEndDate": "2024-07-14 17:21:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2266",
+        "Dest": "MRS",
         "AirlineCode": "LH"
     }
 ]    
