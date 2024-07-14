@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-07-2024 16:44:45"
+        "download_time": "14-07-2024 17:49:52"
     },
     {
         "InterviewId": "15819",
@@ -124622,6 +124622,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2430",
         "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34469",
+        "InterviewEndDate": "2024-07-14 15:03:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34471",
+        "InterviewEndDate": "2024-07-14 15:08:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34472",
+        "InterviewEndDate": "2024-07-14 14:59:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34473",
+        "InterviewEndDate": "2024-07-14 15:01:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34475",
+        "InterviewEndDate": "2024-07-14 15:26:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34476",
+        "InterviewEndDate": "2024-07-14 15:28:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34480",
+        "InterviewEndDate": "2024-07-14 15:22:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34482",
+        "InterviewEndDate": "2024-07-14 15:37:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1952",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
