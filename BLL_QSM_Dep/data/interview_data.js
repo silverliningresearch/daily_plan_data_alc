@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-07-2024 17:40:54"
+        "download_time": "15-07-2024 18:45:51"
     },
     {
         "InterviewId": "6093",
@@ -69399,6 +69399,78 @@ let interview_data_raw = `[
         "Flight": "FR9432",
         "Dest": "TLL",
         "AirlineCode": "FR9432"
+    },
+    {
+        "InterviewId": "18861",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18862",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18863",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18864",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18865",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18866",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18867",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18868",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
+    },
+    {
+        "InterviewId": "18869",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "DK1202",
+        "Dest": "VAR",
+        "AirlineCode": "DK1202"
     }
 ]    
 
