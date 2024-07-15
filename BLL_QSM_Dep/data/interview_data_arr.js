@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "15-07-2024 18:45:54"
+        "download_time": "15-07-2024 19:51:32"
     },
     {
         "InterviewId": "2077",
@@ -21815,6 +21815,70 @@ let interview_data_arr_raw = `[
         "Flight": "BA - British Airways",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "7112",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
+    },
+    {
+        "InterviewId": "7114",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
+    },
+    {
+        "InterviewId": "7115",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
+    },
+    {
+        "InterviewId": "7116",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
+    },
+    {
+        "InterviewId": "7117",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
+    },
+    {
+        "InterviewId": "7118",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
+    },
+    {
+        "InterviewId": "7119",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
+    },
+    {
+        "InterviewId": "7120",
+        "InterviewEndDate": "2024-07-15",
+        "InterviewState": "Complete",
+        "Flight": "BGH - Balkan Holidays Air",
+        "Dest": "BOJ",
+        "AirlineCode": "BGH"
     }
 ]    
 
