@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "16-07-2024 14:16:34"
+        "download_time": "16-07-2024 15:21:09"
     },
     {
         "InterviewId": "2077",
@@ -22135,6 +22135,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7170",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "CA - Airseven",
+        "Dest": "MLA",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7172",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "CA - Airseven",
+        "Dest": "MLA",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7176",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "CA - Airseven",
+        "Dest": "MLA",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7177",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "CA - Airseven",
+        "Dest": "MLA",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7178",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "CA - Airseven",
+        "Dest": "MLA",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7179",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "CA - Airseven",
+        "Dest": "MLA",
+        "AirlineCode": "CA"
     }
 ]    
 
