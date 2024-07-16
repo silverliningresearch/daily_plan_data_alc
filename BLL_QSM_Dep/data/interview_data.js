@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-07-2024 17:30:59"
+        "download_time": "16-07-2024 18:36:06"
     },
     {
         "InterviewId": "6093",
@@ -69535,6 +69535,70 @@ let interview_data_raw = `[
         "Flight": "BA807",
         "Dest": "LHR",
         "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18886",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "18887",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "18888",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "18889",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "18890",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "18891",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "18893",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "18894",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-07-2024 17:29:49"
+        "download_time": "16-07-2024 18:34:50"
     },
     {
         "InterviewId": "15819",
@@ -125295,6 +125295,110 @@ let interview_data_raw = `[
         "Flight": "LH 2322",
         "Dest": "LUX",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34590",
+        "InterviewEndDate": "2024-07-16 15:29:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34591",
+        "InterviewEndDate": "2024-07-16 15:34:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34592",
+        "InterviewEndDate": "2024-07-16 15:56:17",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34593",
+        "InterviewEndDate": "2024-07-16 15:56:57",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34594",
+        "InterviewEndDate": "2024-07-16 16:01:59",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34595",
+        "InterviewEndDate": "2024-07-16 15:59:08",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34596",
+        "InterviewEndDate": "2024-07-16 15:58:44",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34597",
+        "InterviewEndDate": "2024-07-16 16:02:53",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34598",
+        "InterviewEndDate": "2024-07-16 16:08:58",
+        "InterviewState": "Complete",
+        "Flight": "EN 8198",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34599",
+        "InterviewEndDate": "2024-07-16 16:30:30",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "34600",
+        "InterviewEndDate": "2024-07-16 16:31:33",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "34601",
+        "InterviewEndDate": "2024-07-16 16:31:38",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "34602",
+        "InterviewEndDate": "2024-07-16 16:31:03",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
