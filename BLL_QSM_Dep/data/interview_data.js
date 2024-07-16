@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-07-2024 16:25:58"
+        "download_time": "16-07-2024 17:30:59"
     },
     {
         "InterviewId": "6093",
@@ -69473,6 +69473,30 @@ let interview_data_raw = `[
         "AirlineCode": "DK1202"
     },
     {
+        "InterviewId": "18878",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18879",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18880",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
         "InterviewId": "18881",
         "InterviewEndDate": "2024-07-16",
         "InterviewState": "Complete",
@@ -69498,6 +69522,14 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "18884",
+        "InterviewEndDate": "2024-07-16",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "18885",
         "InterviewEndDate": "2024-07-16",
         "InterviewState": "Complete",
         "Flight": "BA807",
