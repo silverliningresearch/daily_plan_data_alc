@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "17-07-2024 17:22:52"
+        "download_time": "17-07-2024 18:27:34"
     },
     {
         "InterviewId": "1224",
@@ -12202,10 +12202,58 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "2771",
-        "InterviewEndDate": "2024-07-17 15:20:20",
+        "InterviewEndDate": "2024-07-17 15:23:03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2772",
+        "InterviewEndDate": "2024-07-17 15:28:48",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TLV",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2773",
+        "InterviewEndDate": "2024-07-17 15:44:53",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2774",
+        "InterviewEndDate": "2024-07-17 15:49:28",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2775",
+        "InterviewEndDate": "2024-07-17 15:52:34",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2776",
+        "InterviewEndDate": "2024-07-17 15:55:56",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2777",
+        "InterviewEndDate": "2024-07-17 16:02:58",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TIA",
         "AirlineCode": "FR"
     }
 ]    
