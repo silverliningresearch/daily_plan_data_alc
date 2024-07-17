@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-07-2024 09:46:29"
+        "download_time": "17-07-2024 10:51:09"
     },
     {
         "InterviewId": "6093",
@@ -69783,6 +69783,134 @@ let interview_data_raw = `[
         "Flight": "XQ575",
         "Dest": "AYT",
         "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "18934",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18936",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18938",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18940",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18941",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18942",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18943",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18944",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "D85085",
+        "Dest": "AGP",
+        "AirlineCode": "D85085"
+    },
+    {
+        "InterviewId": "18945",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18946",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18947",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18952",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18953",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18954",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18955",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18956",
+        "InterviewEndDate": "2024-07-17",
+        "InterviewState": "Complete",
+        "Flight": "FR896",
+        "Dest": "TSF",
+        "AirlineCode": "FR896"
     }
 ]    
 

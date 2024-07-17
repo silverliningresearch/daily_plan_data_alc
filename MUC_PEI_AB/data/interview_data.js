@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "17-07-2024 09:44:50"
+        "download_time": "17-07-2024 10:49:51"
     },
     {
         "InterviewId": "15819",
@@ -125415,6 +125415,70 @@ let interview_data_raw = `[
         "Flight": "OS 116",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "34605",
+        "InterviewEndDate": "2024-07-17 07:50:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34606",
+        "InterviewEndDate": "2024-07-17 07:45:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34607",
+        "InterviewEndDate": "2024-07-17 07:45:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34608",
+        "InterviewEndDate": "2024-07-17 07:53:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34610",
+        "InterviewEndDate": "2024-07-17 08:28:03",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "34611",
+        "InterviewEndDate": "2024-07-17 08:24:05",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "34612",
+        "InterviewEndDate": "2024-07-17 08:33:00",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "34614",
+        "InterviewEndDate": "2024-07-17 08:29:32",
+        "InterviewState": "Complete",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
     }
 ]    
 
