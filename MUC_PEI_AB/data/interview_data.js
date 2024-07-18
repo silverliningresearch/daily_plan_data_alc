@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-07-2024 19:19:51"
+        "download_time": "18-07-2024 20:24:52"
     },
     {
         "InterviewId": "15819",
@@ -126033,6 +126033,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "34721",
+        "InterviewEndDate": "2024-07-18 17:20:51",
+        "InterviewState": "Complete",
+        "Flight": "TP 555",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
         "InterviewId": "34722",
         "InterviewEndDate": "2024-07-18 17:17:40",
         "InterviewState": "Complete",
@@ -126055,6 +126063,38 @@ let interview_data_raw = `[
         "Flight": "TP 555",
         "Dest": "LIS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "34726",
+        "InterviewEndDate": "2024-07-18 17:24:17",
+        "InterviewState": "Complete",
+        "Flight": "TP 555",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "34727",
+        "InterviewEndDate": "2024-07-18 17:30:26",
+        "InterviewState": "Complete",
+        "Flight": "TP 555",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "34728",
+        "InterviewEndDate": "2024-07-18 17:50:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1694",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34735",
+        "InterviewEndDate": "2024-07-18 18:13:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
