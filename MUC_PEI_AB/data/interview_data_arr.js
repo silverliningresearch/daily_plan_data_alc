@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "18-07-2024 17:10:52"
+        "download_time": "18-07-2024 18:15:48"
     },
     {
         "InterviewId": "5167",
@@ -39911,6 +39911,86 @@ let interview_data_arr_raw = `[
         "Flight": "4Y",
         "Dest": "CFU",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "11335",
+        "InterviewEndDate": "2024-07-18 15:10:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11336",
+        "InterviewEndDate": "2024-07-18 15:12:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11337",
+        "InterviewEndDate": "2024-07-18 15:16:57",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11338",
+        "InterviewEndDate": "2024-07-18 15:18:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11339",
+        "InterviewEndDate": "2024-07-18 15:20:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11340",
+        "InterviewEndDate": "2024-07-18 15:22:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11341",
+        "InterviewEndDate": "2024-07-18 15:35:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11342",
+        "InterviewEndDate": "2024-07-18 15:38:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11343",
+        "InterviewEndDate": "2024-07-18 15:42:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11344",
+        "InterviewEndDate": "2024-07-18 16:03:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
