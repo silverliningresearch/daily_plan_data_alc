@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-07-2024 08:29:50"
+        "download_time": "18-07-2024 09:34:51"
     },
     {
         "InterviewId": "15819",
@@ -125823,6 +125823,86 @@ let interview_data_raw = `[
         "Flight": "4Y 440",
         "Dest": "IBZ",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "34688",
+        "InterviewEndDate": "2024-07-18 07:00:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34689",
+        "InterviewEndDate": "2024-07-18 06:50:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34691",
+        "InterviewEndDate": "2024-07-18 07:06:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34692",
+        "InterviewEndDate": "2024-07-18 06:58:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34693",
+        "InterviewEndDate": "2024-07-18 07:07:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34694",
+        "InterviewEndDate": "2024-07-18 06:58:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34695",
+        "InterviewEndDate": "2024-07-18 07:06:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34696",
+        "InterviewEndDate": "2024-07-18 06:52:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34697",
+        "InterviewEndDate": "2024-07-18 07:01:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34699",
+        "InterviewEndDate": "2024-07-18 07:16:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
     }
 ]    
 
