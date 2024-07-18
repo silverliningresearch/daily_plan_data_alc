@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "18-07-2024 18:15:48"
+        "download_time": "18-07-2024 19:20:53"
     },
     {
         "InterviewId": "5167",
@@ -39990,6 +39990,86 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11345",
+        "InterviewEndDate": "2024-07-18 16:19:07",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11346",
+        "InterviewEndDate": "2024-07-18 16:18:50",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "11347",
+        "InterviewEndDate": "2024-07-18 16:19:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11348",
+        "InterviewEndDate": "2024-07-18 16:25:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "NUE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11349",
+        "InterviewEndDate": "2024-07-18 16:25:07",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11350",
+        "InterviewEndDate": "2024-07-18 16:27:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11351",
+        "InterviewEndDate": "2024-07-18 16:34:14",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "11352",
+        "InterviewEndDate": "2024-07-18 16:44:05",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "11353",
+        "InterviewEndDate": "2024-07-18 16:45:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11354",
+        "InterviewEndDate": "2024-07-18 16:52:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRU",
         "AirlineCode": "LH"
     }
 ]    
