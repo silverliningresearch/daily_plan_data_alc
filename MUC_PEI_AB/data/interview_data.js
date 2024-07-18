@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-07-2024 09:34:51"
+        "download_time": "18-07-2024 10:39:49"
     },
     {
         "InterviewId": "15819",
@@ -125902,6 +125902,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2228",
         "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34700",
+        "InterviewEndDate": "2024-07-18 07:41:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34701",
+        "InterviewEndDate": "2024-07-18 07:56:07",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34704",
+        "InterviewEndDate": "2024-07-18 08:00:32",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34705",
+        "InterviewEndDate": "2024-07-18 07:57:48",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34706",
+        "InterviewEndDate": "2024-07-18 07:55:01",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34708",
+        "InterviewEndDate": "2024-07-18 08:24:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2096",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34709",
+        "InterviewEndDate": "2024-07-18 08:26:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2096",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34710",
+        "InterviewEndDate": "2024-07-18 08:22:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2096",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34711",
+        "InterviewEndDate": "2024-07-18 08:35:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2096",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34712",
+        "InterviewEndDate": "2024-07-18 08:36:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2096",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34714",
+        "InterviewEndDate": "2024-07-18 08:35:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2096",
+        "Dest": "HAJ",
         "AirlineCode": "LH"
     }
 ]    
