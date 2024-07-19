@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-07-2024 14:49:54"
+        "download_time": "19-07-2024 15:54:51"
     },
     {
         "InterviewId": "15819",
@@ -126215,6 +126215,62 @@ let interview_data_raw = `[
         "Flight": "EN 8256",
         "Dest": "TRN",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34755",
+        "InterviewEndDate": "2024-07-19 13:24:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34756",
+        "InterviewEndDate": "2024-07-19 13:18:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34757",
+        "InterviewEndDate": "2024-07-19 13:10:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34758",
+        "InterviewEndDate": "2024-07-19 13:36:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34759",
+        "InterviewEndDate": "2024-07-19 13:34:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34760",
+        "InterviewEndDate": "2024-07-19 13:36:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34762",
+        "InterviewEndDate": "2024-07-19 13:43:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1946",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
