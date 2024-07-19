@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "19-07-2024 18:06:51"
+        "download_time": "19-07-2024 19:10:47"
     },
     {
         "InterviewId": "5167",
@@ -40071,6 +40071,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BRU",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11361",
+        "InterviewEndDate": "2024-07-19 16:56:46",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "11362",
+        "InterviewEndDate": "2024-07-19 16:55:42",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "11364",
+        "InterviewEndDate": "2024-07-19 16:41:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11366",
+        "InterviewEndDate": "2024-07-19 16:55:09",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "11369",
+        "InterviewEndDate": "2024-07-19 17:07:19",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "11370",
+        "InterviewEndDate": "2024-07-19 17:08:10",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
     }
 ]    
 
