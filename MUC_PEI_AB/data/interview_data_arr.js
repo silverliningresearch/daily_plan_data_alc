@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "19-07-2024 19:10:47"
+        "download_time": "19-07-2024 20:15:56"
     },
     {
         "InterviewId": "5167",
@@ -40105,6 +40105,22 @@ let interview_data_arr_raw = `[
         "AirlineCode": "A3"
     },
     {
+        "InterviewId": "11367",
+        "InterviewEndDate": "2024-07-19 17:34:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11368",
+        "InterviewEndDate": "2024-07-19 17:24:57",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
         "InterviewId": "11369",
         "InterviewEndDate": "2024-07-19 17:07:19",
         "InterviewState": "Complete",
@@ -40119,6 +40135,62 @@ let interview_data_arr_raw = `[
         "Flight": "TU - Tunisair",
         "Dest": "TUN",
         "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "11371",
+        "InterviewEndDate": "2024-07-19 17:11:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11372",
+        "InterviewEndDate": "2024-07-19 17:15:39",
+        "InterviewState": "Complete",
+        "Flight": "TU - Tunisair",
+        "Dest": "TUN",
+        "AirlineCode": "TU"
+    },
+    {
+        "InterviewId": "11373",
+        "InterviewEndDate": "2024-07-19 17:32:20",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "11374",
+        "InterviewEndDate": "2024-07-19 17:46:23",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EMPTY",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "11375",
+        "InterviewEndDate": "2024-07-19 17:38:36",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "11377",
+        "InterviewEndDate": "2024-07-19 17:42:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11378",
+        "InterviewEndDate": "2024-07-19 17:47:40",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EMPTY",
+        "AirlineCode": ""
     }
 ]    
 
