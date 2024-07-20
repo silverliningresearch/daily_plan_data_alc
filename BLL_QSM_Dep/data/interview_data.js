@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-07-2024 08:11:15"
+        "download_time": "20-07-2024 09:15:57"
     },
     {
         "InterviewId": "6093",
@@ -69911,6 +69911,150 @@ let interview_data_raw = `[
         "Flight": "FR896",
         "Dest": "TSF",
         "AirlineCode": "FR896"
+    },
+    {
+        "InterviewId": "18958",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18959",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18960",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18961",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18962",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18963",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18964",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18965",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18966",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "18968",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18969",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18970",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18971",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18972",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18973",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18974",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18975",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18976",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "DY895",
+        "Dest": "ARN",
+        "AirlineCode": "DY895"
     }
 ]    
 
