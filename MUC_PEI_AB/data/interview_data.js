@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-07-2024 09:14:50"
+        "download_time": "20-07-2024 10:19:53"
     },
     {
         "InterviewId": "15819",
@@ -126583,6 +126583,150 @@ let interview_data_raw = `[
         "Flight": "LH 101",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34822",
+        "InterviewEndDate": "2024-07-20 07:19:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1668",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34823",
+        "InterviewEndDate": "2024-07-20 07:18:17",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "34824",
+        "InterviewEndDate": "2024-07-20 07:23:17",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34825",
+        "InterviewEndDate": "2024-07-20 07:27:45",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34826",
+        "InterviewEndDate": "2024-07-20 07:33:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34827",
+        "InterviewEndDate": "2024-07-20 07:31:35",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34828",
+        "InterviewEndDate": "2024-07-20 07:59:41",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34829",
+        "InterviewEndDate": "2024-07-20 07:53:59",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34830",
+        "InterviewEndDate": "2024-07-20 07:58:39",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34831",
+        "InterviewEndDate": "2024-07-20 07:49:37",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34832",
+        "InterviewEndDate": "2024-07-20 08:03:03",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34833",
+        "InterviewEndDate": "2024-07-20 08:07:14",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34834",
+        "InterviewEndDate": "2024-07-20 08:16:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1664",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34835",
+        "InterviewEndDate": "2024-07-20 08:07:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1664",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34836",
+        "InterviewEndDate": "2024-07-20 08:10:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1664",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34837",
+        "InterviewEndDate": "2024-07-20 08:11:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1664",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34838",
+        "InterviewEndDate": "2024-07-20 08:11:28",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34839",
+        "InterviewEndDate": "2024-07-20 08:18:32",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 

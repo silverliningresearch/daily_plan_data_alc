@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-07-2024 09:15:57"
+        "download_time": "20-07-2024 10:21:12"
     },
     {
         "InterviewId": "6093",
@@ -70055,6 +70055,78 @@ let interview_data_raw = `[
         "Flight": "DY895",
         "Dest": "ARN",
         "AirlineCode": "DY895"
+    },
+    {
+        "InterviewId": "18979",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18980",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18981",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18982",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18983",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18984",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18985",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18986",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
+    },
+    {
+        "InterviewId": "18987",
+        "InterviewEndDate": "2024-07-20",
+        "InterviewState": "Complete",
+        "Flight": "GQ3221",
+        "Dest": "HER",
+        "AirlineCode": "GQ3221"
     }
 ]    
 
