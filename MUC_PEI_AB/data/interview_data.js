@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-07-2024 17:54:51"
+        "download_time": "20-07-2024 18:59:50"
     },
     {
         "InterviewId": "15819",
@@ -126877,6 +126877,46 @@ let interview_data_raw = `[
         "InterviewEndDate": "2024-07-20 15:24:14",
         "InterviewState": "Complete",
         "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34862",
+        "InterviewEndDate": "2024-07-20 16:11:24",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "34865",
+        "InterviewEndDate": "2024-07-20 16:07:41",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "34866",
+        "InterviewEndDate": "2024-07-20 16:10:21",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "34867",
+        "InterviewEndDate": "2024-07-20 16:11:21",
+        "InterviewState": "Complete",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "34868",
+        "InterviewEndDate": "2024-07-20 16:11:11",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
         "Dest": "GVA",
         "AirlineCode": "EN"
     }
