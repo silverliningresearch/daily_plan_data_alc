@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-07-2024 19:44:52"
+        "download_time": "22-07-2024 20:49:55"
     },
     {
         "InterviewId": "15819",
@@ -127473,12 +127473,68 @@ let interview_data_raw = `[
         "AirlineCode": "Lh"
     },
     {
+        "InterviewId": "34974",
+        "InterviewEndDate": "2024-07-22 17:58:00",
+        "InterviewState": "Complete",
+        "Flight": "Lh 2456",
+        "Dest": "OSL",
+        "AirlineCode": "Lh"
+    },
+    {
         "InterviewId": "34975",
         "InterviewEndDate": "2024-07-22 17:41:26",
         "InterviewState": "Complete",
         "Flight": "VY 1817",
         "Dest": "BCN",
         "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "34976",
+        "InterviewEndDate": "2024-07-22 17:50:01",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "34977",
+        "InterviewEndDate": "2024-07-22 17:49:19",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "34978",
+        "InterviewEndDate": "2024-07-22 17:51:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34979",
+        "InterviewEndDate": "2024-07-22 17:52:43",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "34980",
+        "InterviewEndDate": "2024-07-22 18:04:12",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "34981",
+        "InterviewEndDate": "2024-07-22 18:19:15",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
