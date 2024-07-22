@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-07-2024 18:39:52"
+        "download_time": "22-07-2024 19:44:52"
     },
     {
         "InterviewId": "15819",
@@ -127375,6 +127375,110 @@ let interview_data_raw = `[
         "Flight": "Lh2140",
         "Dest": "FMO",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "34959",
+        "InterviewEndDate": "2024-07-22 16:48:52",
+        "InterviewState": "Complete",
+        "Flight": "BT  224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "34960",
+        "InterviewEndDate": "2024-07-22 17:14:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34961",
+        "InterviewEndDate": "2024-07-22 17:22:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34962",
+        "InterviewEndDate": "2024-07-22 17:22:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "34963",
+        "InterviewEndDate": "2024-07-22 17:33:01",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "34964",
+        "InterviewEndDate": "2024-07-22 17:27:26",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "34966",
+        "InterviewEndDate": "2024-07-22 17:30:38",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "34967",
+        "InterviewEndDate": "2024-07-22 17:27:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34968",
+        "InterviewEndDate": "2024-07-22 17:31:15",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "34969",
+        "InterviewEndDate": "2024-07-22 17:38:16",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "34971",
+        "InterviewEndDate": "2024-07-22 17:37:35",
+        "InterviewState": "Complete",
+        "Flight": "Lh 2456",
+        "Dest": "OSL",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "34973",
+        "InterviewEndDate": "2024-07-22 17:42:03",
+        "InterviewState": "Complete",
+        "Flight": "Lh2456",
+        "Dest": "OSL",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "34975",
+        "InterviewEndDate": "2024-07-22 17:41:26",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
