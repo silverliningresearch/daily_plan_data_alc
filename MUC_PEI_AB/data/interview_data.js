@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-07-2024 09:59:54"
+        "download_time": "22-07-2024 11:04:58"
     },
     {
         "InterviewId": "15819",
@@ -127199,6 +127199,86 @@ let interview_data_raw = `[
         "Flight": "TK 1630",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "34925",
+        "InterviewEndDate": "2024-07-22 08:08:41",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34926",
+        "InterviewEndDate": "2024-07-22 08:02:22",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34927",
+        "InterviewEndDate": "2024-07-22 08:02:45",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34929",
+        "InterviewEndDate": "2024-07-22 08:28:06",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34930",
+        "InterviewEndDate": "2024-07-22 08:01:56",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34931",
+        "InterviewEndDate": "2024-07-22 08:04:04",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34932",
+        "InterviewEndDate": "2024-07-22 08:06:31",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34933",
+        "InterviewEndDate": "2024-07-22 08:23:18",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "34935",
+        "InterviewEndDate": "2024-07-22 09:01:52",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "34937",
+        "InterviewEndDate": "2024-07-22 09:01:42",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
     }
 ]    
 
