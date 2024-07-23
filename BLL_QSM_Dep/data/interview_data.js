@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-07-2024 09:51:30"
+        "download_time": "23-07-2024 10:56:06"
     },
     {
         "InterviewId": "6093",
@@ -70263,6 +70263,70 @@ let interview_data_raw = `[
         "Flight": "GQ6403",
         "Dest": "RHO",
         "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19024",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "19025",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "19026",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "19027",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "19028",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "19029",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "19030",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "19031",
+        "InterviewEndDate": "2024-07-23",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
     }
 ]    
 
