@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-07-2024 08:44:52"
+        "download_time": "23-07-2024 09:49:59"
     },
     {
         "InterviewId": "15819",
@@ -127535,6 +127535,70 @@ let interview_data_raw = `[
         "Flight": "KL 1858",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "34982",
+        "InterviewEndDate": "2024-07-23 06:57:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1822",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34983",
+        "InterviewEndDate": "2024-07-23 06:56:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1822",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34984",
+        "InterviewEndDate": "2024-07-23 06:57:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1822",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34985",
+        "InterviewEndDate": "2024-07-23 07:37:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734.",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34986",
+        "InterviewEndDate": "2024-07-23 07:37:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34987",
+        "InterviewEndDate": "2024-07-23 07:34:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34988",
+        "InterviewEndDate": "2024-07-23 07:38:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "34990",
+        "InterviewEndDate": "2024-07-23 07:40:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
     }
 ]    
 
