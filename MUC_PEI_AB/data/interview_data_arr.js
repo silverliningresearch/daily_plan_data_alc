@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "23-07-2024 15:15:59"
+        "download_time": "23-07-2024 16:20:59"
     },
     {
         "InterviewId": "5167",
@@ -40815,6 +40815,46 @@ let interview_data_arr_raw = `[
         "Flight": "UA - United Airlines",
         "Dest": "DEN",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "11473",
+        "InterviewEndDate": "2024-07-23 13:20:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11474",
+        "InterviewEndDate": "2024-07-23 13:17:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11475",
+        "InterviewEndDate": "2024-07-23 13:19:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11476",
+        "InterviewEndDate": "2024-07-23 13:28:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11478",
+        "InterviewEndDate": "2024-07-23 13:31:22",
+        "InterviewState": "Complete",
+        "Flight": "Air dolomiti",
+        "Dest": "VRN",
+        "AirlineCode": "Air"
     }
 ]    
 
