@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "23-07-2024 10:57:41"
+        "download_time": "23-07-2024 12:03:06"
     },
     {
         "InterviewId": "1224",
@@ -12394,11 +12394,59 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "2795",
-        "InterviewEndDate": "2024-07-23 08:56:45",
+        "InterviewEndDate": "2024-07-23 09:02:16",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "2796",
+        "InterviewEndDate": "2024-07-23 09:07:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2797",
+        "InterviewEndDate": "2024-07-23 09:21:23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BGY",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2798",
+        "InterviewEndDate": "2024-07-23 09:31:48",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "2799",
+        "InterviewEndDate": "2024-07-23 09:39:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "ZTH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2800",
+        "InterviewEndDate": "2024-07-23 09:50:46",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2801",
+        "InterviewEndDate": "2024-07-23 09:56:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
     }
 ]    
 
