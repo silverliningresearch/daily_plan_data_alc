@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-07-2024 14:10:00"
+        "download_time": "23-07-2024 15:14:54"
     },
     {
         "InterviewId": "15819",
@@ -127807,6 +127807,70 @@ let interview_data_raw = `[
         "Flight": "4Y 1260",
         "Dest": "HER",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "35026",
+        "InterviewEndDate": "2024-07-23 12:19:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35027",
+        "InterviewEndDate": "2024-07-23 12:24:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35028",
+        "InterviewEndDate": "2024-07-23 12:14:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35029",
+        "InterviewEndDate": "2024-07-23 12:13:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1754",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35030",
+        "InterviewEndDate": "2024-07-23 12:45:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35031",
+        "InterviewEndDate": "2024-07-23 12:56:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35032",
+        "InterviewEndDate": "2024-07-23 12:58:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35033",
+        "InterviewEndDate": "2024-07-23 13:09:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
     }
 ]    
 

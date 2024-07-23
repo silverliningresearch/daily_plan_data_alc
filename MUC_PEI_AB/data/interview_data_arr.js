@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "23-07-2024 14:11:09"
+        "download_time": "23-07-2024 15:15:59"
     },
     {
         "InterviewId": "5167",
@@ -40759,6 +40759,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11466",
+        "InterviewEndDate": "2024-07-23 12:36:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11467",
+        "InterviewEndDate": "2024-07-23 12:43:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11468",
+        "InterviewEndDate": "2024-07-23 12:28:51",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "11469",
+        "InterviewEndDate": "2024-07-23 12:46:09",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "MIA",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "11470",
+        "InterviewEndDate": "2024-07-23 12:43:51",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "11471",
+        "InterviewEndDate": "2024-07-23 12:54:21",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "11472",
+        "InterviewEndDate": "2024-07-23 12:53:34",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
     }
 ]    
 
