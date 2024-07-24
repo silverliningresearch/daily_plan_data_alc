@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-07-2024 10:44:53"
+        "download_time": "24-07-2024 11:50:23"
     },
     {
         "InterviewId": "15819",
@@ -128129,12 +128129,60 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
+        "InterviewId": "35072",
+        "InterviewEndDate": "2024-07-24 08:51:11",
+        "InterviewState": "Complete",
+        "Flight": "XQ  715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
         "InterviewId": "35073",
         "InterviewEndDate": "2024-07-24 08:38:15",
         "InterviewState": "Complete",
         "Flight": "XQ  715",
         "Dest": "ESB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "35074",
+        "InterviewEndDate": "2024-07-24 09:08:32",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35075",
+        "InterviewEndDate": "2024-07-24 09:39:10",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "35076",
+        "InterviewEndDate": "2024-07-24 09:19:08",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "35078",
+        "InterviewEndDate": "2024-07-24 09:28:13",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "35081",
+        "InterviewEndDate": "2024-07-24 09:43:47",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     }
 ]    
 
