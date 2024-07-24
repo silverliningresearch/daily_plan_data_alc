@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "24-07-2024 15:10:27"
+        "download_time": "24-07-2024 16:14:57"
     },
     {
         "InterviewId": "7701",
@@ -42207,6 +42207,110 @@ let interview_data_raw = `[
         "Flight": "EK  112",
         "Dest": "DXB",
         "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "13651",
+        "InterviewEndDate": "2024-07-24 13:23:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13652",
+        "InterviewEndDate": "2024-07-24 13:25:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13653",
+        "InterviewEndDate": "2024-07-24 13:31:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13654",
+        "InterviewEndDate": "2024-07-24 13:34:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13655",
+        "InterviewEndDate": "2024-07-24 13:32:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 9779",
+        "Dest": "HHN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13656",
+        "InterviewEndDate": "2024-07-24 13:34:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 9779",
+        "Dest": "HHN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13657",
+        "InterviewEndDate": "2024-07-24 13:49:54",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13658",
+        "InterviewEndDate": "2024-07-24 13:50:49",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13659",
+        "InterviewEndDate": "2024-07-24 13:49:27",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13660",
+        "InterviewEndDate": "2024-07-24 13:51:30",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13661",
+        "InterviewEndDate": "2024-07-24 13:56:19",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13662",
+        "InterviewEndDate": "2024-07-24 13:57:54",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13663",
+        "InterviewEndDate": "2024-07-24 13:58:57",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
     }
 ]    
 
