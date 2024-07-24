@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "24-07-2024 12:59:52"
+        "download_time": "24-07-2024 14:06:39"
     },
     {
         "InterviewId": "7701",
@@ -42054,6 +42054,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2315",
         "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13632",
+        "InterviewEndDate": "2024-07-24 11:06:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13633",
+        "InterviewEndDate": "2024-07-24 11:03:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13634",
+        "InterviewEndDate": "2024-07-24 11:04:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13635",
+        "InterviewEndDate": "2024-07-24 11:07:51",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13636",
+        "InterviewEndDate": "2024-07-24 11:46:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13637",
+        "InterviewEndDate": "2024-07-24 11:38:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13638",
+        "InterviewEndDate": "2024-07-24 11:34:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13639",
+        "InterviewEndDate": "2024-07-24 11:36:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "13640",
+        "InterviewEndDate": "2024-07-24 11:40:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13641",
+        "InterviewEndDate": "2024-07-24 11:45:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13642",
+        "InterviewEndDate": "2024-07-24 11:45:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2269",
+        "Dest": "BSL",
         "AirlineCode": "W6"
     }
 ]    
