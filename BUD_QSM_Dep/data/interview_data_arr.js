@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "25-07-2024 19:18:24"
+        "download_time": "25-07-2024 20:22:47"
     },
     {
         "InterviewId": "1224",
@@ -12463,6 +12463,62 @@ let interview_data_arr_raw = `[
         "Flight": "LO - LOT Polish Airlines",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "2804",
+        "InterviewEndDate": "2024-07-25 17:32:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "STR",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2805",
+        "InterviewEndDate": "2024-07-25 17:39:42",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ZTH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2806",
+        "InterviewEndDate": "2024-07-25 17:48:12",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2807",
+        "InterviewEndDate": "2024-07-25 17:57:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2808",
+        "InterviewEndDate": "2024-07-25 18:05:02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2809",
+        "InterviewEndDate": "2024-07-25 18:14:46",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2810",
+        "InterviewEndDate": "2024-07-25 18:20:40",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
