@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "25-07-2024 13:55:21"
+        "download_time": "25-07-2024 15:01:04"
     },
     {
         "InterviewId": "7701",
@@ -42505,6 +42505,22 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "13691",
+        "InterviewEndDate": "2024-07-25 11:56:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13692",
+        "InterviewEndDate": "2024-07-25 11:56:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "13693",
         "InterviewEndDate": "2024-07-25 11:53:02",
         "InterviewState": "Complete",
@@ -42513,12 +42529,52 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "13694",
+        "InterviewEndDate": "2024-07-25 11:57:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "13695",
         "InterviewEndDate": "2024-07-25 11:53:36",
         "InterviewState": "Complete",
         "Flight": "FR 6515",
         "Dest": "CIA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13696",
+        "InterviewEndDate": "2024-07-25 12:47:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13697",
+        "InterviewEndDate": "2024-07-25 12:56:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13698",
+        "InterviewEndDate": "2024-07-25 12:59:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13699",
+        "InterviewEndDate": "2024-07-25 12:58:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
     }
 ]    
 
