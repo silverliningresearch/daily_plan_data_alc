@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "26-07-2024 16:59:47"
+        "download_time": "26-07-2024 18:06:14"
     },
     {
         "InterviewId": "7701",
@@ -42935,6 +42935,46 @@ let interview_data_raw = `[
         "Flight": "W6 2393",
         "Dest": "LIS",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13750",
+        "InterviewEndDate": "2024-07-26 15:13:54",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "13751",
+        "InterviewEndDate": "2024-07-26 15:13:42",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "13752",
+        "InterviewEndDate": "2024-07-26 15:15:56",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "13753",
+        "InterviewEndDate": "2024-07-26 15:12:59",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "13754",
+        "InterviewEndDate": "2024-07-26 15:28:55",
+        "InterviewState": "Complete",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
