@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-07-2024 11:09:55"
+        "download_time": "28-07-2024 12:14:54"
     },
     {
         "InterviewId": "15819",
@@ -128982,6 +128982,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "GQ  871",
         "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35206",
+        "InterviewEndDate": "2024-07-28 09:11:53",
+        "InterviewState": "Complete",
+        "Flight": "GQ  871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35207",
+        "InterviewEndDate": "2024-07-28 09:17:08",
+        "InterviewState": "Complete",
+        "Flight": "GQ  871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35208",
+        "InterviewEndDate": "2024-07-28 09:25:01",
+        "InterviewState": "Complete",
+        "Flight": "GQ  871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35209",
+        "InterviewEndDate": "2024-07-28 09:31:52",
+        "InterviewState": "Complete",
+        "Flight": "GQ  871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35210",
+        "InterviewEndDate": "2024-07-28 09:54:59",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "35211",
+        "InterviewEndDate": "2024-07-28 10:08:51",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "ATH",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "35213",
+        "InterviewEndDate": "2024-07-28 10:14:37",
+        "InterviewState": "Complete",
+        "Flight": "GQ  871",
+        "Dest": "PMI",
         "AirlineCode": "GQ"
     }
 ]    
