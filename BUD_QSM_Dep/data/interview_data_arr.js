@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "28-07-2024 17:42:37"
+        "download_time": "28-07-2024 18:48:03"
     },
     {
         "InterviewId": "1224",
@@ -12666,11 +12666,67 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "2830",
-        "InterviewEndDate": "2024-07-28 15:38:48",
+        "InterviewEndDate": "2024-07-28 15:45:01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "ALC",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2831",
+        "InterviewEndDate": "2024-07-28 15:52:45",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ALC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2832",
+        "InterviewEndDate": "2024-07-28 15:58:49",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2833",
+        "InterviewEndDate": "2024-07-28 16:11:19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2834",
+        "InterviewEndDate": "2024-07-28 16:20:23",
+        "InterviewState": "Complete",
+        "Flight": "7O - Travel Service",
+        "Dest": "CHQ",
+        "AirlineCode": "7O"
+    },
+    {
+        "InterviewId": "2835",
+        "InterviewEndDate": "2024-07-28 16:27:53",
+        "InterviewState": "Complete",
+        "Flight": "7O - Travel Service",
+        "Dest": "CHQ",
+        "AirlineCode": "7O"
+    },
+    {
+        "InterviewId": "2836",
+        "InterviewEndDate": "2024-07-28 16:38:05",
+        "InterviewState": "Complete",
+        "Flight": "7O - Travel Service",
+        "Dest": "CHQ",
+        "AirlineCode": "7O"
+    },
+    {
+        "InterviewId": "2837",
+        "InterviewEndDate": "2024-07-28 16:46:13",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
