@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "28-07-2024 12:19:46"
+        "download_time": "28-07-2024 13:25:09"
     },
     {
         "InterviewId": "7701",
@@ -43094,6 +43094,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 4275",
         "Dest": "MRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13774",
+        "InterviewEndDate": "2024-07-28 10:32:29",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13775",
+        "InterviewEndDate": "2024-07-28 10:34:33",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13776",
+        "InterviewEndDate": "2024-07-28 10:32:34",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13777",
+        "InterviewEndDate": "2024-07-28 10:38:09",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13778",
+        "InterviewEndDate": "2024-07-28 10:53:09",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13779",
+        "InterviewEndDate": "2024-07-28 10:48:36",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13781",
+        "InterviewEndDate": "2024-07-28 10:43:56",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13782",
+        "InterviewEndDate": "2024-07-28 10:44:36",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "13783",
+        "InterviewEndDate": "2024-07-28 11:14:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13784",
+        "InterviewEndDate": "2024-07-28 11:21:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 7770",
+        "Dest": "PVK",
         "AirlineCode": "FR"
     }
 ]    
