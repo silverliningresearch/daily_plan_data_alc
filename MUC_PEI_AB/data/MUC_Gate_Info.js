@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03",
-        "download_time": "29-07-2024 02:20:10"
+        "download_time": "29-07-2024 03:25:01"
     },
     {
         "aodbUniqueId": "20240729862397",
@@ -729,16 +729,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G26"
-    },
-    {
-        "aodbUniqueId": "20240729831851",
-        "Date": "29-07-2024",
-        "Flight": "LX 1111",
-        "Dest": "ZRH",
-        "AirlineCode": "LX",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20240729831855",
@@ -4339,6 +4329,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H40"
+    },
+    {
+        "aodbUniqueId": "20240729831851",
+        "Date": "29-07-2024",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K07"
     }
 ]    
 
