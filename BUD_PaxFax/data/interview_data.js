@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "29-07-2024 12:11:59"
+        "download_time": "29-07-2024 13:16:47"
     },
     {
         "InterviewId": "7701",
@@ -43390,6 +43390,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2377",
         "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13815",
+        "InterviewEndDate": "2024-07-29 10:29:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13816",
+        "InterviewEndDate": "2024-07-29 10:30:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13817",
+        "InterviewEndDate": "2024-07-29 10:28:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 6521",
+        "Dest": "ZAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13818",
+        "InterviewEndDate": "2024-07-29 11:14:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13819",
+        "InterviewEndDate": "2024-07-29 11:11:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13820",
+        "InterviewEndDate": "2024-07-29 11:14:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
         "AirlineCode": "W6"
     }
 ]    
