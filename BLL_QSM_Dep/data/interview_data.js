@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "31-07-2024 08:31:07"
+        "download_time": "31-07-2024 09:36:25"
     },
     {
         "InterviewId": "6093",
@@ -70511,6 +70511,70 @@ let interview_data_raw = `[
         "Flight": "LH2435",
         "Dest": "MUC",
         "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "19065",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "19067",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "19068",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "19069",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "19070",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "19071",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "19072",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "19073",
+        "InterviewEndDate": "2024-07-31",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
     }
 ]    
 
