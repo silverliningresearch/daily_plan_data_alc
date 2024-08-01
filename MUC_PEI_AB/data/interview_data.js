@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "01-08-2024 21:19:59"
+        "download_time": "01-08-2024 22:24:56"
     },
     {
         "InterviewId": "15819",
@@ -129215,6 +129215,70 @@ let interview_data_raw = `[
         "Flight": "BA 955",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "35237",
+        "InterviewEndDate": "2024-08-01 19:43:07",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35238",
+        "InterviewEndDate": "2024-08-01 19:49:05",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35239",
+        "InterviewEndDate": "2024-08-01 19:22:38",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35240",
+        "InterviewEndDate": "2024-08-01 19:23:57",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35241",
+        "InterviewEndDate": "2024-08-01 19:22:13",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35242",
+        "InterviewEndDate": "2024-08-01 19:49:00",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35243",
+        "InterviewEndDate": "2024-08-01 19:29:53",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35244",
+        "InterviewEndDate": "2024-08-01 19:42:47",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
