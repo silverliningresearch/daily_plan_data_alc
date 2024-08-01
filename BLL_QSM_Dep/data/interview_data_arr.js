@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "01-08-2024 14:51:27"
+        "download_time": "01-08-2024 15:56:17"
     },
     {
         "InterviewId": "2077",
@@ -22503,6 +22503,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7272",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "7274",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "7275",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "7276",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "7277",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD"
     }
 ]    
 
