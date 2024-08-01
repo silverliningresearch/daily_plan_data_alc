@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "01-08-2024 09:26:13"
+        "download_time": "01-08-2024 10:31:19"
     },
     {
         "InterviewId": "6093",
@@ -70751,6 +70751,86 @@ let interview_data_raw = `[
         "Flight": "FR5179",
         "Dest": "STN",
         "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19121",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19122",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19123",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19124",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19125",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19126",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19127",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19128",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "CAT745",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT745"
+    },
+    {
+        "InterviewId": "19129",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "19137",
+        "InterviewEndDate": "2024-08-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
     }
 ]    
 
