@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "02-08-2024 13:36:27"
+        "download_time": "02-08-2024 14:41:17"
     },
     {
         "InterviewId": "2077",
@@ -22575,6 +22575,78 @@ let interview_data_arr_raw = `[
         "Flight": "LO - LOT",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "7296",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7300",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7301",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7303",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7304",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7306",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7308",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7309",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7310",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
     }
 ]    
 
