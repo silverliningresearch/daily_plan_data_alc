@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "02-08-2024 14:41:17"
+        "download_time": "02-08-2024 15:46:19"
     },
     {
         "InterviewId": "2077",
@@ -22617,7 +22617,23 @@ let interview_data_arr_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "7305",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "7306",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7307",
         "InterviewEndDate": "2024-08-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -22647,6 +22663,86 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "BRU",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7311",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7312",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7317",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7318",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7319",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7320",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7326",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BGO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7328",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BGO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7329",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BGO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7330",
+        "InterviewEndDate": "2024-08-02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BGO",
+        "AirlineCode": "LH"
     }
 ]    
 
