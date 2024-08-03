@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "03-08-2024 13:26:09"
+        "download_time": "03-08-2024 14:31:12"
     },
     {
         "InterviewId": "6093",
@@ -71519,6 +71519,78 @@ let interview_data_raw = `[
         "Flight": "LH2435",
         "Dest": "MUC",
         "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "19273",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19274",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19275",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19276",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19277",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19278",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19279",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19280",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FB8414",
+        "Dest": "BOJ",
+        "AirlineCode": "FB8414"
+    },
+    {
+        "InterviewId": "19302",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
     }
 ]    
 
