@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-08-2024 09:04:59"
+        "download_time": "03-08-2024 10:09:56"
     },
     {
         "InterviewId": "15819",
@@ -129286,6 +129286,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2228",
         "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35246",
+        "InterviewEndDate": "2024-08-03 07:11:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35249",
+        "InterviewEndDate": "2024-08-03 07:21:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35250",
+        "InterviewEndDate": "2024-08-03 07:29:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35252",
+        "InterviewEndDate": "2024-08-03 07:35:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35253",
+        "InterviewEndDate": "2024-08-03 07:43:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35254",
+        "InterviewEndDate": "2024-08-03 07:50:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35255",
+        "InterviewEndDate": "2024-08-03 07:58:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35256",
+        "InterviewEndDate": "2024-08-03 08:03:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
         "AirlineCode": "LH"
     }
 ]    
