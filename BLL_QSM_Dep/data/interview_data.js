@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "03-08-2024 14:31:12"
+        "download_time": "03-08-2024 15:36:37"
     },
     {
         "InterviewId": "6093",
@@ -71585,12 +71585,124 @@ let interview_data_raw = `[
         "AirlineCode": "FB8414"
     },
     {
+        "InterviewId": "19297",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "19298",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "19299",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "19300",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "19301",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
         "InterviewId": "19302",
         "InterviewEndDate": "2024-08-03",
         "InterviewState": "Complete",
         "Flight": "RC475",
         "Dest": "FAE",
         "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "19303",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "19304",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "19305",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "19306",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "19307",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "19308",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "19309",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "19312",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "19313",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR997",
+        "Dest": "MAD",
+        "AirlineCode": "FR997"
     }
 ]    
 
