@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "03-08-2024 11:16:10"
+        "download_time": "03-08-2024 12:21:16"
     },
     {
         "InterviewId": "6093",
@@ -71391,6 +71391,70 @@ let interview_data_raw = `[
         "Flight": "BT148",
         "Dest": "RIX",
         "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "19245",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19246",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19247",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19248",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19249",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19250",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19251",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19252",
+        "InterviewEndDate": "2024-08-03",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
     }
 ]    
 
