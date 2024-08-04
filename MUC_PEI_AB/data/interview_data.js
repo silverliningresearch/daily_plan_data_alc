@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-08-2024 18:39:56"
+        "download_time": "04-08-2024 19:44:56"
     },
     {
         "InterviewId": "15819",
@@ -129457,12 +129457,84 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "35271",
+        "InterviewEndDate": "2024-08-04 17:00:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35272",
+        "InterviewEndDate": "2024-08-04 16:55:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35273",
+        "InterviewEndDate": "2024-08-04 16:46:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35274",
+        "InterviewEndDate": "2024-08-04 17:01:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35275",
+        "InterviewEndDate": "2024-08-04 17:00:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35276",
+        "InterviewEndDate": "2024-08-04 17:03:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "35277",
         "InterviewEndDate": "2024-08-04 16:37:11",
         "InterviewState": "Complete",
         "Flight": "LO 354",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "35278",
+        "InterviewEndDate": "2024-08-04 16:38:46",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "35279",
+        "InterviewEndDate": "2024-08-04 17:27:35",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "35280",
+        "InterviewEndDate": "2024-08-04 17:21:00",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
     }
 ]    
 
