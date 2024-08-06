@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "06-08-2024 11:51:43"
+        "download_time": "06-08-2024 12:56:17"
     },
     {
         "InterviewId": "6093",
@@ -72063,6 +72063,62 @@ let interview_data_raw = `[
         "Flight": "AF1763",
         "Dest": "CDG",
         "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "19384",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19385",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19386",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19387",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19388",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19389",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "19390",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
     }
 ]    
 
