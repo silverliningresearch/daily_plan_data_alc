@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "06-08-2024 08:36:25"
+        "download_time": "06-08-2024 09:41:23"
     },
     {
         "InterviewId": "2077",
@@ -22951,6 +22951,94 @@ let interview_data_arr_raw = `[
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ALC",
         "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "7369",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7370",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7371",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7373",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7374",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7375",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7376",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7377",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7378",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7379",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7380",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
     }
 ]    
 
