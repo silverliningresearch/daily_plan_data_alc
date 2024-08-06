@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-08-2024 20:30:32"
+        "download_time": "06-08-2024 21:35:00"
     },
     {
         "InterviewId": "15819",
@@ -129919,6 +129919,62 @@ let interview_data_raw = `[
         "Flight": "BA 955",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "35340",
+        "InterviewEndDate": "2024-08-06 18:34:06",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35341",
+        "InterviewEndDate": "2024-08-06 19:18:26",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35342",
+        "InterviewEndDate": "2024-08-06 19:01:06",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35344",
+        "InterviewEndDate": "2024-08-06 18:59:26",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35345",
+        "InterviewEndDate": "2024-08-06 19:03:43",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35346",
+        "InterviewEndDate": "2024-08-06 19:17:21",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "35348",
+        "InterviewEndDate": "2024-08-06 19:33:00",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
