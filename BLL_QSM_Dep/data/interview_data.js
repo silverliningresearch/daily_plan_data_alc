@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "06-08-2024 07:31:15"
+        "download_time": "06-08-2024 08:36:21"
     },
     {
         "InterviewId": "6093",
@@ -71759,6 +71759,118 @@ let interview_data_raw = `[
         "Flight": "BA807",
         "Dest": "LHR",
         "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19332",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "19333",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "19334",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "19335",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "19336",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "19337",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "19338",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "19339",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "19340",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "19341",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "19342",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "19343",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "19344",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
+    },
+    {
+        "InterviewId": "19345",
+        "InterviewEndDate": "2024-08-06",
+        "InterviewState": "Complete",
+        "Flight": "JTD575",
+        "Dest": "PMI",
+        "AirlineCode": "JTD575"
     }
 ]    
 
