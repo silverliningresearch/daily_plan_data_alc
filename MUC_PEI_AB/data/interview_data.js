@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-08-2024 18:10:13"
+        "download_time": "07-08-2024 19:14:59"
     },
     {
         "InterviewId": "15819",
@@ -130070,6 +130070,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2480",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35360",
+        "InterviewEndDate": "2024-08-07 16:20:54",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "35362",
+        "InterviewEndDate": "2024-08-07 16:13:57",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "35363",
+        "InterviewEndDate": "2024-08-07 16:17:27",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "35364",
+        "InterviewEndDate": "2024-08-07 16:18:13",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "35365",
+        "InterviewEndDate": "2024-08-07 16:16:45",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "35366",
+        "InterviewEndDate": "2024-08-07 16:41:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2482",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35367",
+        "InterviewEndDate": "2024-08-07 16:39:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2482",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35368",
+        "InterviewEndDate": "2024-08-07 17:01:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35369",
+        "InterviewEndDate": "2024-08-07 17:03:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
         "AirlineCode": "LH"
     }
 ]    
