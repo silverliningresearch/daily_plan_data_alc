@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-08-2024 13:40:00"
+        "download_time": "08-08-2024 14:44:59"
     },
     {
         "InterviewId": "15819",
@@ -130158,6 +130158,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 586",
         "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35372",
+        "InterviewEndDate": "2024-08-08 12:30:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35373",
+        "InterviewEndDate": "2024-08-08 12:26:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35374",
+        "InterviewEndDate": "2024-08-08 12:31:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35375",
+        "InterviewEndDate": "2024-08-08 12:38:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35376",
+        "InterviewEndDate": "2024-08-08 12:34:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35378",
+        "InterviewEndDate": "2024-08-08 12:42:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35379",
+        "InterviewEndDate": "2024-08-08 12:42:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35380",
+        "InterviewEndDate": "2024-08-08 12:40:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2464",
+        "Dest": "HEL",
         "AirlineCode": "LH"
     }
 ]    
