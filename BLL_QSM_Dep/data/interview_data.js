@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-08-2024 08:16:16"
+        "download_time": "08-08-2024 09:21:31"
     },
     {
         "InterviewId": "6093",
@@ -72431,6 +72431,134 @@ let interview_data_raw = `[
         "Flight": "W43696",
         "Dest": "IAS",
         "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19445",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19446",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19448",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19449",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19450",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19451",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19452",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19453",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19454",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "19455",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "19456",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "19457",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "19458",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "19460",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "19461",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "19462",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "FR9003",
+        "Dest": "BCN",
+        "AirlineCode": "FR9003"
     }
 ]    
 
