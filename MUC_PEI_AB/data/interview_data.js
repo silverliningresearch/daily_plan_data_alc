@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-08-2024 14:44:59"
+        "download_time": "08-08-2024 15:50:08"
     },
     {
         "InterviewId": "15819",
@@ -130223,6 +130223,134 @@ let interview_data_raw = `[
         "Flight": "LH 2464",
         "Dest": "HEL",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35381",
+        "InterviewEndDate": "2024-08-08 12:54:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35383",
+        "InterviewEndDate": "2024-08-08 12:58:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35384",
+        "InterviewEndDate": "2024-08-08 12:57:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35385",
+        "InterviewEndDate": "2024-08-08 12:59:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35386",
+        "InterviewEndDate": "2024-08-08 13:03:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35387",
+        "InterviewEndDate": "2024-08-08 13:10:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35388",
+        "InterviewEndDate": "2024-08-08 13:06:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35390",
+        "InterviewEndDate": "2024-08-08 13:24:57",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "35391",
+        "InterviewEndDate": "2024-08-08 13:26:40",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "35392",
+        "InterviewEndDate": "2024-08-08 13:25:46",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "35393",
+        "InterviewEndDate": "2024-08-08 13:28:38",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "35394",
+        "InterviewEndDate": "2024-08-08 13:24:27",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "35395",
+        "InterviewEndDate": "2024-08-08 13:39:43",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "35397",
+        "InterviewEndDate": "2024-08-08 13:39:41",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "35398",
+        "InterviewEndDate": "2024-08-08 13:46:26",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "35399",
+        "InterviewEndDate": "2024-08-08 13:42:19",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
     }
 ]    
 
