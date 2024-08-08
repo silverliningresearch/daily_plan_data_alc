@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-08-2024 07:11:14"
+        "download_time": "08-08-2024 08:16:16"
     },
     {
         "InterviewId": "6093",
@@ -72367,6 +72367,70 @@ let interview_data_raw = `[
         "Flight": "KL1294",
         "Dest": "AMS",
         "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "19437",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19438",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19439",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19440",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19441",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19442",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19443",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
+    },
+    {
+        "InterviewId": "19444",
+        "InterviewEndDate": "2024-08-08",
+        "InterviewState": "Complete",
+        "Flight": "W43696",
+        "Dest": "IAS",
+        "AirlineCode": "W43696"
     }
 ]    
 
