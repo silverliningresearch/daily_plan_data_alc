@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "09-08-2024 21:06:16"
+        "download_time": "09-08-2024 22:11:02"
     },
     {
         "InterviewId": "5167",
@@ -42191,6 +42191,102 @@ let interview_data_arr_raw = `[
         "Flight": "LO - LOT Polish Airlines",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "11677",
+        "InterviewEndDate": "2024-08-09 19:17:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "NTE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11678",
+        "InterviewEndDate": "2024-08-09 19:13:30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11679",
+        "InterviewEndDate": "2024-08-09 19:22:54",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11680",
+        "InterviewEndDate": "2024-08-09 19:24:34",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11681",
+        "InterviewEndDate": "2024-08-09 19:23:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11682",
+        "InterviewEndDate": "2024-08-09 19:32:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11683",
+        "InterviewEndDate": "2024-08-09 19:33:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11684",
+        "InterviewEndDate": "2024-08-09 19:40:28",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11685",
+        "InterviewEndDate": "2024-08-09 19:39:02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11686",
+        "InterviewEndDate": "2024-08-09 19:45:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11687",
+        "InterviewEndDate": "2024-08-09 19:55:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11688",
+        "InterviewEndDate": "2024-08-09 19:56:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
     }
 ]    
 
