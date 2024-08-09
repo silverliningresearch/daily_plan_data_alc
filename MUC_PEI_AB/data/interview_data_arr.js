@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "09-08-2024 18:56:02"
+        "download_time": "09-08-2024 20:01:03"
     },
     {
         "InterviewId": "5167",
@@ -42151,6 +42151,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BRE",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11672",
+        "InterviewEndDate": "2024-08-09 16:58:50",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "11673",
+        "InterviewEndDate": "2024-08-09 17:04:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SPU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11674",
+        "InterviewEndDate": "2024-08-09 17:03:45",
+        "InterviewState": "Complete",
+        "Flight": "VV - Aerosvit",
+        "Dest": "VIE",
+        "AirlineCode": "VV"
+    },
+    {
+        "InterviewId": "11675",
+        "InterviewEndDate": "2024-08-09 17:06:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11676",
+        "InterviewEndDate": "2024-08-09 17:06:33",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
