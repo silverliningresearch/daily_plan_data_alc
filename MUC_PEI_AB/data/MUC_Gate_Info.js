@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16",
-        "download_time": "10-08-2024 04:40:07"
+        "download_time": "10-08-2024 05:45:06"
     },
     {
         "aodbUniqueId": "20240810869295",
@@ -2111,6 +2111,16 @@ let MUC_Gate_Info = `[
         "Gate": "G10"
     },
     {
+        "aodbUniqueId": "20240810869102",
+        "Date": "10-08-2024",
+        "Flight": "BJ 2967",
+        "Dest": "DJE",
+        "AirlineCode": "BJ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B14"
+    },
+    {
         "aodbUniqueId": "20240810868890",
         "Date": "10-08-2024",
         "Flight": "LH 474",
@@ -2938,7 +2948,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "BT",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G02"
+        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20240810869003",
@@ -3141,16 +3151,6 @@ let MUC_Gate_Info = `[
         "Gate": "K20"
     },
     {
-        "aodbUniqueId": "20240810869043",
-        "Date": "10-08-2024",
-        "Flight": "BJ 2403",
-        "Dest": "MIR",
-        "AirlineCode": "BJ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C01"
-    },
-    {
         "aodbUniqueId": "20240810869045",
         "Date": "10-08-2024",
         "Flight": "LH 1666",
@@ -3201,6 +3201,16 @@ let MUC_Gate_Info = `[
         "Gate": "K21"
     },
     {
+        "aodbUniqueId": "20240810869043",
+        "Date": "10-08-2024",
+        "Flight": "BJ 2403",
+        "Dest": "MIR",
+        "AirlineCode": "BJ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C01"
+    },
+    {
         "aodbUniqueId": "20240810869109",
         "Date": "10-08-2024",
         "Flight": "SM 2931",
@@ -3229,16 +3239,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K22"
-    },
-    {
-        "aodbUniqueId": "20240810869102",
-        "Date": "10-08-2024",
-        "Flight": "BJ 2967",
-        "Dest": "DJE",
-        "AirlineCode": "BJ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B14"
     },
     {
         "aodbUniqueId": "20240810869104",
@@ -4018,7 +4018,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "BT",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
+        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20240810869244",
