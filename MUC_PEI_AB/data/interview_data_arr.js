@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "11-08-2024 13:11:02"
+        "download_time": "11-08-2024 14:16:03"
     },
     {
         "InterviewId": "5167",
@@ -42455,6 +42455,102 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "ALC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11713",
+        "InterviewEndDate": "2024-08-11 11:25:22",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "11714",
+        "InterviewEndDate": "2024-08-11 11:25:14",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "11715",
+        "InterviewEndDate": "2024-08-11 11:22:20",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "11716",
+        "InterviewEndDate": "2024-08-11 11:23:20",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "11717",
+        "InterviewEndDate": "2024-08-11 12:01:01",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "BIA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "11720",
+        "InterviewEndDate": "2024-08-11 11:30:36",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "11721",
+        "InterviewEndDate": "2024-08-11 11:31:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11722",
+        "InterviewEndDate": "2024-08-11 11:38:46",
+        "InterviewState": "Complete",
+        "Flight": "Air dolomiti",
+        "Dest": "BDS",
+        "AirlineCode": "Air"
+    },
+    {
+        "InterviewId": "11723",
+        "InterviewEndDate": "2024-08-11 12:11:55",
+        "InterviewState": "Complete",
+        "Flight": "IV - VG Airlines",
+        "Dest": "PRN",
+        "AirlineCode": "IV"
+    },
+    {
+        "InterviewId": "11724",
+        "InterviewEndDate": "2024-08-11 12:12:38",
+        "InterviewState": "Complete",
+        "Flight": "IV - VG Airlines",
+        "Dest": "PRN",
+        "AirlineCode": "IV"
+    },
+    {
+        "InterviewId": "11725",
+        "InterviewEndDate": "2024-08-11 12:10:34",
+        "InterviewState": "Complete",
+        "Flight": "IV - VG Airlines",
+        "Dest": "PRN",
+        "AirlineCode": "IV"
+    },
+    {
+        "InterviewId": "11726",
+        "InterviewEndDate": "2024-08-11 12:13:45",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "BIO",
+        "AirlineCode": "Lufthansa"
     }
 ]    
 
