@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-08-2024 08:50:02"
+        "download_time": "11-08-2024 09:55:01"
     },
     {
         "InterviewId": "15819",
@@ -131302,6 +131302,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1650",
         "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35549",
+        "InterviewEndDate": "2024-08-11 07:00:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35550",
+        "InterviewEndDate": "2024-08-11 07:04:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35551",
+        "InterviewEndDate": "2024-08-11 06:58:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35552",
+        "InterviewEndDate": "2024-08-11 07:26:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1668",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35554",
+        "InterviewEndDate": "2024-08-11 07:32:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 1668",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35555",
+        "InterviewEndDate": "2024-08-11 07:46:55",
+        "InterviewState": "Complete",
+        "Flight": "AZ 437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "35556",
+        "InterviewEndDate": "2024-08-11 07:42:26",
+        "InterviewState": "Complete",
+        "Flight": "AZ 437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "35557",
+        "InterviewEndDate": "2024-08-11 07:37:04",
+        "InterviewState": "Complete",
+        "Flight": "AZ 437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "35558",
+        "InterviewEndDate": "2024-08-11 07:51:57",
+        "InterviewState": "Complete",
+        "Flight": "AZ 437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "35560",
+        "InterviewEndDate": "2024-08-11 07:49:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1926",
+        "Dest": "BER",
         "AirlineCode": "LH"
     }
 ]    
