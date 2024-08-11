@@ -1,16 +1,5 @@
 let MUC_Gate_Info = `[
     {
-        "aodbUniqueId": "20240811871829",
-        "Date": "11-08-2024",
-        "Flight": "LH 1976",
-        "Dest": "CGN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G84",
-        "download_time": "11-08-2024 04:30:08"
-    },
-    {
         "aodbUniqueId": "20240811871831",
         "Date": "11-08-2024",
         "Flight": "LH 2288",
@@ -18,7 +7,8 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G39"
+        "Gate": "G30",
+        "download_time": "11-08-2024 05:35:09"
     },
     {
         "aodbUniqueId": "20240811871832",
@@ -708,7 +698,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G08"
+        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20240811872333",
@@ -809,16 +799,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K22"
-    },
-    {
-        "aodbUniqueId": "20240811872481",
-        "Date": "11-08-2024",
-        "Flight": "OS 112",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G46"
     },
     {
         "aodbUniqueId": "20240811872482",
@@ -1198,7 +1178,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G29"
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20240811872060",
@@ -1908,7 +1888,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G30"
+        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20240811872306",
@@ -2961,16 +2941,6 @@ let MUC_Gate_Info = `[
         "Gate": "C10"
     },
     {
-        "aodbUniqueId": "20240811872698",
-        "Date": "11-08-2024",
-        "Flight": "NE 7302",
-        "Dest": "HRG",
-        "AirlineCode": "NE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C10"
-    },
-    {
         "aodbUniqueId": "20240811872699",
         "Date": "11-08-2024",
         "Flight": "LH 1854",
@@ -3288,7 +3258,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G81"
+        "Gate": "G70"
     },
     {
         "aodbUniqueId": "20240811872746",
@@ -3928,7 +3898,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G02"
+        "Gate": "G08"
     },
     {
         "aodbUniqueId": "20240811872648",
@@ -4131,6 +4101,16 @@ let MUC_Gate_Info = `[
         "Gate": "C03"
     },
     {
+        "aodbUniqueId": "20240811872698",
+        "Date": "11-08-2024",
+        "Flight": "NE 7302",
+        "Dest": "HRG",
+        "AirlineCode": "NE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C10"
+    },
+    {
         "aodbUniqueId": "20240811872455",
         "Date": "11-08-2024",
         "Flight": "OU 4439",
@@ -4249,6 +4229,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
+    },
+    {
+        "aodbUniqueId": "20240811872481",
+        "Date": "11-08-2024",
+        "Flight": "OS 112",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G46"
+    },
+    {
+        "aodbUniqueId": "20240811871829",
+        "Date": "11-08-2024",
+        "Flight": "LH 1976",
+        "Dest": "CGN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G81"
     },
     {
         "aodbUniqueId": "20240811872592",
