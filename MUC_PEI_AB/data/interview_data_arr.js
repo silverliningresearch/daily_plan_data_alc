@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "11-08-2024 14:16:03"
+        "download_time": "11-08-2024 15:21:11"
     },
     {
         "InterviewId": "5167",
@@ -42497,6 +42497,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "EN"
     },
     {
+        "InterviewId": "11718",
+        "InterviewEndDate": "2024-08-11 12:29:13",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "PMO",
+        "AirlineCode": "Lufthansa"
+    },
+    {
         "InterviewId": "11720",
         "InterviewEndDate": "2024-08-11 11:30:36",
         "InterviewState": "Complete",
@@ -42551,6 +42559,70 @@ let interview_data_arr_raw = `[
         "Flight": "Lufthansa",
         "Dest": "BIO",
         "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "11727",
+        "InterviewEndDate": "2024-08-11 12:30:30",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "11728",
+        "InterviewEndDate": "2024-08-11 12:30:30",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "11729",
+        "InterviewEndDate": "2024-08-11 12:28:21",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "11730",
+        "InterviewEndDate": "2024-08-11 12:19:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11731",
+        "InterviewEndDate": "2024-08-11 12:31:42",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "11733",
+        "InterviewEndDate": "2024-08-11 12:36:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11734",
+        "InterviewEndDate": "2024-08-11 12:41:40",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "11735",
+        "InterviewEndDate": "2024-08-11 12:41:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
     }
 ]    
 
