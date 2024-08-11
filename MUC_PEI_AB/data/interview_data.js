@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-08-2024 09:55:01"
+        "download_time": "11-08-2024 10:59:59"
     },
     {
         "InterviewId": "15819",
@@ -131377,12 +131377,116 @@ let interview_data_raw = `[
         "AirlineCode": "AZ"
     },
     {
+        "InterviewId": "35559",
+        "InterviewEndDate": "2024-08-11 07:55:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1926",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "35560",
         "InterviewEndDate": "2024-08-11 07:49:02",
         "InterviewState": "Complete",
         "Flight": "LH 1926",
         "Dest": "BER",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35566",
+        "InterviewEndDate": "2024-08-11 08:17:04",
+        "InterviewState": "Complete",
+        "Flight": "EN 8070",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "35567",
+        "InterviewEndDate": "2024-08-11 08:17:02",
+        "InterviewState": "Complete",
+        "Flight": "EN 8070",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "35568",
+        "InterviewEndDate": "2024-08-11 08:12:26",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "35569",
+        "InterviewEndDate": "2024-08-11 08:36:08",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35570",
+        "InterviewEndDate": "2024-08-11 08:33:23",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35571",
+        "InterviewEndDate": "2024-08-11 08:29:09",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "35573",
+        "InterviewEndDate": "2024-08-11 08:31:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2272",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35574",
+        "InterviewEndDate": "2024-08-11 08:52:30",
+        "InterviewState": "Complete",
+        "Flight": "KL 1852",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "35575",
+        "InterviewEndDate": "2024-08-11 08:51:38",
+        "InterviewState": "Complete",
+        "Flight": "KL 1852",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "35576",
+        "InterviewEndDate": "2024-08-11 08:48:16",
+        "InterviewState": "Complete",
+        "Flight": "KL 1852",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "35577",
+        "InterviewEndDate": "2024-08-11 08:52:43",
+        "InterviewState": "Complete",
+        "Flight": "KL 1852",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "35579",
+        "InterviewEndDate": "2024-08-11 08:57:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1852",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
