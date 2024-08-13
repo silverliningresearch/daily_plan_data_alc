@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G09",
-        "download_time": "13-08-2024 22:35:09"
+        "download_time": "13-08-2024 23:40:10"
     },
     {
         "aodbUniqueId": "20240813877997",
@@ -971,16 +971,6 @@ let MUC_Gate_Info = `[
         "Gate": "G65"
     },
     {
-        "aodbUniqueId": "20240813878391",
-        "Date": "13-08-2024",
-        "Flight": "LH 2182",
-        "Dest": "PAD",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G33"
-    },
-    {
         "aodbUniqueId": "20240813878793",
         "Date": "13-08-2024",
         "Flight": "LH 121",
@@ -999,16 +989,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G32"
-    },
-    {
-        "aodbUniqueId": "20240813878596",
-        "Date": "13-08-2024",
-        "Flight": "EN 8258",
-        "Dest": "TRN",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G39"
     },
     {
         "aodbUniqueId": "20240813878589",
@@ -2821,6 +2801,16 @@ let MUC_Gate_Info = `[
         "Gate": "G02"
     },
     {
+        "aodbUniqueId": "20240813878391",
+        "Date": "13-08-2024",
+        "Flight": "LH 2182",
+        "Dest": "PAD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G33"
+    },
+    {
         "aodbUniqueId": "20240813878355",
         "Date": "13-08-2024",
         "Flight": "LH 111",
@@ -3819,6 +3809,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L13"
+    },
+    {
+        "aodbUniqueId": "20240813878596",
+        "Date": "13-08-2024",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G39"
     },
     {
         "aodbUniqueId": "20240813878090",
