@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "14-08-2024 11:41:27"
+        "download_time": "14-08-2024 12:48:00"
     },
     {
         "InterviewId": "7701",
@@ -44519,6 +44519,78 @@ let interview_data_raw = `[
         "Flight": "CA  436",
         "Dest": "CKG",
         "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "13974",
+        "InterviewEndDate": "2024-08-14 09:39:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13975",
+        "InterviewEndDate": "2024-08-14 09:41:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13976",
+        "InterviewEndDate": "2024-08-14 09:52:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13977",
+        "InterviewEndDate": "2024-08-14 09:59:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2497",
+        "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13978",
+        "InterviewEndDate": "2024-08-14 09:56:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13979",
+        "InterviewEndDate": "2024-08-14 10:06:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2497",
+        "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13980",
+        "InterviewEndDate": "2024-08-14 10:08:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 2497",
+        "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13981",
+        "InterviewEndDate": "2024-08-14 10:08:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "13982",
+        "InterviewEndDate": "2024-08-14 10:08:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
     }
 ]    
 
