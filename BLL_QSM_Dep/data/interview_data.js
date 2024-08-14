@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "14-08-2024 15:56:40"
+        "download_time": "14-08-2024 17:02:14"
     },
     {
         "InterviewId": "6093",
@@ -72863,6 +72863,70 @@ let interview_data_raw = `[
         "Flight": "FR3685",
         "Dest": "KRK",
         "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "19508",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19509",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19510",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19511",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19512",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19513",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19514",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "19515",
+        "InterviewEndDate": "2024-08-14",
+        "InterviewState": "Complete",
+        "Flight": "BA807",
+        "Dest": "LHR",
+        "AirlineCode": "BA807"
     }
 ]    
 
