@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "14-08-2024 09:30:59"
+        "download_time": "14-08-2024 10:38:19"
     },
     {
         "InterviewId": "7701",
@@ -44442,7 +44442,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "13964",
-        "InterviewEndDate": "2024-08-14 07:25:33",
+        "InterviewEndDate": "2024-08-14 08:03:27",
         "InterviewState": "Complete",
         "Flight": "QR  202",
         "Dest": "DOH",
@@ -44471,6 +44471,46 @@ let interview_data_raw = `[
         "Flight": "QR  202",
         "Dest": "DOH",
         "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "13968",
+        "InterviewEndDate": "2024-08-14 07:56:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 6748",
+        "Dest": "GOT",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13969",
+        "InterviewEndDate": "2024-08-14 07:51:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 6748",
+        "Dest": "GOT",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13970",
+        "InterviewEndDate": "2024-08-14 07:54:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 6748",
+        "Dest": "GOT",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "13971",
+        "InterviewEndDate": "2024-08-14 08:24:33",
+        "InterviewState": "Complete",
+        "Flight": "XQ  521",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "13972",
+        "InterviewEndDate": "2024-08-14 08:27:59",
+        "InterviewState": "Complete",
+        "Flight": "XQ  521",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
