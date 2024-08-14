@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-08-2024 20:15:15"
+        "download_time": "14-08-2024 21:20:38"
     },
     {
         "InterviewId": "15819",
@@ -132590,6 +132590,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1818",
         "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35740",
+        "InterviewEndDate": "2024-08-14 18:27:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35741",
+        "InterviewEndDate": "2024-08-14 18:30:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35742",
+        "InterviewEndDate": "2024-08-14 18:29:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35743",
+        "InterviewEndDate": "2024-08-14 18:35:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35744",
+        "InterviewEndDate": "2024-08-14 18:30:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1830",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35749",
+        "InterviewEndDate": "2024-08-14 19:05:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1640",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35750",
+        "InterviewEndDate": "2024-08-14 19:05:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1640",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35751",
+        "InterviewEndDate": "2024-08-14 19:02:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35752",
+        "InterviewEndDate": "2024-08-14 19:03:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "POZ",
         "AirlineCode": "LH"
     }
 ]    
