@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-08-2024 10:30:10"
+        "download_time": "14-08-2024 11:35:05"
     },
     {
         "InterviewId": "15819",
@@ -132249,8 +132249,48 @@ let interview_data_raw = `[
         "AirlineCode": "AA"
     },
     {
+        "InterviewId": "35692",
+        "InterviewEndDate": "2024-08-14 08:32:23",
+        "InterviewState": "Complete",
+        "Flight": "EY126",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "35694",
+        "InterviewEndDate": "2024-08-14 08:31:05",
+        "InterviewState": "Complete",
+        "Flight": "EY126",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "35695",
+        "InterviewEndDate": "2024-08-14 08:32:03",
+        "InterviewState": "Complete",
+        "Flight": "EY126",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
         "InterviewId": "35696",
         "InterviewEndDate": "2024-08-14 08:26:55",
+        "InterviewState": "Complete",
+        "Flight": "EY126",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "35697",
+        "InterviewEndDate": "2024-08-14 08:29:58",
+        "InterviewState": "Complete",
+        "Flight": "EY126",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "35698",
+        "InterviewEndDate": "2024-08-14 08:42:56",
         "InterviewState": "Complete",
         "Flight": "EY126",
         "Dest": "AUH",
