@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-08-2024 11:15:05"
+        "download_time": "16-08-2024 12:20:05"
     },
     {
         "InterviewId": "15819",
@@ -132815,6 +132815,70 @@ let interview_data_raw = `[
         "Flight": "DI6584",
         "Dest": "TFS",
         "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35776",
+        "InterviewEndDate": "2024-08-16 09:36:34",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282Q",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35777",
+        "InterviewEndDate": "2024-08-16 09:37:35",
+        "InterviewState": "Complete",
+        "Flight": "X34282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35778",
+        "InterviewEndDate": "2024-08-16 09:28:28",
+        "InterviewState": "Complete",
+        "Flight": "X34282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35782",
+        "InterviewEndDate": "2024-08-16 09:52:47",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35783",
+        "InterviewEndDate": "2024-08-16 09:55:58",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35784",
+        "InterviewEndDate": "2024-08-16 10:01:56",
+        "InterviewState": "Complete",
+        "Flight": "X34282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35785",
+        "InterviewEndDate": "2024-08-16 09:58:51",
+        "InterviewState": "Complete",
+        "Flight": "X34282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35788",
+        "InterviewEndDate": "2024-08-16 10:10:34",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
     }
 ]    
 
