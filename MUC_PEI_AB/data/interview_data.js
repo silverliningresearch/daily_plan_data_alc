@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-08-2024 06:55:04"
+        "download_time": "16-08-2024 08:00:05"
     },
     {
         "InterviewId": "15819",
@@ -132679,6 +132679,86 @@ let interview_data_raw = `[
         "Flight": "LH 2200",
         "Dest": "BRE",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35759",
+        "InterviewEndDate": "2024-08-16 05:09:46",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35760",
+        "InterviewEndDate": "2024-08-16 05:06:25",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35761",
+        "InterviewEndDate": "2024-08-16 04:59:46",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35762",
+        "InterviewEndDate": "2024-08-16 05:40:42",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35763",
+        "InterviewEndDate": "2024-08-16 05:04:38",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35765",
+        "InterviewEndDate": "2024-08-16 05:19:04",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35766",
+        "InterviewEndDate": "2024-08-16 05:19:14",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35767",
+        "InterviewEndDate": "2024-08-16 05:21:42",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35768",
+        "InterviewEndDate": "2024-08-16 05:25:55",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35769",
+        "InterviewEndDate": "2024-08-16 05:39:03",
+        "InterviewState": "Complete",
+        "Flight": "DI6600",
+        "Dest": "HER",
+        "AirlineCode": "DI"
     }
 ]    
 
