@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-08-2024 12:20:05"
+        "download_time": "16-08-2024 13:25:05"
     },
     {
         "InterviewId": "15819",
@@ -132841,6 +132841,14 @@ let interview_data_raw = `[
         "AirlineCode": "X3"
     },
     {
+        "InterviewId": "35780",
+        "InterviewEndDate": "2024-08-16 10:39:19",
+        "InterviewState": "Complete",
+        "Flight": "DI6400",
+        "Dest": "ACE",
+        "AirlineCode": "DI"
+    },
+    {
         "InterviewId": "35782",
         "InterviewEndDate": "2024-08-16 09:52:47",
         "InterviewState": "Complete",
@@ -132873,12 +132881,60 @@ let interview_data_raw = `[
         "AirlineCode": "X3"
     },
     {
+        "InterviewId": "35786",
+        "InterviewEndDate": "2024-08-16 10:33:12",
+        "InterviewState": "Complete",
+        "Flight": "DI6400",
+        "Dest": "ACE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35787",
+        "InterviewEndDate": "2024-08-16 10:29:41",
+        "InterviewState": "Complete",
+        "Flight": "DI6400",
+        "Dest": "ACE",
+        "AirlineCode": "DI"
+    },
+    {
         "InterviewId": "35788",
         "InterviewEndDate": "2024-08-16 10:10:34",
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "35789",
+        "InterviewEndDate": "2024-08-16 10:48:01",
+        "InterviewState": "Complete",
+        "Flight": "DI6400",
+        "Dest": "ACE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35790",
+        "InterviewEndDate": "2024-08-16 10:47:50",
+        "InterviewState": "Complete",
+        "Flight": "DI6400",
+        "Dest": "ACE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35791",
+        "InterviewEndDate": "2024-08-16 10:48:22",
+        "InterviewState": "Complete",
+        "Flight": "DI6400",
+        "Dest": "ACE",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35792",
+        "InterviewEndDate": "2024-08-16 10:49:44",
+        "InterviewState": "Complete",
+        "Flight": "DI6400",
+        "Dest": "ACE",
+        "AirlineCode": "DI"
     }
 ]    
 
