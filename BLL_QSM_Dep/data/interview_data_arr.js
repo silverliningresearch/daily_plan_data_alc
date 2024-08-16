@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "16-08-2024 10:11:44"
+        "download_time": "16-08-2024 11:16:31"
     },
     {
         "InterviewId": "2077",
@@ -23231,6 +23231,102 @@ let interview_data_arr_raw = `[
         "Flight": "SK - Scandinavian Airlines System (SAS)",
         "Dest": "OSL",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "7415",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7416",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7417",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7418",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7419",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7420",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7421",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7422",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7423",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7424",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7425",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7426",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
     }
 ]    
 

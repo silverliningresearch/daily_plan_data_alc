@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-08-2024 10:10:08"
+        "download_time": "16-08-2024 11:15:05"
     },
     {
         "InterviewId": "15819",
@@ -132665,6 +132665,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "35754",
+        "InterviewEndDate": "2024-08-16 08:31:34",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
         "InterviewId": "35757",
         "InterviewEndDate": "2024-08-14 19:27:27",
         "InterviewState": "Complete",
@@ -132758,6 +132766,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "DI6600",
         "Dest": "HER",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35770",
+        "InterviewEndDate": "2024-08-16 08:29:56",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35771",
+        "InterviewEndDate": "2024-08-16 08:28:21",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35772",
+        "InterviewEndDate": "2024-08-16 08:28:39",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35773",
+        "InterviewEndDate": "2024-08-16 08:28:33",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "35774",
+        "InterviewEndDate": "2024-08-16 08:45:06",
+        "InterviewState": "Complete",
+        "Flight": "ID6584",
+        "Dest": "TFS",
+        "AirlineCode": "ID"
+    },
+    {
+        "InterviewId": "35775",
+        "InterviewEndDate": "2024-08-16 08:53:07",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
         "AirlineCode": "DI"
     }
 ]    
