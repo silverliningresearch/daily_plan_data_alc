@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-08-2024 08:01:26"
+        "download_time": "16-08-2024 09:06:29"
     },
     {
         "InterviewId": "6093",
@@ -72999,6 +72999,62 @@ let interview_data_raw = `[
         "Flight": "KL1298",
         "Dest": "AMS",
         "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "19530",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "19531",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "19532",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "19533",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "19534",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "19538",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "19539",
+        "InterviewEndDate": "2024-08-16",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
     }
 ]    
 

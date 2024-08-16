@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "16-08-2024 08:01:10"
+        "download_time": "16-08-2024 09:06:11"
     },
     {
         "InterviewId": "5167",
@@ -42927,6 +42927,118 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "EMPTY",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11778",
+        "InterviewEndDate": "2024-08-16 06:16:07",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "11779",
+        "InterviewEndDate": "2024-08-16 06:10:48",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "11780",
+        "InterviewEndDate": "2024-08-16 06:14:22",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "11781",
+        "InterviewEndDate": "2024-08-16 06:13:23",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "11782",
+        "InterviewEndDate": "2024-08-16 06:21:11",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "11784",
+        "InterviewEndDate": "2024-08-16 06:26:31",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11785",
+        "InterviewEndDate": "2024-08-16 06:28:05",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11786",
+        "InterviewEndDate": "2024-08-16 06:28:06",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11787",
+        "InterviewEndDate": "2024-08-16 06:37:45",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11788",
+        "InterviewEndDate": "2024-08-16 06:36:45",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11789",
+        "InterviewEndDate": "2024-08-16 06:36:19",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11790",
+        "InterviewEndDate": "2024-08-16 06:49:11",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11791",
+        "InterviewEndDate": "2024-08-16 06:47:41",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "11792",
+        "InterviewEndDate": "2024-08-16 06:45:27",
+        "InterviewState": "Complete",
+        "Flight": "DL - Delta Air Lines",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
     }
 ]    
 
