@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-08-2024 10:01:29"
+        "download_time": "17-08-2024 11:06:25"
     },
     {
         "InterviewId": "6093",
@@ -73407,6 +73407,78 @@ let interview_data_raw = `[
         "Flight": "XQ575",
         "Dest": "AYT",
         "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19590",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19592",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19593",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19594",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19595",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19596",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19597",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19598",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
+    },
+    {
+        "InterviewId": "19599",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "FH472",
+        "Dest": "BJV",
+        "AirlineCode": "FH472"
     }
 ]    
 
