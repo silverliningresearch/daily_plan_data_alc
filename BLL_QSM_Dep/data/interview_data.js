@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-08-2024 08:56:23"
+        "download_time": "17-08-2024 10:01:29"
     },
     {
         "InterviewId": "6093",
@@ -73335,6 +73335,78 @@ let interview_data_raw = `[
         "Flight": "FR3685",
         "Dest": "KRK",
         "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "19579",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19580",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19581",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19582",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19583",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19584",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19585",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19587",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "19588",
+        "InterviewEndDate": "2024-08-17",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
     }
 ]    
 
