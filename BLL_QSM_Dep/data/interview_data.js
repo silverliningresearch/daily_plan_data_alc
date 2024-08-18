@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-08-2024 15:16:42"
+        "download_time": "18-08-2024 16:21:52"
     },
     {
         "InterviewId": "6093",
@@ -73553,6 +73553,14 @@ let interview_data_raw = `[
         "AirlineCode": "CAT333"
     },
     {
+        "InterviewId": "19615",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
         "InterviewId": "19616",
         "InterviewEndDate": "2024-08-18",
         "InterviewState": "Complete",
@@ -73569,12 +73577,36 @@ let interview_data_raw = `[
         "AirlineCode": "CAT333"
     },
     {
+        "InterviewId": "19618",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
         "InterviewId": "19619",
         "InterviewEndDate": "2024-08-18",
         "InterviewState": "Complete",
         "Flight": "CAT333",
         "Dest": "CHQ",
         "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "19620",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "19622",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "C344",
+        "Dest": "CHQ",
+        "AirlineCode": "C344"
     }
 ]    
 
