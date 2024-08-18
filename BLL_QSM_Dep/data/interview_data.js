@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-08-2024 17:26:24"
+        "download_time": "18-08-2024 18:31:23"
     },
     {
         "InterviewId": "6093",
@@ -73607,6 +73607,78 @@ let interview_data_raw = `[
         "Flight": "C344",
         "Dest": "CHQ",
         "AirlineCode": "C344"
+    },
+    {
+        "InterviewId": "19641",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19642",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19643",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19644",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19645",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19646",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19647",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19648",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19649",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "GQ6403",
+        "Dest": "RHO",
+        "AirlineCode": "GQ6403"
     }
 ]    
 
