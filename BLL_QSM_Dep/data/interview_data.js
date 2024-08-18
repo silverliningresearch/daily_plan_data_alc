@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-08-2024 18:31:23"
+        "download_time": "18-08-2024 19:36:26"
     },
     {
         "InterviewId": "6093",
@@ -73679,6 +73679,78 @@ let interview_data_raw = `[
         "Flight": "GQ6403",
         "Dest": "RHO",
         "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "19654",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19655",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19656",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19657",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19658",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19659",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19660",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19661",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19662",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
     }
 ]    
 
