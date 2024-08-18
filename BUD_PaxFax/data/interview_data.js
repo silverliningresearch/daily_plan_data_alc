@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "18-08-2024 11:00:53"
+        "download_time": "18-08-2024 12:07:28"
     },
     {
         "InterviewId": "7701",
@@ -44961,6 +44961,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "14034",
+        "InterviewEndDate": "2024-08-18 08:59:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 8247",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "14035",
         "InterviewEndDate": "2024-08-18 08:55:32",
         "InterviewState": "Complete",
@@ -44975,6 +44983,62 @@ let interview_data_raw = `[
         "Flight": "FR 8247",
         "Dest": "CIA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14037",
+        "InterviewEndDate": "2024-08-18 09:22:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14038",
+        "InterviewEndDate": "2024-08-18 09:23:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14039",
+        "InterviewEndDate": "2024-08-18 09:20:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14040",
+        "InterviewEndDate": "2024-08-18 09:23:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14041",
+        "InterviewEndDate": "2024-08-18 09:23:02",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "14044",
+        "InterviewEndDate": "2024-08-18 09:27:54",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "14045",
+        "InterviewEndDate": "2024-08-18 09:29:04",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 

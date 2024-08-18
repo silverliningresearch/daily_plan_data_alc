@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "18-08-2024 10:58:04"
+        "download_time": "18-08-2024 12:03:04"
     },
     {
         "InterviewId": "3965",
@@ -40215,6 +40215,62 @@ let interview_data_raw = `[
         "Flight": "FR 8247",
         "Dest": "CIA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9237",
+        "InterviewEndDate": "2024-08-18 09:10:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9238",
+        "InterviewEndDate": "2024-08-18 09:12:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9239",
+        "InterviewEndDate": "2024-08-18 09:11:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9240",
+        "InterviewEndDate": "2024-08-18 09:10:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9241",
+        "InterviewEndDate": "2024-08-18 09:25:31",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "9242",
+        "InterviewEndDate": "2024-08-18 09:21:24",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "9243",
+        "InterviewEndDate": "2024-08-18 09:23:04",
+        "InterviewState": "Complete",
+        "Flight": "AY 1252",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
