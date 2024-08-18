@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-08-2024 19:36:26"
+        "download_time": "18-08-2024 20:41:21"
     },
     {
         "InterviewId": "6093",
@@ -73751,6 +73751,78 @@ let interview_data_raw = `[
         "Flight": "LH841",
         "Dest": "FRA",
         "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "19663",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19664",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19665",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19666",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19667",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19668",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19669",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19670",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19671",
+        "InterviewEndDate": "2024-08-18",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
     }
 ]    
 
