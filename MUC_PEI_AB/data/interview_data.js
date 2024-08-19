@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-08-2024 19:25:06"
+        "download_time": "19-08-2024 20:31:19"
     },
     {
         "InterviewId": "15819",
@@ -133185,12 +133185,68 @@ let interview_data_raw = `[
         "AirlineCode": "A3"
     },
     {
+        "InterviewId": "35838",
+        "InterviewEndDate": "2024-08-19 17:35:07",
+        "InterviewState": "Complete",
+        "Flight": "A3  503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "35839",
+        "InterviewEndDate": "2024-08-19 17:38:26",
+        "InterviewState": "Complete",
+        "Flight": "A3  503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "35840",
+        "InterviewEndDate": "2024-08-19 17:51:21",
+        "InterviewState": "Complete",
+        "Flight": "A3  503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
         "InterviewId": "35841",
         "InterviewEndDate": "2024-08-19 17:22:58",
         "InterviewState": "Complete",
         "Flight": "A3  503",
         "Dest": "SKG",
         "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "35842",
+        "InterviewEndDate": "2024-08-19 18:17:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35843",
+        "InterviewEndDate": "2024-08-19 18:03:05",
+        "InterviewState": "Complete",
+        "Flight": "Lh 2222",
+        "Dest": "TLS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "35844",
+        "InterviewEndDate": "2024-08-19 18:07:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35845",
+        "InterviewEndDate": "2024-08-19 18:25:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
     }
 ]    
 
