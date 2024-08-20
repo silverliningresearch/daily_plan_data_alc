@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-08-2024 11:40:08"
+        "download_time": "20-08-2024 12:45:11"
     },
     {
         "InterviewId": "15819",
@@ -133529,6 +133529,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "35889",
+        "InterviewEndDate": "2024-08-20 10:16:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 2424",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "35890",
         "InterviewEndDate": "2024-08-20 09:32:41",
         "InterviewState": "Complete",
@@ -133542,6 +133550,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1786",
         "Dest": "FAO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35893",
+        "InterviewEndDate": "2024-08-20 10:15:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2424",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35894",
+        "InterviewEndDate": "2024-08-20 09:42:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35895",
+        "InterviewEndDate": "2024-08-20 10:02:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35897",
+        "InterviewEndDate": "2024-08-20 10:40:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35901",
+        "InterviewEndDate": "2024-08-20 10:36:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1834",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35902",
+        "InterviewEndDate": "2024-08-20 10:44:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
         "AirlineCode": "LH"
     }
 ]    
