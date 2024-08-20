@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "20-08-2024 10:41:18"
+        "download_time": "20-08-2024 11:46:17"
     },
     {
         "InterviewId": "7701",
@@ -45327,6 +45327,62 @@ let interview_data_raw = `[
         "Flight": "W6 2353",
         "Dest": "CTA",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14085",
+        "InterviewEndDate": "2024-08-20 09:01:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "ARN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14086",
+        "InterviewEndDate": "2024-08-20 09:02:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "ARN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14087",
+        "InterviewEndDate": "2024-08-20 09:04:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "ARN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14089",
+        "InterviewEndDate": "2024-08-20 09:08:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2403",
+        "Dest": "ARN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14091",
+        "InterviewEndDate": "2024-08-20 09:32:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14092",
+        "InterviewEndDate": "2024-08-20 09:32:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14093",
+        "InterviewEndDate": "2024-08-20 09:41:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
     }
 ]    
 
