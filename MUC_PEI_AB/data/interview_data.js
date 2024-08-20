@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-08-2024 13:50:11"
+        "download_time": "20-08-2024 14:55:39"
     },
     {
         "InterviewId": "15819",
@@ -133633,6 +133633,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "35908",
+        "InterviewEndDate": "2024-08-20 11:51:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "35909",
         "InterviewEndDate": "2024-08-20 11:30:25",
         "InterviewState": "Complete",
@@ -133646,6 +133654,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2418",
         "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35911",
+        "InterviewEndDate": "2024-08-20 11:49:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35913",
+        "InterviewEndDate": "2024-08-20 11:55:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35914",
+        "InterviewEndDate": "2024-08-20 12:38:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35915",
+        "InterviewEndDate": "2024-08-20 12:36:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35916",
+        "InterviewEndDate": "2024-08-20 12:40:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35917",
+        "InterviewEndDate": "2024-08-20 12:36:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35918",
+        "InterviewEndDate": "2024-08-20 12:38:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
         "AirlineCode": "LH"
     }
 ]    
