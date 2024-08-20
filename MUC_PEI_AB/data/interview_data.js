@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-08-2024 09:30:08"
+        "download_time": "20-08-2024 10:35:07"
     },
     {
         "InterviewId": "15819",
@@ -133367,6 +133367,94 @@ let interview_data_raw = `[
         "Flight": "OS  112",
         "Dest": "LIS",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "35862",
+        "InterviewEndDate": "2024-08-20 07:54:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35863",
+        "InterviewEndDate": "2024-08-20 07:54:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35864",
+        "InterviewEndDate": "2024-08-20 07:51:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35865",
+        "InterviewEndDate": "2024-08-20 08:00:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35866",
+        "InterviewEndDate": "2024-08-20 08:01:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35867",
+        "InterviewEndDate": "2024-08-20 08:09:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35868",
+        "InterviewEndDate": "2024-08-20 08:07:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1612",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35869",
+        "InterviewEndDate": "2024-08-20 08:08:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1612",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35870",
+        "InterviewEndDate": "2024-08-20 08:15:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1612",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35878",
+        "InterviewEndDate": "2024-08-20 08:28:45",
+        "InterviewState": "Complete",
+        "Flight": "EN 8012",
+        "Dest": "GRZ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "35879",
+        "InterviewEndDate": "2024-08-20 08:31:05",
+        "InterviewState": "Complete",
+        "Flight": "EN 8012",
+        "Dest": "GRZ",
+        "AirlineCode": "EN"
     }
 ]    
 
