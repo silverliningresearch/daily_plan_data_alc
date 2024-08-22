@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-08-2024 20:00:07"
+        "download_time": "22-08-2024 21:05:09"
     },
     {
         "InterviewId": "15819",
@@ -134126,6 +134126,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2264",
         "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35976",
+        "InterviewEndDate": "2024-08-22 18:25:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35977",
+        "InterviewEndDate": "2024-08-22 18:18:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35978",
+        "InterviewEndDate": "2024-08-22 18:19:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35979",
+        "InterviewEndDate": "2024-08-22 18:15:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35980",
+        "InterviewEndDate": "2024-08-22 18:17:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35981",
+        "InterviewEndDate": "2024-08-22 18:18:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35982",
+        "InterviewEndDate": "2024-08-22 18:44:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35983",
+        "InterviewEndDate": "2024-08-22 18:45:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35985",
+        "InterviewEndDate": "2024-08-22 18:39:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "35986",
+        "InterviewEndDate": "2024-08-22 18:50:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
         "AirlineCode": "LH"
     }
 ]    
