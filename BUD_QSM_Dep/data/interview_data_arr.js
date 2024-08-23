@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "23-08-2024 16:38:30"
+        "download_time": "23-08-2024 17:43:16"
     },
     {
         "InterviewId": "1224",
@@ -13063,6 +13063,54 @@ let interview_data_arr_raw = `[
         "Flight": "EI - Aer Lingus",
         "Dest": "DUB",
         "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "2881",
+        "InterviewEndDate": "2024-08-23 14:55:30",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2882",
+        "InterviewEndDate": "2024-08-23 15:03:10",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2883",
+        "InterviewEndDate": "2024-08-23 15:11:46",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "2884",
+        "InterviewEndDate": "2024-08-23 15:18:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2885",
+        "InterviewEndDate": "2024-08-23 15:30:13",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2886",
+        "InterviewEndDate": "2024-08-23 15:33:57",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
     }
 ]    
 

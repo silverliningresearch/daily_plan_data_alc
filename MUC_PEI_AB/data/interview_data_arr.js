@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "23-08-2024 16:36:24"
+        "download_time": "23-08-2024 17:41:14"
     },
     {
         "InterviewId": "5167",
@@ -43273,8 +43273,48 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "11829",
+        "InterviewEndDate": "2024-08-23 14:58:03",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
         "InterviewId": "11830",
         "InterviewEndDate": "2024-08-23 14:25:25",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11832",
+        "InterviewEndDate": "2024-08-23 14:53:44",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11833",
+        "InterviewEndDate": "2024-08-23 15:06:56",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11838",
+        "InterviewEndDate": "2024-08-23 15:27:20",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11839",
+        "InterviewEndDate": "2024-08-23 15:28:49",
         "InterviewState": "Complete",
         "Flight": "AF - Air France",
         "Dest": "CDG",
