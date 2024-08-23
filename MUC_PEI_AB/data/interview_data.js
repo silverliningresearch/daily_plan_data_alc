@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-08-2024 18:45:07"
+        "download_time": "23-08-2024 19:51:02"
     },
     {
         "InterviewId": "15819",
@@ -134479,6 +134479,70 @@ let interview_data_raw = `[
         "Flight": "TK 1636",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "36032",
+        "InterviewEndDate": "2024-08-23 16:59:46",
+        "InterviewState": "Complete",
+        "Flight": "XQ 785",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36034",
+        "InterviewEndDate": "2024-08-23 17:13:05",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "36035",
+        "InterviewEndDate": "2024-08-23 17:16:43",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "36036",
+        "InterviewEndDate": "2024-08-23 17:21:04",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "36038",
+        "InterviewEndDate": "2024-08-23 17:20:29",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36039",
+        "InterviewEndDate": "2024-08-23 17:25:53",
+        "InterviewState": "Complete",
+        "Flight": "XQ 785",
+        "Dest": "ASR",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36041",
+        "InterviewEndDate": "2024-08-23 17:30:14",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36042",
+        "InterviewEndDate": "2024-08-23 17:41:59",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
