@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "23-08-2024 17:41:14"
+        "download_time": "23-08-2024 18:46:12"
     },
     {
         "InterviewId": "5167",
@@ -43319,6 +43319,54 @@ let interview_data_arr_raw = `[
         "Flight": "AF - Air France",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "11841",
+        "InterviewEndDate": "2024-08-23 15:45:35",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11842",
+        "InterviewEndDate": "2024-08-23 15:49:40",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11844",
+        "InterviewEndDate": "2024-08-23 15:55:48",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11845",
+        "InterviewEndDate": "2024-08-23 16:10:45",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "11846",
+        "InterviewEndDate": "2024-08-23 16:13:44",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "11847",
+        "InterviewEndDate": "2024-08-23 16:18:19",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
     }
 ]    
 
