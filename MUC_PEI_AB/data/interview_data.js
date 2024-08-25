@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "25-08-2024 16:15:13"
+        "download_time": "25-08-2024 17:20:59"
     },
     {
         "InterviewId": "15819",
@@ -135139,6 +135139,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "36134",
         "InterviewEndDate": "2024-08-25 13:15:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36135",
+        "InterviewEndDate": "2024-08-25 14:31:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36136",
+        "InterviewEndDate": "2024-08-25 14:32:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36137",
+        "InterviewEndDate": "2024-08-25 14:32:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36138",
+        "InterviewEndDate": "2024-08-25 14:40:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36139",
+        "InterviewEndDate": "2024-08-25 14:37:00",
         "InterviewState": "Complete",
         "Flight": "LH 458",
         "Dest": "SFO",
