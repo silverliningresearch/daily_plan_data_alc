@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "26-08-2024 09:37:54"
+        "download_time": "26-08-2024 10:42:03"
     },
     {
         "InterviewId": "6093",
@@ -73913,6 +73913,14 @@ let interview_data_raw = `[
         "AirlineCode": "KL1292"
     },
     {
+        "InterviewId": "19683",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
         "InterviewId": "19684",
         "InterviewEndDate": "2024-08-26",
         "InterviewState": "Complete",
@@ -73945,12 +73953,92 @@ let interview_data_raw = `[
         "AirlineCode": "KL1292"
     },
     {
+        "InterviewId": "19688",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
         "InterviewId": "19689",
         "InterviewEndDate": "2024-08-26",
         "InterviewState": "Complete",
         "Flight": "KL1292",
         "Dest": "AMS",
         "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19690",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19691",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19692",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19693",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19694",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19695",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19696",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19697",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "19698",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
     }
 ]    
 
