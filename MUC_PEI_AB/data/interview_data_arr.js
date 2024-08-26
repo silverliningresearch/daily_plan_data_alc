@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-08-2024 12:51:26"
+        "download_time": "26-08-2024 13:57:07"
     },
     {
         "InterviewId": "5167",
@@ -43367,6 +43367,54 @@ let interview_data_arr_raw = `[
         "Flight": "UX - Air Europa",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "11849",
+        "InterviewEndDate": "2024-08-26 11:34:40",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "11850",
+        "InterviewEndDate": "2024-08-26 11:46:08",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "DLM",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "11851",
+        "InterviewEndDate": "2024-08-26 11:35:08",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "DLM",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "11852",
+        "InterviewEndDate": "2024-08-26 11:47:15",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "DLM",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "11853",
+        "InterviewEndDate": "2024-08-26 11:48:35",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "DLM",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "11854",
+        "InterviewEndDate": "2024-08-26 11:55:50",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
