@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-08-2024 19:20:12"
+        "download_time": "26-08-2024 20:25:12"
     },
     {
         "InterviewId": "15819",
@@ -135969,12 +135969,76 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
+        "InterviewId": "36256",
+        "InterviewEndDate": "2024-08-26 17:20:48",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
         "InterviewId": "36257",
         "InterviewEndDate": "2024-08-26 17:15:46",
         "InterviewState": "Complete",
         "Flight": "VY 1817",
         "Dest": "BCN",
         "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "36260",
+        "InterviewEndDate": "2024-08-26 17:36:58",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36261",
+        "InterviewEndDate": "2024-08-26 17:52:29",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36262",
+        "InterviewEndDate": "2024-08-26 17:47:25",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36263",
+        "InterviewEndDate": "2024-08-26 17:51:16",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36265",
+        "InterviewEndDate": "2024-08-26 17:58:25",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "36266",
+        "InterviewEndDate": "2024-08-26 18:01:26",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36267",
+        "InterviewEndDate": "2024-08-26 18:13:20",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
