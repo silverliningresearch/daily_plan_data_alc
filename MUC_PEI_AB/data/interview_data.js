@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-08-2024 18:15:31"
+        "download_time": "26-08-2024 19:20:12"
     },
     {
         "InterviewId": "15819",
@@ -135857,12 +135857,124 @@ let interview_data_raw = `[
         "AirlineCode": "AY"
     },
     {
+        "InterviewId": "36237",
+        "InterviewEndDate": "2024-08-26 16:17:55",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
         "InterviewId": "36238",
         "InterviewEndDate": "2024-08-26 16:13:38",
         "InterviewState": "Complete",
         "Flight": "UX 1518",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "36239",
+        "InterviewEndDate": "2024-08-26 16:29:22",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "36241",
+        "InterviewEndDate": "2024-08-26 16:30:52",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "36242",
+        "InterviewEndDate": "2024-08-26 16:28:58",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "36243",
+        "InterviewEndDate": "2024-08-26 16:32:21",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "36244",
+        "InterviewEndDate": "2024-08-26 16:33:48",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "36245",
+        "InterviewEndDate": "2024-08-26 16:28:53",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36246",
+        "InterviewEndDate": "2024-08-26 16:45:35",
+        "InterviewState": "Complete",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "36248",
+        "InterviewEndDate": "2024-08-26 16:41:32",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36249",
+        "InterviewEndDate": "2024-08-26 16:47:07",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36250",
+        "InterviewEndDate": "2024-08-26 16:58:17",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "36254",
+        "InterviewEndDate": "2024-08-26 17:04:35",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "36255",
+        "InterviewEndDate": "2024-08-26 17:15:34",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "36257",
+        "InterviewEndDate": "2024-08-26 17:15:46",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
