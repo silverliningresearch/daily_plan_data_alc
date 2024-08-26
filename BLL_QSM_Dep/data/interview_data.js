@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "26-08-2024 08:34:16"
+        "download_time": "26-08-2024 09:37:54"
     },
     {
         "InterviewId": "6093",
@@ -73823,6 +73823,134 @@ let interview_data_raw = `[
         "Flight": "LO468",
         "Dest": "WAW",
         "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19672",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19673",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19674",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19675",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19676",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19677",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19678",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19679",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19680",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "19681",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19682",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19684",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19685",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19686",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19687",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "19689",
+        "InterviewEndDate": "2024-08-26",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
     }
 ]    
 
