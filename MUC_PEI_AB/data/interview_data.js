@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-08-2024 10:40:36"
+        "download_time": "26-08-2024 11:45:12"
     },
     {
         "InterviewId": "15819",
@@ -135481,6 +135481,14 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
+        "InterviewId": "36184",
+        "InterviewEndDate": "2024-08-26 08:40:08",
+        "InterviewState": "Complete",
+        "Flight": "XQ  997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
         "InterviewId": "36185",
         "InterviewEndDate": "2024-08-26 08:22:10",
         "InterviewState": "Complete",
@@ -135511,6 +135519,86 @@ let interview_data_raw = `[
         "Flight": "XQ  997",
         "Dest": "ADB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36189",
+        "InterviewEndDate": "2024-08-26 08:56:52",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36190",
+        "InterviewEndDate": "2024-08-26 09:02:57",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36191",
+        "InterviewEndDate": "2024-08-26 08:59:18",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36192",
+        "InterviewEndDate": "2024-08-26 08:55:06",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36193",
+        "InterviewEndDate": "2024-08-26 09:28:04",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "36194",
+        "InterviewEndDate": "2024-08-26 09:24:34",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "36195",
+        "InterviewEndDate": "2024-08-26 09:25:36",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "36197",
+        "InterviewEndDate": "2024-08-26 09:31:23",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "36198",
+        "InterviewEndDate": "2024-08-26 09:28:18",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "36199",
+        "InterviewEndDate": "2024-08-26 09:40:14",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
     }
 ]    
 
