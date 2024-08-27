@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-08-2024 07:16:16"
+        "download_time": "27-08-2024 08:21:14"
     },
     {
         "InterviewId": "5167",
@@ -43703,6 +43703,30 @@ let interview_data_arr_raw = `[
         "Flight": "SQ - Singapore Airlines",
         "Dest": "SIN",
         "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "11900",
+        "InterviewEndDate": "2024-08-27 05:16:07",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "11901",
+        "InterviewEndDate": "2024-08-27 05:29:26",
+        "InterviewState": "Complete",
+        "Flight": "Sigapure Airlines",
+        "Dest": "EMPTY",
+        "AirlineCode": "Sigapure"
+    },
+    {
+        "InterviewId": "11902",
+        "InterviewEndDate": "2024-08-27 05:43:07",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
     }
 ]    
 
