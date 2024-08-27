@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-08-2024 19:10:18"
+        "download_time": "27-08-2024 20:15:13"
     },
     {
         "InterviewId": "15819",
@@ -136761,6 +136761,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "36379",
+        "InterviewEndDate": "2024-08-27 18:09:17",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
         "InterviewId": "36380",
         "InterviewEndDate": "2024-08-27 16:01:37",
         "InterviewState": "Complete",
@@ -136833,6 +136841,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "36390",
+        "InterviewEndDate": "2024-08-27 17:14:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "36391",
         "InterviewEndDate": "2024-08-27 16:50:01",
         "InterviewState": "Complete",
@@ -136854,6 +136870,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2432",
         "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36394",
+        "InterviewEndDate": "2024-08-27 17:46:39",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36395",
+        "InterviewEndDate": "2024-08-27 17:39:41",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36396",
+        "InterviewEndDate": "2024-08-27 17:51:10",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36397",
+        "InterviewEndDate": "2024-08-27 17:48:06",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36398",
+        "InterviewEndDate": "2024-08-27 17:43:54",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36400",
+        "InterviewEndDate": "2024-08-27 18:08:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
         "AirlineCode": "LH"
     }
 ]    
