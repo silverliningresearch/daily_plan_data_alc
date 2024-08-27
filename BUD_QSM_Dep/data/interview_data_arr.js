@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "27-08-2024 11:38:38"
+        "download_time": "27-08-2024 12:43:30"
     },
     {
         "InterviewId": "1224",
@@ -13334,6 +13334,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
         "Dest": "ZTH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2915",
+        "InterviewEndDate": "2024-08-27 09:39:57",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "2916",
+        "InterviewEndDate": "2024-08-27 09:55:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2917",
+        "InterviewEndDate": "2024-08-27 09:58:45",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "2918",
+        "InterviewEndDate": "2024-08-27 10:13:33",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "SKG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2919",
+        "InterviewEndDate": "2024-08-27 10:36:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2920",
+        "InterviewEndDate": "2024-08-27 10:41:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IST",
         "AirlineCode": "W6"
     }
 ]    
