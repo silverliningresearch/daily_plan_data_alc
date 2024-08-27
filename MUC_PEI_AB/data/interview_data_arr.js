@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-08-2024 06:12:08"
+        "download_time": "27-08-2024 07:16:16"
     },
     {
         "InterviewId": "5167",
@@ -43639,6 +43639,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BKK",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11892",
+        "InterviewEndDate": "2024-08-27 04:30:59",
+        "InterviewState": "Complete",
+        "Flight": "Luftansa",
+        "Dest": "SIN",
+        "AirlineCode": "Luftansa"
+    },
+    {
+        "InterviewId": "11893",
+        "InterviewEndDate": "2024-08-27 04:26:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11894",
+        "InterviewEndDate": "2024-08-27 04:24:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11895",
+        "InterviewEndDate": "2024-08-27 04:37:02",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "11896",
+        "InterviewEndDate": "2024-08-27 04:47:00",
+        "InterviewState": "Complete",
+        "Flight": "0B - Blue Air",
+        "Dest": "DEL",
+        "AirlineCode": "0B"
+    },
+    {
+        "InterviewId": "11897",
+        "InterviewEndDate": "2024-08-27 04:52:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11898",
+        "InterviewEndDate": "2024-08-27 04:58:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CAI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11899",
+        "InterviewEndDate": "2024-08-27 05:09:48",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
     }
 ]    
 
