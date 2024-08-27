@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-08-2024 12:40:19"
+        "download_time": "27-08-2024 13:45:26"
     },
     {
         "InterviewId": "15819",
@@ -136281,6 +136281,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "36311",
+        "InterviewEndDate": "2024-08-27 11:18:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "36312",
         "InterviewEndDate": "2024-08-27 09:55:42",
         "InterviewState": "Complete",
@@ -136446,6 +136454,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1868",
         "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36338",
+        "InterviewEndDate": "2024-08-27 11:30:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1878",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36339",
+        "InterviewEndDate": "2024-08-27 11:32:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1878",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36340",
+        "InterviewEndDate": "2024-08-27 11:36:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1878",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36344",
+        "InterviewEndDate": "2024-08-27 11:38:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1662",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36345",
+        "InterviewEndDate": "2024-08-27 11:40:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1662",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36346",
+        "InterviewEndDate": "2024-08-27 11:43:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1644",
+        "Dest": "GDN",
         "AirlineCode": "LH"
     }
 ]    
