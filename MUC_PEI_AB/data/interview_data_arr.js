@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "28-08-2024 19:01:22"
+        "download_time": "28-08-2024 20:07:55"
     },
     {
         "InterviewId": "5167",
@@ -43791,6 +43791,102 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "TIA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11935",
+        "InterviewEndDate": "2024-08-28 17:30:58",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11938",
+        "InterviewEndDate": "2024-08-28 17:24:06",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11939",
+        "InterviewEndDate": "2024-08-28 17:23:54",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "11940",
+        "InterviewEndDate": "2024-08-28 17:18:51",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "11941",
+        "InterviewEndDate": "2024-08-28 17:26:38",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "MAD",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11942",
+        "InterviewEndDate": "2024-08-28 17:29:53",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "11943",
+        "InterviewEndDate": "2024-08-28 17:27:49",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "11944",
+        "InterviewEndDate": "2024-08-28 17:43:17",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "11945",
+        "InterviewEndDate": "2024-08-28 17:46:54",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "11946",
+        "InterviewEndDate": "2024-08-28 17:42:49",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "11948",
+        "InterviewEndDate": "2024-08-28 17:57:30",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11949",
+        "InterviewEndDate": "2024-08-28 17:59:59",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
