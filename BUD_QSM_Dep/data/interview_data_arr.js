@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "28-08-2024 10:25:11"
+        "download_time": "28-08-2024 11:28:28"
     },
     {
         "InterviewId": "1224",
@@ -13383,6 +13383,30 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizz Air",
         "Dest": "IST",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2921",
+        "InterviewEndDate": "2024-08-28 09:11:06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2922",
+        "InterviewEndDate": "2024-08-28 09:20:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EMA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2923",
+        "InterviewEndDate": "2024-08-28 09:26:26",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
