@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-08-2024 06:55:13"
+        "download_time": "29-08-2024 08:00:15"
     },
     {
         "InterviewId": "15819",
@@ -137247,6 +137247,46 @@ let interview_data_raw = `[
         "Flight": "EK  052",
         "Dest": "DXB",
         "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36456",
+        "InterviewEndDate": "2024-08-29 05:45:11",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "36457",
+        "InterviewEndDate": "2024-08-29 05:56:20",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "36458",
+        "InterviewEndDate": "2024-08-29 05:54:28",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "36459",
+        "InterviewEndDate": "2024-08-29 05:47:58",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "36460",
+        "InterviewEndDate": "2024-08-29 05:45:17",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
     }
 ]    
 

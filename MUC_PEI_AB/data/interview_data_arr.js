@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-08-2024 06:56:15"
+        "download_time": "29-08-2024 08:01:24"
     },
     {
         "InterviewId": "5167",
@@ -43961,6 +43961,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "11965",
+        "InterviewEndDate": "2024-08-29 05:04:48",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "11966",
         "InterviewEndDate": "2024-08-29 03:55:43",
         "InterviewState": "Complete",
@@ -44015,6 +44023,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "LUX",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11974",
+        "InterviewEndDate": "2024-08-29 05:16:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11975",
+        "InterviewEndDate": "2024-08-29 05:25:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "11976",
+        "InterviewEndDate": "2024-08-29 05:34:44",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "11977",
+        "InterviewEndDate": "2024-08-29 05:46:53",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "11978",
+        "InterviewEndDate": "2024-08-29 05:54:41",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
