@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-08-2024 14:30:18"
+        "download_time": "29-08-2024 15:35:18"
     },
     {
         "InterviewId": "15819",
@@ -137655,6 +137655,62 @@ let interview_data_raw = `[
         "Flight": "LH 1834",
         "Dest": "AGP",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36520",
+        "InterviewEndDate": "2024-08-29 12:55:54",
+        "InterviewState": "Complete",
+        "Flight": "EW 9089",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36521",
+        "InterviewEndDate": "2024-08-29 12:54:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36522",
+        "InterviewEndDate": "2024-08-29 12:59:41",
+        "InterviewState": "Complete",
+        "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36526",
+        "InterviewEndDate": "2024-08-29 12:44:33",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36529",
+        "InterviewEndDate": "2024-08-29 12:57:45",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36530",
+        "InterviewEndDate": "2024-08-29 12:53:20",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36531",
+        "InterviewEndDate": "2024-08-29 13:05:56",
+        "InterviewState": "Complete",
+        "Flight": "EN 8072",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
     }
 ]    
 
