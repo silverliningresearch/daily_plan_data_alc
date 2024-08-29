@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-08-2024 10:10:34"
+        "download_time": "29-08-2024 11:15:19"
     },
     {
         "InterviewId": "15819",
@@ -137414,6 +137414,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1668",
         "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36490",
+        "InterviewEndDate": "2024-08-29 08:38:19",
+        "InterviewState": "Complete",
+        "Flight": "EN 8300",
+        "Dest": "AOI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36491",
+        "InterviewEndDate": "2024-08-29 08:39:38",
+        "InterviewState": "Complete",
+        "Flight": "EN 8300",
+        "Dest": "AOI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36492",
+        "InterviewEndDate": "2024-08-29 08:23:36",
+        "InterviewState": "Complete",
+        "Flight": "En8300",
+        "Dest": "AOI",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "36493",
+        "InterviewEndDate": "2024-08-29 08:42:20",
+        "InterviewState": "Complete",
+        "Flight": "EN 8300",
+        "Dest": "AOI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36494",
+        "InterviewEndDate": "2024-08-29 08:45:01",
+        "InterviewState": "Complete",
+        "Flight": "EN 8300",
+        "Dest": "AOI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36495",
+        "InterviewEndDate": "2024-08-29 08:20:42",
+        "InterviewState": "Complete",
+        "Flight": "EN 8294",
+        "Dest": "GOA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36496",
+        "InterviewEndDate": "2024-08-29 08:33:17",
+        "InterviewState": "Complete",
+        "Flight": "EN 8294",
+        "Dest": "GOA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36497",
+        "InterviewEndDate": "2024-08-29 08:46:04",
+        "InterviewState": "Complete",
+        "Flight": "EN 8294",
+        "Dest": "GOA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36498",
+        "InterviewEndDate": "2024-08-29 08:52:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2124",
+        "Dest": "DRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36501",
+        "InterviewEndDate": "2024-08-29 09:02:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2124",
+        "Dest": "DRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36502",
+        "InterviewEndDate": "2024-08-29 09:11:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2230",
+        "Dest": "CDG",
         "AirlineCode": "LH"
     }
 ]    
