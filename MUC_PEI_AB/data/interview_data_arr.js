@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-08-2024 12:23:10"
+        "download_time": "29-08-2024 13:27:23"
     },
     {
         "InterviewId": "5167",
@@ -44079,6 +44079,54 @@ let interview_data_arr_raw = `[
         "Flight": "BR - Eva Airways",
         "Dest": "KIX",
         "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "11981",
+        "InterviewEndDate": "2024-08-29 10:48:57",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11982",
+        "InterviewEndDate": "2024-08-29 11:22:48",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11984",
+        "InterviewEndDate": "2024-08-29 10:55:45",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11986",
+        "InterviewEndDate": "2024-08-29 10:39:47",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11987",
+        "InterviewEndDate": "2024-08-29 10:47:09",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "11988",
+        "InterviewEndDate": "2024-08-29 10:48:17",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
     }
 ]    
 
