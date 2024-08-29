@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-08-2024 17:46:24"
+        "download_time": "29-08-2024 18:51:22"
     },
     {
         "InterviewId": "5167",
@@ -44167,6 +44167,94 @@ let interview_data_arr_raw = `[
         "Flight": "",
         "Dest": "RHO",
         "AirlineCode": ""
+    },
+    {
+        "InterviewId": "11998",
+        "InterviewEndDate": "2024-08-29 15:55:59",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "11999",
+        "InterviewEndDate": "2024-08-29 15:53:21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "12000",
+        "InterviewEndDate": "2024-08-29 16:07:16",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "12001",
+        "InterviewEndDate": "2024-08-29 16:05:47",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "12002",
+        "InterviewEndDate": "2024-08-29 16:12:57",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12003",
+        "InterviewEndDate": "2024-08-29 16:13:58",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "12004",
+        "InterviewEndDate": "2024-08-29 16:18:10",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "12005",
+        "InterviewEndDate": "2024-08-29 16:23:52",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12006",
+        "InterviewEndDate": "2024-08-29 16:23:11",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "12007",
+        "InterviewEndDate": "2024-08-29 16:28:47",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "12008",
+        "InterviewEndDate": "2024-08-29 16:29:51",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
     }
 ]    
 
