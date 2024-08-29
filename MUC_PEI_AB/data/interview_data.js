@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-08-2024 09:05:18"
+        "download_time": "29-08-2024 10:10:34"
     },
     {
         "InterviewId": "15819",
@@ -137311,6 +137311,110 @@ let interview_data_raw = `[
         "Flight": "SM 2931",
         "Dest": "HRG",
         "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "36466",
+        "InterviewEndDate": "2024-08-29 08:05:15",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36467",
+        "InterviewEndDate": "2024-08-29 08:06:11",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36468",
+        "InterviewEndDate": "2024-08-29 08:02:31",
+        "InterviewState": "Complete",
+        "Flight": "DL239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36469",
+        "InterviewEndDate": "2024-08-29 08:04:54",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36470",
+        "InterviewEndDate": "2024-08-29 07:12:38",
+        "InterviewState": "Complete",
+        "Flight": "LH1668",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36471",
+        "InterviewEndDate": "2024-08-29 07:28:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1668",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36472",
+        "InterviewEndDate": "2024-08-29 07:29:19",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36474",
+        "InterviewEndDate": "2024-08-29 07:39:33",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36475",
+        "InterviewEndDate": "2024-08-29 07:29:41",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36477",
+        "InterviewEndDate": "2024-08-29 07:35:49",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36478",
+        "InterviewEndDate": "2024-08-29 07:33:11",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "36482",
+        "InterviewEndDate": "2024-08-29 07:51:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1668",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36487",
+        "InterviewEndDate": "2024-08-29 08:03:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1668",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
     }
 ]    
 
