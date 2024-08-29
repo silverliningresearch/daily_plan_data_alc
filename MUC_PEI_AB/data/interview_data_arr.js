@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-08-2024 21:01:23"
+        "download_time": "29-08-2024 22:07:05"
     },
     {
         "InterviewId": "5167",
@@ -44279,6 +44279,46 @@ let interview_data_arr_raw = `[
         "Flight": "AZ - Alitalia",
         "Dest": "FCO",
         "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "12012",
+        "InterviewEndDate": "2024-08-29 19:01:36",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "12013",
+        "InterviewEndDate": "2024-08-29 19:04:40",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "12014",
+        "InterviewEndDate": "2024-08-29 19:29:33",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "12015",
+        "InterviewEndDate": "2024-08-29 19:29:31",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "12016",
+        "InterviewEndDate": "2024-08-29 19:41:00",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "KGS",
+        "AirlineCode": "DE"
     }
 ]    
 
