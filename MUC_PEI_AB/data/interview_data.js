@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-08-2024 17:35:28"
+        "download_time": "30-08-2024 18:40:19"
     },
     {
         "InterviewId": "15819",
@@ -137991,6 +137991,78 @@ let interview_data_raw = `[
         "Flight": "UX 1518",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "36584",
+        "InterviewEndDate": "2024-08-30 15:45:42",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "36586",
+        "InterviewEndDate": "2024-08-30 16:00:02",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "36587",
+        "InterviewEndDate": "2024-08-30 15:58:06",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "36588",
+        "InterviewEndDate": "2024-08-30 16:13:05",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "36589",
+        "InterviewEndDate": "2024-08-30 16:15:44",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "36590",
+        "InterviewEndDate": "2024-08-30 16:24:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36591",
+        "InterviewEndDate": "2024-08-30 16:31:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36592",
+        "InterviewEndDate": "2024-08-30 16:34:06",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "36593",
+        "InterviewEndDate": "2024-08-30 16:29:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
     }
 ]    
 
