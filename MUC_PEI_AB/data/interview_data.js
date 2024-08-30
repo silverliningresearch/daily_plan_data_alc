@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-08-2024 16:30:17"
+        "download_time": "30-08-2024 17:35:28"
     },
     {
         "InterviewId": "15819",
@@ -137913,6 +137913,14 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "36565",
+        "InterviewEndDate": "2024-08-30 14:31:16",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
         "InterviewId": "36566",
         "InterviewEndDate": "2024-08-30 14:28:46",
         "InterviewState": "Complete",
@@ -137927,6 +137935,62 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "36569",
+        "InterviewEndDate": "2024-08-30 14:31:33",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36570",
+        "InterviewEndDate": "2024-08-30 14:34:31",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "36571",
+        "InterviewEndDate": "2024-08-30 14:46:13",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36574",
+        "InterviewEndDate": "2024-08-30 15:03:58",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "36576",
+        "InterviewEndDate": "2024-08-30 15:01:08",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36578",
+        "InterviewEndDate": "2024-08-30 15:20:54",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36583",
+        "InterviewEndDate": "2024-08-30 15:33:40",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
     }
 ]    
 
