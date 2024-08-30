@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-08-2024 18:40:19"
+        "download_time": "30-08-2024 19:45:16"
     },
     {
         "InterviewId": "15819",
@@ -138062,6 +138062,134 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1756",
         "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36595",
+        "InterviewEndDate": "2024-08-30 16:47:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36596",
+        "InterviewEndDate": "2024-08-30 16:37:54",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36597",
+        "InterviewEndDate": "2024-08-30 16:46:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36598",
+        "InterviewEndDate": "2024-08-30 16:39:42",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "36599",
+        "InterviewEndDate": "2024-08-30 16:45:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36600",
+        "InterviewEndDate": "2024-08-30 17:15:32",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "36601",
+        "InterviewEndDate": "2024-08-30 17:19:09",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "36602",
+        "InterviewEndDate": "2024-08-30 17:05:09",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "36603",
+        "InterviewEndDate": "2024-08-30 17:08:18",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "36604",
+        "InterviewEndDate": "2024-08-30 17:10:12",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "36605",
+        "InterviewEndDate": "2024-08-30 17:23:05",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "36606",
+        "InterviewEndDate": "2024-08-30 17:23:24",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "36608",
+        "InterviewEndDate": "2024-08-30 17:39:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36609",
+        "InterviewEndDate": "2024-08-30 17:38:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36610",
+        "InterviewEndDate": "2024-08-30 17:38:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36611",
+        "InterviewEndDate": "2024-08-30 17:35:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
         "AirlineCode": "LH"
     }
 ]    
