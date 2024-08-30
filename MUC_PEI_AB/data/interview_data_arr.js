@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-08-2024 19:46:21"
+        "download_time": "30-08-2024 20:51:27"
     },
     {
         "InterviewId": "5167",
@@ -44494,6 +44494,62 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12049",
+        "InterviewEndDate": "2024-08-30 17:46:18",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "VNO",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "12050",
+        "InterviewEndDate": "2024-08-30 17:50:46",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12051",
+        "InterviewEndDate": "2024-08-30 17:56:54",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12053",
+        "InterviewEndDate": "2024-08-30 17:59:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12054",
+        "InterviewEndDate": "2024-08-30 18:02:49",
+        "InterviewState": "Complete",
+        "Flight": "OU - Croatia Airlines",
+        "Dest": "DBV",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "12055",
+        "InterviewEndDate": "2024-08-30 18:16:27",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "12058",
+        "InterviewEndDate": "2024-08-30 18:20:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLJ",
         "AirlineCode": "LH"
     }
 ]    
