@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-09-2024 13:50:27"
+        "download_time": "02-09-2024 14:55:23"
     },
     {
         "InterviewId": "15819",
@@ -137458,7 +137458,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "36495",
-        "InterviewEndDate": "2024-08-29 08:20:42",
+        "InterviewEndDate": "2024-09-02 11:51:18",
         "InterviewState": "Complete",
         "Flight": "EN 8294",
         "Dest": "GOA",
@@ -138343,6 +138343,134 @@ let interview_data_raw = `[
         "Flight": "LH 1980",
         "Dest": "CGN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36639",
+        "InterviewEndDate": "2024-09-02 12:00:34",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "36640",
+        "InterviewEndDate": "2024-09-02 11:59:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2442",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36641",
+        "InterviewEndDate": "2024-09-02 12:01:07",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "36644",
+        "InterviewEndDate": "2024-09-02 12:12:07",
+        "InterviewState": "Complete",
+        "Flight": "4Y 452",
+        "Dest": "PMI",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "36645",
+        "InterviewEndDate": "2024-09-02 12:19:11",
+        "InterviewState": "Complete",
+        "Flight": "4Y 452",
+        "Dest": "PMI",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "36646",
+        "InterviewEndDate": "2024-09-02 12:11:58",
+        "InterviewState": "Complete",
+        "Flight": "4Y 452",
+        "Dest": "PMI",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "36647",
+        "InterviewEndDate": "2024-09-02 12:36:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2100",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36648",
+        "InterviewEndDate": "2024-09-02 12:39:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2100",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36649",
+        "InterviewEndDate": "2024-09-02 12:44:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2100",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36651",
+        "InterviewEndDate": "2024-09-02 12:53:31",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36653",
+        "InterviewEndDate": "2024-09-02 12:46:50",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36654",
+        "InterviewEndDate": "2024-09-02 12:42:46",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36655",
+        "InterviewEndDate": "2024-09-02 12:51:12",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36656",
+        "InterviewEndDate": "2024-09-02 12:45:04",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36657",
+        "InterviewEndDate": "2024-09-02 12:54:40",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "36659",
+        "InterviewEndDate": "2024-09-02 12:42:46",
+        "InterviewState": "Complete",
+        "Flight": "EK  050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
