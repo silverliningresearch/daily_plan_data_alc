@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "02-09-2024 16:04:45"
+        "download_time": "02-09-2024 17:09:07"
     },
     {
         "InterviewId": "3965",
@@ -41138,7 +41138,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "9355",
-        "InterviewEndDate": "2024-09-02 13:39:09",
+        "InterviewEndDate": "2024-09-02 14:25:10",
         "InterviewState": "Complete",
         "Flight": "FR 1024",
         "Dest": "DUB",
@@ -41178,11 +41178,83 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "9360",
-        "InterviewEndDate": "2024-09-02 13:53:07",
+        "InterviewEndDate": "2024-09-02 14:23:40",
         "InterviewState": "Complete",
         "Flight": "FR 1024",
         "Dest": "DUB",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9361",
+        "InterviewEndDate": "2024-09-02 14:39:29",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9362",
+        "InterviewEndDate": "2024-09-02 14:36:11",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9363",
+        "InterviewEndDate": "2024-09-02 14:48:44",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9364",
+        "InterviewEndDate": "2024-09-02 14:39:00",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9365",
+        "InterviewEndDate": "2024-09-02 14:42:50",
+        "InterviewState": "Complete",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "9366",
+        "InterviewEndDate": "2024-09-02 15:00:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9367",
+        "InterviewEndDate": "2024-09-02 15:01:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9368",
+        "InterviewEndDate": "2024-09-02 15:03:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9369",
+        "InterviewEndDate": "2024-09-02 15:01:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
     }
 ]    
 
