@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-09-2024 20:11:48"
+        "download_time": "03-09-2024 21:15:18"
     },
     {
         "InterviewId": "15819",
@@ -138862,6 +138862,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2486",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36726",
+        "InterviewEndDate": "2024-09-03 18:26:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36727",
+        "InterviewEndDate": "2024-09-03 18:21:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36728",
+        "InterviewEndDate": "2024-09-03 18:19:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36729",
+        "InterviewEndDate": "2024-09-03 18:22:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36730",
+        "InterviewEndDate": "2024-09-03 18:28:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1714",
+        "Dest": "TIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36731",
+        "InterviewEndDate": "2024-09-03 18:58:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36732",
+        "InterviewEndDate": "2024-09-03 18:48:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36734",
+        "InterviewEndDate": "2024-09-03 18:46:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36735",
+        "InterviewEndDate": "2024-09-03 18:53:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 790",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36736",
+        "InterviewEndDate": "2024-09-03 18:48:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 790",
+        "Dest": "SIN",
         "AirlineCode": "LH"
     }
 ]    
