@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-09-2024 16:46:55"
+        "download_time": "04-09-2024 17:53:06"
     },
     {
         "InterviewId": "6093",
@@ -74927,6 +74927,78 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "19831",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19832",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19833",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19834",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19835",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19836",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19837",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19838",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "19839",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "FR5179",
+        "Dest": "STN",
+        "AirlineCode": "FR5179"
     }
 ]    
 

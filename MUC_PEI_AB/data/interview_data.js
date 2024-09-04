@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-09-2024 16:45:21"
+        "download_time": "04-09-2024 17:51:23"
     },
     {
         "InterviewId": "15819",
@@ -138951,6 +138951,70 @@ let interview_data_raw = `[
         "Flight": "LH 790",
         "Dest": "SIN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36740",
+        "InterviewEndDate": "2024-09-04 15:21:49",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "36742",
+        "InterviewEndDate": "2024-09-04 15:18:07",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "36743",
+        "InterviewEndDate": "2024-09-04 15:18:09",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "36744",
+        "InterviewEndDate": "2024-09-04 15:17:17",
+        "InterviewState": "Complete",
+        "Flight": "DE 1810",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "36745",
+        "InterviewEndDate": "2024-09-04 15:20:10",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "36746",
+        "InterviewEndDate": "2024-09-04 15:44:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36749",
+        "InterviewEndDate": "2024-09-04 15:44:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36752",
+        "InterviewEndDate": "2024-09-04 15:32:29",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
     }
 ]    
 
