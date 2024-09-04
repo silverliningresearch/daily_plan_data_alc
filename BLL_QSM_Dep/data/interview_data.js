@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-09-2024 18:57:16"
+        "download_time": "04-09-2024 20:01:47"
     },
     {
         "InterviewId": "6093",
@@ -75063,6 +75063,70 @@ let interview_data_raw = `[
         "Flight": "KL1298",
         "Dest": "AMS",
         "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "19849",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19850",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19851",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19852",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19853",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19854",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19855",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "19857",
+        "InterviewEndDate": "2024-09-04",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
     }
 ]    
 
