@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-09-2024 17:51:23"
+        "download_time": "04-09-2024 18:55:26"
     },
     {
         "InterviewId": "15819",
@@ -139001,8 +139001,32 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "36747",
+        "InterviewEndDate": "2024-09-04 15:43:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36748",
+        "InterviewEndDate": "2024-09-04 15:56:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "36749",
         "InterviewEndDate": "2024-09-04 15:44:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36750",
+        "InterviewEndDate": "2024-09-04 16:03:48",
         "InterviewState": "Complete",
         "Flight": "LH 119",
         "Dest": "FRA",
@@ -139015,6 +139039,134 @@ let interview_data_raw = `[
         "Flight": "AZ 433",
         "Dest": "FCO",
         "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "36755",
+        "InterviewEndDate": "2024-09-04 15:51:36",
+        "InterviewState": "Complete",
+        "Flight": "SK 2658",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "36756",
+        "InterviewEndDate": "2024-09-04 15:50:08",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36757",
+        "InterviewEndDate": "2024-09-04 16:20:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36758",
+        "InterviewEndDate": "2024-09-04 15:55:43",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36759",
+        "InterviewEndDate": "2024-09-04 15:50:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36761",
+        "InterviewEndDate": "2024-09-04 16:32:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36762",
+        "InterviewEndDate": "2024-09-04 15:56:20",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "36764",
+        "InterviewEndDate": "2024-09-04 16:16:50",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "36765",
+        "InterviewEndDate": "2024-09-04 16:16:22",
+        "InterviewState": "Complete",
+        "Flight": "AZ 433",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "36766",
+        "InterviewEndDate": "2024-09-04 16:48:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36767",
+        "InterviewEndDate": "2024-09-04 16:49:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36768",
+        "InterviewEndDate": "2024-09-04 16:47:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36769",
+        "InterviewEndDate": "2024-09-04 16:43:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36770",
+        "InterviewEndDate": "2024-09-04 16:46:19",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "36771",
+        "InterviewEndDate": "2024-09-04 16:38:54",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "36772",
+        "InterviewEndDate": "2024-09-04 16:42:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
     }
 ]    
 
