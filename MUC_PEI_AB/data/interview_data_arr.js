@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-09-2024 17:41:43"
+        "download_time": "05-09-2024 18:46:37"
     },
     {
         "InterviewId": "5167",
@@ -44719,6 +44719,78 @@ let interview_data_arr_raw = `[
         "Flight": "DE - Condor Flugdienst",
         "Dest": "FNC",
         "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12084",
+        "InterviewEndDate": "2024-09-05 15:59:18",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12086",
+        "InterviewEndDate": "2024-09-05 15:50:02",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12087",
+        "InterviewEndDate": "2024-09-05 16:06:24",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "12088",
+        "InterviewEndDate": "2024-09-05 16:11:40",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12091",
+        "InterviewEndDate": "2024-09-05 16:16:27",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "12092",
+        "InterviewEndDate": "2024-09-05 16:21:26",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "12093",
+        "InterviewEndDate": "2024-09-05 16:24:35",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "12094",
+        "InterviewEndDate": "2024-09-05 16:32:44",
+        "InterviewState": "Complete",
+        "Flight": "AZ - Alitalia",
+        "Dest": "FCO",
+        "AirlineCode": "AZ"
+    },
+    {
+        "InterviewId": "12096",
+        "InterviewEndDate": "2024-09-05 16:41:22",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
