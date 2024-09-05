@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-09-2024 19:51:40"
+        "download_time": "05-09-2024 20:56:31"
     },
     {
         "InterviewId": "5167",
@@ -44791,6 +44791,30 @@ let interview_data_arr_raw = `[
         "Flight": "AY - Finnair",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "12097",
+        "InterviewEndDate": "2024-09-05 18:01:00",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "12098",
+        "InterviewEndDate": "2024-09-05 18:00:23",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "12099",
+        "InterviewEndDate": "2024-09-05 17:51:00",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
