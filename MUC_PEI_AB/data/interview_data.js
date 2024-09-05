@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-09-2024 18:45:23"
+        "download_time": "05-09-2024 19:50:26"
     },
     {
         "InterviewId": "15819",
@@ -139361,11 +139361,67 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "36801",
+        "InterviewEndDate": "2024-09-05 16:41:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "36802",
         "InterviewEndDate": "2024-09-05 16:37:31",
         "InterviewState": "Complete",
         "Flight": "LH 1756",
         "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36803",
+        "InterviewEndDate": "2024-09-05 17:30:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36804",
+        "InterviewEndDate": "2024-09-05 17:27:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36805",
+        "InterviewEndDate": "2024-09-05 17:29:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36806",
+        "InterviewEndDate": "2024-09-05 17:46:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36807",
+        "InterviewEndDate": "2024-09-05 17:47:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36809",
+        "InterviewEndDate": "2024-09-05 17:43:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
         "AirlineCode": "LH"
     }
 ]    
