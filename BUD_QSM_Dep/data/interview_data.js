@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "05-09-2024 07:59:07"
+        "download_time": "05-09-2024 09:04:53"
     },
     {
         "InterviewId": "3965",
@@ -41527,6 +41527,70 @@ let interview_data_raw = `[
         "Flight": "JU  141",
         "Dest": "BEG",
         "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "9407",
+        "InterviewEndDate": "2024-09-05 06:03:25",
+        "InterviewState": "Complete",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9408",
+        "InterviewEndDate": "2024-09-05 06:06:31",
+        "InterviewState": "Complete",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9409",
+        "InterviewEndDate": "2024-09-05 06:08:13",
+        "InterviewState": "Complete",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9410",
+        "InterviewEndDate": "2024-09-05 06:04:16",
+        "InterviewState": "Complete",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9411",
+        "InterviewEndDate": "2024-09-05 06:52:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9412",
+        "InterviewEndDate": "2024-09-05 06:52:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9413",
+        "InterviewEndDate": "2024-09-05 06:57:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9414",
+        "InterviewEndDate": "2024-09-05 07:00:33",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
     }
 ]    
 
