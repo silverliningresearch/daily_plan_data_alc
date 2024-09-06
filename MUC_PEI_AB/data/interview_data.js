@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-09-2024 15:20:23"
+        "download_time": "06-09-2024 16:25:21"
     },
     {
         "InterviewId": "15819",
@@ -139630,6 +139630,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1704",
         "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36846",
+        "InterviewEndDate": "2024-09-06 13:35:05",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36847",
+        "InterviewEndDate": "2024-09-06 13:46:28",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36848",
+        "InterviewEndDate": "2024-09-06 13:59:42",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36849",
+        "InterviewEndDate": "2024-09-06 13:20:35",
+        "InterviewState": "Complete",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36850",
+        "InterviewEndDate": "2024-09-06 13:55:13",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36851",
+        "InterviewEndDate": "2024-09-06 13:26:32",
+        "InterviewState": "Complete",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36852",
+        "InterviewEndDate": "2024-09-06 13:36:09",
+        "InterviewState": "Complete",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36855",
+        "InterviewEndDate": "2024-09-06 13:42:48",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "36856",
+        "InterviewEndDate": "2024-09-06 13:53:01",
+        "InterviewState": "Complete",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36857",
+        "InterviewEndDate": "2024-09-06 13:54:17",
+        "InterviewState": "Complete",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36863",
+        "InterviewEndDate": "2024-09-06 14:22:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
         "AirlineCode": "LH"
     }
 ]    
