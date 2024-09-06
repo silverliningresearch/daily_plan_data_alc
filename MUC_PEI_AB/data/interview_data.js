@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "06-09-2024 16:25:21"
+        "download_time": "06-09-2024 17:30:21"
     },
     {
         "InterviewId": "15819",
@@ -139713,12 +139713,108 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
+        "InterviewId": "36859",
+        "InterviewEndDate": "2024-09-06 14:27:23",
+        "InterviewState": "Complete",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36861",
+        "InterviewEndDate": "2024-09-06 14:28:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36862",
+        "InterviewEndDate": "2024-09-06 14:30:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "36863",
         "InterviewEndDate": "2024-09-06 14:22:56",
         "InterviewState": "Complete",
         "Flight": "LH 2022",
         "Dest": "DUS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36864",
+        "InterviewEndDate": "2024-09-06 14:31:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36865",
+        "InterviewEndDate": "2024-09-06 14:31:13",
+        "InterviewState": "Complete",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "36867",
+        "InterviewEndDate": "2024-09-06 14:34:47",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "36868",
+        "InterviewEndDate": "2024-09-06 14:57:05",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "36869",
+        "InterviewEndDate": "2024-09-06 14:58:07",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "36872",
+        "InterviewEndDate": "2024-09-06 14:59:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36873",
+        "InterviewEndDate": "2024-09-06 14:59:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36874",
+        "InterviewEndDate": "2024-09-06 15:15:42",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "36875",
+        "InterviewEndDate": "2024-09-06 15:15:11",
+        "InterviewState": "Complete",
+        "Flight": "DE 168",
+        "Dest": "PRN",
+        "AirlineCode": "DE"
     }
 ]    
 
