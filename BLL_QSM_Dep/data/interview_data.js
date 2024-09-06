@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "06-09-2024 07:46:43"
+        "download_time": "06-09-2024 08:51:51"
     },
     {
         "InterviewId": "6093",
@@ -75247,6 +75247,94 @@ let interview_data_raw = `[
         "Flight": "JTD557",
         "Dest": "CHQ",
         "AirlineCode": "JTD557"
+    },
+    {
+        "InterviewId": "19887",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "19888",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "19890",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "19892",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "19893",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "19894",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "19895",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "19896",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "19897",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "19901",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
+    },
+    {
+        "InterviewId": "19903",
+        "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "FR2809",
+        "Dest": "POZ",
+        "AirlineCode": "FR2809"
     }
 ]    
 
