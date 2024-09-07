@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-09-2024 09:46:00"
+        "download_time": "07-09-2024 10:50:29"
     },
     {
         "InterviewId": "15819",
@@ -139895,6 +139895,54 @@ let interview_data_raw = `[
         "Flight": "LH 1874",
         "Dest": "FCO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36887",
+        "InterviewEndDate": "2024-09-07 08:36:10",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "36888",
+        "InterviewEndDate": "2024-09-07 08:21:53",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "36889",
+        "InterviewEndDate": "2024-09-07 08:29:27",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "36890",
+        "InterviewEndDate": "2024-09-07 08:35:30",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "36891",
+        "InterviewEndDate": "2024-09-07 08:23:48",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "36892",
+        "InterviewEndDate": "2024-09-07 08:39:26",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
     }
 ]    
 
