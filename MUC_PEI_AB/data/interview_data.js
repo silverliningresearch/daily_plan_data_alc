@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-09-2024 10:50:29"
+        "download_time": "07-09-2024 11:55:24"
     },
     {
         "InterviewId": "15819",
@@ -139943,6 +139943,62 @@ let interview_data_raw = `[
         "Flight": "AC 837",
         "Dest": "YYZ",
         "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "36893",
+        "InterviewEndDate": "2024-09-07 09:16:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36894",
+        "InterviewEndDate": "2024-09-07 09:16:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36895",
+        "InterviewEndDate": "2024-09-07 09:22:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36896",
+        "InterviewEndDate": "2024-09-07 09:19:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36897",
+        "InterviewEndDate": "2024-09-07 09:18:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36900",
+        "InterviewEndDate": "2024-09-07 09:48:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36901",
+        "InterviewEndDate": "2024-09-07 09:54:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
     }
 ]    
 
