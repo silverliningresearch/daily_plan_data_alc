@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-09-2024 15:10:23"
+        "download_time": "07-09-2024 16:15:28"
     },
     {
         "InterviewId": "15819",
@@ -140105,6 +140105,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "36913",
+        "InterviewEndDate": "2024-09-07 13:27:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36914",
+        "InterviewEndDate": "2024-09-07 13:21:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "36915",
         "InterviewEndDate": "2024-09-07 13:08:25",
         "InterviewState": "Complete",
@@ -140115,6 +140131,38 @@ let interview_data_raw = `[
     {
         "InterviewId": "36916",
         "InterviewEndDate": "2024-09-07 13:05:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36917",
+        "InterviewEndDate": "2024-09-07 13:12:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36918",
+        "InterviewEndDate": "2024-09-07 13:22:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36919",
+        "InterviewEndDate": "2024-09-07 13:24:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36920",
+        "InterviewEndDate": "2024-09-07 13:24:53",
         "InterviewState": "Complete",
         "Flight": "LH 414",
         "Dest": "IAD",
