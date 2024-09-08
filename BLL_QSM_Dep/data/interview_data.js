@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-09-2024 16:07:47"
+        "download_time": "08-09-2024 17:13:04"
     },
     {
         "InterviewId": "6093",
@@ -75695,6 +75695,78 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "19960",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19961",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19962",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19963",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19964",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19965",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19966",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19967",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
+    },
+    {
+        "InterviewId": "19968",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD593",
+        "Dest": "AYT",
+        "AirlineCode": "JTD593"
     }
 ]    
 
