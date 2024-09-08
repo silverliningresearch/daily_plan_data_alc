@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "08-09-2024 17:13:09"
+        "download_time": "08-09-2024 18:18:05"
     },
     {
         "InterviewId": "2077",
@@ -23835,6 +23835,118 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "7518",
         "InterviewEndDate": "2024-09-06",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7519",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7520",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7521",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7522",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7523",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "RHO",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "7524",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "RHO",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "7527",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7528",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "RHO",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "7529",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "RHO",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "7530",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "RHO",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "7531",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "RHO",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "7532",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7533",
+        "InterviewEndDate": "2024-09-08",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7534",
+        "InterviewEndDate": "2024-09-08",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
         "Dest": "AMS",
