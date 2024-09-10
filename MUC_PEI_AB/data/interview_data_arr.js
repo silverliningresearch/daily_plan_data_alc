@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-09-2024 16:52:13"
+        "download_time": "10-09-2024 17:56:24"
     },
     {
         "InterviewId": "5167",
@@ -44870,6 +44870,62 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12114",
+        "InterviewEndDate": "2024-09-10 15:18:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "KIX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12115",
+        "InterviewEndDate": "2024-09-10 15:27:03",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12116",
+        "InterviewEndDate": "2024-09-10 15:32:42",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "LAX",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12117",
+        "InterviewEndDate": "2024-09-10 15:36:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AGP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12119",
+        "InterviewEndDate": "2024-09-10 15:43:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12120",
+        "InterviewEndDate": "2024-09-10 15:52:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SKG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12121",
+        "InterviewEndDate": "2024-09-10 15:51:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AGP",
         "AirlineCode": "LH"
     }
 ]    
