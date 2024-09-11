@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-09-2024 14:30:22"
+        "download_time": "11-09-2024 15:35:23"
     },
     {
         "InterviewId": "15819",
@@ -140414,6 +140414,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1736",
         "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36958",
+        "InterviewEndDate": "2024-09-11 12:37:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36959",
+        "InterviewEndDate": "2024-09-11 12:35:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36960",
+        "InterviewEndDate": "2024-09-11 12:37:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36961",
+        "InterviewEndDate": "2024-09-11 12:40:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36962",
+        "InterviewEndDate": "2024-09-11 12:45:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 718",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36964",
+        "InterviewEndDate": "2024-09-11 13:26:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36966",
+        "InterviewEndDate": "2024-09-11 13:23:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36967",
+        "InterviewEndDate": "2024-09-11 13:24:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 458",
+        "Dest": "SFO",
         "AirlineCode": "LH"
     }
 ]    
