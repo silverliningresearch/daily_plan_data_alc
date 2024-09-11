@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-09-2024 08:01:49"
+        "download_time": "11-09-2024 09:06:58"
     },
     {
         "InterviewId": "6093",
@@ -76271,6 +76271,78 @@ let interview_data_raw = `[
         "Flight": "FR3687",
         "Dest": "GDN",
         "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "20059",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20060",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20061",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20062",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20064",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20065",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20066",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20067",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "20068",
+        "InterviewEndDate": "2024-09-11",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
     }
 ]    
 
