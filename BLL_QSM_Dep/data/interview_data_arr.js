@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "12-09-2024 14:22:42"
+        "download_time": "12-09-2024 15:27:28"
     },
     {
         "InterviewId": "2077",
@@ -24081,7 +24081,63 @@ let interview_data_arr_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "7560",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7561",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7562",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7563",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
         "InterviewId": "7564",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7565",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7566",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7567",
         "InterviewEndDate": "2024-09-12",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -24095,6 +24151,14 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7572",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "12-09-2024 14:25:35"
+        "download_time": "12-09-2024 15:29:12"
     },
     {
         "InterviewId": "1224",
@@ -13599,6 +13599,54 @@ let interview_data_arr_raw = `[
         "Flight": "7O - Travel Service",
         "Dest": "AYT",
         "AirlineCode": "7O"
+    },
+    {
+        "InterviewId": "2949",
+        "InterviewEndDate": "2024-09-12 12:37:56",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2950",
+        "InterviewEndDate": "2024-09-12 12:44:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2951",
+        "InterviewEndDate": "2024-09-12 12:52:37",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "2952",
+        "InterviewEndDate": "2024-09-12 12:58:25",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "2953",
+        "InterviewEndDate": "2024-09-12 13:13:23",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "2954",
+        "InterviewEndDate": "2024-09-12 13:24:42",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
     }
 ]    
 
