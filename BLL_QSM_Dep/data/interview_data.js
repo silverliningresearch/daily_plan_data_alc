@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "12-09-2024 12:13:12"
+        "download_time": "12-09-2024 13:18:23"
     },
     {
         "InterviewId": "6093",
@@ -76775,6 +76775,118 @@ let interview_data_raw = `[
         "Flight": "BT814",
         "Dest": "TLL",
         "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20145",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "20146",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "20147",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "20149",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "20150",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "OG911",
+        "Dest": "KEF",
+        "AirlineCode": "OG911"
+    },
+    {
+        "InterviewId": "20153",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20154",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20155",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20156",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20157",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20158",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20159",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20160",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20161",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
     }
 ]    
 
