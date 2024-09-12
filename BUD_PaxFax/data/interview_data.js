@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "12-09-2024 19:52:14"
+        "download_time": "12-09-2024 20:56:53"
     },
     {
         "InterviewId": "7701",
@@ -47095,6 +47095,46 @@ let interview_data_raw = `[
         "Flight": "FM  898",
         "Dest": "NGB",
         "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "14325",
+        "InterviewEndDate": "2024-09-12 18:31:17",
+        "InterviewState": "Complete",
+        "Flight": "DY 1553",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "14326",
+        "InterviewEndDate": "2024-09-12 18:38:07",
+        "InterviewState": "Complete",
+        "Flight": "DY 1553",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "14327",
+        "InterviewEndDate": "2024-09-12 18:41:56",
+        "InterviewState": "Complete",
+        "Flight": "DY 1553",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "14328",
+        "InterviewEndDate": "2024-09-12 18:45:23",
+        "InterviewState": "Complete",
+        "Flight": "DY 1553",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "14329",
+        "InterviewEndDate": "2024-09-12 18:43:08",
+        "InterviewState": "Complete",
+        "Flight": "DY 1553",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
     }
 ]    
 
