@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "12-09-2024 11:07:12"
+        "download_time": "12-09-2024 12:13:12"
     },
     {
         "InterviewId": "6093",
@@ -76711,6 +76711,70 @@ let interview_data_raw = `[
         "Flight": "LH837",
         "Dest": "FRA",
         "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20135",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20136",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20138",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20139",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20140",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20141",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20142",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
+    },
+    {
+        "InterviewId": "20143",
+        "InterviewEndDate": "2024-09-12",
+        "InterviewState": "Complete",
+        "Flight": "BT814",
+        "Dest": "TLL",
+        "AirlineCode": "BT814"
     }
 ]    
 
