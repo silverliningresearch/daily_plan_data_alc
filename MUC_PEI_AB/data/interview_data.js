@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "12-09-2024 17:35:25"
+        "download_time": "12-09-2024 18:40:24"
     },
     {
         "InterviewId": "15819",
@@ -140654,6 +140654,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2252",
         "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "36996",
+        "InterviewEndDate": "2024-09-12 15:52:56",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "36997",
+        "InterviewEndDate": "2024-09-12 15:48:11",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "36998",
+        "InterviewEndDate": "2024-09-12 15:47:45",
+        "InterviewState": "Complete",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "36999",
+        "InterviewEndDate": "2024-09-12 16:21:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37000",
+        "InterviewEndDate": "2024-09-12 16:21:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37001",
+        "InterviewEndDate": "2024-09-12 16:19:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37002",
+        "InterviewEndDate": "2024-09-12 16:19:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 722",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37003",
+        "InterviewEndDate": "2024-09-12 16:20:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 722",
+        "Dest": "PEK",
         "AirlineCode": "LH"
     }
 ]    
