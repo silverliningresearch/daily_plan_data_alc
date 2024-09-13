@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "13-09-2024 20:42:22"
+        "download_time": "13-09-2024 21:48:52"
     },
     {
         "InterviewId": "1224",
@@ -13687,6 +13687,46 @@ let interview_data_arr_raw = `[
         "Flight": "EW - Eurowings",
         "Dest": "DUS",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2960",
+        "InterviewEndDate": "2024-09-13 18:46:21",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2961",
+        "InterviewEndDate": "2024-09-13 18:52:53",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2962",
+        "InterviewEndDate": "2024-09-13 19:01:40",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "2963",
+        "InterviewEndDate": "2024-09-13 19:11:53",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "2964",
+        "InterviewEndDate": "2024-09-13 19:21:25",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
     }
 ]    
 
