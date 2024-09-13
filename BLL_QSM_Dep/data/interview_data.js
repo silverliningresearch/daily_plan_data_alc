@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-09-2024 15:16:22"
+        "download_time": "13-09-2024 16:22:13"
     },
     {
         "InterviewId": "6093",
@@ -77119,6 +77119,70 @@ let interview_data_raw = `[
         "Flight": "FR2532",
         "Dest": "AGP",
         "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "20206",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "20208",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT323",
+        "Dest": "PVK",
+        "AirlineCode": "CAT323"
+    },
+    {
+        "InterviewId": "20209",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "20210",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "20212",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "20213",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "20214",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
+    },
+    {
+        "InterviewId": "20215",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "CAT325",
+        "Dest": "PVK",
+        "AirlineCode": "CAT325"
     }
 ]    
 
