@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-09-2024 16:22:13"
+        "download_time": "13-09-2024 17:25:49"
     },
     {
         "InterviewId": "6093",
@@ -77119,6 +77119,70 @@ let interview_data_raw = `[
         "Flight": "FR2532",
         "Dest": "AGP",
         "AirlineCode": "FR2532"
+    },
+    {
+        "InterviewId": "20198",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "20199",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "20200",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "20201",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "20202",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "20203",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "20204",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "20205",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
     },
     {
         "InterviewId": "20206",
