@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-09-2024 07:41:51"
+        "download_time": "13-09-2024 08:47:21"
     },
     {
         "InterviewId": "6093",
@@ -76903,6 +76903,78 @@ let interview_data_raw = `[
         "Flight": "JTD531",
         "Dest": "ACE",
         "AirlineCode": "JTD531"
+    },
+    {
+        "InterviewId": "20164",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20165",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20166",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20167",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20168",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20169",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20170",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20171",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "20172",
+        "InterviewEndDate": "2024-09-13",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
     }
 ]    
 
