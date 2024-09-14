@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-09-2024 12:56:34"
+        "download_time": "14-09-2024 14:01:11"
     },
     {
         "InterviewId": "5167",
@@ -45239,6 +45239,78 @@ let interview_data_arr_raw = `[
         "Flight": "KM - Air Malta",
         "Dest": "MLA",
         "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "12169",
+        "InterviewEndDate": "2024-09-14 11:05:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12170",
+        "InterviewEndDate": "2024-09-14 11:02:54",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12171",
+        "InterviewEndDate": "2024-09-14 11:16:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12173",
+        "InterviewEndDate": "2024-09-14 11:41:54",
+        "InterviewState": "Complete",
+        "Flight": "4Y481",
+        "Dest": "XRY",
+        "AirlineCode": "4Y481"
+    },
+    {
+        "InterviewId": "12174",
+        "InterviewEndDate": "2024-09-14 11:13:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12175",
+        "InterviewEndDate": "2024-09-14 11:30:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12176",
+        "InterviewEndDate": "2024-09-14 11:32:09",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "LIS",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "12177",
+        "InterviewEndDate": "2024-09-14 11:41:23",
+        "InterviewState": "Complete",
+        "Flight": "4Y",
+        "Dest": "XRY",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "12178",
+        "InterviewEndDate": "2024-09-14 11:59:57",
+        "InterviewState": "Complete",
+        "Flight": "4Y 481",
+        "Dest": "XRY",
+        "AirlineCode": "4Y"
     }
 ]    
 
