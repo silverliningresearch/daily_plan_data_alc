@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-09-2024 16:09:47"
+        "download_time": "14-09-2024 17:14:42"
     },
     {
         "InterviewId": "15819",
@@ -141055,6 +141055,86 @@ let interview_data_raw = `[
         "Flight": "DE 1600",
         "Dest": "HER",
         "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "37054",
+        "InterviewEndDate": "2024-09-14 14:41:54",
+        "InterviewState": "Complete",
+        "Flight": "KL1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37055",
+        "InterviewEndDate": "2024-09-14 14:23:52",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37056",
+        "InterviewEndDate": "2024-09-14 14:37:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37057",
+        "InterviewEndDate": "2024-09-14 14:18:59",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37058",
+        "InterviewEndDate": "2024-09-14 14:39:06",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37059",
+        "InterviewEndDate": "2024-09-14 14:29:34",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37060",
+        "InterviewEndDate": "2024-09-14 14:16:56",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37061",
+        "InterviewEndDate": "2024-09-14 14:37:41",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37062",
+        "InterviewEndDate": "2024-09-14 14:11:05",
+        "InterviewState": "Complete",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "37063",
+        "InterviewEndDate": "2024-09-14 14:13:08",
+        "InterviewState": "Complete",
+        "Flight": "Kl 1856",
+        "Dest": "AMS",
+        "AirlineCode": "Kl"
     }
 ]    
 
