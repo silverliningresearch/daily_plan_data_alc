@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-09-2024 09:39:41"
+        "download_time": "14-09-2024 10:44:52"
     },
     {
         "InterviewId": "15819",
@@ -140847,6 +140847,70 @@ let interview_data_raw = `[
         "Flight": "LH 2440",
         "Dest": "CPH",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37026",
+        "InterviewEndDate": "2024-09-14 07:41:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37027",
+        "InterviewEndDate": "2024-09-14 07:54:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37028",
+        "InterviewEndDate": "2024-09-14 07:54:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37029",
+        "InterviewEndDate": "2024-09-14 08:02:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37030",
+        "InterviewEndDate": "2024-09-14 08:15:39",
+        "InterviewState": "Complete",
+        "Flight": "En 8070",
+        "Dest": "GVA",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "37031",
+        "InterviewEndDate": "2024-09-14 08:23:12",
+        "InterviewState": "Complete",
+        "Flight": "En 8070",
+        "Dest": "GVA",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "37032",
+        "InterviewEndDate": "2024-09-14 08:39:32",
+        "InterviewState": "Complete",
+        "Flight": "En 8070",
+        "Dest": "GVA",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "37033",
+        "InterviewEndDate": "2024-09-14 08:35:18",
+        "InterviewState": "Complete",
+        "Flight": "En 8070",
+        "Dest": "GVA",
+        "AirlineCode": "En"
     }
 ]    
 
