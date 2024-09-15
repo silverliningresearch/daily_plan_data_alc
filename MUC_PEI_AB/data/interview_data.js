@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "15-09-2024 11:39:42"
+        "download_time": "15-09-2024 12:44:42"
     },
     {
         "InterviewId": "15819",
@@ -141135,6 +141135,86 @@ let interview_data_raw = `[
         "Flight": "Kl 1856",
         "Dest": "AMS",
         "AirlineCode": "Kl"
+    },
+    {
+        "InterviewId": "37065",
+        "InterviewEndDate": "2024-09-15 09:53:05",
+        "InterviewState": "Complete",
+        "Flight": "A3 433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "37066",
+        "InterviewEndDate": "2024-09-15 10:09:07",
+        "InterviewState": "Complete",
+        "Flight": "A3 433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "37067",
+        "InterviewEndDate": "2024-09-15 10:06:22",
+        "InterviewState": "Complete",
+        "Flight": "A3 433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "37068",
+        "InterviewEndDate": "2024-09-15 10:06:50",
+        "InterviewState": "Complete",
+        "Flight": "A3 433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "37069",
+        "InterviewEndDate": "2024-09-15 09:55:10",
+        "InterviewState": "Complete",
+        "Flight": "A3 433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "37070",
+        "InterviewEndDate": "2024-09-15 10:33:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37071",
+        "InterviewEndDate": "2024-09-15 10:32:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37072",
+        "InterviewEndDate": "2024-09-15 10:31:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37073",
+        "InterviewEndDate": "2024-09-15 10:26:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37074",
+        "InterviewEndDate": "2024-09-15 10:23:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
     }
 ]    
 
