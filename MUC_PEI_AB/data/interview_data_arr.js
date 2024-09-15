@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-09-2024 09:31:37"
+        "download_time": "15-09-2024 10:36:23"
     },
     {
         "InterviewId": "5167",
@@ -45311,6 +45311,62 @@ let interview_data_arr_raw = `[
         "Flight": "4Y 481",
         "Dest": "XRY",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "12179",
+        "InterviewEndDate": "2024-09-15 07:32:58",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "12180",
+        "InterviewEndDate": "2024-09-15 07:37:53",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "12181",
+        "InterviewEndDate": "2024-09-15 07:48:53",
+        "InterviewState": "Complete",
+        "Flight": "AC - Air Canada",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "12182",
+        "InterviewEndDate": "2024-09-15 07:56:13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12183",
+        "InterviewEndDate": "2024-09-15 08:06:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12184",
+        "InterviewEndDate": "2024-09-15 08:28:10",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12185",
+        "InterviewEndDate": "2024-09-15 08:30:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
     }
 ]    
 
