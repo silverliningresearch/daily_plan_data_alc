@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-09-2024 16:01:39"
+        "download_time": "15-09-2024 17:06:10"
     },
     {
         "InterviewId": "6093",
@@ -77855,6 +77855,62 @@ let interview_data_raw = `[
         "Flight": "BA807",
         "Dest": "LHR",
         "AirlineCode": "BA807"
+    },
+    {
+        "InterviewId": "20336",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "20341",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "20342",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "20343",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "20344",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "20345",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "20346",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
     }
 ]    
 
