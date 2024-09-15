@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "15-09-2024 18:13:19"
+        "download_time": "15-09-2024 19:18:53"
     },
     {
         "InterviewId": "1224",
@@ -13790,6 +13790,70 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2974",
+        "InterviewEndDate": "2024-09-15 16:15:48",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "2975",
+        "InterviewEndDate": "2024-09-15 16:22:36",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "2976",
+        "InterviewEndDate": "2024-09-15 16:28:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2977",
+        "InterviewEndDate": "2024-09-15 16:43:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2978",
+        "InterviewEndDate": "2024-09-15 16:49:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2979",
+        "InterviewEndDate": "2024-09-15 17:01:51",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2980",
+        "InterviewEndDate": "2024-09-15 17:07:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "DTM",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2981",
+        "InterviewEndDate": "2024-09-15 17:14:01",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BVA",
         "AirlineCode": "FR"
     }
 ]    
