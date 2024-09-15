@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "15-09-2024 17:06:10"
+        "download_time": "15-09-2024 18:11:14"
     },
     {
         "InterviewId": "6093",
@@ -77911,6 +77911,62 @@ let interview_data_raw = `[
         "Flight": "JTD539",
         "Dest": "CHQ",
         "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "20347",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "RC7146",
+        "Dest": "RHO",
+        "AirlineCode": "RC7146"
+    },
+    {
+        "InterviewId": "20348",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "RC7146",
+        "Dest": "RHO",
+        "AirlineCode": "RC7146"
+    },
+    {
+        "InterviewId": "20350",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "RC7146",
+        "Dest": "RHO",
+        "AirlineCode": "RC7146"
+    },
+    {
+        "InterviewId": "20351",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "RC7146",
+        "Dest": "RHO",
+        "AirlineCode": "RC7146"
+    },
+    {
+        "InterviewId": "20353",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "RC7146",
+        "Dest": "RHO",
+        "AirlineCode": "RC7146"
+    },
+    {
+        "InterviewId": "20354",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "RC7146",
+        "Dest": "RHO",
+        "AirlineCode": "RC7146"
+    },
+    {
+        "InterviewId": "20355",
+        "InterviewEndDate": "2024-09-15",
+        "InterviewState": "Complete",
+        "Flight": "RC7146",
+        "Dest": "RHO",
+        "AirlineCode": "RC7146"
     }
 ]    
 
