@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-09-2024 07:09:46"
+        "download_time": "16-09-2024 08:16:16"
     },
     {
         "InterviewId": "15819",
@@ -141406,6 +141406,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2134",
         "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37104",
+        "InterviewEndDate": "2024-09-16 05:08:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2134",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37105",
+        "InterviewEndDate": "2024-09-16 05:10:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2134",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37106",
+        "InterviewEndDate": "2024-09-16 05:13:14",
+        "InterviewState": "Complete",
+        "Flight": "\u0139h 2134",
+        "Dest": "FMO",
+        "AirlineCode": "\u0139h"
+    },
+    {
+        "InterviewId": "37107",
+        "InterviewEndDate": "2024-09-16 05:28:01",
+        "InterviewState": "Complete",
+        "Flight": "Os 112",
+        "Dest": "VIE",
+        "AirlineCode": "Os"
+    },
+    {
+        "InterviewId": "37108",
+        "InterviewEndDate": "2024-09-16 05:30:26",
+        "InterviewState": "Complete",
+        "Flight": "Os 112",
+        "Dest": "VIE",
+        "AirlineCode": "Os"
+    },
+    {
+        "InterviewId": "37109",
+        "InterviewEndDate": "2024-09-16 05:38:35",
+        "InterviewState": "Complete",
+        "Flight": "Os112",
+        "Dest": "VIE",
+        "AirlineCode": "Os"
+    },
+    {
+        "InterviewId": "37111",
+        "InterviewEndDate": "2024-09-16 06:12:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
         "AirlineCode": "LH"
     }
 ]    
