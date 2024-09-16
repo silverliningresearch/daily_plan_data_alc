@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-09-2024 19:04:47"
+        "download_time": "16-09-2024 20:10:35"
     },
     {
         "InterviewId": "15819",
@@ -142015,6 +142015,70 @@ let interview_data_raw = `[
         "Flight": "BA 961",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "37204",
+        "InterviewEndDate": "2024-09-16 17:13:15",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "37206",
+        "InterviewEndDate": "2024-09-16 17:07:45",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "37207",
+        "InterviewEndDate": "2024-09-16 17:08:40",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "37208",
+        "InterviewEndDate": "2024-09-16 17:08:47",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "37209",
+        "InterviewEndDate": "2024-09-16 17:35:17",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "37210",
+        "InterviewEndDate": "2024-09-16 17:50:57",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "37211",
+        "InterviewEndDate": "2024-09-16 17:52:21",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "37213",
+        "InterviewEndDate": "2024-09-16 18:02:32",
+        "InterviewState": "Complete",
+        "Flight": "EZY3264",
+        "Dest": "EDI",
+        "AirlineCode": "EZ"
     }
 ]    
 
