@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-09-2024 08:16:16"
+        "download_time": "16-09-2024 09:19:45"
     },
     {
         "InterviewId": "15819",
@@ -141463,6 +141463,110 @@ let interview_data_raw = `[
         "Flight": "LH 2428",
         "Dest": "GOT",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37112",
+        "InterviewEndDate": "2024-09-16 07:18:08",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37114",
+        "InterviewEndDate": "2024-09-16 07:12:27",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37117",
+        "InterviewEndDate": "2024-09-16 07:17:37",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37118",
+        "InterviewEndDate": "2024-09-16 06:22:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37119",
+        "InterviewEndDate": "2024-09-16 06:22:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37120",
+        "InterviewEndDate": "2024-09-16 06:32:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37121",
+        "InterviewEndDate": "2024-09-16 06:35:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37122",
+        "InterviewEndDate": "2024-09-16 06:47:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37123",
+        "InterviewEndDate": "2024-09-16 06:56:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "37124",
+        "InterviewEndDate": "2024-09-16 06:54:44",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "37125",
+        "InterviewEndDate": "2024-09-16 07:00:44",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "37126",
+        "InterviewEndDate": "2024-09-16 06:57:16",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "37127",
+        "InterviewEndDate": "2024-09-16 07:05:18",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
