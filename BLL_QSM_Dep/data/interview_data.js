@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-09-2024 13:40:56"
+        "download_time": "16-09-2024 14:46:00"
     },
     {
         "InterviewId": "6093",
@@ -78073,7 +78073,71 @@ let interview_data_raw = `[
         "AirlineCode": "AY986"
     },
     {
+        "InterviewId": "20370",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
         "InterviewId": "20371",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20372",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20373",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20374",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20375",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20376",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20377",
+        "InterviewEndDate": "2024-09-16",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20378",
         "InterviewEndDate": "2024-09-16",
         "InterviewState": "Complete",
         "Flight": "BT148",
