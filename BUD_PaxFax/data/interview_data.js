@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "16-09-2024 09:25:20"
+        "download_time": "16-09-2024 10:30:28"
     },
     {
         "InterviewId": "7701",
@@ -47311,6 +47311,54 @@ let interview_data_raw = `[
         "Flight": "LX 2251",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "14354",
+        "InterviewEndDate": "2024-09-16 07:26:38",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "14355",
+        "InterviewEndDate": "2024-09-16 07:29:54",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "14356",
+        "InterviewEndDate": "2024-09-16 07:32:43",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "14357",
+        "InterviewEndDate": "2024-09-16 07:34:13",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "14358",
+        "InterviewEndDate": "2024-09-16 07:36:12",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "14359",
+        "InterviewEndDate": "2024-09-16 08:22:19",
+        "InterviewState": "Complete",
+        "Flight": "HU  762",
+        "Dest": "SZX",
+        "AirlineCode": "HU"
     }
 ]    
 
