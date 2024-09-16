@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-09-2024 09:19:45"
+        "download_time": "16-09-2024 10:24:45"
     },
     {
         "InterviewId": "15819",
@@ -141457,6 +141457,14 @@ let interview_data_raw = `[
         "AirlineCode": "Os"
     },
     {
+        "InterviewId": "37110",
+        "InterviewEndDate": "2024-09-16 07:27:50",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
         "InterviewId": "37111",
         "InterviewEndDate": "2024-09-16 06:12:08",
         "InterviewState": "Complete",
@@ -141473,8 +141481,24 @@ let interview_data_raw = `[
         "AirlineCode": "DL"
     },
     {
+        "InterviewId": "37113",
+        "InterviewEndDate": "2024-09-16 07:28:13",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
         "InterviewId": "37114",
         "InterviewEndDate": "2024-09-16 07:12:27",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37115",
+        "InterviewEndDate": "2024-09-16 07:27:55",
         "InterviewState": "Complete",
         "Flight": "DL  131",
         "Dest": "ATL",
@@ -141567,6 +141591,86 @@ let interview_data_raw = `[
         "Flight": "XQ  135",
         "Dest": "AYT",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "37128",
+        "InterviewEndDate": "2024-09-16 07:52:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1656",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37137",
+        "InterviewEndDate": "2024-09-16 08:04:20",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "37139",
+        "InterviewEndDate": "2024-09-16 08:06:13",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "37141",
+        "InterviewEndDate": "2024-09-16 08:07:51",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "37142",
+        "InterviewEndDate": "2024-09-16 08:02:44",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "37143",
+        "InterviewEndDate": "2024-09-16 07:57:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1656",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37145",
+        "InterviewEndDate": "2024-09-16 08:04:27",
+        "InterviewState": "Complete",
+        "Flight": "BA  949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "37146",
+        "InterviewEndDate": "2024-09-16 08:03:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1656",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37147",
+        "InterviewEndDate": "2024-09-16 08:12:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1656",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37151",
+        "InterviewEndDate": "2024-09-16 08:21:49",
+        "InterviewState": "Complete",
+        "Flight": "DL  023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
     }
 ]    
 
