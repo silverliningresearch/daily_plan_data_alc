@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "16-09-2024 03:59:14"
+        "download_time": "16-09-2024 05:04:46"
     },
     {
         "InterviewId": "7701",
@@ -47231,6 +47231,46 @@ let interview_data_raw = `[
         "Flight": "BZ  441",
         "Dest": "TLV",
         "AirlineCode": "BZ"
+    },
+    {
+        "InterviewId": "14344",
+        "InterviewEndDate": "2024-09-16 02:47:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2325",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14345",
+        "InterviewEndDate": "2024-09-16 02:57:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2325",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14346",
+        "InterviewEndDate": "2024-09-16 02:59:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2325",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14347",
+        "InterviewEndDate": "2024-09-16 02:59:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2325",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14348",
+        "InterviewEndDate": "2024-09-16 02:54:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2325",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
     }
 ]    
 
