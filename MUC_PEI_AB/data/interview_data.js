@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-09-2024 18:44:45"
+        "download_time": "18-09-2024 19:49:47"
     },
     {
         "InterviewId": "15819",
@@ -142593,6 +142593,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37296",
+        "InterviewEndDate": "2024-09-18 17:10:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37297",
         "InterviewEndDate": "2024-09-18 16:26:20",
         "InterviewState": "Complete",
@@ -142617,12 +142625,132 @@ let interview_data_raw = `[
         "AirlineCode": "EJ"
     },
     {
+        "InterviewId": "37301",
+        "InterviewEndDate": "2024-09-18 16:52:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37302",
+        "InterviewEndDate": "2024-09-18 17:10:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37303",
+        "InterviewEndDate": "2024-09-18 16:57:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37304",
+        "InterviewEndDate": "2024-09-18 17:39:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37305",
         "InterviewEndDate": "2024-09-18 16:39:57",
         "InterviewState": "Complete",
         "Flight": "EW 9093",
         "Dest": "DUS",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37306",
+        "InterviewEndDate": "2024-09-18 16:49:55",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "37307",
+        "InterviewEndDate": "2024-09-18 17:31:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37308",
+        "InterviewEndDate": "2024-09-18 17:02:29",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "37309",
+        "InterviewEndDate": "2024-09-18 17:04:35",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "37310",
+        "InterviewEndDate": "2024-09-18 17:08:35",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37311",
+        "InterviewEndDate": "2024-09-18 17:14:12",
+        "InterviewState": "Complete",
+        "Flight": "EJU4278",
+        "Dest": "NAP",
+        "AirlineCode": "EJ"
+    },
+    {
+        "InterviewId": "37312",
+        "InterviewEndDate": "2024-09-18 17:15:30",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "37313",
+        "InterviewEndDate": "2024-09-18 17:14:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37314",
+        "InterviewEndDate": "2024-09-18 17:27:29",
+        "InterviewState": "Complete",
+        "Flight": "EJU4278",
+        "Dest": "NAP",
+        "AirlineCode": "EJ"
+    },
+    {
+        "InterviewId": "37315",
+        "InterviewEndDate": "2024-09-18 17:29:08",
+        "InterviewState": "Complete",
+        "Flight": "EJU4278",
+        "Dest": "NAP",
+        "AirlineCode": "EJ"
+    },
+    {
+        "InterviewId": "37316",
+        "InterviewEndDate": "2024-09-18 17:34:19",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
