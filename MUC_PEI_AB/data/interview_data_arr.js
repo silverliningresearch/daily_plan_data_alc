@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "19-09-2024 06:40:45"
+        "download_time": "19-09-2024 07:45:46"
     },
     {
         "InterviewId": "5167",
@@ -45793,12 +45793,76 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "12255",
+        "InterviewEndDate": "2024-09-19 05:05:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "12256",
         "InterviewEndDate": "2024-09-19 04:34:06",
         "InterviewState": "Complete",
         "Flight": "Luftansa",
         "Dest": "SIN",
         "AirlineCode": "Luftansa"
+    },
+    {
+        "InterviewId": "12257",
+        "InterviewEndDate": "2024-09-19 04:42:48",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "12258",
+        "InterviewEndDate": "2024-09-19 04:54:47",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "12259",
+        "InterviewEndDate": "2024-09-19 05:03:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12260",
+        "InterviewEndDate": "2024-09-19 05:18:45",
+        "InterviewState": "Complete",
+        "Flight": "Singapure Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "Singapure"
+    },
+    {
+        "InterviewId": "12261",
+        "InterviewEndDate": "2024-09-19 05:25:27",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "12262",
+        "InterviewEndDate": "2024-09-19 05:30:23",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "12263",
+        "InterviewEndDate": "2024-09-19 05:38:12",
+        "InterviewState": "Complete",
+        "Flight": "UA",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
     }
 ]    
 
