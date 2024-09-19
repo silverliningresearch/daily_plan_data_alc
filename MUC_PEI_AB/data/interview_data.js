@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-09-2024 20:44:45"
+        "download_time": "19-09-2024 21:49:54"
     },
     {
         "InterviewId": "15819",
@@ -142953,6 +142953,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37343",
+        "InterviewEndDate": "2024-09-19 19:03:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37345",
+        "InterviewEndDate": "2024-09-19 19:02:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2504",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37346",
         "InterviewEndDate": "2024-09-19 18:24:36",
         "InterviewState": "Complete",
@@ -142990,6 +143006,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2504",
         "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37351",
+        "InterviewEndDate": "2024-09-19 18:44:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37352",
+        "InterviewEndDate": "2024-09-19 19:48:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37353",
+        "InterviewEndDate": "2024-09-19 18:45:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37355",
+        "InterviewEndDate": "2024-09-19 18:51:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37356",
+        "InterviewEndDate": "2024-09-19 18:57:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37357",
+        "InterviewEndDate": "2024-09-19 18:56:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37358",
+        "InterviewEndDate": "2024-09-19 19:25:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37359",
+        "InterviewEndDate": "2024-09-19 19:48:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37360",
+        "InterviewEndDate": "2024-09-19 19:34:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
         "AirlineCode": "LH"
     }
 ]    
