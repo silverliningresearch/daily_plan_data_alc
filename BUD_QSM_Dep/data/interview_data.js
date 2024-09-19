@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "19-09-2024 11:02:35"
+        "download_time": "19-09-2024 12:10:44"
     },
     {
         "InterviewId": "3965",
@@ -42679,6 +42679,70 @@ let interview_data_raw = `[
         "Flight": "FR 4229",
         "Dest": "BVA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9556",
+        "InterviewEndDate": "2024-09-19 09:22:20",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "9557",
+        "InterviewEndDate": "2024-09-19 09:19:00",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "9558",
+        "InterviewEndDate": "2024-09-19 09:18:50",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "9559",
+        "InterviewEndDate": "2024-09-19 09:22:12",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "9560",
+        "InterviewEndDate": "2024-09-19 09:28:52",
+        "InterviewState": "Complete",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM"
+    },
+    {
+        "InterviewId": "9561",
+        "InterviewEndDate": "2024-09-19 10:00:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9562",
+        "InterviewEndDate": "2024-09-19 10:03:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9563",
+        "InterviewEndDate": "2024-09-19 10:09:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
     }
 ]    
 
