@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "20-09-2024 16:18:47"
+        "download_time": "20-09-2024 17:22:57"
     },
     {
         "InterviewId": "1224",
@@ -13974,6 +13974,46 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
         "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2998",
+        "InterviewEndDate": "2024-09-20 14:22:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2999",
+        "InterviewEndDate": "2024-09-20 14:27:52",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3000",
+        "InterviewEndDate": "2024-09-20 14:35:48",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3001",
+        "InterviewEndDate": "2024-09-20 14:45:51",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3002",
+        "InterviewEndDate": "2024-09-20 15:19:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CTA",
         "AirlineCode": "W6"
     }
 ]    
