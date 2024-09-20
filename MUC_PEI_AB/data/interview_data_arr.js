@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "20-09-2024 17:20:58"
+        "download_time": "20-09-2024 18:27:04"
     },
     {
         "InterviewId": "5167",
@@ -46111,6 +46111,62 @@ let interview_data_arr_raw = `[
         "Flight": "SM - Air Cairo",
         "Dest": "RMF",
         "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "12306",
+        "InterviewEndDate": "2024-09-20 15:23:54",
+        "InterviewState": "Complete",
+        "Flight": "FH - Freebird Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "FH"
+    },
+    {
+        "InterviewId": "12307",
+        "InterviewEndDate": "2024-09-20 15:31:26",
+        "InterviewState": "Complete",
+        "Flight": "FH - Freebird Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "FH"
+    },
+    {
+        "InterviewId": "12312",
+        "InterviewEndDate": "2024-09-20 15:43:05",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "12316",
+        "InterviewEndDate": "2024-09-20 15:54:47",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "MAN",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "12317",
+        "InterviewEndDate": "2024-09-20 15:59:26",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "MAN",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "12318",
+        "InterviewEndDate": "2024-09-20 16:06:08",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "EMPTY",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "12321",
+        "InterviewEndDate": "2024-09-20 16:24:31",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
     }
 ]    
 
