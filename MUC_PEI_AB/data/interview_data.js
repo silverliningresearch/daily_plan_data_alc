@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "21-09-2024 16:05:02"
+        "download_time": "21-09-2024 17:09:47"
     },
     {
         "InterviewId": "15819",
@@ -143505,6 +143505,30 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37432",
+        "InterviewEndDate": "2024-09-21 14:18:52",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37433",
+        "InterviewEndDate": "2024-09-21 14:07:26",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37434",
+        "InterviewEndDate": "2024-09-21 14:20:45",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37435",
         "InterviewEndDate": "2024-09-21 14:02:18",
         "InterviewState": "Complete",
@@ -143519,6 +143543,46 @@ let interview_data_raw = `[
         "Flight": "LH  115",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37438",
+        "InterviewEndDate": "2024-09-21 14:05:24",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37439",
+        "InterviewEndDate": "2024-09-21 14:24:48",
+        "InterviewState": "Complete",
+        "Flight": "LH  115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37440",
+        "InterviewEndDate": "2024-09-21 14:19:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37441",
+        "InterviewEndDate": "2024-09-21 15:01:54",
+        "InterviewState": "Complete",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "37442",
+        "InterviewEndDate": "2024-09-21 15:03:41",
+        "InterviewState": "Complete",
+        "Flight": "4Y442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
     }
 ]    
 
