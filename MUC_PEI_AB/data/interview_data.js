@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "21-09-2024 17:09:47"
+        "download_time": "21-09-2024 18:15:09"
     },
     {
         "InterviewId": "15819",
@@ -143583,6 +143583,70 @@ let interview_data_raw = `[
         "Flight": "4Y442",
         "Dest": "IBZ",
         "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "37443",
+        "InterviewEndDate": "2024-09-21 15:27:39",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37444",
+        "InterviewEndDate": "2024-09-21 15:20:05",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37446",
+        "InterviewEndDate": "2024-09-21 15:27:33",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37447",
+        "InterviewEndDate": "2024-09-21 15:18:08",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37448",
+        "InterviewEndDate": "2024-09-21 15:17:20",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37450",
+        "InterviewEndDate": "2024-09-21 15:28:12",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37451",
+        "InterviewEndDate": "2024-09-21 15:17:33",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37453",
+        "InterviewEndDate": "2024-09-21 15:29:10",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
     }
 ]    
 
