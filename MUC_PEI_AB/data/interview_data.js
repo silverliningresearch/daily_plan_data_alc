@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "21-09-2024 13:55:01"
+        "download_time": "21-09-2024 14:59:47"
     },
     {
         "InterviewId": "15819",
@@ -143361,8 +143361,32 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37399",
+        "InterviewEndDate": "2024-09-21 12:04:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37400",
         "InterviewEndDate": "2024-09-21 11:52:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37402",
+        "InterviewEndDate": "2024-09-21 11:57:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37404",
+        "InterviewEndDate": "2024-09-21 11:56:19",
         "InterviewState": "Complete",
         "Flight": "LH 2418",
         "Dest": "ARN",
@@ -143374,6 +143398,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2418",
         "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37406",
+        "InterviewEndDate": "2024-09-21 12:03:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37407",
+        "InterviewEndDate": "2024-09-21 11:59:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2418",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37409",
+        "InterviewEndDate": "2024-09-21 12:26:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37410",
+        "InterviewEndDate": "2024-09-21 12:23:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37411",
+        "InterviewEndDate": "2024-09-21 12:30:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37412",
+        "InterviewEndDate": "2024-09-21 12:21:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37413",
+        "InterviewEndDate": "2024-09-21 12:33:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37414",
+        "InterviewEndDate": "2024-09-21 12:26:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
         "AirlineCode": "LH"
     }
 ]    
