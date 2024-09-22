@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "22-09-2024 20:22:36"
+        "download_time": "22-09-2024 21:25:44"
     },
     {
         "InterviewId": "7701",
@@ -47983,6 +47983,46 @@ let interview_data_raw = `[
         "Flight": "6H  726",
         "Dest": "TLV",
         "AirlineCode": "6H"
+    },
+    {
+        "InterviewId": "14452",
+        "InterviewEndDate": "2024-09-22 18:51:58",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "14453",
+        "InterviewEndDate": "2024-09-22 18:58:35",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "14454",
+        "InterviewEndDate": "2024-09-22 18:42:45",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "14455",
+        "InterviewEndDate": "2024-09-22 18:59:16",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "14456",
+        "InterviewEndDate": "2024-09-22 19:05:45",
+        "InterviewState": "Complete",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC"
     }
 ]    
 
