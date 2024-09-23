@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-09-2024 14:41:07"
+        "download_time": "23-09-2024 15:46:42"
     },
     {
         "InterviewId": "6093",
@@ -78535,6 +78535,78 @@ let interview_data_raw = `[
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20439",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20440",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20441",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20442",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20443",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20444",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20445",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20446",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
+    },
+    {
+        "InterviewId": "20447",
+        "InterviewEndDate": "2024-09-23",
+        "InterviewState": "Complete",
+        "Flight": "FR1048",
+        "Dest": "VLC",
+        "AirlineCode": "FR1048"
     }
 ]    
 
