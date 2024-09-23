@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-09-2024 17:54:49"
+        "download_time": "23-09-2024 19:00:34"
     },
     {
         "InterviewId": "15819",
@@ -144062,6 +144062,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2128",
         "Dest": "DRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37513",
+        "InterviewEndDate": "2024-09-23 16:01:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37514",
+        "InterviewEndDate": "2024-09-23 16:11:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37516",
+        "InterviewEndDate": "2024-09-23 15:59:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37517",
+        "InterviewEndDate": "2024-09-23 16:03:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37519",
+        "InterviewEndDate": "2024-09-23 16:21:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37522",
+        "InterviewEndDate": "2024-09-23 16:35:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37524",
+        "InterviewEndDate": "2024-09-23 16:47:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37525",
+        "InterviewEndDate": "2024-09-23 16:47:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
         "AirlineCode": "LH"
     }
 ]    
