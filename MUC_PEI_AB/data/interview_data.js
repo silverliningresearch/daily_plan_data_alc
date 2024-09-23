@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "23-09-2024 16:49:53"
+        "download_time": "23-09-2024 17:54:49"
     },
     {
         "InterviewId": "15819",
@@ -143905,6 +143905,14 @@ let interview_data_raw = `[
         "AirlineCode": "Lh"
     },
     {
+        "InterviewId": "37489",
+        "InterviewEndDate": "2024-09-23 14:58:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1810",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37490",
         "InterviewEndDate": "2024-09-23 06:09:45",
         "InterviewState": "Complete",
@@ -143983,6 +143991,78 @@ let interview_data_raw = `[
         "Flight": "Ld 1832",
         "Dest": "AGP",
         "AirlineCode": "Ld"
+    },
+    {
+        "InterviewId": "37503",
+        "InterviewEndDate": "2024-09-23 15:26:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37504",
+        "InterviewEndDate": "2024-09-23 15:10:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37505",
+        "InterviewEndDate": "2024-09-23 15:09:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37506",
+        "InterviewEndDate": "2024-09-23 15:28:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37507",
+        "InterviewEndDate": "2024-09-23 15:15:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37509",
+        "InterviewEndDate": "2024-09-23 15:31:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37510",
+        "InterviewEndDate": "2024-09-23 15:35:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37511",
+        "InterviewEndDate": "2024-09-23 15:36:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2128",
+        "Dest": "DRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37512",
+        "InterviewEndDate": "2024-09-23 15:40:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2128",
+        "Dest": "DRS",
+        "AirlineCode": "LH"
     }
 ]    
 
