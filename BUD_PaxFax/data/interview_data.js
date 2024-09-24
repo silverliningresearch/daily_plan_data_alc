@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "24-09-2024 17:50:27"
+        "download_time": "24-09-2024 18:55:34"
     },
     {
         "InterviewId": "7701",
@@ -48206,6 +48206,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 8492",
         "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14482",
+        "InterviewEndDate": "2024-09-24 16:13:01",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14483",
+        "InterviewEndDate": "2024-09-24 16:13:40",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14484",
+        "InterviewEndDate": "2024-09-24 16:14:44",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14485",
+        "InterviewEndDate": "2024-09-24 16:14:19",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14486",
+        "InterviewEndDate": "2024-09-24 16:29:28",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14487",
+        "InterviewEndDate": "2024-09-24 16:29:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14488",
+        "InterviewEndDate": "2024-09-24 16:26:02",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14489",
+        "InterviewEndDate": "2024-09-24 16:33:16",
+        "InterviewState": "Complete",
+        "Flight": "FR  080",
+        "Dest": "CPH",
         "AirlineCode": "FR"
     }
 ]    
