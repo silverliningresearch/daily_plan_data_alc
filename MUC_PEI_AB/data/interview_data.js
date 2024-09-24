@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-09-2024 19:54:50"
+        "download_time": "24-09-2024 21:00:23"
     },
     {
         "InterviewId": "15819",
@@ -144239,6 +144239,86 @@ let interview_data_raw = `[
         "Flight": "LH 2222",
         "Dest": "TLS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37549",
+        "InterviewEndDate": "2024-09-24 17:57:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37550",
+        "InterviewEndDate": "2024-09-24 18:21:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37551",
+        "InterviewEndDate": "2024-09-24 18:36:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37553",
+        "InterviewEndDate": "2024-09-24 18:19:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37554",
+        "InterviewEndDate": "2024-09-24 18:31:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37555",
+        "InterviewEndDate": "2024-09-24 18:17:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37556",
+        "InterviewEndDate": "2024-09-24 18:17:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37558",
+        "InterviewEndDate": "2024-09-24 18:44:52",
+        "InterviewState": "Complete",
+        "Flight": "EN 8206",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37559",
+        "InterviewEndDate": "2024-09-24 18:59:39",
+        "InterviewState": "Complete",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37561",
+        "InterviewEndDate": "2024-09-24 18:48:19",
+        "InterviewState": "Complete",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN"
     }
 ]    
 
