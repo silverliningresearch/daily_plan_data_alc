@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "25-09-2024 18:39:49"
+        "download_time": "25-09-2024 19:44:50"
     },
     {
         "InterviewId": "15819",
@@ -144425,6 +144425,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37567",
+        "InterviewEndDate": "2024-09-25 17:35:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37568",
         "InterviewEndDate": "2024-09-25 15:55:40",
         "InterviewState": "Complete",
@@ -144473,6 +144481,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37574",
+        "InterviewEndDate": "2024-09-25 17:36:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37575",
+        "InterviewEndDate": "2024-09-25 17:31:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37576",
         "InterviewEndDate": "2024-09-25 16:17:00",
         "InterviewState": "Complete",
@@ -144505,11 +144529,91 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37580",
+        "InterviewEndDate": "2024-09-25 16:48:59",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
         "InterviewId": "37581",
         "InterviewEndDate": "2024-09-25 16:28:54",
         "InterviewState": "Complete",
         "Flight": "LH 1806",
         "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37582",
+        "InterviewEndDate": "2024-09-25 16:44:08",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "37583",
+        "InterviewEndDate": "2024-09-25 16:55:15",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "37584",
+        "InterviewEndDate": "2024-09-25 16:46:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37585",
+        "InterviewEndDate": "2024-09-25 17:18:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37586",
+        "InterviewEndDate": "2024-09-25 17:16:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37587",
+        "InterviewEndDate": "2024-09-25 16:42:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37589",
+        "InterviewEndDate": "2024-09-25 17:01:06",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "37591",
+        "InterviewEndDate": "2024-09-25 17:04:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2310",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37592",
+        "InterviewEndDate": "2024-09-25 17:03:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2310",
+        "Dest": "AMS",
         "AirlineCode": "LH"
     }
 ]    
