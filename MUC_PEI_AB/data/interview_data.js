@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "25-09-2024 17:34:54"
+        "download_time": "25-09-2024 18:39:49"
     },
     {
         "InterviewId": "15819",
@@ -144422,6 +144422,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1862",
         "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37568",
+        "InterviewEndDate": "2024-09-25 15:55:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37569",
+        "InterviewEndDate": "2024-09-25 15:48:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37570",
+        "InterviewEndDate": "2024-09-25 15:51:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37571",
+        "InterviewEndDate": "2024-09-25 15:54:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37572",
+        "InterviewEndDate": "2024-09-25 15:48:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37573",
+        "InterviewEndDate": "2024-09-25 16:23:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1730",
+        "Dest": "ZAG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37576",
+        "InterviewEndDate": "2024-09-25 16:17:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37577",
+        "InterviewEndDate": "2024-09-25 16:14:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37578",
+        "InterviewEndDate": "2024-09-25 16:24:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37579",
+        "InterviewEndDate": "2024-09-25 16:28:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37581",
+        "InterviewEndDate": "2024-09-25 16:28:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
         "AirlineCode": "LH"
     }
 ]    
