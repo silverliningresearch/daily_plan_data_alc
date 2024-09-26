@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "26-09-2024 08:48:14"
+        "download_time": "26-09-2024 09:53:04"
     },
     {
         "InterviewId": "3965",
@@ -43302,6 +43302,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 8492",
         "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9635",
+        "InterviewEndDate": "2024-09-26 06:48:52",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9636",
+        "InterviewEndDate": "2024-09-26 06:55:48",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9637",
+        "InterviewEndDate": "2024-09-26 06:57:33",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9638",
+        "InterviewEndDate": "2024-09-26 06:59:04",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9639",
+        "InterviewEndDate": "2024-09-26 07:02:03",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9640",
+        "InterviewEndDate": "2024-09-26 07:06:11",
+        "InterviewState": "Complete",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "9641",
+        "InterviewEndDate": "2024-09-26 07:20:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9642",
+        "InterviewEndDate": "2024-09-26 07:24:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9643",
+        "InterviewEndDate": "2024-09-26 07:23:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9644",
+        "InterviewEndDate": "2024-09-26 07:27:27",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
         "AirlineCode": "FR"
     }
 ]    
