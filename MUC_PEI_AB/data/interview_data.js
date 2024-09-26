@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-09-2024 19:34:55"
+        "download_time": "26-09-2024 20:40:15"
     },
     {
         "InterviewId": "15819",
@@ -144791,6 +144791,70 @@ let interview_data_raw = `[
         "Flight": "LH 2266",
         "Dest": "MRS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37622",
+        "InterviewEndDate": "2024-09-26 17:50:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37623",
+        "InterviewEndDate": "2024-09-26 17:46:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37624",
+        "InterviewEndDate": "2024-09-26 18:06:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37625",
+        "InterviewEndDate": "2024-09-26 17:52:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37626",
+        "InterviewEndDate": "2024-09-26 17:48:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37628",
+        "InterviewEndDate": "2024-09-26 18:29:09",
+        "InterviewState": "Complete",
+        "Flight": "EN 8222",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37629",
+        "InterviewEndDate": "2024-09-26 18:27:48",
+        "InterviewState": "Complete",
+        "Flight": "EN 8222",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37630",
+        "InterviewEndDate": "2024-09-26 18:30:03",
+        "InterviewState": "Complete",
+        "Flight": "EN 8222",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
     }
 ]    
 
