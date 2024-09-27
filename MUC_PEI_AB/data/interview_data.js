@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-09-2024 18:21:05"
+        "download_time": "27-09-2024 19:24:55"
     },
     {
         "InterviewId": "15819",
@@ -145191,6 +145191,62 @@ let interview_data_raw = `[
         "Flight": "LH 2070",
         "Dest": "HAM",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37683",
+        "InterviewEndDate": "2024-09-27 16:28:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37684",
+        "InterviewEndDate": "2024-09-27 16:29:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37685",
+        "InterviewEndDate": "2024-09-27 16:33:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37686",
+        "InterviewEndDate": "2024-09-27 16:39:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37688",
+        "InterviewEndDate": "2024-09-27 17:18:25",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37689",
+        "InterviewEndDate": "2024-09-27 17:20:16",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "37691",
+        "InterviewEndDate": "2024-09-27 17:18:43",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
