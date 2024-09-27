@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-09-2024 16:11:01"
+        "download_time": "27-09-2024 17:14:52"
     },
     {
         "InterviewId": "15819",
@@ -144905,6 +144905,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37641",
+        "InterviewEndDate": "2024-09-27 14:15:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2442",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37642",
+        "InterviewEndDate": "2024-09-27 14:12:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2442",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37643",
         "InterviewEndDate": "2024-09-27 14:03:39",
         "InterviewState": "Complete",
@@ -144926,6 +144942,118 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2442",
         "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37646",
+        "InterviewEndDate": "2024-09-27 14:23:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2442",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37647",
+        "InterviewEndDate": "2024-09-27 14:23:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37648",
+        "InterviewEndDate": "2024-09-27 15:08:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37650",
+        "InterviewEndDate": "2024-09-27 15:08:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37651",
+        "InterviewEndDate": "2024-09-27 15:11:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37653",
+        "InterviewEndDate": "2024-09-27 14:32:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37654",
+        "InterviewEndDate": "2024-09-27 14:31:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37655",
+        "InterviewEndDate": "2024-09-27 14:31:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37656",
+        "InterviewEndDate": "2024-09-27 14:32:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37657",
+        "InterviewEndDate": "2024-09-27 14:33:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37658",
+        "InterviewEndDate": "2024-09-27 14:40:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2252",
+        "Dest": "LYS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37659",
+        "InterviewEndDate": "2024-09-27 15:06:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37662",
+        "InterviewEndDate": "2024-09-27 14:58:40",
+        "InterviewState": "Complete",
+        "Flight": "VL 2196",
+        "Dest": "BRE",
+        "AirlineCode": "VL"
+    },
+    {
+        "InterviewId": "37663",
+        "InterviewEndDate": "2024-09-27 15:00:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
         "AirlineCode": "LH"
     }
 ]    
