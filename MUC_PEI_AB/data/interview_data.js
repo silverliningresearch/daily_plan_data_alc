@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-09-2024 17:14:52"
+        "download_time": "27-09-2024 18:21:05"
     },
     {
         "InterviewId": "15819",
@@ -144969,6 +144969,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37649",
+        "InterviewEndDate": "2024-09-27 15:42:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37650",
         "InterviewEndDate": "2024-09-27 15:08:05",
         "InterviewState": "Complete",
@@ -145054,6 +145062,134 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2102",
         "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37664",
+        "InterviewEndDate": "2024-09-27 15:18:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37665",
+        "InterviewEndDate": "2024-09-27 15:26:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37668",
+        "InterviewEndDate": "2024-09-27 15:28:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1648",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37669",
+        "InterviewEndDate": "2024-09-27 15:32:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1648",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37671",
+        "InterviewEndDate": "2024-09-27 15:37:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37672",
+        "InterviewEndDate": "2024-09-27 15:44:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1648",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37673",
+        "InterviewEndDate": "2024-09-27 16:18:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37674",
+        "InterviewEndDate": "2024-09-27 16:20:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37675",
+        "InterviewEndDate": "2024-09-27 16:12:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37676",
+        "InterviewEndDate": "2024-09-27 16:19:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37677",
+        "InterviewEndDate": "2024-09-27 16:18:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37678",
+        "InterviewEndDate": "2024-09-27 15:54:14",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "37679",
+        "InterviewEndDate": "2024-09-27 16:00:44",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "37680",
+        "InterviewEndDate": "2024-09-27 16:03:33",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "37681",
+        "InterviewEndDate": "2024-09-27 16:16:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37682",
+        "InterviewEndDate": "2024-09-27 16:18:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
