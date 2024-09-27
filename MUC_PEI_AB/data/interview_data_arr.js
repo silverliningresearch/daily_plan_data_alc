@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-09-2024 19:26:30"
+        "download_time": "27-09-2024 20:32:19"
     },
     {
         "InterviewId": "5167",
@@ -46710,6 +46710,62 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "DBV",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12399",
+        "InterviewEndDate": "2024-09-27 17:32:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12400",
+        "InterviewEndDate": "2024-09-27 17:28:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12402",
+        "InterviewEndDate": "2024-09-27 17:49:46",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12403",
+        "InterviewEndDate": "2024-09-27 18:03:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12404",
+        "InterviewEndDate": "2024-09-27 18:05:37",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "12405",
+        "InterviewEndDate": "2024-09-27 18:20:16",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12406",
+        "InterviewEndDate": "2024-09-27 18:26:00",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRU",
         "AirlineCode": "LH"
     }
 ]    
