@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-09-2024 09:29:52"
+        "download_time": "28-09-2024 10:34:59"
     },
     {
         "InterviewId": "15819",
@@ -145511,6 +145511,110 @@ let interview_data_raw = `[
         "Flight": "LH 1876",
         "Dest": "NAP",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37729",
+        "InterviewEndDate": "2024-09-28 07:35:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37730",
+        "InterviewEndDate": "2024-09-28 07:32:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37731",
+        "InterviewEndDate": "2024-09-28 07:45:44",
+        "InterviewState": "Complete",
+        "Flight": "EZY 8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "37732",
+        "InterviewEndDate": "2024-09-28 07:46:57",
+        "InterviewState": "Complete",
+        "Flight": "EZY 8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "37733",
+        "InterviewEndDate": "2024-09-28 07:39:11",
+        "InterviewState": "Complete",
+        "Flight": "EZY 8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "37734",
+        "InterviewEndDate": "2024-09-28 07:39:25",
+        "InterviewState": "Complete",
+        "Flight": "EZY 8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "37737",
+        "InterviewEndDate": "2024-09-28 08:14:47",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37738",
+        "InterviewEndDate": "2024-09-28 08:10:02",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37739",
+        "InterviewEndDate": "2024-09-28 07:51:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1876",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37741",
+        "InterviewEndDate": "2024-09-28 08:08:56",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37742",
+        "InterviewEndDate": "2024-09-28 08:11:25",
+        "InterviewState": "Complete",
+        "Flight": "DL239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37743",
+        "InterviewEndDate": "2024-09-28 08:05:50",
+        "InterviewState": "Complete",
+        "Flight": "DL239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37747",
+        "InterviewEndDate": "2024-09-28 08:18:36",
+        "InterviewState": "Complete",
+        "Flight": "DL 239",
+        "Dest": "JFK",
+        "AirlineCode": "DL"
     }
 ]    
 
