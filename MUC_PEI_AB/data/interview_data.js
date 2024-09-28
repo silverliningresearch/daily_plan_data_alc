@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-09-2024 10:34:59"
+        "download_time": "28-09-2024 11:39:59"
     },
     {
         "InterviewId": "15819",
@@ -145615,6 +145615,134 @@ let interview_data_raw = `[
         "Flight": "DL 239",
         "Dest": "JFK",
         "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "37748",
+        "InterviewEndDate": "2024-09-28 09:19:08",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37749",
+        "InterviewEndDate": "2024-09-28 08:58:32",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37750",
+        "InterviewEndDate": "2024-09-28 08:58:51",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37751",
+        "InterviewEndDate": "2024-09-28 09:06:58",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37752",
+        "InterviewEndDate": "2024-09-28 08:56:24",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37753",
+        "InterviewEndDate": "2024-09-28 09:14:52",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37754",
+        "InterviewEndDate": "2024-09-28 09:05:06",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37755",
+        "InterviewEndDate": "2024-09-28 08:59:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37756",
+        "InterviewEndDate": "2024-09-28 09:17:36",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37757",
+        "InterviewEndDate": "2024-09-28 09:11:27",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37758",
+        "InterviewEndDate": "2024-09-28 09:27:43",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "37761",
+        "InterviewEndDate": "2024-09-28 09:34:55",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "37763",
+        "InterviewEndDate": "2024-09-28 09:13:32",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37765",
+        "InterviewEndDate": "2024-09-28 09:33:23",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37767",
+        "InterviewEndDate": "2024-09-28 09:32:40",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37768",
+        "InterviewEndDate": "2024-09-28 09:33:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
     }
 ]    
 
