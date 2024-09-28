@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-09-2024 12:44:51"
+        "download_time": "28-09-2024 13:49:58"
     },
     {
         "InterviewId": "15819",
@@ -145879,6 +145879,110 @@ let interview_data_raw = `[
         "Flight": "DI 6584",
         "Dest": "TFS",
         "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37784",
+        "InterviewEndDate": "2024-09-28 11:42:18",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37785",
+        "InterviewEndDate": "2024-09-28 11:32:29",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37787",
+        "InterviewEndDate": "2024-09-28 11:47:01",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37788",
+        "InterviewEndDate": "2024-09-28 11:48:09",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37789",
+        "InterviewEndDate": "2024-09-28 11:30:03",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37791",
+        "InterviewEndDate": "2024-09-28 11:25:33",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37792",
+        "InterviewEndDate": "2024-09-28 11:46:57",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37793",
+        "InterviewEndDate": "2024-09-28 11:34:04",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37794",
+        "InterviewEndDate": "2024-09-28 11:20:47",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "37795",
+        "InterviewEndDate": "2024-09-28 11:21:21",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "37796",
+        "InterviewEndDate": "2024-09-28 11:11:19",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "37797",
+        "InterviewEndDate": "2024-09-28 11:12:54",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "37798",
+        "InterviewEndDate": "2024-09-28 11:13:20",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
     }
 ]    
 
