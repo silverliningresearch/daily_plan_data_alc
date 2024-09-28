@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "28-09-2024 13:51:01"
+        "download_time": "28-09-2024 14:56:21"
     },
     {
         "InterviewId": "5167",
@@ -46895,6 +46895,86 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "PMI",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12425",
+        "InterviewEndDate": "2024-09-28 12:27:11",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12426",
+        "InterviewEndDate": "2024-09-28 12:42:20",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12427",
+        "InterviewEndDate": "2024-09-28 12:31:23",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12428",
+        "InterviewEndDate": "2024-09-28 12:39:53",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12429",
+        "InterviewEndDate": "2024-09-28 12:40:53",
+        "InterviewState": "Complete",
+        "Flight": "VV - Aerosvit",
+        "Dest": "JED",
+        "AirlineCode": "VV"
+    },
+    {
+        "InterviewId": "12430",
+        "InterviewEndDate": "2024-09-28 12:44:15",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "12431",
+        "InterviewEndDate": "2024-09-28 12:48:33",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "12432",
+        "InterviewEndDate": "2024-09-28 12:49:50",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "12433",
+        "InterviewEndDate": "2024-09-28 12:48:42",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "12434",
+        "InterviewEndDate": "2024-09-28 12:54:49",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
     }
 ]    
 

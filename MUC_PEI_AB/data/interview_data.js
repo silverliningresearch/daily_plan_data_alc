@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-09-2024 13:49:58"
+        "download_time": "28-09-2024 14:54:52"
     },
     {
         "InterviewId": "15819",
@@ -145882,7 +145882,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "37784",
-        "InterviewEndDate": "2024-09-28 11:42:18",
+        "InterviewEndDate": "2024-09-28 11:50:58",
         "InterviewState": "Complete",
         "Flight": "DI 6596",
         "Dest": "CFU",
@@ -145891,6 +145891,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "37785",
         "InterviewEndDate": "2024-09-28 11:32:29",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37786",
+        "InterviewEndDate": "2024-09-28 12:05:30",
         "InterviewState": "Complete",
         "Flight": "DI 6596",
         "Dest": "CFU",
@@ -145906,7 +145914,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "37788",
-        "InterviewEndDate": "2024-09-28 11:48:09",
+        "InterviewEndDate": "2024-09-28 11:52:47",
         "InterviewState": "Complete",
         "Flight": "DI 6596",
         "Dest": "CFU",
@@ -145915,6 +145923,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "37789",
         "InterviewEndDate": "2024-09-28 11:30:03",
+        "InterviewState": "Complete",
+        "Flight": "DI 6596",
+        "Dest": "CFU",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37790",
+        "InterviewEndDate": "2024-09-28 11:51:58",
         "InterviewState": "Complete",
         "Flight": "DI 6596",
         "Dest": "CFU",
@@ -145983,6 +145999,70 @@ let interview_data_raw = `[
         "Flight": "TG 925",
         "Dest": "BKK",
         "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "37799",
+        "InterviewEndDate": "2024-09-28 12:18:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37800",
+        "InterviewEndDate": "2024-09-28 12:24:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37801",
+        "InterviewEndDate": "2024-09-28 12:12:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37802",
+        "InterviewEndDate": "2024-09-28 12:12:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37803",
+        "InterviewEndDate": "2024-09-28 12:19:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37804",
+        "InterviewEndDate": "2024-09-28 12:24:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2518",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37806",
+        "InterviewEndDate": "2024-09-28 12:53:20",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "37808",
+        "InterviewEndDate": "2024-09-28 12:51:24",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
     }
 ]    
 
