@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-09-2024 11:39:59"
+        "download_time": "28-09-2024 12:44:51"
     },
     {
         "InterviewId": "15819",
@@ -145705,8 +145705,32 @@ let interview_data_raw = `[
         "AirlineCode": "SQ"
     },
     {
+        "InterviewId": "37759",
+        "InterviewEndDate": "2024-09-28 09:38:40",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "37760",
+        "InterviewEndDate": "2024-09-28 09:52:09",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
         "InterviewId": "37761",
         "InterviewEndDate": "2024-09-28 09:34:55",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "37762",
+        "InterviewEndDate": "2024-09-28 09:42:08",
         "InterviewState": "Complete",
         "Flight": "SQ 327",
         "Dest": "SIN",
@@ -145743,6 +145767,118 @@ let interview_data_raw = `[
         "Flight": "EW 1786",
         "Dest": "PMI",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37769",
+        "InterviewEndDate": "2024-09-28 10:08:53",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37770",
+        "InterviewEndDate": "2024-09-28 10:10:35",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37771",
+        "InterviewEndDate": "2024-09-28 10:00:19",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37772",
+        "InterviewEndDate": "2024-09-28 10:06:16",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37773",
+        "InterviewEndDate": "2024-09-28 10:01:37",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37774",
+        "InterviewEndDate": "2024-09-28 10:14:38",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "37775",
+        "InterviewEndDate": "2024-09-28 10:10:20",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "37776",
+        "InterviewEndDate": "2024-09-28 10:21:42",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "37777",
+        "InterviewEndDate": "2024-09-28 10:18:27",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "37778",
+        "InterviewEndDate": "2024-09-28 10:12:59",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "37779",
+        "InterviewEndDate": "2024-09-28 10:21:26",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37780",
+        "InterviewEndDate": "2024-09-28 10:14:10",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37781",
+        "InterviewEndDate": "2024-09-28 10:21:43",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37782",
+        "InterviewEndDate": "2024-09-28 10:21:42",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
     }
 ]    
 
