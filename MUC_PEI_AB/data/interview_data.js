@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-09-2024 08:16:07"
+        "download_time": "29-09-2024 09:19:56"
     },
     {
         "InterviewId": "15819",
@@ -146174,6 +146174,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1906",
         "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37825",
+        "InterviewEndDate": "2024-09-29 06:38:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1914",
+        "Dest": "PMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37826",
+        "InterviewEndDate": "2024-09-29 06:28:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1914",
+        "Dest": "PMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37827",
+        "InterviewEndDate": "2024-09-29 06:29:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1914",
+        "Dest": "PMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37828",
+        "InterviewEndDate": "2024-09-29 06:58:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37829",
+        "InterviewEndDate": "2024-09-29 06:56:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37830",
+        "InterviewEndDate": "2024-09-29 06:57:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37831",
+        "InterviewEndDate": "2024-09-29 07:15:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1786",
+        "Dest": "FAO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37832",
+        "InterviewEndDate": "2024-09-29 07:18:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1786",
+        "Dest": "FAO",
         "AirlineCode": "LH"
     }
 ]    
