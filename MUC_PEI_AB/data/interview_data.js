@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "29-09-2024 10:25:43"
+        "download_time": "29-09-2024 11:29:52"
     },
     {
         "InterviewId": "15819",
@@ -146287,6 +146287,62 @@ let interview_data_raw = `[
         "Flight": "LH 2434",
         "Dest": "BLL",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37839",
+        "InterviewEndDate": "2024-09-29 08:44:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37840",
+        "InterviewEndDate": "2024-09-29 08:43:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37843",
+        "InterviewEndDate": "2024-09-29 08:54:20",
+        "InterviewState": "Complete",
+        "Flight": "EN 8300",
+        "Dest": "AOI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37844",
+        "InterviewEndDate": "2024-09-29 08:52:58",
+        "InterviewState": "Complete",
+        "Flight": "EN8300",
+        "Dest": "AOI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37845",
+        "InterviewEndDate": "2024-09-29 08:55:20",
+        "InterviewState": "Complete",
+        "Flight": "EN8300",
+        "Dest": "AOI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37846",
+        "InterviewEndDate": "2024-09-29 09:16:18",
+        "InterviewState": "Complete",
+        "Flight": "KM  307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "37847",
+        "InterviewEndDate": "2024-09-29 09:16:21",
+        "InterviewState": "Complete",
+        "Flight": "KM  307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
     }
 ]    
 
