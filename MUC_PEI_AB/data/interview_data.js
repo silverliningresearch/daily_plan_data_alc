@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-09-2024 16:45:19"
+        "download_time": "30-09-2024 17:50:02"
     },
     {
         "InterviewId": "15819",
@@ -146647,6 +146647,86 @@ let interview_data_raw = `[
         "Flight": "VY 3841",
         "Dest": "PMI",
         "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "37887",
+        "InterviewEndDate": "2024-09-30 15:21:59",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37888",
+        "InterviewEndDate": "2024-09-30 15:25:02",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37890",
+        "InterviewEndDate": "2024-09-30 15:25:55",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37891",
+        "InterviewEndDate": "2024-09-30 15:23:35",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37892",
+        "InterviewEndDate": "2024-09-30 15:17:07",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37893",
+        "InterviewEndDate": "2024-09-30 15:25:25",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37894",
+        "InterviewEndDate": "2024-09-30 15:45:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2290",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37896",
+        "InterviewEndDate": "2024-09-30 15:46:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2290",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37897",
+        "InterviewEndDate": "2024-09-30 15:44:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2290",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37898",
+        "InterviewEndDate": "2024-09-30 15:46:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2290",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
     }
 ]    
 
