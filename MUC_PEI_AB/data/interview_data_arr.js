@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-09-2024 12:26:31"
+        "download_time": "30-09-2024 13:31:08"
     },
     {
         "InterviewId": "5167",
@@ -47265,12 +47265,148 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "12475",
+        "InterviewEndDate": "2024-09-30 10:28:48",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "12476",
+        "InterviewEndDate": "2024-09-30 10:26:32",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "12477",
         "InterviewEndDate": "2024-09-30 10:12:37",
         "InterviewState": "Complete",
         "Flight": "IB - Iberia",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "12478",
+        "InterviewEndDate": "2024-09-30 10:29:19",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "12479",
+        "InterviewEndDate": "2024-09-30 10:32:27",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "12480",
+        "InterviewEndDate": "2024-09-30 10:35:04",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "12481",
+        "InterviewEndDate": "2024-09-30 10:40:29",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "12482",
+        "InterviewEndDate": "2024-09-30 10:40:09",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "12483",
+        "InterviewEndDate": "2024-09-30 10:48:36",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "SUF",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12484",
+        "InterviewEndDate": "2024-09-30 10:55:40",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "SUF",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12485",
+        "InterviewEndDate": "2024-09-30 10:54:52",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "SUF",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12486",
+        "InterviewEndDate": "2024-09-30 10:56:26",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12487",
+        "InterviewEndDate": "2024-09-30 11:00:26",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12488",
+        "InterviewEndDate": "2024-09-30 11:00:25",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12489",
+        "InterviewEndDate": "2024-09-30 11:01:42",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12490",
+        "InterviewEndDate": "2024-09-30 11:10:23",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12491",
+        "InterviewEndDate": "2024-09-30 11:13:50",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12492",
+        "InterviewEndDate": "2024-09-30 11:17:37",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "OLB",
+        "AirlineCode": "DE"
     }
 ]    
 
