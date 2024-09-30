@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-09-2024 08:05:05"
+        "download_time": "30-09-2024 09:09:58"
     },
     {
         "InterviewId": "15819",
@@ -146407,6 +146407,94 @@ let interview_data_raw = `[
         "Flight": "EW  091",
         "Dest": "CGN",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "37857",
+        "InterviewEndDate": "2024-09-30 06:38:34",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37858",
+        "InterviewEndDate": "2024-09-30 06:38:31",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37859",
+        "InterviewEndDate": "2024-09-30 06:18:55",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37860",
+        "InterviewEndDate": "2024-09-30 06:59:02",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37861",
+        "InterviewEndDate": "2024-09-30 06:28:45",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37862",
+        "InterviewEndDate": "2024-09-30 06:31:35",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37863",
+        "InterviewEndDate": "2024-09-30 06:14:38",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37864",
+        "InterviewEndDate": "2024-09-30 06:21:43",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37865",
+        "InterviewEndDate": "2024-09-30 06:24:17",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37866",
+        "InterviewEndDate": "2024-09-30 06:37:46",
+        "InterviewState": "Complete",
+        "Flight": "QR  060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "37868",
+        "InterviewEndDate": "2024-09-30 07:08:48",
+        "InterviewState": "Complete",
+        "Flight": "VY 1813",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
