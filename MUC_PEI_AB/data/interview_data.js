@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-09-2024 18:55:04"
+        "download_time": "30-09-2024 19:59:56"
     },
     {
         "InterviewId": "15819",
@@ -146791,6 +146791,62 @@ let interview_data_raw = `[
         "Flight": "TP 555",
         "Dest": "LIS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "37910",
+        "InterviewEndDate": "2024-09-30 16:57:58",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37912",
+        "InterviewEndDate": "2024-09-30 17:15:03",
+        "InterviewState": "Complete",
+        "Flight": "EN 8298",
+        "Dest": "GOA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37913",
+        "InterviewEndDate": "2024-09-30 17:16:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37914",
+        "InterviewEndDate": "2024-09-30 17:24:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37915",
+        "InterviewEndDate": "2024-09-30 17:34:48",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37916",
+        "InterviewEndDate": "2024-09-30 17:27:46",
+        "InterviewState": "Complete",
+        "Flight": "EN 8212",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "37918",
+        "InterviewEndDate": "2024-09-30 17:47:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
     }
 ]    
 
