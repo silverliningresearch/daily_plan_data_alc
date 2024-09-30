@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-09-2024 09:09:58"
+        "download_time": "30-09-2024 10:15:09"
     },
     {
         "InterviewId": "15819",
@@ -146489,12 +146489,68 @@ let interview_data_raw = `[
         "AirlineCode": "QR"
     },
     {
+        "InterviewId": "37867",
+        "InterviewEndDate": "2024-09-30 07:18:36",
+        "InterviewState": "Complete",
+        "Flight": "VY 1813",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
         "InterviewId": "37868",
         "InterviewEndDate": "2024-09-30 07:08:48",
         "InterviewState": "Complete",
         "Flight": "VY 1813",
         "Dest": "BCN",
         "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "37869",
+        "InterviewEndDate": "2024-09-30 07:30:18",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "37870",
+        "InterviewEndDate": "2024-09-30 07:35:28",
+        "InterviewState": "Complete",
+        "Flight": "AF 1423",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "37871",
+        "InterviewEndDate": "2024-09-30 07:55:23",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "37872",
+        "InterviewEndDate": "2024-09-30 07:53:27",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "37873",
+        "InterviewEndDate": "2024-09-30 08:04:20",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "37874",
+        "InterviewEndDate": "2024-09-30 07:53:22",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
     }
 ]    
 
