@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "30-09-2024 11:19:58"
+        "download_time": "30-09-2024 12:24:55"
     },
     {
         "InterviewId": "15819",
@@ -146570,7 +146570,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "37877",
-        "InterviewEndDate": "2024-09-30 08:38:52",
+        "InterviewEndDate": "2024-09-30 09:31:57",
         "InterviewState": "Complete",
         "Flight": "DI6022",
         "Dest": "HRG",
@@ -146591,6 +146591,62 @@ let interview_data_raw = `[
         "Flight": "DI6022",
         "Dest": "HRG",
         "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "37880",
+        "InterviewEndDate": "2024-09-30 09:27:31",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "37881",
+        "InterviewEndDate": "2024-09-30 09:31:38",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "37882",
+        "InterviewEndDate": "2024-09-30 09:26:45",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "37883",
+        "InterviewEndDate": "2024-09-30 09:37:26",
+        "InterviewState": "Complete",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "37884",
+        "InterviewEndDate": "2024-09-30 09:51:14",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "37885",
+        "InterviewEndDate": "2024-09-30 09:54:07",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "37886",
+        "InterviewEndDate": "2024-09-30 09:50:11",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
     }
 ]    
 
