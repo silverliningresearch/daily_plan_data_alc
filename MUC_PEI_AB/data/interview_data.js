@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "01-10-2024 21:59:54"
+        "download_time": "01-10-2024 23:04:59"
     },
     {
         "InterviewId": "15819",
@@ -147329,6 +147329,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37981",
+        "InterviewEndDate": "2024-10-01 20:10:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37982",
         "InterviewEndDate": "2024-10-01 18:24:00",
         "InterviewState": "Complete",
@@ -147345,8 +147353,24 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "37984",
+        "InterviewEndDate": "2024-10-01 20:09:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "37985",
         "InterviewEndDate": "2024-10-01 19:38:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37986",
+        "InterviewEndDate": "2024-10-01 20:05:44",
         "InterviewState": "Complete",
         "Flight": "LH 2106",
         "Dest": "HAJ",
@@ -147422,6 +147446,22 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1994",
         "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37996",
+        "InterviewEndDate": "2024-10-01 20:04:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37997",
+        "InterviewEndDate": "2024-10-01 20:10:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2142",
+        "Dest": "FMO",
         "AirlineCode": "LH"
     }
 ]    
