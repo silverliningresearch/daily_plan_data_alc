@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "01-10-2024 14:28:36"
+        "download_time": "01-10-2024 15:31:15"
     },
     {
         "InterviewId": "5167",
@@ -47551,6 +47551,134 @@ let interview_data_arr_raw = `[
         "Flight": "Lh",
         "Dest": "SFO",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "12513",
+        "InterviewEndDate": "2024-10-01 12:29:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12514",
+        "InterviewEndDate": "2024-10-01 12:29:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12515",
+        "InterviewEndDate": "2024-10-01 12:36:37",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "RUH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12516",
+        "InterviewEndDate": "2024-10-01 12:41:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12517",
+        "InterviewEndDate": "2024-10-01 12:42:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12518",
+        "InterviewEndDate": "2024-10-01 12:48:46",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12519",
+        "InterviewEndDate": "2024-10-01 12:56:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12520",
+        "InterviewEndDate": "2024-10-01 13:00:56",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "12521",
+        "InterviewEndDate": "2024-10-01 12:59:04",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "12522",
+        "InterviewEndDate": "2024-10-01 13:23:11",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "RZE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12523",
+        "InterviewEndDate": "2024-10-01 13:02:48",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12525",
+        "InterviewEndDate": "2024-10-01 13:07:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12526",
+        "InterviewEndDate": "2024-10-01 13:10:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12527",
+        "InterviewEndDate": "2024-10-01 13:16:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EDI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12529",
+        "InterviewEndDate": "2024-10-01 13:16:31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12530",
+        "InterviewEndDate": "2024-10-01 13:27:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
     }
 ]    
 
