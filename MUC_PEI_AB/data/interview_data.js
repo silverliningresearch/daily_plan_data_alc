@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "01-10-2024 11:09:58"
+        "download_time": "01-10-2024 12:16:13"
     },
     {
         "InterviewId": "15819",
@@ -146926,6 +146926,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH  105",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37930",
+        "InterviewEndDate": "2024-10-01 09:13:31",
+        "InterviewState": "Complete",
+        "Flight": "LH  105",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37931",
+        "InterviewEndDate": "2024-10-01 09:28:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37932",
+        "InterviewEndDate": "2024-10-01 09:27:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37933",
+        "InterviewEndDate": "2024-10-01 09:24:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37934",
+        "InterviewEndDate": "2024-10-01 09:29:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37935",
+        "InterviewEndDate": "2024-10-01 09:27:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37936",
+        "InterviewEndDate": "2024-10-01 09:40:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2230",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37937",
+        "InterviewEndDate": "2024-10-01 09:44:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2230",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37938",
+        "InterviewEndDate": "2024-10-01 09:40:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2230",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37939",
+        "InterviewEndDate": "2024-10-01 09:45:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2230",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37940",
+        "InterviewEndDate": "2024-10-01 09:50:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2230",
+        "Dest": "CDG",
         "AirlineCode": "LH"
     }
 ]    
