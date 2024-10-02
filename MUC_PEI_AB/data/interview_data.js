@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-10-2024 07:44:59"
+        "download_time": "02-10-2024 08:50:14"
     },
     {
         "InterviewId": "15819",
@@ -147463,6 +147463,102 @@ let interview_data_raw = `[
         "Flight": "LH 2142",
         "Dest": "FMO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "37998",
+        "InterviewEndDate": "2024-10-02 06:05:01",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "37999",
+        "InterviewEndDate": "2024-10-02 05:57:11",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "38000",
+        "InterviewEndDate": "2024-10-02 06:02:09",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "38001",
+        "InterviewEndDate": "2024-10-02 05:52:11",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "38002",
+        "InterviewEndDate": "2024-10-02 05:54:23",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "38004",
+        "InterviewEndDate": "2024-10-02 05:50:15",
+        "InterviewState": "Complete",
+        "Flight": "AA  7171",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "38005",
+        "InterviewEndDate": "2024-10-02 05:53:46",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "38006",
+        "InterviewEndDate": "2024-10-02 05:52:49",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "38013",
+        "InterviewEndDate": "2024-10-02 06:36:52",
+        "InterviewState": "Complete",
+        "Flight": "EZY 6496",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "38014",
+        "InterviewEndDate": "2024-10-02 06:35:35",
+        "InterviewState": "Complete",
+        "Flight": "EZY 6496",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "38015",
+        "InterviewEndDate": "2024-10-02 06:35:28",
+        "InterviewState": "Complete",
+        "Flight": "EZY 6496",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "38016",
+        "InterviewEndDate": "2024-10-02 06:35:53",
+        "InterviewState": "Complete",
+        "Flight": "EZY 6496",
+        "Dest": "LGW",
+        "AirlineCode": "EZY"
     }
 ]    
 
