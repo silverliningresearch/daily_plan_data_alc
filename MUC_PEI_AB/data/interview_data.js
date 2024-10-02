@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-10-2024 08:50:14"
+        "download_time": "02-10-2024 09:55:02"
     },
     {
         "InterviewId": "15819",
@@ -147529,6 +147529,38 @@ let interview_data_raw = `[
         "AirlineCode": "AA"
     },
     {
+        "InterviewId": "38009",
+        "InterviewEndDate": "2024-10-02 07:42:26",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "38010",
+        "InterviewEndDate": "2024-10-02 07:46:00",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "38011",
+        "InterviewEndDate": "2024-10-02 07:45:56",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "38012",
+        "InterviewEndDate": "2024-10-02 07:52:43",
+        "InterviewState": "Complete",
+        "Flight": "XQ  135",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
         "InterviewId": "38013",
         "InterviewEndDate": "2024-10-02 06:36:52",
         "InterviewState": "Complete",
@@ -147559,6 +147591,62 @@ let interview_data_raw = `[
         "Flight": "EZY 6496",
         "Dest": "LGW",
         "AirlineCode": "EZY"
+    },
+    {
+        "InterviewId": "38017",
+        "InterviewEndDate": "2024-10-02 07:02:58",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38018",
+        "InterviewEndDate": "2024-10-02 07:12:27",
+        "InterviewState": "Complete",
+        "Flight": "Dl131",
+        "Dest": "ATL",
+        "AirlineCode": "Dl"
+    },
+    {
+        "InterviewId": "38019",
+        "InterviewEndDate": "2024-10-02 07:02:30",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38020",
+        "InterviewEndDate": "2024-10-02 07:18:18",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38021",
+        "InterviewEndDate": "2024-10-02 07:05:42",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38022",
+        "InterviewEndDate": "2024-10-02 07:06:43",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38023",
+        "InterviewEndDate": "2024-10-02 07:09:04",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
     }
 ]    
 
