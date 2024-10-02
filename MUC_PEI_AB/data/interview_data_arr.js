@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "02-10-2024 13:11:11"
+        "download_time": "02-10-2024 14:16:35"
     },
     {
         "InterviewId": "5167",
@@ -47775,6 +47775,78 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "GDN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12546",
+        "InterviewEndDate": "2024-10-02 11:25:33",
+        "InterviewState": "Complete",
+        "Flight": "VF",
+        "Dest": "IST",
+        "AirlineCode": "VF"
+    },
+    {
+        "InterviewId": "12547",
+        "InterviewEndDate": "2024-10-02 11:28:12",
+        "InterviewState": "Complete",
+        "Flight": "VF",
+        "Dest": "IST",
+        "AirlineCode": "VF"
+    },
+    {
+        "InterviewId": "12548",
+        "InterviewEndDate": "2024-10-02 11:42:00",
+        "InterviewState": "Complete",
+        "Flight": "VF",
+        "Dest": "IST",
+        "AirlineCode": "VF"
+    },
+    {
+        "InterviewId": "12549",
+        "InterviewEndDate": "2024-10-02 11:40:50",
+        "InterviewState": "Complete",
+        "Flight": "VF",
+        "Dest": "IST",
+        "AirlineCode": "VF"
+    },
+    {
+        "InterviewId": "12550",
+        "InterviewEndDate": "2024-10-02 11:50:34",
+        "InterviewState": "Complete",
+        "Flight": "Vf",
+        "Dest": "IST",
+        "AirlineCode": "Vf"
+    },
+    {
+        "InterviewId": "12551",
+        "InterviewEndDate": "2024-10-02 11:50:32",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12552",
+        "InterviewEndDate": "2024-10-02 11:54:49",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12553",
+        "InterviewEndDate": "2024-10-02 11:57:51",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "12555",
+        "InterviewEndDate": "2024-10-02 12:07:45",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "AYT",
+        "AirlineCode": "DE"
     }
 ]    
 
