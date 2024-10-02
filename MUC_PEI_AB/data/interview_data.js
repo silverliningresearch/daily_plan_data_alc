@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "02-10-2024 12:06:06"
+        "download_time": "02-10-2024 13:09:59"
     },
     {
         "InterviewId": "15819",
@@ -147721,6 +147721,30 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "38033",
+        "InterviewEndDate": "2024-10-02 10:08:36",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "38034",
+        "InterviewEndDate": "2024-10-02 10:09:50",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "38035",
+        "InterviewEndDate": "2024-10-02 10:08:43",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "38036",
         "InterviewEndDate": "2024-10-02 10:04:47",
         "InterviewState": "Complete",
@@ -147751,6 +147775,38 @@ let interview_data_raw = `[
         "Flight": "VF 042",
         "Dest": "SAW",
         "AirlineCode": "VF"
+    },
+    {
+        "InterviewId": "38042",
+        "InterviewEndDate": "2024-10-02 10:51:01",
+        "InterviewState": "Complete",
+        "Flight": "XQ  997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "38043",
+        "InterviewEndDate": "2024-10-02 10:57:10",
+        "InterviewState": "Complete",
+        "Flight": "XQ  997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "38044",
+        "InterviewEndDate": "2024-10-02 10:53:03",
+        "InterviewState": "Complete",
+        "Flight": "XQ  977",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "38045",
+        "InterviewEndDate": "2024-10-02 10:58:40",
+        "InterviewState": "Complete",
+        "Flight": "XQ  977",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
     }
 ]    
 
