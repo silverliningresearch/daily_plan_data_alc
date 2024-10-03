@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "03-10-2024 06:29:58"
+        "download_time": "03-10-2024 07:35:26"
     },
     {
         "InterviewId": "15819",
@@ -148030,6 +148030,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1788",
         "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38080",
+        "InterviewEndDate": "2024-10-03 04:46:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2004",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38081",
+        "InterviewEndDate": "2024-10-03 04:50:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2004",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38082",
+        "InterviewEndDate": "2024-10-03 05:04:46",
+        "InterviewState": "Complete",
+        "Flight": "Lh 095",
+        "Dest": "FRA",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38083",
+        "InterviewEndDate": "2024-10-03 05:08:20",
+        "InterviewState": "Complete",
+        "Flight": "Lh 095",
+        "Dest": "FRA",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38084",
+        "InterviewEndDate": "2024-10-03 05:11:22",
+        "InterviewState": "Complete",
+        "Flight": "Lh 095",
+        "Dest": "FRA",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38085",
+        "InterviewEndDate": "2024-10-03 05:12:49",
+        "InterviewState": "Complete",
+        "Flight": "Lh 095",
+        "Dest": "FRA",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38086",
+        "InterviewEndDate": "2024-10-03 05:23:56",
+        "InterviewState": "Complete",
+        "Flight": "Lh 095",
+        "Dest": "FRA",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38087",
+        "InterviewEndDate": "2024-10-03 05:33:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
         "AirlineCode": "LH"
     }
 ]    
