@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-10-2024 19:19:43"
+        "download_time": "04-10-2024 20:24:40"
     },
     {
         "InterviewId": "15819",
@@ -148306,7 +148306,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "38120",
-        "InterviewEndDate": "2024-10-04 16:44:03",
+        "InterviewEndDate": "2024-10-04 17:38:34",
         "InterviewState": "Complete",
         "Flight": "EW 4063",
         "Dest": "DTM",
@@ -148319,6 +148319,14 @@ let interview_data_raw = `[
         "Flight": "IB 8715",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "38122",
+        "InterviewEndDate": "2024-10-04 17:25:00",
+        "InterviewState": "Complete",
+        "Flight": "EW 087",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     },
     {
         "InterviewId": "38123",
@@ -148355,6 +148363,30 @@ let interview_data_raw = `[
     {
         "InterviewId": "38127",
         "InterviewEndDate": "2024-10-04 17:15:12",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "38129",
+        "InterviewEndDate": "2024-10-04 17:35:28",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "38131",
+        "InterviewEndDate": "2024-10-04 17:48:32",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "38132",
+        "InterviewEndDate": "2024-10-04 17:43:39",
         "InterviewState": "Complete",
         "Flight": "KL 1858",
         "Dest": "AMS",
