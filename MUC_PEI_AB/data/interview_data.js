@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-10-2024 18:15:51"
+        "download_time": "04-10-2024 19:19:43"
     },
     {
         "InterviewId": "15819",
@@ -148255,6 +148255,110 @@ let interview_data_raw = `[
         "Flight": "LH  103",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38112",
+        "InterviewEndDate": "2024-10-04 16:27:52",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "38113",
+        "InterviewEndDate": "2024-10-04 16:36:38",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "38114",
+        "InterviewEndDate": "2024-10-04 16:33:23",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "38115",
+        "InterviewEndDate": "2024-10-04 16:35:53",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "38117",
+        "InterviewEndDate": "2024-10-04 16:41:26",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "38118",
+        "InterviewEndDate": "2024-10-04 16:43:35",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "38120",
+        "InterviewEndDate": "2024-10-04 16:44:03",
+        "InterviewState": "Complete",
+        "Flight": "EW 4063",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38121",
+        "InterviewEndDate": "2024-10-04 16:48:55",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "38123",
+        "InterviewEndDate": "2024-10-04 16:56:38",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38124",
+        "InterviewEndDate": "2024-10-04 17:02:49",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38125",
+        "InterviewEndDate": "2024-10-04 17:12:56",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38126",
+        "InterviewEndDate": "2024-10-04 17:11:51",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38127",
+        "InterviewEndDate": "2024-10-04 17:15:12",
+        "InterviewState": "Complete",
+        "Flight": "KL 1858",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
