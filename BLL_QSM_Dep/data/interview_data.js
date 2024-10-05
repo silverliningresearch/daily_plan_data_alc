@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "05-10-2024 21:21:23"
+        "download_time": "05-10-2024 22:25:45"
     },
     {
         "InterviewId": "6093",
@@ -79487,6 +79487,70 @@ let interview_data_raw = `[
         "Flight": "FR5179",
         "Dest": "STN",
         "AirlineCode": "FR5179"
+    },
+    {
+        "InterviewId": "20601",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "20602",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "20604",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "20605",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "20606",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "20608",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "20609",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "20610",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
     }
 ]    
 
