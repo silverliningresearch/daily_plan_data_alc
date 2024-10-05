@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-10-2024 14:49:43"
+        "download_time": "05-10-2024 15:54:39"
     },
     {
         "InterviewId": "15819",
@@ -148582,6 +148582,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1814",
         "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38161",
+        "InterviewEndDate": "2024-10-05 13:03:45",
+        "InterviewState": "Complete",
+        "Flight": "UA  761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38162",
+        "InterviewEndDate": "2024-10-05 13:02:21",
+        "InterviewState": "Complete",
+        "Flight": "UA  7616",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38163",
+        "InterviewEndDate": "2024-10-05 12:55:20",
+        "InterviewState": "Complete",
+        "Flight": "UA  761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38164",
+        "InterviewEndDate": "2024-10-05 12:57:33",
+        "InterviewState": "Complete",
+        "Flight": "UA  761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38165",
+        "InterviewEndDate": "2024-10-05 12:53:04",
+        "InterviewState": "Complete",
+        "Flight": "UA  761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38166",
+        "InterviewEndDate": "2024-10-05 13:31:56",
+        "InterviewState": "Complete",
+        "Flight": "LH  458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38167",
+        "InterviewEndDate": "2024-10-05 13:31:36",
+        "InterviewState": "Complete",
+        "Flight": "LH  458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38168",
+        "InterviewEndDate": "2024-10-05 13:16:22",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38169",
+        "InterviewEndDate": "2024-10-05 13:33:28",
+        "InterviewState": "Complete",
+        "Flight": "LH  458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38170",
+        "InterviewEndDate": "2024-10-05 13:29:25",
+        "InterviewState": "Complete",
+        "Flight": "LH  458",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38171",
+        "InterviewEndDate": "2024-10-05 13:23:46",
+        "InterviewState": "Complete",
+        "Flight": "LH  458",
+        "Dest": "SFO",
         "AirlineCode": "LH"
     }
 ]    
