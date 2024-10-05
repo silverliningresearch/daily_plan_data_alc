@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-10-2024 10:29:38"
+        "download_time": "05-10-2024 11:34:42"
     },
     {
         "InterviewId": "15819",
@@ -148479,6 +148479,78 @@ let interview_data_raw = `[
         "Flight": "LH 1752",
         "Dest": "ATH",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38146",
+        "InterviewEndDate": "2024-10-05 08:41:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38147",
+        "InterviewEndDate": "2024-10-05 08:50:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38149",
+        "InterviewEndDate": "2024-10-05 08:55:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38151",
+        "InterviewEndDate": "2024-10-05 09:14:40",
+        "InterviewState": "Complete",
+        "Flight": "Km 307",
+        "Dest": "MLA",
+        "AirlineCode": "Km"
+    },
+    {
+        "InterviewId": "38152",
+        "InterviewEndDate": "2024-10-05 09:11:05",
+        "InterviewState": "Complete",
+        "Flight": "KM  307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "38153",
+        "InterviewEndDate": "2024-10-05 09:16:03",
+        "InterviewState": "Complete",
+        "Flight": "KM  307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "38154",
+        "InterviewEndDate": "2024-10-05 09:22:22",
+        "InterviewState": "Complete",
+        "Flight": "KM  307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "38155",
+        "InterviewEndDate": "2024-10-05 09:28:35",
+        "InterviewState": "Complete",
+        "Flight": "KM  307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "38156",
+        "InterviewEndDate": "2024-10-05 09:33:58",
+        "InterviewState": "Complete",
+        "Flight": "KM  307",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
     }
 ]    
 
