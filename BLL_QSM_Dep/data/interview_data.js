@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "05-10-2024 19:11:23"
+        "download_time": "05-10-2024 20:16:55"
     },
     {
         "InterviewId": "6093",
@@ -79343,6 +79343,78 @@ let interview_data_raw = `[
         "Flight": "KL1298",
         "Dest": "AMS",
         "AirlineCode": "KL1298"
+    },
+    {
+        "InterviewId": "20577",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20578",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20579",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20580",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20581",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20582",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20583",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20584",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
+    },
+    {
+        "InterviewId": "20585",
+        "InterviewEndDate": "2024-10-05",
+        "InterviewState": "Complete",
+        "Flight": "D85619",
+        "Dest": "PMI",
+        "AirlineCode": "D85619"
     }
 ]    
 
