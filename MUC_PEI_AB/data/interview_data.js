@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-10-2024 15:54:39"
+        "download_time": "05-10-2024 16:59:39"
     },
     {
         "InterviewId": "15819",
@@ -148671,6 +148671,102 @@ let interview_data_raw = `[
         "Flight": "LH  458",
         "Dest": "SFO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38172",
+        "InterviewEndDate": "2024-10-05 14:39:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38173",
+        "InterviewEndDate": "2024-10-05 14:30:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38174",
+        "InterviewEndDate": "2024-10-05 14:34:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38175",
+        "InterviewEndDate": "2024-10-05 14:36:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38176",
+        "InterviewEndDate": "2024-10-05 14:34:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38177",
+        "InterviewEndDate": "2024-10-05 14:15:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38178",
+        "InterviewEndDate": "2024-10-05 14:22:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38179",
+        "InterviewEndDate": "2024-10-05 14:13:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38180",
+        "InterviewEndDate": "2024-10-05 14:19:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38181",
+        "InterviewEndDate": "2024-10-05 14:15:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2486",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38183",
+        "InterviewEndDate": "2024-10-05 14:55:47",
+        "InterviewState": "Complete",
+        "Flight": "4Y442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
+    },
+    {
+        "InterviewId": "38184",
+        "InterviewEndDate": "2024-10-05 14:57:56",
+        "InterviewState": "Complete",
+        "Flight": "4Y442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y"
     }
 ]    
 
