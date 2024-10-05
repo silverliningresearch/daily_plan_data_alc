@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "05-10-2024 20:14:40"
+        "download_time": "05-10-2024 21:19:42"
     },
     {
         "InterviewId": "15819",
@@ -148825,11 +148825,171 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "38194",
-        "InterviewEndDate": "2024-10-05 18:13:18",
+        "InterviewId": "38191",
+        "InterviewEndDate": "2024-10-05 18:19:53",
         "InterviewState": "Complete",
         "Flight": "LH 2034",
         "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38192",
+        "InterviewEndDate": "2024-10-05 18:15:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2034",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38193",
+        "InterviewEndDate": "2024-10-05 18:14:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2034",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38194",
+        "InterviewEndDate": "2024-10-05 18:14:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2034",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38195",
+        "InterviewEndDate": "2024-10-05 18:14:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2034",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38196",
+        "InterviewEndDate": "2024-10-05 18:34:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38197",
+        "InterviewEndDate": "2024-10-05 18:32:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2034",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38198",
+        "InterviewEndDate": "2024-10-05 18:31:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38199",
+        "InterviewEndDate": "2024-10-05 18:33:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38200",
+        "InterviewEndDate": "2024-10-05 18:35:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38201",
+        "InterviewEndDate": "2024-10-05 18:52:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38203",
+        "InterviewEndDate": "2024-10-05 18:52:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38204",
+        "InterviewEndDate": "2024-10-05 18:50:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38205",
+        "InterviewEndDate": "2024-10-05 18:55:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38206",
+        "InterviewEndDate": "2024-10-05 18:53:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1962",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38207",
+        "InterviewEndDate": "2024-10-05 19:19:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38208",
+        "InterviewEndDate": "2024-10-05 19:19:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38209",
+        "InterviewEndDate": "2024-10-05 19:15:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38210",
+        "InterviewEndDate": "2024-10-05 19:14:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38211",
+        "InterviewEndDate": "2024-10-05 19:09:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38212",
+        "InterviewEndDate": "2024-10-05 19:16:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
         "AirlineCode": "LH"
     }
 ]    
