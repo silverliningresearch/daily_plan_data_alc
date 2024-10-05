@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "05-10-2024 07:15:51"
+        "download_time": "05-10-2024 08:22:06"
     },
     {
         "InterviewId": "5167",
@@ -48119,6 +48119,62 @@ let interview_data_arr_raw = `[
         "Flight": "Lufthansa",
         "Dest": "ORD",
         "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "12592",
+        "InterviewEndDate": "2024-10-05 05:17:22",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "12593",
+        "InterviewEndDate": "2024-10-05 05:26:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CLJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12594",
+        "InterviewEndDate": "2024-10-05 05:31:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12595",
+        "InterviewEndDate": "2024-10-05 05:36:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12596",
+        "InterviewEndDate": "2024-10-05 05:43:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12597",
+        "InterviewEndDate": "2024-10-05 05:50:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12598",
+        "InterviewEndDate": "2024-10-05 05:58:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
