@@ -8,7 +8,27 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03",
-        "download_time": "06-10-2024 04:54:46"
+        "download_time": "06-10-2024 05:59:46"
+    },
+    {
+        "aodbUniqueId": "20241006315073",
+        "Date": "06-10-2024",
+        "Flight": "LH 1848",
+        "Dest": "ALC",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G37"
+    },
+    {
+        "aodbUniqueId": "20241006315181",
+        "Date": "06-10-2024",
+        "Flight": "LH 2452",
+        "Dest": "OSL",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20241006314614",
@@ -1601,16 +1621,6 @@ let MUC_Gate_Info = `[
         "Gate": "G81"
     },
     {
-        "aodbUniqueId": "20241006315073",
-        "Date": "06-10-2024",
-        "Flight": "LH 1848",
-        "Dest": "ALC",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G37"
-    },
-    {
         "aodbUniqueId": "20241006315074",
         "Date": "06-10-2024",
         "Flight": "LH 480",
@@ -2048,7 +2058,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EN",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G18"
+        "Gate": "G17"
     },
     {
         "aodbUniqueId": "20241006315171",
@@ -2058,7 +2068,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G23"
+        "Gate": "G18"
     },
     {
         "aodbUniqueId": "20241006315172",
@@ -2259,16 +2269,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G29"
-    },
-    {
-        "aodbUniqueId": "20241006315181",
-        "Date": "06-10-2024",
-        "Flight": "LH 2452",
-        "Dest": "OSL",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20241006315183",
@@ -2709,16 +2709,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C06"
-    },
-    {
-        "aodbUniqueId": "20241006315455",
-        "Date": "06-10-2024",
-        "Flight": "LH 2516",
-        "Dest": "DUB",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H46"
     },
     {
         "aodbUniqueId": "20241006315459",
@@ -3628,7 +3618,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LO",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G30"
+        "Gate": "G10"
     },
     {
         "aodbUniqueId": "20241006315594",
@@ -4071,16 +4061,6 @@ let MUC_Gate_Info = `[
         "Gate": "D06"
     },
     {
-        "aodbUniqueId": "20241006315375",
-        "Date": "06-10-2024",
-        "Flight": "LH 1810",
-        "Dest": "BCN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G28"
-    },
-    {
         "aodbUniqueId": "20241006315378",
         "Date": "06-10-2024",
         "Flight": "EY 126",
@@ -4139,6 +4119,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G34"
+    },
+    {
+        "aodbUniqueId": "20241006315455",
+        "Date": "06-10-2024",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H46"
+    },
+    {
+        "aodbUniqueId": "20241006315375",
+        "Date": "06-10-2024",
+        "Flight": "LH 1810",
+        "Dest": "BCN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20241006315392",
