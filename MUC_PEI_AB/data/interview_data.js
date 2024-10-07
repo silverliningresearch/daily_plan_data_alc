@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-10-2024 07:59:40"
+        "download_time": "07-10-2024 09:04:44"
     },
     {
         "InterviewId": "15819",
@@ -149087,6 +149087,70 @@ let interview_data_raw = `[
         "Flight": "LH 2472",
         "Dest": "LHR",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38228",
+        "InterviewEndDate": "2024-10-07 06:14:52",
+        "InterviewState": "Complete",
+        "Flight": "Ua 031",
+        "Dest": "EWR",
+        "AirlineCode": "Ua"
+    },
+    {
+        "InterviewId": "38229",
+        "InterviewEndDate": "2024-10-07 06:21:36",
+        "InterviewState": "Complete",
+        "Flight": "Ua 031",
+        "Dest": "EWR",
+        "AirlineCode": "Ua"
+    },
+    {
+        "InterviewId": "38230",
+        "InterviewEndDate": "2024-10-07 06:20:32",
+        "InterviewState": "Complete",
+        "Flight": "Ua 031",
+        "Dest": "EWR",
+        "AirlineCode": "Ua"
+    },
+    {
+        "InterviewId": "38231",
+        "InterviewEndDate": "2024-10-07 06:22:38",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38233",
+        "InterviewEndDate": "2024-10-07 06:42:40",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38235",
+        "InterviewEndDate": "2024-10-07 06:42:27",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38236",
+        "InterviewEndDate": "2024-10-07 06:49:31",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38237",
+        "InterviewEndDate": "2024-10-07 06:55:57",
+        "InterviewState": "Complete",
+        "Flight": "UA  031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
     }
 ]    
 
