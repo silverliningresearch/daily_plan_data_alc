@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-10-2024 06:54:41"
+        "download_time": "07-10-2024 07:59:40"
     },
     {
         "InterviewId": "15819",
@@ -149017,6 +149017,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "38216",
+        "InterviewEndDate": "2024-10-07 04:56:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "38218",
         "InterviewEndDate": "2024-10-07 04:52:29",
         "InterviewState": "Complete",
@@ -149030,6 +149038,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2516",
         "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38220",
+        "InterviewEndDate": "2024-10-07 05:07:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38222",
+        "InterviewEndDate": "2024-10-07 05:14:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2516",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38223",
+        "InterviewEndDate": "2024-10-07 05:18:42",
+        "InterviewState": "Complete",
+        "Flight": "Lh 2516",
+        "Dest": "DUB",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38225",
+        "InterviewEndDate": "2024-10-07 05:43:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2472",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38226",
+        "InterviewEndDate": "2024-10-07 05:48:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2472",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38227",
+        "InterviewEndDate": "2024-10-07 05:45:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2472",
+        "Dest": "LHR",
         "AirlineCode": "LH"
     }
 ]    
