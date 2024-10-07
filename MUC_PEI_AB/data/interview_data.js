@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-10-2024 16:39:41"
+        "download_time": "07-10-2024 17:44:42"
     },
     {
         "InterviewId": "15819",
@@ -149207,6 +149207,62 @@ let interview_data_raw = `[
         "Flight": "UA  160",
         "Dest": "IAH",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38246",
+        "InterviewEndDate": "2024-10-07 15:16:05",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38247",
+        "InterviewEndDate": "2024-10-07 15:30:01",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38248",
+        "InterviewEndDate": "2024-10-07 15:19:06",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38249",
+        "InterviewEndDate": "2024-10-07 15:17:21",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38250",
+        "InterviewEndDate": "2024-10-07 15:18:57",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38251",
+        "InterviewEndDate": "2024-10-07 15:34:44",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38252",
+        "InterviewEndDate": "2024-10-07 15:30:08",
+        "InterviewState": "Complete",
+        "Flight": "EN 8076",
+        "Dest": "GVA",
+        "AirlineCode": "EN"
     }
 ]    
 
