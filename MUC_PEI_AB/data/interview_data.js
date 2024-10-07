@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "07-10-2024 18:49:50"
+        "download_time": "07-10-2024 19:54:42"
     },
     {
         "InterviewId": "15819",
@@ -149367,6 +149367,78 @@ let interview_data_raw = `[
         "Flight": "BT 224",
         "Dest": "RIX",
         "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "38273",
+        "InterviewEndDate": "2024-10-07 17:07:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38274",
+        "InterviewEndDate": "2024-10-07 17:04:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1660",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38275",
+        "InterviewEndDate": "2024-10-07 17:07:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2238",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38277",
+        "InterviewEndDate": "2024-10-07 17:22:27",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38278",
+        "InterviewEndDate": "2024-10-07 17:25:10",
+        "InterviewState": "Complete",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "38279",
+        "InterviewEndDate": "2024-10-07 17:39:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38280",
+        "InterviewEndDate": "2024-10-07 17:40:26",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38281",
+        "InterviewEndDate": "2024-10-07 17:51:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1862",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38282",
+        "InterviewEndDate": "2024-10-07 17:51:43",
+        "InterviewState": "Complete",
+        "Flight": "SN 2648",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
