@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "07-10-2024 11:15:53"
+        "download_time": "07-10-2024 12:23:01"
     },
     {
         "InterviewId": "5167",
@@ -48393,6 +48393,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "12637",
+        "InterviewEndDate": "2024-10-07 09:38:37",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
         "InterviewId": "12638",
         "InterviewEndDate": "2024-10-07 08:30:12",
         "InterviewState": "Complete",
@@ -48471,6 +48479,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "DUS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12648",
+        "InterviewEndDate": "2024-10-07 09:19:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GVA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12649",
+        "InterviewEndDate": "2024-10-07 09:21:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12650",
+        "InterviewEndDate": "2024-10-07 09:24:48",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12651",
+        "InterviewEndDate": "2024-10-07 09:34:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DTM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12652",
+        "InterviewEndDate": "2024-10-07 09:33:52",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "12653",
+        "InterviewEndDate": "2024-10-07 09:37:13",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "12654",
+        "InterviewEndDate": "2024-10-07 09:45:10",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
     }
 ]    
 
