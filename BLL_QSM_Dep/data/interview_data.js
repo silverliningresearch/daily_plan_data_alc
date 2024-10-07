@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "07-10-2024 10:13:15"
+        "download_time": "07-10-2024 11:15:57"
     },
     {
         "InterviewId": "6093",
@@ -79775,6 +79775,78 @@ let interview_data_raw = `[
         "Flight": "FR997",
         "Dest": "MAD",
         "AirlineCode": "FR997"
+    },
+    {
+        "InterviewId": "20644",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20645",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20646",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20647",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20649",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20650",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20651",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20652",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "20653",
+        "InterviewEndDate": "2024-10-07",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
     }
 ]    
 
