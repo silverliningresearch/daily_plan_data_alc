@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-10-2024 18:39:42"
+        "download_time": "08-10-2024 19:44:43"
     },
     {
         "InterviewId": "15819",
@@ -149721,6 +149721,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "38322",
+        "InterviewEndDate": "2024-10-08 17:24:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "38323",
         "InterviewEndDate": "2024-10-08 16:32:31",
         "InterviewState": "Complete",
@@ -149793,6 +149801,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "38334",
+        "InterviewEndDate": "2024-10-08 16:53:11",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "38335",
+        "InterviewEndDate": "2024-10-08 16:47:30",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
         "InterviewId": "38336",
         "InterviewEndDate": "2024-10-08 16:26:48",
         "InterviewState": "Complete",
@@ -149814,6 +149838,134 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1806",
         "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38340",
+        "InterviewEndDate": "2024-10-08 16:51:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38341",
+        "InterviewEndDate": "2024-10-08 16:54:14",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38342",
+        "InterviewEndDate": "2024-10-08 16:51:56",
+        "InterviewState": "Complete",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38343",
+        "InterviewEndDate": "2024-10-08 17:18:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2466",
+        "Dest": "HEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38347",
+        "InterviewEndDate": "2024-10-08 17:14:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38349",
+        "InterviewEndDate": "2024-10-08 17:16:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38350",
+        "InterviewEndDate": "2024-10-08 17:13:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38352",
+        "InterviewEndDate": "2024-10-08 17:11:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38354",
+        "InterviewEndDate": "2024-10-08 17:17:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38355",
+        "InterviewEndDate": "2024-10-08 17:22:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38356",
+        "InterviewEndDate": "2024-10-08 17:21:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38357",
+        "InterviewEndDate": "2024-10-08 17:23:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38358",
+        "InterviewEndDate": "2024-10-08 17:41:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2446",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38359",
+        "InterviewEndDate": "2024-10-08 17:28:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38363",
+        "InterviewEndDate": "2024-10-08 17:44:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38368",
+        "InterviewEndDate": "2024-10-08 17:40:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
