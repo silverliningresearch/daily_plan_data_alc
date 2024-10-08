@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-10-2024 18:12:56"
+        "download_time": "08-10-2024 18:39:42"
     },
     {
         "InterviewId": "15819",
@@ -149721,6 +149721,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "38323",
+        "InterviewEndDate": "2024-10-08 16:32:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38325",
+        "InterviewEndDate": "2024-10-08 16:13:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "38327",
         "InterviewEndDate": "2024-10-08 16:10:34",
         "InterviewState": "Complete",
@@ -149731,6 +149747,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "38328",
         "InterviewEndDate": "2024-10-08 16:08:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1988",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38329",
+        "InterviewEndDate": "2024-10-08 16:15:02",
         "InterviewState": "Complete",
         "Flight": "LH 1988",
         "Dest": "CGN",
@@ -149758,6 +149782,38 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1988",
         "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38333",
+        "InterviewEndDate": "2024-10-08 16:28:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1756",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38336",
+        "InterviewEndDate": "2024-10-08 16:26:48",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "38337",
+        "InterviewEndDate": "2024-10-08 16:26:47",
+        "InterviewState": "Complete",
+        "Flight": "LO 354",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "38338",
+        "InterviewEndDate": "2024-10-08 16:25:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
         "AirlineCode": "LH"
     }
 ]    
