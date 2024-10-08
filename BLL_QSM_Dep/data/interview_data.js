@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-10-2024 08:55:54"
+        "download_time": "08-10-2024 10:01:04"
     },
     {
         "InterviewId": "6093",
@@ -80063,6 +80063,214 @@ let interview_data_raw = `[
         "Flight": "W43212",
         "Dest": "OTP",
         "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "20687",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20688",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20689",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20690",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20691",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20693",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20694",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20695",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "20696",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20698",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20699",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20700",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20701",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20703",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20704",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20707",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20708",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1292",
+        "Dest": "AMS",
+        "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "20709",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20710",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20711",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20712",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20713",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20714",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20715",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20716",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20717",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
     }
 ]    
 

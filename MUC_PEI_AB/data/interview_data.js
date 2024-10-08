@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-10-2024 08:54:42"
+        "download_time": "08-10-2024 09:59:42"
     },
     {
         "InterviewId": "15819",
@@ -149463,6 +149463,102 @@ let interview_data_raw = `[
         "Flight": "SN 2648",
         "Dest": "BRU",
         "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "38287",
+        "InterviewEndDate": "2024-10-08 07:04:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38289",
+        "InterviewEndDate": "2024-10-08 07:03:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38290",
+        "InterviewEndDate": "2024-10-08 06:59:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38291",
+        "InterviewEndDate": "2024-10-08 06:59:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38292",
+        "InterviewEndDate": "2024-10-08 07:09:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38293",
+        "InterviewEndDate": "2024-10-08 07:09:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38294",
+        "InterviewEndDate": "2024-10-08 07:14:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38295",
+        "InterviewEndDate": "2024-10-08 07:18:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38296",
+        "InterviewEndDate": "2024-10-08 07:52:32",
+        "InterviewState": "Complete",
+        "Flight": "LH  766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38297",
+        "InterviewEndDate": "2024-10-08 07:50:02",
+        "InterviewState": "Complete",
+        "Flight": "LH  766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38298",
+        "InterviewEndDate": "2024-10-08 07:41:30",
+        "InterviewState": "Complete",
+        "Flight": "LH  766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38299",
+        "InterviewEndDate": "2024-10-08 07:48:09",
+        "InterviewState": "Complete",
+        "Flight": "LH  766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
     }
 ]    
 
