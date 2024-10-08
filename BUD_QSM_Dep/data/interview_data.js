@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "08-10-2024 16:34:17"
+        "download_time": "08-10-2024 17:37:10"
     },
     {
         "InterviewId": "3965",
@@ -4102,7 +4102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "4514",
@@ -5158,7 +5158,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "4647",
@@ -5166,7 +5166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "4648",
@@ -5174,7 +5174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "4649",
@@ -5182,7 +5182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "4650",
@@ -5190,7 +5190,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "4651",
@@ -14254,7 +14254,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5842",
@@ -14262,7 +14262,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5843",
@@ -14270,7 +14270,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5844",
@@ -14278,7 +14278,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5845",
@@ -14286,7 +14286,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5846",
@@ -14294,7 +14294,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5847",
@@ -14302,7 +14302,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5848",
@@ -14310,7 +14310,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5849",
@@ -14774,7 +14774,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5917",
@@ -14782,7 +14782,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5918",
@@ -14790,7 +14790,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "5919",
@@ -15718,7 +15718,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "6037",
@@ -15726,7 +15726,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "6038",
@@ -15734,7 +15734,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "6039",
@@ -24926,7 +24926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "7250",
@@ -24934,7 +24934,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "7251",
@@ -24942,7 +24942,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "7252",
@@ -26390,7 +26390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "7435",
@@ -26494,7 +26494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "7448",
@@ -26502,7 +26502,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8734",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "7449",
@@ -32910,7 +32910,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "8294",
@@ -32918,7 +32918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "8295",
@@ -32926,7 +32926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "8296",
@@ -35798,7 +35798,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "8668",
@@ -35806,7 +35806,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "8669",
@@ -39422,7 +39422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "9137",
@@ -39430,7 +39430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8736",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "9138",
@@ -40406,7 +40406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "9261",
@@ -40414,7 +40414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EC"
+        "AirlineCode": "U2"
     },
     {
         "InterviewId": "9262",
