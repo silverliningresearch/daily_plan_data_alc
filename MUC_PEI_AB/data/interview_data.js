@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-10-2024 09:59:42"
+        "download_time": "08-10-2024 11:04:50"
     },
     {
         "InterviewId": "15819",
@@ -149558,6 +149558,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH  766",
         "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38300",
+        "InterviewEndDate": "2024-10-08 08:10:42",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "38301",
+        "InterviewEndDate": "2024-10-08 08:04:17",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "38302",
+        "InterviewEndDate": "2024-10-08 08:13:28",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "38303",
+        "InterviewEndDate": "2024-10-08 08:05:41",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "38304",
+        "InterviewEndDate": "2024-10-08 08:05:00",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "38305",
+        "InterviewEndDate": "2024-10-08 08:20:57",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "38306",
+        "InterviewEndDate": "2024-10-08 08:20:10",
+        "InterviewState": "Complete",
+        "Flight": "AC  837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "38307",
+        "InterviewEndDate": "2024-10-08 08:51:06",
+        "InterviewState": "Complete",
+        "Flight": "LH  410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38309",
+        "InterviewEndDate": "2024-10-08 08:47:34",
+        "InterviewState": "Complete",
+        "Flight": "LH  410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38310",
+        "InterviewEndDate": "2024-10-08 08:37:47",
+        "InterviewState": "Complete",
+        "Flight": "LH  410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38311",
+        "InterviewEndDate": "2024-10-08 08:46:30",
+        "InterviewState": "Complete",
+        "Flight": "LH  410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38312",
+        "InterviewEndDate": "2024-10-08 08:48:53",
+        "InterviewState": "Complete",
+        "Flight": "LH  410",
+        "Dest": "JFK",
         "AirlineCode": "LH"
     }
 ]    
