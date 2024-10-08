@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-10-2024 11:07:45"
+        "download_time": "08-10-2024 12:13:19"
     },
     {
         "InterviewId": "6093",
@@ -80271,6 +80271,78 @@ let interview_data_raw = `[
         "Flight": "LO466",
         "Dest": "WAW",
         "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "20719",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20720",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20721",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20722",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20723",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20724",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20725",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20726",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20727",
+        "InterviewEndDate": "2024-10-08",
+        "InterviewState": "Complete",
+        "Flight": "KL1294",
+        "Dest": "AMS",
+        "AirlineCode": "KL1294"
     }
 ]    
 

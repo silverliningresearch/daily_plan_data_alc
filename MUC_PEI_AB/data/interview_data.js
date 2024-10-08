@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "08-10-2024 11:04:50"
+        "download_time": "08-10-2024 12:10:31"
     },
     {
         "InterviewId": "15819",
@@ -149654,6 +149654,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH  410",
         "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38313",
+        "InterviewEndDate": "2024-10-08 09:14:17",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38314",
+        "InterviewEndDate": "2024-10-08 09:20:15",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38315",
+        "InterviewEndDate": "2024-10-08 09:11:15",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38316",
+        "InterviewEndDate": "2024-10-08 09:06:02",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38317",
+        "InterviewEndDate": "2024-10-08 09:10:32",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38318",
+        "InterviewEndDate": "2024-10-08 09:18:37",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38320",
+        "InterviewEndDate": "2024-10-08 09:21:20",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38321",
+        "InterviewEndDate": "2024-10-08 09:26:12",
+        "InterviewState": "Complete",
+        "Flight": "LH  452",
+        "Dest": "LAX",
         "AirlineCode": "LH"
     }
 ]    
