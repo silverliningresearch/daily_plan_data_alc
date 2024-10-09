@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "09-10-2024 08:47:58"
+        "download_time": "09-10-2024 09:52:43"
     },
     {
         "InterviewId": "5167",
@@ -48615,6 +48615,118 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BHX",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12669",
+        "InterviewEndDate": "2024-10-09 06:47:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12670",
+        "InterviewEndDate": "2024-10-09 07:14:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12671",
+        "InterviewEndDate": "2024-10-09 06:50:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JNB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12672",
+        "InterviewEndDate": "2024-10-09 06:59:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12674",
+        "InterviewEndDate": "2024-10-09 07:18:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12675",
+        "InterviewEndDate": "2024-10-09 07:20:00",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "12676",
+        "InterviewEndDate": "2024-10-09 07:20:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "PEK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12677",
+        "InterviewEndDate": "2024-10-09 07:23:09",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "12678",
+        "InterviewEndDate": "2024-10-09 07:24:10",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12681",
+        "InterviewEndDate": "2024-10-09 07:31:55",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "12684",
+        "InterviewEndDate": "2024-10-09 07:37:15",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "12685",
+        "InterviewEndDate": "2024-10-09 07:39:05",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "12686",
+        "InterviewEndDate": "2024-10-09 07:41:37",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "12687",
+        "InterviewEndDate": "2024-10-09 07:44:11",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
     }
 ]    
 
