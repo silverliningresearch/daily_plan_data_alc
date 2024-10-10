@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "10-10-2024 06:26:38"
+        "download_time": "10-10-2024 07:31:33"
     },
     {
         "InterviewId": "6093",
@@ -80343,6 +80343,70 @@ let interview_data_raw = `[
         "Flight": "KL1294",
         "Dest": "AMS",
         "AirlineCode": "KL1294"
+    },
+    {
+        "InterviewId": "20728",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
+    },
+    {
+        "InterviewId": "20729",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
+    },
+    {
+        "InterviewId": "20730",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
+    },
+    {
+        "InterviewId": "20731",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
+    },
+    {
+        "InterviewId": "20733",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
+    },
+    {
+        "InterviewId": "20734",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
+    },
+    {
+        "InterviewId": "20735",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
+    },
+    {
+        "InterviewId": "20736",
+        "InterviewEndDate": "2024-10-10",
+        "InterviewState": "Complete",
+        "Flight": "BIX2424",
+        "Dest": "LPA",
+        "AirlineCode": "BIX2424"
     }
 ]    
 
