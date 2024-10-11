@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "11-10-2024 07:21:06"
+        "download_time": "11-10-2024 08:26:28"
     },
     {
         "InterviewId": "6093",
@@ -80591,6 +80591,142 @@ let interview_data_raw = `[
         "Flight": "FR3687",
         "Dest": "GDN",
         "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "20768",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20769",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20770",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20771",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20772",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20773",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20774",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20775",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "RC475",
+        "Dest": "FAE",
+        "AirlineCode": "RC475"
+    },
+    {
+        "InterviewId": "20776",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20777",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20778",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20779",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20782",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20783",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20784",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20785",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "20786",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
     }
 ]    
 
