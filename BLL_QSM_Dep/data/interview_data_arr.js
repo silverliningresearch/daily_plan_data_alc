@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "11-10-2024 12:46:44"
+        "download_time": "11-10-2024 13:51:51"
     },
     {
         "InterviewId": "2077",
@@ -25495,6 +25495,54 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "RIX",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "7836",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "7837",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "7838",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "7839",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "7840",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "7841",
+        "InterviewEndDate": "2024-10-11",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
     }
 ]    
 
