@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "12-10-2024 08:14:43"
+        "download_time": "12-10-2024 09:19:44"
     },
     {
         "InterviewId": "15819",
@@ -150225,11 +150225,67 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "38394",
+        "InterviewEndDate": "2024-10-12 06:18:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "38395",
         "InterviewEndDate": "2024-10-12 06:10:00",
         "InterviewState": "Complete",
         "Flight": "LH 1702",
         "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38396",
+        "InterviewEndDate": "2024-10-12 06:24:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38397",
+        "InterviewEndDate": "2024-10-12 06:38:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38398",
+        "InterviewEndDate": "2024-10-12 06:29:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38399",
+        "InterviewEndDate": "2024-10-12 06:37:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38401",
+        "InterviewEndDate": "2024-10-12 07:07:52",
+        "InterviewState": "Complete",
+        "Flight": "LH  101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38403",
+        "InterviewEndDate": "2024-10-12 07:06:57",
+        "InterviewState": "Complete",
+        "Flight": "LH  101",
+        "Dest": "FRA",
         "AirlineCode": "LH"
     }
 ]    
