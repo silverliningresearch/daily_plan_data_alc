@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "14-10-2024 07:57:52"
+        "download_time": "14-10-2024 09:03:02"
     },
     {
         "InterviewId": "3965",
@@ -43783,6 +43783,46 @@ let interview_data_raw = `[
         "Flight": "FR 6748",
         "Dest": "GOT",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9699",
+        "InterviewEndDate": "2024-10-14 06:09:04",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9700",
+        "InterviewEndDate": "2024-10-14 06:08:59",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "9701",
+        "InterviewEndDate": "2024-10-14 06:54:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9702",
+        "InterviewEndDate": "2024-10-14 06:53:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9703",
+        "InterviewEndDate": "2024-10-14 06:58:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
     }
 ]    
 
