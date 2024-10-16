@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "14-10-2024 12:17:56"
+        "download_time": "16-10-2024 16:51:17"
     },
     {
         "InterviewId": "3965",
@@ -43870,6 +43870,190 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2497",
         "Dest": "DXB",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9710",
+        "InterviewEndDate": "2024-10-14 11:47:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9711",
+        "InterviewEndDate": "2024-10-14 11:51:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9712",
+        "InterviewEndDate": "2024-10-14 11:54:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9713",
+        "InterviewEndDate": "2024-10-14 12:01:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9714",
+        "InterviewEndDate": "2024-10-15 10:48:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9715",
+        "InterviewEndDate": "2024-10-15 10:48:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9716",
+        "InterviewEndDate": "2024-10-15 11:32:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9717",
+        "InterviewEndDate": "2024-10-15 11:30:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9718",
+        "InterviewEndDate": "2024-10-15 12:12:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 2020",
+        "Dest": "PMO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9719",
+        "InterviewEndDate": "2024-10-15 12:12:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 2020",
+        "Dest": "PMO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9720",
+        "InterviewEndDate": "2024-10-15 13:32:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9721",
+        "InterviewEndDate": "2024-10-15 13:34:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9722",
+        "InterviewEndDate": "2024-10-15 13:39:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9723",
+        "InterviewEndDate": "2024-10-15 14:10:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9724",
+        "InterviewEndDate": "2024-10-15 14:11:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9725",
+        "InterviewEndDate": "2024-10-15 14:20:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9726",
+        "InterviewEndDate": "2024-10-15 15:36:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9727",
+        "InterviewEndDate": "2024-10-15 15:46:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9728",
+        "InterviewEndDate": "2024-10-15 15:47:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9729",
+        "InterviewEndDate": "2024-10-15 15:43:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9730",
+        "InterviewEndDate": "2024-10-15 17:31:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2499",
+        "Dest": "GYD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9731",
+        "InterviewEndDate": "2024-10-15 17:35:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2499",
+        "Dest": "GYD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9732",
+        "InterviewEndDate": "2024-10-15 17:41:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2499",
+        "Dest": "GYD",
         "AirlineCode": "W6"
     }
 ]    

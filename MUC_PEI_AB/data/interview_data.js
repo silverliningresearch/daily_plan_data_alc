@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "14-10-2024 12:14:43"
+        "download_time": "16-10-2024 16:48:17"
     },
     {
         "InterviewId": "15819",
@@ -150431,6 +150431,318 @@ let interview_data_raw = `[
         "Flight": "DI 6022",
         "Dest": "HRG",
         "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "38425",
+        "InterviewEndDate": "2024-10-15 04:39:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38426",
+        "InterviewEndDate": "2024-10-15 04:49:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38427",
+        "InterviewEndDate": "2024-10-15 05:28:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38428",
+        "InterviewEndDate": "2024-10-15 04:50:34",
+        "InterviewState": "Complete",
+        "Flight": "Lh 2324",
+        "Dest": "VIE",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38429",
+        "InterviewEndDate": "2024-10-15 04:59:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38430",
+        "InterviewEndDate": "2024-10-15 05:07:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38431",
+        "InterviewEndDate": "2024-10-15 05:21:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38432",
+        "InterviewEndDate": "2024-10-15 05:25:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38433",
+        "InterviewEndDate": "2024-10-15 05:29:17",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1782",
+        "Dest": "OPO",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38434",
+        "InterviewEndDate": "2024-10-15 05:34:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38435",
+        "InterviewEndDate": "2024-10-15 05:39:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38436",
+        "InterviewEndDate": "2024-10-15 05:53:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38437",
+        "InterviewEndDate": "2024-10-15 05:50:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1782",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38441",
+        "InterviewEndDate": "2024-10-15 15:21:55",
+        "InterviewState": "Complete",
+        "Flight": "SN 2642",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "38442",
+        "InterviewEndDate": "2024-10-15 06:19:41",
+        "InterviewState": "Complete",
+        "Flight": "SN 2642",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "38443",
+        "InterviewEndDate": "2024-10-15 06:45:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "ORY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38444",
+        "InterviewEndDate": "2024-10-15 06:47:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "ORY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38445",
+        "InterviewEndDate": "2024-10-15 06:48:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "ORY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38446",
+        "InterviewEndDate": "2024-10-15 06:53:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "ORY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38447",
+        "InterviewEndDate": "2024-10-15 07:04:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38448",
+        "InterviewEndDate": "2024-10-15 15:19:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38449",
+        "InterviewEndDate": "2024-10-15 07:00:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38451",
+        "InterviewEndDate": "2024-10-15 07:45:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38452",
+        "InterviewEndDate": "2024-10-15 07:45:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38453",
+        "InterviewEndDate": "2024-10-15 07:43:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38454",
+        "InterviewEndDate": "2024-10-15 08:02:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38455",
+        "InterviewEndDate": "2024-10-15 07:57:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1874",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38456",
+        "InterviewEndDate": "2024-10-15 07:59:30",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1874",
+        "Dest": "FCO",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38458",
+        "InterviewEndDate": "2024-10-15 19:30:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38459",
+        "InterviewEndDate": "2024-10-15 19:30:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38460",
+        "InterviewEndDate": "2024-10-15 19:26:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38461",
+        "InterviewEndDate": "2024-10-15 19:25:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38462",
+        "InterviewEndDate": "2024-10-15 19:44:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38463",
+        "InterviewEndDate": "2024-10-15 19:25:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38464",
+        "InterviewEndDate": "2024-10-15 19:56:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38465",
+        "InterviewEndDate": "2024-10-15 19:48:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2484",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38466",
+        "InterviewEndDate": "2024-10-15 20:06:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38467",
+        "InterviewEndDate": "2024-10-15 20:08:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38468",
+        "InterviewEndDate": "2024-10-15 20:10:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH"
     }
 ]    
 

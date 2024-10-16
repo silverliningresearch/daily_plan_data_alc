@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-10-2024 12:16:19"
+        "download_time": "16-10-2024 16:49:30"
     },
     {
         "InterviewId": "5167",
@@ -49071,6 +49071,110 @@ let interview_data_arr_raw = `[
         "Flight": "Mavi G\u00f6k Airlines",
         "Dest": "AYT",
         "AirlineCode": "Mavi"
+    },
+    {
+        "InterviewId": "12742",
+        "InterviewEndDate": "2024-10-15 08:29:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YUL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12743",
+        "InterviewEndDate": "2024-10-15 08:39:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12744",
+        "InterviewEndDate": "2024-10-15 08:44:31",
+        "InterviewState": "Complete",
+        "Flight": "Lufthanse",
+        "Dest": "BRE",
+        "AirlineCode": "Lufthanse"
+    },
+    {
+        "InterviewId": "12745",
+        "InterviewEndDate": "2024-10-15 08:58:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12746",
+        "InterviewEndDate": "2024-10-15 09:01:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12747",
+        "InterviewEndDate": "2024-10-15 09:02:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12748",
+        "InterviewEndDate": "2024-10-15 09:02:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12749",
+        "InterviewEndDate": "2024-10-15 09:12:46",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "GVA",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "12750",
+        "InterviewEndDate": "2024-10-15 09:15:48",
+        "InterviewState": "Complete",
+        "Flight": "Air dolomiti",
+        "Dest": "GVA",
+        "AirlineCode": "Air"
+    },
+    {
+        "InterviewId": "12752",
+        "InterviewEndDate": "2024-10-15 09:29:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12753",
+        "InterviewEndDate": "2024-10-15 09:34:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12754",
+        "InterviewEndDate": "2024-10-15 09:34:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12755",
+        "InterviewEndDate": "2024-10-15 09:45:31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "14-10-2024 12:16:27"
+        "download_time": "16-10-2024 16:49:40"
     },
     {
         "InterviewId": "6093",
@@ -80847,6 +80847,510 @@ let interview_data_raw = `[
         "Flight": "AF1763",
         "Dest": "CDG",
         "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "20807",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20808",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20809",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20811",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20812",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20813",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20815",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20816",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20817",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "20818",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20820",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20821",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20822",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20823",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20824",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20825",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20826",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20827",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20830",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20832",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20833",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20834",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20835",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20836",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20837",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20838",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20839",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20840",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20841",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20843",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20844",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20845",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20846",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20847",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20848",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20849",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "TK1488",
+        "Dest": "IST",
+        "AirlineCode": "TK1488"
+    },
+    {
+        "InterviewId": "20851",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20852",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20853",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20854",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20855",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20856",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20857",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20858",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20859",
+        "InterviewEndDate": "2024-10-14",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "20860",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20861",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20862",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20863",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20864",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20865",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20866",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20867",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20868",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "20869",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20870",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20871",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20872",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20873",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20874",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20875",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20876",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20877",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
     }
 ]    
 
