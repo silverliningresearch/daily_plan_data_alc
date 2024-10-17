@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-10-2024 16:49:40"
+        "download_time": "17-10-2024 04:04:09"
     },
     {
         "InterviewId": "6093",
@@ -81351,6 +81351,126 @@ let interview_data_raw = `[
         "Flight": "FR3685",
         "Dest": "KRK",
         "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "20878",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20879",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20880",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20881",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20882",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20884",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20885",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20886",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20887",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "20893",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "20894",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "20895",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "20896",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "20897",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "20900",
+        "InterviewEndDate": "2024-10-16",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
     }
 ]    
 
