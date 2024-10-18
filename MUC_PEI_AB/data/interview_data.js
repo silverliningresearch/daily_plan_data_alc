@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-10-2024 09:06:08"
+        "download_time": "18-10-2024 11:06:09"
     },
     {
         "InterviewId": "15819",
@@ -151057,6 +151057,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "38516",
+        "InterviewEndDate": "2024-10-18 07:06:11",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38517",
+        "InterviewEndDate": "2024-10-18 07:08:22",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
         "InterviewId": "38518",
         "InterviewEndDate": "2024-10-18 06:31:06",
         "InterviewState": "Complete",
@@ -151065,8 +151081,24 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "38519",
+        "InterviewEndDate": "2024-10-18 07:13:21",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
         "InterviewId": "38520",
         "InterviewEndDate": "2024-10-18 07:03:21",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38521",
+        "InterviewEndDate": "2024-10-18 07:06:10",
         "InterviewState": "Complete",
         "Flight": "DL  131",
         "Dest": "ATL",
@@ -151087,6 +151119,206 @@ let interview_data_raw = `[
         "Flight": "LH 1702",
         "Dest": "SOF",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38526",
+        "InterviewEndDate": "2024-10-18 07:18:09",
+        "InterviewState": "Complete",
+        "Flight": "Vl 2012",
+        "Dest": "DUS",
+        "AirlineCode": "Vl"
+    },
+    {
+        "InterviewId": "38527",
+        "InterviewEndDate": "2024-10-18 08:19:28",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38528",
+        "InterviewEndDate": "2024-10-18 07:28:35",
+        "InterviewState": "Complete",
+        "Flight": "VL 2012",
+        "Dest": "DUS",
+        "AirlineCode": "VL"
+    },
+    {
+        "InterviewId": "38530",
+        "InterviewEndDate": "2024-10-18 08:34:50",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38531",
+        "InterviewEndDate": "2024-10-18 08:19:23",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38532",
+        "InterviewEndDate": "2024-10-18 08:10:05",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38533",
+        "InterviewEndDate": "2024-10-18 07:28:44",
+        "InterviewState": "Complete",
+        "Flight": "Vl 2012",
+        "Dest": "DUS",
+        "AirlineCode": "Vl"
+    },
+    {
+        "InterviewId": "38534",
+        "InterviewEndDate": "2024-10-18 08:24:04",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38536",
+        "InterviewEndDate": "2024-10-18 08:24:21",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38537",
+        "InterviewEndDate": "2024-10-18 07:53:01",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38538",
+        "InterviewEndDate": "2024-10-18 07:58:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38539",
+        "InterviewEndDate": "2024-10-18 08:22:00",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38540",
+        "InterviewEndDate": "2024-10-18 08:05:17",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38541",
+        "InterviewEndDate": "2024-10-18 08:10:30",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38543",
+        "InterviewEndDate": "2024-10-18 07:45:45",
+        "InterviewState": "Complete",
+        "Flight": "Vl 2012",
+        "Dest": "DUS",
+        "AirlineCode": "Vl"
+    },
+    {
+        "InterviewId": "38546",
+        "InterviewEndDate": "2024-10-18 08:17:43",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1926",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38547",
+        "InterviewEndDate": "2024-10-18 08:26:51",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1926",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38548",
+        "InterviewEndDate": "2024-10-18 08:34:18",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1926",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38549",
+        "InterviewEndDate": "2024-10-18 08:16:07",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1926",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38550",
+        "InterviewEndDate": "2024-10-18 08:34:41",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1926",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38552",
+        "InterviewEndDate": "2024-10-18 08:31:18",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38553",
+        "InterviewEndDate": "2024-10-18 08:31:27",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "38554",
+        "InterviewEndDate": "2024-10-18 08:51:35",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "38555",
+        "InterviewEndDate": "2024-10-18 08:44:15",
+        "InterviewState": "Complete",
+        "Flight": "DI 6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "38556",
+        "InterviewEndDate": "2024-10-18 08:44:23",
+        "InterviewState": "Complete",
+        "Flight": "DI6584",
+        "Dest": "TFS",
+        "AirlineCode": "DI"
     }
 ]    
 
