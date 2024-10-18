@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-10-2024 07:06:38"
+        "download_time": "18-10-2024 09:06:08"
     },
     {
         "InterviewId": "15819",
@@ -150990,6 +150990,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2004",
         "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38507",
+        "InterviewEndDate": "2024-10-18 05:47:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2006",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38508",
+        "InterviewEndDate": "2024-10-18 05:43:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2006",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38509",
+        "InterviewEndDate": "2024-10-18 05:43:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2006",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38511",
+        "InterviewEndDate": "2024-10-18 05:58:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 2006",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38512",
+        "InterviewEndDate": "2024-10-18 06:16:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1906",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38513",
+        "InterviewEndDate": "2024-10-18 06:14:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1906",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38514",
+        "InterviewEndDate": "2024-10-18 06:27:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1906",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38515",
+        "InterviewEndDate": "2024-10-18 06:29:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1906",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38518",
+        "InterviewEndDate": "2024-10-18 06:31:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1906",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38520",
+        "InterviewEndDate": "2024-10-18 07:03:21",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "38524",
+        "InterviewEndDate": "2024-10-18 06:57:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38525",
+        "InterviewEndDate": "2024-10-18 06:51:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
         "AirlineCode": "LH"
     }
 ]    
