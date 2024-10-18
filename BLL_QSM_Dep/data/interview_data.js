@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-10-2024 15:08:02"
+        "download_time": "18-10-2024 17:07:56"
     },
     {
         "InterviewId": "6093",
@@ -81727,6 +81727,78 @@ let interview_data_raw = `[
         "Flight": "FR5173",
         "Dest": "STN",
         "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20963",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20964",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20965",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20966",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20967",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20968",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20969",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20970",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "20971",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
     }
 ]    
 
