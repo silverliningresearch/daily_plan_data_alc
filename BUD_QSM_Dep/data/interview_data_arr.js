@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "18-10-2024 11:09:19"
+        "download_time": "18-10-2024 13:10:55"
     },
     {
         "InterviewId": "1224",
@@ -14511,6 +14511,46 @@ let interview_data_arr_raw = `[
         "Flight": "OS - Austrian Airlines",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "3067",
+        "InterviewEndDate": "2024-10-18 09:14:40",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MRS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3068",
+        "InterviewEndDate": "2024-10-18 09:23:13",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3069",
+        "InterviewEndDate": "2024-10-18 09:34:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3070",
+        "InterviewEndDate": "2024-10-18 09:49:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3071",
+        "InterviewEndDate": "2024-10-18 09:56:17",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "OTP",
+        "AirlineCode": "RP"
     }
 ]    
 

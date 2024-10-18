@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-10-2024 11:06:09"
+        "download_time": "18-10-2024 13:06:07"
     },
     {
         "InterviewId": "15819",
@@ -151319,6 +151319,126 @@ let interview_data_raw = `[
         "Flight": "DI6584",
         "Dest": "TFS",
         "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "38557",
+        "InterviewEndDate": "2024-10-18 09:57:17",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "38558",
+        "InterviewEndDate": "2024-10-18 09:47:23",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "38560",
+        "InterviewEndDate": "2024-10-18 09:47:35",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "38562",
+        "InterviewEndDate": "2024-10-18 10:04:27",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "38563",
+        "InterviewEndDate": "2024-10-18 10:00:15",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "38565",
+        "InterviewEndDate": "2024-10-18 09:07:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38568",
+        "InterviewEndDate": "2024-10-18 09:28:15",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "38569",
+        "InterviewEndDate": "2024-10-18 09:15:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38571",
+        "InterviewEndDate": "2024-10-18 09:14:40",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1938",
+        "Dest": "BER",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38573",
+        "InterviewEndDate": "2024-10-18 09:26:33",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "38574",
+        "InterviewEndDate": "2024-10-18 09:27:49",
+        "InterviewState": "Complete",
+        "Flight": "DI6022",
+        "Dest": "HRG",
+        "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "38575",
+        "InterviewEndDate": "2024-10-18 09:24:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38576",
+        "InterviewEndDate": "2024-10-18 09:30:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38578",
+        "InterviewEndDate": "2024-10-18 09:34:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38579",
+        "InterviewEndDate": "2024-10-18 09:53:22",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
