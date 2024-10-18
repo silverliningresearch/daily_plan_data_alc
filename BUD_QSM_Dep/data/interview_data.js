@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "18-10-2024 19:09:28"
+        "download_time": "18-10-2024 21:09:35"
     },
     {
         "InterviewId": "3965",
@@ -44134,6 +44134,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 7604",
         "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9743",
+        "InterviewEndDate": "2024-10-18 17:27:20",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9744",
+        "InterviewEndDate": "2024-10-18 17:30:51",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9745",
+        "InterviewEndDate": "2024-10-18 17:29:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9746",
+        "InterviewEndDate": "2024-10-18 17:33:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9747",
+        "InterviewEndDate": "2024-10-18 18:19:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 3718",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9748",
+        "InterviewEndDate": "2024-10-18 18:24:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 3718",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9749",
+        "InterviewEndDate": "2024-10-18 18:24:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 3718",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9750",
+        "InterviewEndDate": "2024-10-18 18:21:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 3718",
+        "Dest": "STN",
         "AirlineCode": "FR"
     }
 ]    
