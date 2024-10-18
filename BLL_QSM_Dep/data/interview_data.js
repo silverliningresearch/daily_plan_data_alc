@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "18-10-2024 13:09:08"
+        "download_time": "18-10-2024 15:08:02"
     },
     {
         "InterviewId": "6093",
@@ -81537,7 +81537,39 @@ let interview_data_raw = `[
         "AirlineCode": "LH2435"
     },
     {
+        "InterviewId": "20926",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20927",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
         "InterviewId": "20928",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20929",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20930",
         "InterviewEndDate": "2024-10-18",
         "InterviewState": "Complete",
         "Flight": "LH2435",
@@ -81551,6 +81583,150 @@ let interview_data_raw = `[
         "Flight": "LH2435",
         "Dest": "MUC",
         "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "20934",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20935",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20936",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20937",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20938",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20939",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20940",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20941",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20942",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FI273",
+        "Dest": "KEF",
+        "AirlineCode": "FI273"
+    },
+    {
+        "InterviewId": "20944",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20945",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20946",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20947",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20948",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20949",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20950",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20951",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "20952",
+        "InterviewEndDate": "2024-10-18",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
     }
 ]    
 
