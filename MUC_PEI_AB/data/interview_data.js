@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-10-2024 21:06:12"
+        "download_time": "18-10-2024 23:06:12"
     },
     {
         "InterviewId": "15819",
@@ -151654,6 +151654,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2222",
         "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38610",
+        "InterviewEndDate": "2024-10-18 19:18:33",
+        "InterviewState": "Complete",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38611",
+        "InterviewEndDate": "2024-10-18 19:18:38",
+        "InterviewState": "Complete",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38612",
+        "InterviewEndDate": "2024-10-18 19:23:16",
+        "InterviewState": "Complete",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38613",
+        "InterviewEndDate": "2024-10-18 19:12:00",
+        "InterviewState": "Complete",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38615",
+        "InterviewEndDate": "2024-10-18 19:15:07",
+        "InterviewState": "Complete",
+        "Flight": "EN 8258",
+        "Dest": "TRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "38616",
+        "InterviewEndDate": "2024-10-18 19:51:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2152",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38617",
+        "InterviewEndDate": "2024-10-18 19:43:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2152",
+        "Dest": "STR",
         "AirlineCode": "LH"
     }
 ]    
