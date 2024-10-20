@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-10-2024 11:06:11"
+        "download_time": "20-10-2024 13:06:07"
     },
     {
         "InterviewId": "15819",
@@ -151815,6 +151815,70 @@ let interview_data_raw = `[
         "Flight": "UA 195",
         "Dest": "SFO",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38632",
+        "InterviewEndDate": "2024-10-20 09:16:36",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38633",
+        "InterviewEndDate": "2024-10-20 09:09:52",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38634",
+        "InterviewEndDate": "2024-10-20 09:09:48",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38635",
+        "InterviewEndDate": "2024-10-20 09:43:53",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "38636",
+        "InterviewEndDate": "2024-10-20 09:42:37",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "38637",
+        "InterviewEndDate": "2024-10-20 09:41:42",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "38638",
+        "InterviewEndDate": "2024-10-20 09:46:12",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "38639",
+        "InterviewEndDate": "2024-10-20 09:45:04",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
     }
 ]    
 

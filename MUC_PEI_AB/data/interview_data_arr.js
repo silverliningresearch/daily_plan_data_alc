@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "20-10-2024 11:07:24"
+        "download_time": "20-10-2024 13:07:43"
     },
     {
         "InterviewId": "5167",
@@ -49262,6 +49262,70 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12767",
+        "InterviewEndDate": "2024-10-20 10:14:13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12768",
+        "InterviewEndDate": "2024-10-20 10:18:30",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "12769",
+        "InterviewEndDate": "2024-10-20 10:30:10",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12770",
+        "InterviewEndDate": "2024-10-20 10:30:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12771",
+        "InterviewEndDate": "2024-10-20 10:39:40",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "12772",
+        "InterviewEndDate": "2024-10-20 10:40:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CHQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "12773",
+        "InterviewEndDate": "2024-10-20 10:48:45",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "12774",
+        "InterviewEndDate": "2024-10-20 10:50:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CHQ",
         "AirlineCode": "LH"
     }
 ]    
