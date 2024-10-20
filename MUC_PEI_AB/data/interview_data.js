@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-10-2024 09:06:29"
+        "download_time": "20-10-2024 11:06:11"
     },
     {
         "InterviewId": "15819",
@@ -151711,6 +151711,110 @@ let interview_data_raw = `[
         "Flight": "LH 2152",
         "Dest": "STR",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38618",
+        "InterviewEndDate": "2024-10-20 07:38:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38619",
+        "InterviewEndDate": "2024-10-20 07:44:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38620",
+        "InterviewEndDate": "2024-10-20 07:36:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38621",
+        "InterviewEndDate": "2024-10-20 07:40:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2440",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38622",
+        "InterviewEndDate": "2024-10-20 08:31:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38623",
+        "InterviewEndDate": "2024-10-20 08:31:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38624",
+        "InterviewEndDate": "2024-10-20 08:28:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38625",
+        "InterviewEndDate": "2024-10-20 08:25:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2556",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38626",
+        "InterviewEndDate": "2024-10-20 08:44:57",
+        "InterviewState": "Complete",
+        "Flight": "UA  952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38627",
+        "InterviewEndDate": "2024-10-20 08:55:08",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38628",
+        "InterviewEndDate": "2024-10-20 09:01:39",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38629",
+        "InterviewEndDate": "2024-10-20 09:01:11",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "38630",
+        "InterviewEndDate": "2024-10-20 08:56:14",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
     }
 ]    
 
