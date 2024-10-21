@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2427",
         "Dest": "KEF",
         "AirlineCode": "W6",
-        "download_time": "21-10-2024 07:10:58"
+        "download_time": "21-10-2024 09:11:57"
     },
     {
         "InterviewId": "11121",
@@ -25110,6 +25110,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2429",
         "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14622",
+        "InterviewEndDate": "2024-10-21 05:35:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14623",
+        "InterviewEndDate": "2024-10-21 05:44:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14624",
+        "InterviewEndDate": "2024-10-21 05:46:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14625",
+        "InterviewEndDate": "2024-10-21 06:21:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2389",
+        "Dest": "AGP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14626",
+        "InterviewEndDate": "2024-10-21 06:29:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2389",
+        "Dest": "AGP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14627",
+        "InterviewEndDate": "2024-10-21 06:23:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2389",
+        "Dest": "AGP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14628",
+        "InterviewEndDate": "2024-10-21 07:08:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14630",
+        "InterviewEndDate": "2024-10-21 07:09:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14631",
+        "InterviewEndDate": "2024-10-21 07:10:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
         "AirlineCode": "W6"
     }
 ]    
