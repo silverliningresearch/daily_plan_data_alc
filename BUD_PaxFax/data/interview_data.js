@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2427",
         "Dest": "KEF",
         "AirlineCode": "W6",
-        "download_time": "22-10-2024 17:11:24"
+        "download_time": "22-10-2024 19:11:15"
     },
     {
         "InterviewId": "11121",
@@ -25374,6 +25374,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2377",
         "Dest": "BCN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14655",
+        "InterviewEndDate": "2024-10-22 15:16:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 8492",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14656",
+        "InterviewEndDate": "2024-10-22 15:18:44",
+        "InterviewState": "Complete",
+        "Flight": "FR 8492",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14657",
+        "InterviewEndDate": "2024-10-22 15:20:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 8492",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14658",
+        "InterviewEndDate": "2024-10-22 15:18:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 8492",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14659",
+        "InterviewEndDate": "2024-10-22 15:43:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14660",
+        "InterviewEndDate": "2024-10-22 15:47:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14661",
+        "InterviewEndDate": "2024-10-22 15:46:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14662",
+        "InterviewEndDate": "2024-10-22 15:47:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2283",
+        "Dest": "BRU",
         "AirlineCode": "W6"
     }
 ]    
