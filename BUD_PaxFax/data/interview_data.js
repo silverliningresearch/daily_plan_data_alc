@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2427",
         "Dest": "KEF",
         "AirlineCode": "W6",
-        "download_time": "23-10-2024 13:13:02"
+        "download_time": "23-10-2024 15:11:36"
     },
     {
         "InterviewId": "11121",
@@ -25487,6 +25487,62 @@ let interview_data_raw = `[
         "Flight": "W6 2263",
         "Dest": "NCE",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14670",
+        "InterviewEndDate": "2024-10-23 11:59:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "14671",
+        "InterviewEndDate": "2024-10-23 12:23:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "14672",
+        "InterviewEndDate": "2024-10-23 11:56:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "14673",
+        "InterviewEndDate": "2024-10-23 12:14:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "14674",
+        "InterviewEndDate": "2024-10-23 12:16:03",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "14675",
+        "InterviewEndDate": "2024-10-23 12:21:53",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "14676",
+        "InterviewEndDate": "2024-10-23 12:22:51",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
     }
 ]    
 

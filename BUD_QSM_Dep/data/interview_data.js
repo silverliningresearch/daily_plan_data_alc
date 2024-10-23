@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "23-10-2024 13:10:34"
+        "download_time": "23-10-2024 15:09:51"
     },
     {
         "InterviewId": "3965",
@@ -44794,10 +44794,90 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "9828",
-        "InterviewEndDate": "2024-10-23 11:07:53",
+        "InterviewEndDate": "2024-10-23 11:07:55",
         "InterviewState": "Complete",
         "Flight": "FR 4229",
         "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9829",
+        "InterviewEndDate": "2024-10-23 11:10:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9830",
+        "InterviewEndDate": "2024-10-23 11:13:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9831",
+        "InterviewEndDate": "2024-10-23 11:36:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9832",
+        "InterviewEndDate": "2024-10-23 11:47:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9833",
+        "InterviewEndDate": "2024-10-23 11:43:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9834",
+        "InterviewEndDate": "2024-10-23 11:41:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "9837",
+        "InterviewEndDate": "2024-10-23 12:10:33",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "9839",
+        "InterviewEndDate": "2024-10-23 12:13:02",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "9840",
+        "InterviewEndDate": "2024-10-23 13:08:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 2301",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9841",
+        "InterviewEndDate": "2024-10-23 13:06:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 2301",
+        "Dest": "VLC",
         "AirlineCode": "FR"
     }
 ]    
