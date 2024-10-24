@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-10-2024 11:06:14"
+        "download_time": "24-10-2024 13:06:14"
     },
     {
         "InterviewId": "15819",
@@ -153134,6 +153134,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1778",
         "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38845",
+        "InterviewEndDate": "2024-10-24 09:28:45",
+        "InterviewState": "Complete",
+        "Flight": "A3  433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38846",
+        "InterviewEndDate": "2024-10-24 09:29:05",
+        "InterviewState": "Complete",
+        "Flight": "A3  433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38847",
+        "InterviewEndDate": "2024-10-24 09:27:25",
+        "InterviewState": "Complete",
+        "Flight": "A3  433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38848",
+        "InterviewEndDate": "2024-10-24 09:29:44",
+        "InterviewState": "Complete",
+        "Flight": "A3  433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38849",
+        "InterviewEndDate": "2024-10-24 09:38:20",
+        "InterviewState": "Complete",
+        "Flight": "A3  433",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "38850",
+        "InterviewEndDate": "2024-10-24 10:10:19",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38851",
+        "InterviewEndDate": "2024-10-24 10:09:48",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38852",
+        "InterviewEndDate": "2024-10-24 10:11:27",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38853",
+        "InterviewEndDate": "2024-10-24 10:14:06",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38854",
+        "InterviewEndDate": "2024-10-24 10:26:57",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38856",
+        "InterviewEndDate": "2024-10-24 10:37:53",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38859",
+        "InterviewEndDate": "2024-10-24 10:39:25",
+        "InterviewState": "Complete",
+        "Flight": "LH  428",
+        "Dest": "CLT",
         "AirlineCode": "LH"
     }
 ]    
