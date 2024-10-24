@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "24-10-2024 21:09:47"
+        "download_time": "24-10-2024 23:09:24"
     },
     {
         "InterviewId": "1224",
@@ -14679,6 +14679,46 @@ let interview_data_arr_raw = `[
         "Flight": "LS - Jet2.com",
         "Dest": "MAN",
         "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "3088",
+        "InterviewEndDate": "2024-10-24 19:11:39",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "3089",
+        "InterviewEndDate": "2024-10-24 19:20:21",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "STR",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "3090",
+        "InterviewEndDate": "2024-10-24 19:32:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3091",
+        "InterviewEndDate": "2024-10-24 19:41:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MAD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3092",
+        "InterviewEndDate": "2024-10-24 19:57:37",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 
