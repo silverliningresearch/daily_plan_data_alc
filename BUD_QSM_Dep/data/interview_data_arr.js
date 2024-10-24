@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "24-10-2024 17:09:57"
+        "download_time": "24-10-2024 19:10:54"
     },
     {
         "InterviewId": "1224",
@@ -14575,6 +14575,70 @@ let interview_data_arr_raw = `[
         "Flight": "7O - Travel Service",
         "Dest": "AYT",
         "AirlineCode": "7O"
+    },
+    {
+        "InterviewId": "3075",
+        "InterviewEndDate": "2024-10-24 16:02:37",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "LPA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3076",
+        "InterviewEndDate": "2024-10-24 16:09:35",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "LPA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3077",
+        "InterviewEndDate": "2024-10-24 16:18:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3078",
+        "InterviewEndDate": "2024-10-24 16:30:22",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "3079",
+        "InterviewEndDate": "2024-10-24 16:35:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CPH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3080",
+        "InterviewEndDate": "2024-10-24 16:44:16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3081",
+        "InterviewEndDate": "2024-10-24 17:01:30",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MXP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3082",
+        "InterviewEndDate": "2024-10-24 17:07:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "DTM",
+        "AirlineCode": "W6"
     }
 ]    
 

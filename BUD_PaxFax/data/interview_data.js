@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2427",
         "Dest": "KEF",
         "AirlineCode": "W6",
-        "download_time": "24-10-2024 17:11:28"
+        "download_time": "24-10-2024 19:12:49"
     },
     {
         "InterviewId": "11121",
@@ -25774,6 +25774,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2449",
         "Dest": "RHO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14708",
+        "InterviewEndDate": "2024-10-24 16:06:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14709",
+        "InterviewEndDate": "2024-10-24 16:11:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14710",
+        "InterviewEndDate": "2024-10-24 16:07:46",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14711",
+        "InterviewEndDate": "2024-10-24 16:10:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14712",
+        "InterviewEndDate": "2024-10-24 16:35:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 4752",
+        "Dest": "AHO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "14713",
+        "InterviewEndDate": "2024-10-24 17:02:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "14714",
+        "InterviewEndDate": "2024-10-24 17:02:53",
+        "InterviewState": "Complete",
+        "Flight": "W6 2315",
+        "Dest": "BER",
         "AirlineCode": "W6"
     }
 ]    
