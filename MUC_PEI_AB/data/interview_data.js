@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "24-10-2024 07:06:11"
+        "download_time": "24-10-2024 09:06:11"
     },
     {
         "InterviewId": "15819",
@@ -152927,6 +152927,118 @@ let interview_data_raw = `[
         "Flight": "LH 2420",
         "Dest": "ARN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38809",
+        "InterviewEndDate": "2024-10-24 05:25:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38810",
+        "InterviewEndDate": "2024-10-24 05:23:51",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "MAD",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "38811",
+        "InterviewEndDate": "2024-10-24 05:25:45",
+        "InterviewState": "Complete",
+        "Flight": "Lh1800",
+        "Dest": "MAD",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38812",
+        "InterviewEndDate": "2024-10-24 05:30:55",
+        "InterviewState": "Complete",
+        "Flight": "Lh1800",
+        "Dest": "MAD",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38813",
+        "InterviewEndDate": "2024-10-24 05:31:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38815",
+        "InterviewEndDate": "2024-10-24 05:41:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38816",
+        "InterviewEndDate": "2024-10-24 05:43:50",
+        "InterviewState": "Complete",
+        "Flight": "Lh 1800",
+        "Dest": "MAD",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "38817",
+        "InterviewEndDate": "2024-10-24 05:59:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38819",
+        "InterviewEndDate": "2024-10-24 06:00:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "38820",
+        "InterviewEndDate": "2024-10-24 06:52:49",
+        "InterviewState": "Complete",
+        "Flight": "BT  824",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "38821",
+        "InterviewEndDate": "2024-10-24 06:47:22",
+        "InterviewState": "Complete",
+        "Flight": "BT  824",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "38822",
+        "InterviewEndDate": "2024-10-24 06:50:55",
+        "InterviewState": "Complete",
+        "Flight": "BT  824",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "38823",
+        "InterviewEndDate": "2024-10-24 07:03:16",
+        "InterviewState": "Complete",
+        "Flight": "BT  824",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "38825",
+        "InterviewEndDate": "2024-10-24 07:04:08",
+        "InterviewState": "Complete",
+        "Flight": "BT  824",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
     }
 ]    
 
