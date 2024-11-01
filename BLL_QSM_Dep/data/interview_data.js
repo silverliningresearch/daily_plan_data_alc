@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "01-11-2024 10:06:15"
+        "download_time": "01-11-2024 12:06:14"
     },
     {
         "InterviewId": "6093",
@@ -83415,6 +83415,70 @@ let interview_data_raw = `[
         "Flight": "KL1292",
         "Dest": "AMS",
         "AirlineCode": "KL1292"
+    },
+    {
+        "InterviewId": "21208",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21209",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21210",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21211",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21212",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21213",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21214",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21215",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
     }
 ]    
 
