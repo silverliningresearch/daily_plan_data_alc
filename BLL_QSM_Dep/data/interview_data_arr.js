@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "01-11-2024 12:06:18"
+        "download_time": "01-11-2024 14:06:11"
     },
     {
         "InterviewId": "2077",
@@ -26321,6 +26321,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "8005",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "8008",
         "InterviewEndDate": "2024-11-01",
         "InterviewState": "Complete",
@@ -26337,12 +26345,28 @@ let interview_data_arr_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "8012",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "8014",
         "InterviewEndDate": "2024-11-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8015",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     },
     {
         "InterviewId": "8016",
@@ -26377,6 +26401,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "8021",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "8022",
         "InterviewEndDate": "2024-11-01",
         "InterviewState": "Complete",
@@ -26394,6 +26426,14 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "8025",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8026",
         "InterviewEndDate": "2024-11-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",

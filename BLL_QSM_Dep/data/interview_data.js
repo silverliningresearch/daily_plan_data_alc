@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "01-11-2024 12:06:14"
+        "download_time": "01-11-2024 14:06:09"
     },
     {
         "InterviewId": "6093",
@@ -83479,6 +83479,134 @@ let interview_data_raw = `[
         "Flight": "LH837",
         "Dest": "FRA",
         "AirlineCode": "LH837"
+    },
+    {
+        "InterviewId": "21217",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21219",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21220",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21221",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21222",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21223",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21224",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21225",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "21229",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "21230",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "21231",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "21232",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "21233",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "21234",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "21235",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "21236",
+        "InterviewEndDate": "2024-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
     }
 ]    
 
