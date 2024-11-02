@@ -1,4 +1,4 @@
-let interview_data_raw = `[
+let interview_data_arr_raw = `[
     {
         "InterviewId": "1223",
         "InterviewEndDate": "2023-04-08 12:48:18",
@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "02-11-2024 10:06:26"
+        "download_time": "02-11-2024 10:56:25"
     },
     {
         "InterviewId": "1224",
@@ -15055,6 +15055,150 @@ let interview_data_raw = `[
         "Flight": "RP - Chautauqua Airlines",
         "Dest": "CLJ",
         "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "3136",
+        "InterviewEndDate": "2024-10-29 10:29:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "IST",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3137",
+        "InterviewEndDate": "2024-10-29 10:42:12",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3138",
+        "InterviewEndDate": "2024-10-29 10:58:03",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3139",
+        "InterviewEndDate": "2024-10-29 12:02:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3140",
+        "InterviewEndDate": "2024-10-29 12:24:18",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3141",
+        "InterviewEndDate": "2024-10-29 13:01:36",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "3142",
+        "InterviewEndDate": "2024-10-30 15:35:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3143",
+        "InterviewEndDate": "2024-10-30 15:46:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "NCE",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3144",
+        "InterviewEndDate": "2024-10-30 15:59:27",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3145",
+        "InterviewEndDate": "2024-10-30 16:06:18",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3146",
+        "InterviewEndDate": "2024-10-30 16:16:05",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BLL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3147",
+        "InterviewEndDate": "2024-10-30 16:25:35",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3148",
+        "InterviewEndDate": "2024-10-31 15:32:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3149",
+        "InterviewEndDate": "2024-10-31 15:42:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3150",
+        "InterviewEndDate": "2024-10-31 15:54:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3151",
+        "InterviewEndDate": "2024-10-31 16:06:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3152",
+        "InterviewEndDate": "2024-10-31 16:17:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3153",
+        "InterviewEndDate": "2024-10-31 16:35:59",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     },
     {
         "InterviewId": "3136",
