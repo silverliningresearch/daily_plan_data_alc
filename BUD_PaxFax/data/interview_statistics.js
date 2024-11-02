@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BCN",
         "AirlineCode": "FR",
         "completed_interviews": 3,
-        "download_time": "02-11-2024 09:43:28"
+        "download_time": "02-11-2024 10:06:38"
     },
     {
         "Interview_Date": "2024-01-02",
@@ -6076,115 +6076,115 @@ let interview_statistics = `[
         "Interview_Date": "2024-10-29",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "completed_interviews": 12
+        "completed_interviews": 18
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "AUH",
         "AirlineCode": "W6",
-        "completed_interviews": 12
+        "completed_interviews": 18
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "BSL",
         "AirlineCode": "U2",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "CIA",
         "AirlineCode": "FR",
-        "completed_interviews": 14
+        "completed_interviews": 21
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "completed_interviews": 10
+        "completed_interviews": 15
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "EDI",
         "AirlineCode": "FR",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "MAD",
         "AirlineCode": "W6",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "RAK",
         "AirlineCode": "W6",
-        "completed_interviews": 4
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "BCN",
         "AirlineCode": "FR",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "BLQ",
         "AirlineCode": "FR",
-        "completed_interviews": 6
+        "completed_interviews": 9
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "FRA",
         "AirlineCode": "LH",
-        "completed_interviews": 4
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "LIS",
         "AirlineCode": "FR",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "OPO",
         "AirlineCode": "FR",
-        "completed_interviews": 4
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "STR",
         "AirlineCode": "W6",
-        "completed_interviews": 10
+        "completed_interviews": 15
     },
     {
         "Interview_Date": "2024-10-31",
         "Dest": "HEL",
         "AirlineCode": "AY",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-31",
         "Dest": "LIS",
         "AirlineCode": "W6",
-        "completed_interviews": 4
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2024-10-31",
         "Dest": "MLA",
         "AirlineCode": "W6",
-        "completed_interviews": 8
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-10-31",
         "Dest": "MUC",
         "AirlineCode": "LH",
-        "completed_interviews": 12
+        "completed_interviews": 18
     }
 ]    
 
