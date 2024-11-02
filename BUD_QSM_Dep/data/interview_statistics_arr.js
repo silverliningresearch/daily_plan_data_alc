@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CAI",
         "AirlineCode": "MS",
         "completed_interviews": 5,
-        "download_time": "02-11-2024 11:25:46"
+        "download_time": "02-11-2024 11:41:32"
     },
     {
         "Interview_Date": "2023-04-08",
@@ -5740,73 +5740,73 @@ let interview_statistics_arr = `[
         "Interview_Date": "2024-10-29",
         "Dest": "DUB",
         "AirlineCode": "FR",
-        "completed_interviews": 6
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 6
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "IST",
         "AirlineCode": "W6",
-        "completed_interviews": 6
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "LTN",
         "AirlineCode": "W6",
-        "completed_interviews": 6
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-29",
         "Dest": "STN",
         "AirlineCode": "FR",
-        "completed_interviews": 12
+        "completed_interviews": 14
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "completed_interviews": 12
+        "completed_interviews": 14
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "BLL",
         "AirlineCode": "FR",
-        "completed_interviews": 6
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "BRU",
         "AirlineCode": "SN",
-        "completed_interviews": 6
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-30",
         "Dest": "NCE",
         "AirlineCode": "W6",
-        "completed_interviews": 12
+        "completed_interviews": 14
     },
     {
         "Interview_Date": "2024-10-31",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "completed_interviews": 6
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-31",
         "Dest": "CRL",
         "AirlineCode": "W6",
-        "completed_interviews": 18
+        "completed_interviews": 21
     },
     {
         "Interview_Date": "2024-10-31",
         "Dest": "MUC",
         "AirlineCode": "LH",
-        "completed_interviews": 12
+        "completed_interviews": 14
     }
 ]    
 
