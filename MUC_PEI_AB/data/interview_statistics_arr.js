@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "07-11-2024 12:06:59"
+        "download_time": "07-11-2024 14:06:17"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -21904,7 +21904,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2024-11-07",
         "Dest": "CDG",
         "AirlineCode": "LH",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2024-11-07",
@@ -21926,9 +21926,33 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2024-11-07",
+        "Dest": "EWR",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-11-07",
+        "Dest": "IAD",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-11-07",
+        "Dest": "IAD",
+        "AirlineCode": "Lufthansa",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-11-07",
         "Dest": "LIN",
         "AirlineCode": "EN",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-11-07",
+        "Dest": "LIS",
+        "AirlineCode": "TP",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2024-11-07",
@@ -21940,6 +21964,12 @@ let interview_statistics_arr = `[
         "Interview_Date": "2024-11-07",
         "Dest": "MXP",
         "AirlineCode": "EN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-11-07",
+        "Dest": "TBS",
+        "AirlineCode": "TP",
         "completed_interviews": 1
     },
     {
