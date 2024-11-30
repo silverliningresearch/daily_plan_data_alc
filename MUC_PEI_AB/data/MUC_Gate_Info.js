@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K12",
-        "download_time": "30-11-2024 19:06:38"
+        "download_time": "30-11-2024 20:06:36"
     },
     {
         "aodbUniqueId": "20241130486529",
@@ -791,6 +791,16 @@ let MUC_Gate_Info = `[
         "Gate": "G34"
     },
     {
+        "aodbUniqueId": "20241130486805",
+        "Date": "30-11-2024",
+        "Flight": "LH 1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K30"
+    },
+    {
         "aodbUniqueId": "20241130486951",
         "Date": "30-11-2024",
         "Flight": "SN 2646",
@@ -1018,7 +1028,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G38"
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20241130486327",
@@ -1731,16 +1741,6 @@ let MUC_Gate_Info = `[
         "Gate": "G41"
     },
     {
-        "aodbUniqueId": "20241130486805",
-        "Date": "30-11-2024",
-        "Flight": "LH 1682",
-        "Dest": "BUD",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K30"
-    },
-    {
         "aodbUniqueId": "20241130486811",
         "Date": "30-11-2024",
         "Flight": "4Y 704",
@@ -2118,7 +2118,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
+        "Gate": "G38"
     },
     {
         "aodbUniqueId": "20241130486831",
