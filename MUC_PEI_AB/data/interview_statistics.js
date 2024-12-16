@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "CDG",
         "AirlineCode": "AF",
         "completed_interviews": 7,
-        "download_time": "16-12-2024 19:06:55"
+        "download_time": "16-12-2024 22:07:05"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -32163,6 +32163,12 @@ let interview_statistics = `[
     {
         "Interview_Date": "2024-12-16",
         "Dest": "BER",
+        "AirlineCode": "LH",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-12-16",
+        "Dest": "BER",
         "AirlineCode": "VL",
         "completed_interviews": 5
     },
@@ -32180,6 +32186,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-12-16",
+        "Dest": "CPH",
+        "AirlineCode": "LH",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-12-16",
+        "Dest": "DRS",
+        "AirlineCode": "LH",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-12-16",
         "Dest": "EWR",
         "AirlineCode": "LH",
         "completed_interviews": 2
@@ -32189,6 +32207,12 @@ let interview_statistics = `[
         "Dest": "HAJ",
         "AirlineCode": "LH",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-12-16",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2024-12-16",
@@ -32210,6 +32234,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-12-16",
+        "Dest": "POZ",
+        "AirlineCode": "LH",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-12-16",
+        "Dest": "SBZ",
+        "AirlineCode": "LH",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-12-16",
         "Dest": "SFO",
         "AirlineCode": "LH",
         "completed_interviews": 7
@@ -32218,7 +32254,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-12-16",
         "Dest": "SOF",
         "AirlineCode": "LH",
-        "completed_interviews": 1
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2024-12-16",
