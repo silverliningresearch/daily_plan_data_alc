@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14",
-        "download_time": "20-01-2025 20:07:44"
+        "download_time": "20-01-2025 21:08:01"
     },
     {
         "aodbUniqueId": "20250120661115",
@@ -1221,6 +1221,26 @@ let MUC_Gate_Info = `[
         "Gate": "L05"
     },
     {
+        "aodbUniqueId": "20250120661192",
+        "Date": "20-01-2025",
+        "Flight": "LH 121",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G34"
+    },
+    {
+        "aodbUniqueId": "20250120660849",
+        "Date": "20-01-2025",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K21"
+    },
+    {
         "aodbUniqueId": "20250120660077",
         "Date": "20-01-2025",
         "Flight": "LH 1924",
@@ -1698,7 +1718,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K26"
+        "Gate": "K21"
     },
     {
         "aodbUniqueId": "20250120660503",
@@ -2088,7 +2108,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G32"
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20250120660600",
@@ -2559,16 +2579,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H32"
-    },
-    {
-        "aodbUniqueId": "20250120660849",
-        "Date": "20-01-2025",
-        "Flight": "LH 1816",
-        "Dest": "BCN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K21"
     },
     {
         "aodbUniqueId": "20250120660850",
@@ -3189,16 +3199,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H08"
-    },
-    {
-        "aodbUniqueId": "20250120661192",
-        "Date": "20-01-2025",
-        "Flight": "LH 121",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20250120661114",
