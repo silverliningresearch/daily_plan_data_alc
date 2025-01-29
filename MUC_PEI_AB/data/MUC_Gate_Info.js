@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K11",
-        "download_time": "29-01-2025 07:07:01"
+        "download_time": "29-01-2025 08:08:12"
     },
     {
         "aodbUniqueId": "20250129684459",
@@ -519,6 +519,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K08"
+    },
+    {
+        "aodbUniqueId": "20250129684240",
+        "Date": "29-01-2025",
+        "Flight": "NH 218",
+        "Dest": "HND",
+        "AirlineCode": "NH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H24"
     },
     {
         "aodbUniqueId": "20250129684418",
@@ -1048,7 +1058,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
+        "Gate": "G17"
     },
     {
         "aodbUniqueId": "20250129684209",
@@ -1311,16 +1321,6 @@ let MUC_Gate_Info = `[
         "Gate": "K22"
     },
     {
-        "aodbUniqueId": "20250129684240",
-        "Date": "29-01-2025",
-        "Flight": "NH 218",
-        "Dest": "HND",
-        "AirlineCode": "NH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H24"
-    },
-    {
         "aodbUniqueId": "20250129684241",
         "Date": "29-01-2025",
         "Flight": "EW 6615",
@@ -1328,7 +1328,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C10"
+        "Gate": "C04"
     },
     {
         "aodbUniqueId": "20250129684307",
@@ -1538,7 +1538,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "BA",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C06"
+        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20250129684367",
@@ -1818,7 +1818,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "BA",
         "terminalIdentifier": "1",
         "GateArea": "T1B",
-        "Gate": "B15"
+        "Gate": "B10"
     },
     {
         "aodbUniqueId": "20250129684539",
@@ -1998,7 +1998,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "SV",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C01"
+        "Gate": "C04"
     },
     {
         "aodbUniqueId": "20250129684572",
@@ -2428,7 +2428,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "TP",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G40"
+        "Gate": "G10"
     },
     {
         "aodbUniqueId": "20250129684635",
@@ -2448,7 +2448,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K16"
+        "Gate": "K18"
     },
     {
         "aodbUniqueId": "20250129684637",
@@ -2477,8 +2477,8 @@ let MUC_Gate_Info = `[
         "Dest": "STR",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G40"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K05"
     },
     {
         "aodbUniqueId": "20250129684676",
@@ -2568,7 +2568,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20250129684710",
@@ -2748,7 +2748,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C01"
+        "Gate": "C10"
     },
     {
         "aodbUniqueId": "20250129684690",
@@ -2779,16 +2779,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G69"
-    },
-    {
-        "aodbUniqueId": "20250129684751",
-        "Date": "29-01-2025",
-        "Flight": "BA 949",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B10"
     },
     {
         "aodbUniqueId": "20250129684752",
@@ -2941,6 +2931,16 @@ let MUC_Gate_Info = `[
         "Gate": "K06"
     },
     {
+        "aodbUniqueId": "20250129684751",
+        "Date": "29-01-2025",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B10"
+    },
+    {
         "aodbUniqueId": "20250129684771",
         "Date": "29-01-2025",
         "Flight": "IB 748",
@@ -3017,8 +3017,8 @@ let MUC_Gate_Info = `[
         "Dest": "SAW",
         "AirlineCode": "VF",
         "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B14"
+        "GateArea": "T1C",
+        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20250129684792",
@@ -3257,8 +3257,8 @@ let MUC_Gate_Info = `[
         "Dest": "CPH",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K05"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20250129684821",
