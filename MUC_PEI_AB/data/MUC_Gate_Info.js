@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K11",
-        "download_time": "29-01-2025 18:07:54"
+        "download_time": "29-01-2025 19:07:03"
     },
     {
         "aodbUniqueId": "20250129684459",
@@ -3299,6 +3299,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B17"
+    },
+    {
+        "aodbUniqueId": "20250129709035",
+        "Date": "29-01-2025",
+        "Flight": "HV 6681",
+        "Dest": "INN",
+        "AirlineCode": "HV",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D05"
+    },
+    {
+        "aodbUniqueId": "20250129709030",
+        "Date": "29-01-2025",
+        "Flight": "EW 7278",
+        "Dest": "INN",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D04"
     }
 ]    
 
