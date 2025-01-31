@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "31-01-2025 11:07:50"
+        "download_time": "31-01-2025 12:08:54"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -25208,7 +25208,31 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-01-31",
+        "Dest": "FCO",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-01-31",
+        "Dest": "FMO",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-01-31",
         "Dest": "GOA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-01-31",
+        "Dest": "GVA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-01-31",
+        "Dest": "HAJ",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -25216,6 +25240,24 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-01-31",
         "Dest": "HAM",
         "AirlineCode": "LH",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-01-31",
+        "Dest": "LGW",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-01-31",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-01-31",
+        "Dest": "MLA",
+        "AirlineCode": "Lh",
         "completed_interviews": 1
     },
     {
@@ -25223,6 +25265,12 @@ let interview_statistics_arr = `[
         "Dest": "SKG",
         "AirlineCode": "A3",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-01-31",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-01-31",
