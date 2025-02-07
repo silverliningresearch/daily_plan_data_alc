@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H16",
-        "download_time": "07-02-2025 09:07:36"
+        "download_time": "07-02-2025 10:07:32"
     },
     {
         "aodbUniqueId": "20250207706829",
@@ -59,6 +59,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G10"
+    },
+    {
+        "aodbUniqueId": "20250207706305",
+        "Date": "07-02-2025",
+        "Flight": "LH 714",
+        "Dest": "HND",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H24"
+    },
+    {
+        "aodbUniqueId": "20250207707042",
+        "Date": "07-02-2025",
+        "Flight": "DE 1522",
+        "Dest": "LPA",
+        "AirlineCode": "DE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D22"
     },
     {
         "aodbUniqueId": "20250207706428",
@@ -139,6 +159,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G20"
+    },
+    {
+        "aodbUniqueId": "20250207706413",
+        "Date": "07-02-2025",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G05"
     },
     {
         "aodbUniqueId": "20250207706947",
@@ -379,6 +409,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H24"
+    },
+    {
+        "aodbUniqueId": "20250207706785",
+        "Date": "07-02-2025",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L03"
+    },
+    {
+        "aodbUniqueId": "20250207706497",
+        "Date": "07-02-2025",
+        "Flight": "LH 103",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20250207706317",
@@ -701,16 +751,6 @@ let MUC_Gate_Info = `[
         "Gate": "G38"
     },
     {
-        "aodbUniqueId": "20250207706305",
-        "Date": "07-02-2025",
-        "Flight": "LH 714",
-        "Dest": "HND",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H24"
-    },
-    {
         "aodbUniqueId": "20250207706306",
         "Date": "07-02-2025",
         "Flight": "LH 2088",
@@ -868,7 +908,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G17"
+        "Gate": "G20"
     },
     {
         "aodbUniqueId": "20250207706361",
@@ -1049,16 +1089,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D01"
-    },
-    {
-        "aodbUniqueId": "20250207706413",
-        "Date": "07-02-2025",
-        "Flight": "LH 2414",
-        "Dest": "ARN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G05"
     },
     {
         "aodbUniqueId": "20250207706414",
@@ -1408,17 +1438,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G20"
-    },
-    {
-        "aodbUniqueId": "20250207706497",
-        "Date": "07-02-2025",
-        "Flight": "LH 103",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G34"
+        "Gate": "G17"
     },
     {
         "aodbUniqueId": "20250207706498",
@@ -2509,16 +2529,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C05"
-    },
-    {
-        "aodbUniqueId": "20250207706785",
-        "Date": "07-02-2025",
-        "Flight": "LH 476",
-        "Dest": "YVR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L03"
     },
     {
         "aodbUniqueId": "20250207706945",
@@ -3619,16 +3629,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K01"
-    },
-    {
-        "aodbUniqueId": "20250207707042",
-        "Date": "07-02-2025",
-        "Flight": "DE 1522",
-        "Dest": "LPA",
-        "AirlineCode": "DE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D22"
     },
     {
         "aodbUniqueId": "20250207707044",
