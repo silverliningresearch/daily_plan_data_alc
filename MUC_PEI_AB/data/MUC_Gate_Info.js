@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03",
-        "download_time": "24-02-2025 04:07:45"
+        "download_time": "24-02-2025 05:06:36"
     },
     {
         "aodbUniqueId": "20250224751679",
@@ -99,6 +99,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K09"
+    },
+    {
+        "aodbUniqueId": "20250224751615",
+        "Date": "24-02-2025",
+        "Flight": "LH 095",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20250224751231",
@@ -659,16 +669,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K04"
-    },
-    {
-        "aodbUniqueId": "20250224751615",
-        "Date": "24-02-2025",
-        "Flight": "LH 095",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20250224751617",
@@ -1608,7 +1608,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D22"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20250224751402",
@@ -1858,7 +1858,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03"
+        "Gate": "D22"
     },
     {
         "aodbUniqueId": "20250224751420",
@@ -1908,7 +1908,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D22"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20250224751595",
@@ -2671,16 +2671,6 @@ let MUC_Gate_Info = `[
         "Gate": "G07"
     },
     {
-        "aodbUniqueId": "20250224752017",
-        "Date": "24-02-2025",
-        "Flight": "LH 2188",
-        "Dest": "BRE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G63"
-    },
-    {
         "aodbUniqueId": "20250224752019",
         "Date": "24-02-2025",
         "Flight": "LH 578",
@@ -2901,6 +2891,26 @@ let MUC_Gate_Info = `[
         "Gate": "G34"
     },
     {
+        "aodbUniqueId": "20250224752017",
+        "Date": "24-02-2025",
+        "Flight": "LH 2188",
+        "Dest": "BRE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G63"
+    },
+    {
+        "aodbUniqueId": "20250224751818",
+        "Date": "24-02-2025",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G04"
+    },
+    {
         "aodbUniqueId": "20250224751792",
         "Date": "24-02-2025",
         "Flight": "VN 034",
@@ -3019,16 +3029,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G47"
-    },
-    {
-        "aodbUniqueId": "20250224751818",
-        "Date": "24-02-2025",
-        "Flight": "LH 2324",
-        "Dest": "VIE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20250224751820",
