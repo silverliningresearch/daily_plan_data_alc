@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CAI",
         "AirlineCode": "MS",
         "completed_interviews": 5,
-        "download_time": "25-02-2025 13:08:24"
+        "download_time": "25-02-2025 14:07:37"
     },
     {
         "Interview_Date": "2023-04-08",
@@ -7379,6 +7379,18 @@ let interview_statistics_arr = `[
         "Dest": "DUB",
         "AirlineCode": "FR",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-02-25",
+        "Dest": "LGW",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-02-25",
+        "Dest": "TLV",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
     }
 ]    
 
