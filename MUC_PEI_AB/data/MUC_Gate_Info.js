@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G04",
-        "download_time": "26-02-2025 21:06:45"
+        "download_time": "26-02-2025 22:06:49"
     },
     {
         "aodbUniqueId": "20250226806156",
@@ -399,6 +399,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G82"
+    },
+    {
+        "aodbUniqueId": "20250226757568",
+        "Date": "26-02-2025",
+        "Flight": "LH 2040",
+        "Dest": "DUS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250226756988",
@@ -891,14 +901,14 @@ let MUC_Gate_Info = `[
         "Gate": "G20"
     },
     {
-        "aodbUniqueId": "20250226757024",
+        "aodbUniqueId": "20250226757343",
         "Date": "26-02-2025",
-        "Flight": "LH 520",
-        "Dest": "MEX",
-        "AirlineCode": "LH",
+        "Flight": "EN 8016",
+        "Dest": "GRZ",
+        "AirlineCode": "EN",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H19"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20250226757101",
@@ -909,6 +919,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G81"
+    },
+    {
+        "aodbUniqueId": "20250226756915",
+        "Date": "26-02-2025",
+        "Flight": "EN 8396",
+        "Dest": "BLL",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G29"
+    },
+    {
+        "aodbUniqueId": "20250226757024",
+        "Date": "26-02-2025",
+        "Flight": "LH 520",
+        "Dest": "MEX",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H19"
     },
     {
         "aodbUniqueId": "20250226757095",
@@ -1471,16 +1501,6 @@ let MUC_Gate_Info = `[
         "Gate": "K04"
     },
     {
-        "aodbUniqueId": "20250226757343",
-        "Date": "26-02-2025",
-        "Flight": "EN 8016",
-        "Dest": "GRZ",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G32"
-    },
-    {
         "aodbUniqueId": "20250226757348",
         "Date": "26-02-2025",
         "Flight": "LH 2438",
@@ -1629,6 +1649,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
+    },
+    {
+        "aodbUniqueId": "20250226757371",
+        "Date": "26-02-2025",
+        "Flight": "EY 128",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B15"
     },
     {
         "aodbUniqueId": "20250226757354",
@@ -2901,16 +2931,6 @@ let MUC_Gate_Info = `[
         "Gate": "C01"
     },
     {
-        "aodbUniqueId": "20250226756915",
-        "Date": "26-02-2025",
-        "Flight": "EN 8396",
-        "Dest": "BLL",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G29"
-    },
-    {
         "aodbUniqueId": "20250226757050",
         "Date": "26-02-2025",
         "Flight": "LH 2144",
@@ -3119,16 +3139,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K03"
-    },
-    {
-        "aodbUniqueId": "20250226757568",
-        "Date": "26-02-2025",
-        "Flight": "LH 2040",
-        "Dest": "DUS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250226757564",
@@ -3344,16 +3354,6 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20250226757053",
         "Date": "26-02-2025",
         "Flight": "EY 126",
-        "Dest": "AUH",
-        "AirlineCode": "EY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B15"
-    },
-    {
-        "aodbUniqueId": "20250226757371",
-        "Date": "26-02-2025",
-        "Flight": "EY 128",
         "Dest": "AUH",
         "AirlineCode": "EY",
         "terminalIdentifier": "1",
