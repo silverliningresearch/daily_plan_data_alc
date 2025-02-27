@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G28",
-        "download_time": "27-02-2025 08:07:07"
+        "download_time": "27-02-2025 09:07:04"
     },
     {
         "aodbUniqueId": "20250227760186",
@@ -258,7 +258,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LX",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G44"
+        "Gate": "G20"
     },
     {
         "aodbUniqueId": "20250227759788",
@@ -488,7 +488,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "SN",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G20"
+        "Gate": "G44"
     },
     {
         "aodbUniqueId": "20250227759929",
