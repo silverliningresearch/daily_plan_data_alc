@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G34",
-        "download_time": "27-02-2025 19:07:10"
+        "download_time": "27-02-2025 20:07:32"
     },
     {
         "aodbUniqueId": "20250227759929",
@@ -109,6 +109,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C06"
+    },
+    {
+        "aodbUniqueId": "20250227759662",
+        "Date": "27-02-2025",
+        "Flight": "A3 503",
+        "Dest": "SKG",
+        "AirlineCode": "A3",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G18"
     },
     {
         "aodbUniqueId": "20250227760092",
@@ -308,7 +318,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LX",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G20"
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20250227759788",
@@ -741,16 +751,6 @@ let MUC_Gate_Info = `[
         "Gate": "H40"
     },
     {
-        "aodbUniqueId": "20250227759662",
-        "Date": "27-02-2025",
-        "Flight": "A3 503",
-        "Dest": "SKG",
-        "AirlineCode": "A3",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G18"
-    },
-    {
         "aodbUniqueId": "20250227759985",
         "Date": "27-02-2025",
         "Flight": "4Y 212",
@@ -788,7 +788,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "OS",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G26"
+        "Gate": "G20"
     },
     {
         "aodbUniqueId": "20250227759698",
