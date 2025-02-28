@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G26",
-        "download_time": "28-02-2025 10:07:09"
+        "download_time": "28-02-2025 11:07:20"
     },
     {
         "aodbUniqueId": "20250228762580",
@@ -171,6 +171,16 @@ let MUC_Gate_Info = `[
         "Gate": "D03"
     },
     {
+        "aodbUniqueId": "20250228811440",
+        "Date": "28-02-2025",
+        "Flight": "LH 4024",
+        "Dest": "HHN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G48"
+    },
+    {
         "aodbUniqueId": "20250228762612",
         "Date": "28-02-2025",
         "Flight": "SN 2646",
@@ -179,6 +189,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G20"
+    },
+    {
+        "aodbUniqueId": "20250228811439",
+        "Date": "28-02-2025",
+        "Flight": "LH 4021",
+        "Dest": "HHN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G47"
     },
     {
         "aodbUniqueId": "20250228808853",
