@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G46",
-        "download_time": "14-03-2025 23:07:43"
+        "download_time": "15-03-2025 00:07:27"
     },
     {
         "aodbUniqueId": "20250314824947",
@@ -1121,16 +1121,6 @@ let MUC_Gate_Info = `[
         "Gate": "G27"
     },
     {
-        "aodbUniqueId": "20250314824196",
-        "Date": "14-03-2025",
-        "Flight": "VY 1815",
-        "Dest": "BCN",
-        "AirlineCode": "VY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D12"
-    },
-    {
         "aodbUniqueId": "20250314824198",
         "Date": "14-03-2025",
         "Flight": "EN 8242",
@@ -1139,6 +1129,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G27"
+    },
+    {
+        "aodbUniqueId": "20250314824196",
+        "Date": "14-03-2025",
+        "Flight": "VY 1815",
+        "Dest": "BCN",
+        "AirlineCode": "VY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D12"
     },
     {
         "aodbUniqueId": "20250314824697",
