@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C04",
-        "download_time": "24-03-2025 22:07:27"
+        "download_time": "24-03-2025 23:07:07"
     },
     {
         "aodbUniqueId": "20250324858037",
@@ -2331,6 +2331,16 @@ let MUC_Gate_Info = `[
         "Gate": "G26"
     },
     {
+        "aodbUniqueId": "20250324858648",
+        "Date": "24-03-2025",
+        "Flight": "EN 8396",
+        "Dest": "BLL",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K20"
+    },
+    {
         "aodbUniqueId": "20250324859070",
         "Date": "24-03-2025",
         "Flight": "LH 2060",
@@ -2679,16 +2689,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03"
-    },
-    {
-        "aodbUniqueId": "20250324858648",
-        "Date": "24-03-2025",
-        "Flight": "EN 8396",
-        "Dest": "BLL",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20250324858990",
