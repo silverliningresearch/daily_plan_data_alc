@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "04-04-2025 19:08:37"
+        "download_time": "04-04-2025 20:07:46"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -28346,8 +28346,20 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-04-04",
+        "Dest": "DEB",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
         "Dest": "FRA",
         "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
+        "Dest": "HAM",
+        "AirlineCode": "",
         "completed_interviews": 1
     },
     {
@@ -28358,9 +28370,21 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-04-04",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
         "Dest": "LIN",
         "AirlineCode": "AZ",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
+        "Dest": "LIS",
+        "AirlineCode": "",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-04-04",
@@ -28372,6 +28396,30 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-04-04",
         "Dest": "OSL",
         "AirlineCode": "DY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
+        "Dest": "PEK",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
+        "Dest": "RIX",
+        "AirlineCode": "BT",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
+        "Dest": "SPU",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-04",
+        "Dest": "TSR",
+        "AirlineCode": "VL",
         "completed_interviews": 1
     }
 ]    
