@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "18-04-2025 17:08:32"
+        "download_time": "18-04-2025 18:08:00"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -29066,7 +29066,25 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-04-18",
+        "Dest": "AMS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
         "Dest": "BCN",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "BER",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "BER",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -29090,6 +29108,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-04-18",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
         "Dest": "BUD",
         "AirlineCode": "LH",
         "completed_interviews": 1
@@ -29108,9 +29132,39 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-04-18",
+        "Dest": "FCO",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "FCO",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
         "Dest": "FLR",
         "AirlineCode": "",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "HND",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "KIX",
+        "AirlineCode": "",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-04-18",
