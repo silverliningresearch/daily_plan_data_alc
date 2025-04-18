@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "18-04-2025 15:08:13"
+        "download_time": "18-04-2025 16:09:02"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -29072,7 +29072,25 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-04-18",
+        "Dest": "BER",
+        "AirlineCode": "Lh",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
         "Dest": "BHX",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "BRE",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "BUD",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -29090,6 +29108,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-04-18",
+        "Dest": "FLR",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "LAX",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
         "Dest": "MAD",
         "AirlineCode": "LH",
         "completed_interviews": 1
@@ -29099,6 +29129,24 @@ let interview_statistics_arr = `[
         "Dest": "MAN",
         "AirlineCode": "LH",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "OPO",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "OPO",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-04-18",
+        "Dest": "PRG",
+        "AirlineCode": "",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-04-18",
