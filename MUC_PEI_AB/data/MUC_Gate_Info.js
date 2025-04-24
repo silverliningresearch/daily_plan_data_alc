@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H02",
-        "download_time": "25-04-2025 00:08:22"
+        "download_time": "25-04-2025 01:07:54"
     },
     {
         "aodbUniqueId": "20250424206724",
