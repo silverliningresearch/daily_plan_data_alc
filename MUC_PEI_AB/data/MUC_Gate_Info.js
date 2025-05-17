@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K10",
-        "download_time": "17-05-2025 22:07:31"
+        "download_time": "17-05-2025 23:06:10"
     },
     {
         "aodbUniqueId": "20250517283877",
@@ -1469,16 +1469,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G01"
-    },
-    {
-        "aodbUniqueId": "20250517283923",
-        "Date": "17-05-2025",
-        "Flight": "EN 8280",
-        "Dest": "MXP",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
     },
     {
         "aodbUniqueId": "20250517283925",
@@ -3791,16 +3781,6 @@ let MUC_Gate_Info = `[
         "Gate": "G31"
     },
     {
-        "aodbUniqueId": "20250517284328",
-        "Date": "17-05-2025",
-        "Flight": "LH 726",
-        "Dest": "PVG",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H32"
-    },
-    {
         "aodbUniqueId": "20250517284334",
         "Date": "17-05-2025",
         "Flight": "LH 1654",
@@ -4231,6 +4211,16 @@ let MUC_Gate_Info = `[
         "Gate": "H46"
     },
     {
+        "aodbUniqueId": "20250517283923",
+        "Date": "17-05-2025",
+        "Flight": "EN 8280",
+        "Dest": "MXP",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
+    },
+    {
         "aodbUniqueId": "20250517283948",
         "Date": "17-05-2025",
         "Flight": "LH 772",
@@ -4259,6 +4249,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G81"
+    },
+    {
+        "aodbUniqueId": "20250517284328",
+        "Date": "17-05-2025",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H32"
     },
     {
         "aodbUniqueId": "20250517284541",
