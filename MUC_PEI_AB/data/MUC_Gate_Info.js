@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20250518286964",
+        "Date": "18-05-2025",
+        "Flight": "LX 1121",
+        "Dest": "GVA",
+        "AirlineCode": "LX",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G05",
+        "download_time": "18-05-2025 06:07:43"
+    },
+    {
         "aodbUniqueId": "20250518287358",
         "Date": "18-05-2025",
         "Flight": "LH 1640",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G48",
-        "download_time": "18-05-2025 05:06:11"
+        "Gate": "G48"
     },
     {
         "aodbUniqueId": "20250518287265",
@@ -958,7 +968,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "DE",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D06"
+        "Gate": "D22"
     },
     {
         "aodbUniqueId": "20250518287121",
@@ -1319,16 +1329,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B15"
-    },
-    {
-        "aodbUniqueId": "20250518286964",
-        "Date": "18-05-2025",
-        "Flight": "LX 1121",
-        "Dest": "GVA",
-        "AirlineCode": "LX",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G05"
     },
     {
         "aodbUniqueId": "20250518287228",
@@ -4489,6 +4489,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L09"
+    },
+    {
+        "aodbUniqueId": "20250518322540",
+        "Date": "18-05-2025",
+        "Flight": "LS 621",
+        "Dest": "DLM",
+        "AirlineCode": "LS",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B10"
     }
 ]    
 
