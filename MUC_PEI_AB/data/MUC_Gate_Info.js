@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15",
-        "download_time": "23-05-2025 21:06:14"
+        "download_time": "23-05-2025 22:07:40"
     },
     {
         "aodbUniqueId": "20250523301168",
@@ -271,6 +271,16 @@ let MUC_Gate_Info = `[
         "Gate": "C06"
     },
     {
+        "aodbUniqueId": "20250523300924",
+        "Date": "23-05-2025",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K11"
+    },
+    {
         "aodbUniqueId": "20250523302215",
         "Date": "23-05-2025",
         "Flight": "LH 1842",
@@ -418,7 +428,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K26"
+        "Gate": "K30"
     },
     {
         "aodbUniqueId": "20250523301490",
@@ -1801,16 +1811,6 @@ let MUC_Gate_Info = `[
         "Gate": "K08"
     },
     {
-        "aodbUniqueId": "20250523300924",
-        "Date": "23-05-2025",
-        "Flight": "LH 1788",
-        "Dest": "OPO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K11"
-    },
-    {
         "aodbUniqueId": "20250523300462",
         "Date": "23-05-2025",
         "Flight": "VL 1658",
@@ -1929,16 +1929,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K23"
-    },
-    {
-        "aodbUniqueId": "20250523301252",
-        "Date": "23-05-2025",
-        "Flight": "LH 2420",
-        "Dest": "ARN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G26"
     },
     {
         "aodbUniqueId": "20250523300502",
@@ -2521,16 +2511,6 @@ let MUC_Gate_Info = `[
         "Gate": "D11"
     },
     {
-        "aodbUniqueId": "20250523300619",
-        "Date": "23-05-2025",
-        "Flight": "LH 2142",
-        "Dest": "FMO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K25"
-    },
-    {
         "aodbUniqueId": "20250523300620",
         "Date": "23-05-2025",
         "Flight": "LH 1934",
@@ -2728,7 +2708,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "OU",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K30"
+        "Gate": "K26"
     },
     {
         "aodbUniqueId": "20250523301510",
@@ -2909,16 +2889,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H18"
-    },
-    {
-        "aodbUniqueId": "20250523301382",
-        "Date": "23-05-2025",
-        "Flight": "BA 961",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B17"
     },
     {
         "aodbUniqueId": "20250523301383",
@@ -4531,6 +4501,16 @@ let MUC_Gate_Info = `[
         "Gate": "D15"
     },
     {
+        "aodbUniqueId": "20250523301382",
+        "Date": "23-05-2025",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B17"
+    },
+    {
         "aodbUniqueId": "20250523301937",
         "Date": "23-05-2025",
         "Flight": "VL 2504",
@@ -4601,6 +4581,16 @@ let MUC_Gate_Info = `[
         "Gate": "H14"
     },
     {
+        "aodbUniqueId": "20250523301252",
+        "Date": "23-05-2025",
+        "Flight": "LH 2420",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G26"
+    },
+    {
         "aodbUniqueId": "20250523300510",
         "Date": "23-05-2025",
         "Flight": "NH 218",
@@ -4649,6 +4639,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16"
+    },
+    {
+        "aodbUniqueId": "20250523300619",
+        "Date": "23-05-2025",
+        "Flight": "LH 2142",
+        "Dest": "FMO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K25"
     },
     {
         "aodbUniqueId": "20250523300978",
