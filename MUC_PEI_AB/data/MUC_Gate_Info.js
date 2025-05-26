@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K18",
-        "download_time": "26-05-2025 22:07:38"
+        "download_time": "26-05-2025 23:06:04"
     },
     {
         "aodbUniqueId": "20250526314012",
@@ -1469,6 +1469,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G33"
+    },
+    {
+        "aodbUniqueId": "20250526313573",
+        "Date": "26-05-2025",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20250526313094",
@@ -3709,16 +3719,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H08"
-    },
-    {
-        "aodbUniqueId": "20250526313573",
-        "Date": "26-05-2025",
-        "Flight": "EK 052",
-        "Dest": "DXB",
-        "AirlineCode": "EK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20250526313751",
