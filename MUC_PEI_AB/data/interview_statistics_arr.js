@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "29-05-2025 10:06:42"
+        "download_time": "29-05-2025 11:06:11"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -31388,6 +31388,36 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-05-29",
+        "Dest": "BCN",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "BER",
+        "AirlineCode": "",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "BKK",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "BOS",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "CGN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-05-29",
         "Dest": "CLT",
         "AirlineCode": "LH",
         "completed_interviews": 1
@@ -31406,9 +31436,15 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-05-29",
+        "Dest": "EWR",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-05-29",
         "Dest": "FCO",
         "AirlineCode": "LH",
-        "completed_interviews": 2
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-05-29",
@@ -31418,15 +31454,57 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-05-29",
+        "Dest": "IAH",
+        "AirlineCode": "UA",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-05-29",
         "Dest": "JNB",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-05-29",
+        "Dest": "LHR",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "LIS",
+        "AirlineCode": "",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "MLA",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "MXP",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "OPO",
+        "AirlineCode": "",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-05-29",
         "Dest": "SKG",
         "AirlineCode": "A3",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-05-29",
+        "Dest": "WAW",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
     }
 ]    
 
