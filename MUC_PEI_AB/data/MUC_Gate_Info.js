@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G05",
-        "download_time": "29-05-2025 22:07:39"
+        "download_time": "29-05-2025 23:06:07"
     },
     {
         "aodbUniqueId": "20250529323113",
@@ -1289,6 +1289,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L06"
+    },
+    {
+        "aodbUniqueId": "20250529323668",
+        "Date": "29-05-2025",
+        "Flight": "EZY8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C09"
     },
     {
         "aodbUniqueId": "20250529323130",
@@ -3463,7 +3473,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20250529323502",
         "Date": "29-05-2025",
-        "Flight": "LH 1606",
+        "Flight": "LH 1606U",
         "Dest": "RZE",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
@@ -4059,16 +4069,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G16"
-    },
-    {
-        "aodbUniqueId": "20250529323668",
-        "Date": "29-05-2025",
-        "Flight": "EZY8638",
-        "Dest": "LGW",
-        "AirlineCode": "EZ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C09"
     },
     {
         "aodbUniqueId": "20250529323673",
