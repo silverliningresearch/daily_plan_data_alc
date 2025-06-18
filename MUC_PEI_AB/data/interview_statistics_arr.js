@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "18-06-2025 17:06:43"
+        "download_time": "18-06-2025 18:08:01"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -32060,9 +32060,27 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-18",
+        "Dest": "AMS",
+        "AirlineCode": "",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2025-06-18",
+        "Dest": "AMS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-18",
+        "Dest": "ARN",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-06-18",
         "Dest": "ARN",
         "AirlineCode": "LH",
-        "completed_interviews": 2
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-06-18",
@@ -32072,7 +32090,25 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-18",
+        "Dest": "FCO",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-18",
+        "Dest": "FNC",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-18",
         "Dest": "IBZ",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-18",
+        "Dest": "KIX",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -32086,11 +32122,17 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-06-18",
         "Dest": "LHR",
         "AirlineCode": "",
-        "completed_interviews": 1
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-06-18",
         "Dest": "MAD",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-18",
+        "Dest": "SFO",
         "AirlineCode": "",
         "completed_interviews": 1
     },
