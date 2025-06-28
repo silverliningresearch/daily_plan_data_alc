@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "28-06-2025 15:06:07"
+        "download_time": "28-06-2025 16:07:17"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -32300,6 +32300,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-28",
+        "Dest": "BLQ",
+        "AirlineCode": "EN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-28",
         "Dest": "CAI",
         "AirlineCode": "",
         "completed_interviews": 2
@@ -32318,9 +32324,39 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-28",
+        "Dest": "DUS",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-28",
         "Dest": "DXB",
         "AirlineCode": "",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2025-06-28",
+        "Dest": "EMPTY",
+        "AirlineCode": "",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2025-06-28",
+        "Dest": "EMPTY",
+        "AirlineCode": "4Y",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-28",
+        "Dest": "EMPTY",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-28",
+        "Dest": "EMPTY",
+        "AirlineCode": "XQ",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-06-28",
@@ -32342,6 +32378,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-28",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-28",
+        "Dest": "JED",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-06-28",
         "Dest": "LYS",
         "AirlineCode": "",
         "completed_interviews": 2
@@ -32357,6 +32405,12 @@ let interview_statistics_arr = `[
         "Dest": "PMO",
         "AirlineCode": "",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-28",
+        "Dest": "VLC",
+        "AirlineCode": "",
+        "completed_interviews": 2
     }
 ]    
 
