@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "29-06-2025 20:07:39"
+        "download_time": "29-06-2025 21:06:18"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -32480,6 +32480,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-29",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-29",
+        "Dest": "DUS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-29",
         "Dest": "FLR",
         "AirlineCode": "EN",
         "completed_interviews": 1
@@ -32487,6 +32499,12 @@ let interview_statistics_arr = `[
     {
         "Interview_Date": "2025-06-29",
         "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-29",
+        "Dest": "HAM",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -32516,6 +32534,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-29",
+        "Dest": "MRS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-29",
+        "Dest": "PEK",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-29",
         "Dest": "RIX",
         "AirlineCode": "BT",
         "completed_interviews": 1
@@ -32536,6 +32566,18 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-06-29",
         "Dest": "SGN",
         "AirlineCode": "VN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-29",
+        "Dest": "SKG",
+        "AirlineCode": "A3",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-29",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
         "completed_interviews": 1
     },
     {
