@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "30-06-2025 18:07:48"
+        "download_time": "30-06-2025 19:07:19"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -32594,6 +32594,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-30",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
         "Dest": "ATH",
         "AirlineCode": "LH",
         "completed_interviews": 2
@@ -32602,6 +32608,12 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-06-30",
         "Dest": "BER",
         "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "BRU",
+        "AirlineCode": "LH",
         "completed_interviews": 1
     },
     {
@@ -32624,15 +32636,33 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-30",
+        "Dest": "EDI",
+        "AirlineCode": "SN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
         "Dest": "EMPTY",
         "AirlineCode": "",
         "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-06-30",
+        "Dest": "EMPTY",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
         "Dest": "EWR",
         "AirlineCode": "LH",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "FCO",
+        "AirlineCode": "AZ",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-06-30",
@@ -32654,7 +32684,25 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-30",
+        "Dest": "ICN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
         "Dest": "LIS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "SPU",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "STR",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
