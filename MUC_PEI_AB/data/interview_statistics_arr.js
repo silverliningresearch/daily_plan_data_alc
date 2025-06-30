@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "30-06-2025 11:06:13"
+        "download_time": "30-06-2025 12:07:56"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -32594,7 +32594,67 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-06-30",
+        "Dest": "ATH",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "BER",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "CDG",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "CPH",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "DRS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "EMPTY",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-06-30",
         "Dest": "EWR",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "FRA",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "IAH",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "IAH",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-06-30",
+        "Dest": "LIS",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -32602,7 +32662,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-06-30",
         "Dest": "YYZ",
         "AirlineCode": "LH",
-        "completed_interviews": 3
+        "completed_interviews": 5
     }
 ]    
 
