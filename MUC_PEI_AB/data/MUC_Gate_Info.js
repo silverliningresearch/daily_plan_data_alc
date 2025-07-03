@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D22",
-        "download_time": "03-07-2025 22:07:33"
+        "download_time": "03-07-2025 23:06:11"
     },
     {
         "aodbUniqueId": "20250703458238",
@@ -2761,16 +2761,6 @@ let MUC_Gate_Info = `[
         "Gate": "G10"
     },
     {
-        "aodbUniqueId": "20250703458797",
-        "Date": "03-07-2025",
-        "Flight": "4Y 1330",
-        "Dest": "KEF",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G17"
-    },
-    {
         "aodbUniqueId": "20250703458803",
         "Date": "03-07-2025",
         "Flight": "LH 722",
@@ -3931,16 +3921,6 @@ let MUC_Gate_Info = `[
         "Gate": "G47"
     },
     {
-        "aodbUniqueId": "20250703459169",
-        "Date": "03-07-2025",
-        "Flight": "VL 2504",
-        "Dest": "MAN",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H29"
-    },
-    {
         "aodbUniqueId": "20250703458996",
         "Date": "03-07-2025",
         "Flight": "LX 1101",
@@ -4511,6 +4491,16 @@ let MUC_Gate_Info = `[
         "Gate": "K25"
     },
     {
+        "aodbUniqueId": "20250703458797",
+        "Date": "03-07-2025",
+        "Flight": "4Y 1330",
+        "Dest": "KEF",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G17"
+    },
+    {
         "aodbUniqueId": "20250703458886",
         "Date": "03-07-2025",
         "Flight": "LH 2128",
@@ -4559,6 +4549,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K24"
+    },
+    {
+        "aodbUniqueId": "20250703459169",
+        "Date": "03-07-2025",
+        "Flight": "VL 2504",
+        "Dest": "MAN",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H29"
     }
 ]    
 
