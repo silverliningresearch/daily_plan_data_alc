@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G08",
-        "download_time": "07-07-2025 18:07:32"
+        "download_time": "07-07-2025 19:06:13"
     },
     {
         "aodbUniqueId": "20250707471459",
@@ -211,16 +211,6 @@ let MUC_Gate_Info = `[
         "Gate": "G17"
     },
     {
-        "aodbUniqueId": "20250707471505",
-        "Date": "07-07-2025",
-        "Flight": "OS 116",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K11"
-    },
-    {
         "aodbUniqueId": "20250707471509",
         "Date": "07-07-2025",
         "Flight": "VL 2230",
@@ -299,16 +289,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H32"
-    },
-    {
-        "aodbUniqueId": "20250707471561",
-        "Date": "07-07-2025",
-        "Flight": "BT 926",
-        "Dest": "VNO",
-        "AirlineCode": "BT",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250707471554",
@@ -1048,7 +1028,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "AF",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03"
+        "Gate": "D06"
     },
     {
         "aodbUniqueId": "20250707471711",
@@ -1429,16 +1409,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G08"
-    },
-    {
-        "aodbUniqueId": "20250707471835",
-        "Date": "07-07-2025",
-        "Flight": "LH 1994",
-        "Dest": "CGN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250707471841",
@@ -2141,16 +2111,6 @@ let MUC_Gate_Info = `[
         "Gate": "G64"
     },
     {
-        "aodbUniqueId": "20250707471902",
-        "Date": "07-07-2025",
-        "Flight": "LH 1880",
-        "Dest": "NAP",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
-    },
-    {
         "aodbUniqueId": "20250707471986",
         "Date": "07-07-2025",
         "Flight": "LH 410",
@@ -2228,7 +2188,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "OU",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K10"
+        "Gate": "K12"
     },
     {
         "aodbUniqueId": "20250707472005",
@@ -2249,16 +2209,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G35"
-    },
-    {
-        "aodbUniqueId": "20250707472006",
-        "Date": "07-07-2025",
-        "Flight": "PC 1024",
-        "Dest": "SAW",
-        "AirlineCode": "PC",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B09"
     },
     {
         "aodbUniqueId": "20250707472008",
@@ -2411,6 +2361,16 @@ let MUC_Gate_Info = `[
         "Gate": "H30"
     },
     {
+        "aodbUniqueId": "20250707472389",
+        "Date": "07-07-2025",
+        "Flight": "LH 2276",
+        "Dest": "NCE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K06"
+    },
+    {
         "aodbUniqueId": "20250707472082",
         "Date": "07-07-2025",
         "Flight": "LH 2524",
@@ -2429,16 +2389,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G27"
-    },
-    {
-        "aodbUniqueId": "20250707472022",
-        "Date": "07-07-2025",
-        "Flight": "LH 1780",
-        "Dest": "LIS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G44"
     },
     {
         "aodbUniqueId": "20250707472024",
@@ -2551,6 +2501,16 @@ let MUC_Gate_Info = `[
         "Gate": "K10"
     },
     {
+        "aodbUniqueId": "20250707472022",
+        "Date": "07-07-2025",
+        "Flight": "LH 1780",
+        "Dest": "LIS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G44"
+    },
+    {
         "aodbUniqueId": "20250707472531",
         "Date": "07-07-2025",
         "Flight": "LH 1786",
@@ -2618,7 +2578,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LO",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G44"
+        "Gate": "G43"
     },
     {
         "aodbUniqueId": "20250707472035",
@@ -3021,6 +2981,16 @@ let MUC_Gate_Info = `[
         "Gate": "G81"
     },
     {
+        "aodbUniqueId": "20250707472325",
+        "Date": "07-07-2025",
+        "Flight": "OS 118",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K30"
+    },
+    {
         "aodbUniqueId": "20250707472258",
         "Date": "07-07-2025",
         "Flight": "EN 8192",
@@ -3029,6 +2999,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G19"
+    },
+    {
+        "aodbUniqueId": "20250707471561",
+        "Date": "07-07-2025",
+        "Flight": "BT 926",
+        "Dest": "VNO",
+        "AirlineCode": "BT",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250707472428",
@@ -3059,16 +3039,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K18"
-    },
-    {
-        "aodbUniqueId": "20250707472146",
-        "Date": "07-07-2025",
-        "Flight": "DE 4426",
-        "Dest": "FRA",
-        "AirlineCode": "DE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D15"
     },
     {
         "aodbUniqueId": "20250707472143",
@@ -3278,7 +3248,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20250707472187",
@@ -3331,6 +3301,16 @@ let MUC_Gate_Info = `[
         "Gate": "G48"
     },
     {
+        "aodbUniqueId": "20250707472480",
+        "Date": "07-07-2025",
+        "Flight": "LH 2322",
+        "Dest": "LUX",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G63"
+    },
+    {
         "aodbUniqueId": "20250707472172",
         "Date": "07-07-2025",
         "Flight": "LH 2442",
@@ -3351,6 +3331,16 @@ let MUC_Gate_Info = `[
         "Gate": "G20"
     },
     {
+        "aodbUniqueId": "20250707471505",
+        "Date": "07-07-2025",
+        "Flight": "OS 116",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G29"
+    },
+    {
         "aodbUniqueId": "20250707471475",
         "Date": "07-07-2025",
         "Flight": "VL 2196",
@@ -3369,6 +3359,46 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K23"
+    },
+    {
+        "aodbUniqueId": "20250707471902",
+        "Date": "07-07-2025",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
+    },
+    {
+        "aodbUniqueId": "20250707472006",
+        "Date": "07-07-2025",
+        "Flight": "PC 1024",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B09"
+    },
+    {
+        "aodbUniqueId": "20250707472146",
+        "Date": "07-07-2025",
+        "Flight": "DE 4426",
+        "Dest": "FRA",
+        "AirlineCode": "DE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D15"
+    },
+    {
+        "aodbUniqueId": "20250707472496",
+        "Date": "07-07-2025",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H24"
     },
     {
         "aodbUniqueId": "20250707472196",
@@ -3429,6 +3459,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D22"
+    },
+    {
+        "aodbUniqueId": "20250707472376",
+        "Date": "07-07-2025",
+        "Flight": "VL 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K19"
+    },
+    {
+        "aodbUniqueId": "20250707471835",
+        "Date": "07-07-2025",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250707472230",
@@ -3797,8 +3847,8 @@ let MUC_Gate_Info = `[
         "Dest": "WAW",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K24"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G38"
     },
     {
         "aodbUniqueId": "20250707472319",
@@ -3829,16 +3879,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A17"
-    },
-    {
-        "aodbUniqueId": "20250707472325",
-        "Date": "07-07-2025",
-        "Flight": "OS 118",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K30"
     },
     {
         "aodbUniqueId": "20250707472339",
@@ -3938,7 +3978,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G02"
+        "Gate": "G14"
     },
     {
         "aodbUniqueId": "20250707472369",
@@ -3981,16 +4021,6 @@ let MUC_Gate_Info = `[
         "Gate": "B15"
     },
     {
-        "aodbUniqueId": "20250707472376",
-        "Date": "07-07-2025",
-        "Flight": "VL 2106",
-        "Dest": "HAJ",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K21"
-    },
-    {
         "aodbUniqueId": "20250707472377",
         "Date": "07-07-2025",
         "Flight": "IB 1316",
@@ -4008,7 +4038,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03"
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20250707472383",
@@ -4041,16 +4071,6 @@ let MUC_Gate_Info = `[
         "Gate": "D06"
     },
     {
-        "aodbUniqueId": "20250707472389",
-        "Date": "07-07-2025",
-        "Flight": "LH 2276",
-        "Dest": "NCE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K06"
-    },
-    {
         "aodbUniqueId": "20250707472402",
         "Date": "07-07-2025",
         "Flight": "EN 8236",
@@ -4078,7 +4098,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L19"
+        "Gate": "L21"
     },
     {
         "aodbUniqueId": "20250707472407",
@@ -4321,16 +4341,6 @@ let MUC_Gate_Info = `[
         "Gate": "K14"
     },
     {
-        "aodbUniqueId": "20250707472480",
-        "Date": "07-07-2025",
-        "Flight": "LH 2322",
-        "Dest": "LUX",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G63"
-    },
-    {
         "aodbUniqueId": "20250707472481",
         "Date": "07-07-2025",
         "Flight": "EI 357",
@@ -4446,16 +4456,6 @@ let MUC_Gate_Info = `[
         "Flight": "VL 2508",
         "Dest": "BHX",
         "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H24"
-    },
-    {
-        "aodbUniqueId": "20250707472496",
-        "Date": "07-07-2025",
-        "Flight": "LH 2558",
-        "Dest": "TBS",
-        "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H24"
