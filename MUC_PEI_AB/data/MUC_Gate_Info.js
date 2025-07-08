@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G11",
-        "download_time": "08-07-2025 22:07:28"
+        "download_time": "08-07-2025 23:06:23"
     },
     {
         "aodbUniqueId": "20250708475559",
@@ -2751,16 +2751,6 @@ let MUC_Gate_Info = `[
         "Gate": "D06"
     },
     {
-        "aodbUniqueId": "20250708475194",
-        "Date": "08-07-2025",
-        "Flight": "LH 2558",
-        "Dest": "TBS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H48"
-    },
-    {
         "aodbUniqueId": "20250708475196",
         "Date": "08-07-2025",
         "Flight": "LH 2068",
@@ -4429,6 +4419,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K12"
+    },
+    {
+        "aodbUniqueId": "20250708475194",
+        "Date": "08-07-2025",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H48"
     },
     {
         "aodbUniqueId": "20250708474953",
