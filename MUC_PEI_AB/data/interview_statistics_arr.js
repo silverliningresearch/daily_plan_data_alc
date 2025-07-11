@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "11-07-2025 16:08:00"
+        "download_time": "11-07-2025 17:06:22"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -33032,7 +33032,19 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-07-11",
+        "Dest": "AGP",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-07-11",
         "Dest": "AOI",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-11",
+        "Dest": "BLQ",
         "AirlineCode": "",
         "completed_interviews": 1
     },
@@ -33040,13 +33052,31 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-07-11",
         "Dest": "BRU",
         "AirlineCode": "",
-        "completed_interviews": 4
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2025-07-11",
+        "Dest": "CLJ",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-07-11",
+        "Dest": "FLR",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-11",
+        "Dest": "MLA",
+        "AirlineCode": "",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-07-11",
         "Dest": "NCE",
         "AirlineCode": "",
-        "completed_interviews": 4
+        "completed_interviews": 5
     }
 ]    
 
