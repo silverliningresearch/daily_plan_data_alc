@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "completed_interviews": 19,
-        "download_time": "12-07-2025 12:08:23"
+        "download_time": "12-07-2025 12:47:08"
     },
     {
         "Interview_Date": "2023-01-21",
@@ -32559,19 +32559,19 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-05-19",
         "Dest": "LGW",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM4157",
         "completed_interviews": 14
     },
     {
         "Interview_Date": "2025-05-19",
         "Dest": "LYS",
-        "AirlineCode": "U2",
+        "AirlineCode": "EJU4400",
         "completed_interviews": 25
     },
     {
         "Interview_Date": "2025-05-19",
         "Dest": "MAN",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM2179",
         "completed_interviews": 25
     },
     {
@@ -33009,7 +33009,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-02",
         "Dest": "LGW",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM4157",
         "completed_interviews": 15
     },
     {
@@ -33021,7 +33021,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-02",
         "Dest": "MAN",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM2179",
         "completed_interviews": 24
     },
     {
@@ -33117,7 +33117,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-06",
         "Dest": "GVA",
-        "AirlineCode": "U2",
+        "AirlineCode": "EZS1566",
         "completed_interviews": 9
     },
     {
@@ -33297,7 +33297,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-09",
         "Dest": "LGW",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM4157",
         "completed_interviews": 23
     },
     {
@@ -33309,7 +33309,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-09",
         "Dest": "LYS",
-        "AirlineCode": "U2",
+        "AirlineCode": "EJU4400",
         "completed_interviews": 19
     },
     {
@@ -33321,7 +33321,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-09",
         "Dest": "MAN",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM2179",
         "completed_interviews": 24
     },
     {
@@ -33507,7 +33507,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-11",
         "Dest": "GVA",
-        "AirlineCode": "U2",
+        "AirlineCode": "EZS1566",
         "completed_interviews": 20
     },
     {
@@ -33957,13 +33957,13 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-16",
         "Dest": "LGW",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM4157",
         "completed_interviews": 23
     },
     {
         "Interview_Date": "2025-06-16",
         "Dest": "LYS",
-        "AirlineCode": "U2",
+        "AirlineCode": "EJU4400",
         "completed_interviews": 26
     },
     {
@@ -33981,7 +33981,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-06-16",
         "Dest": "MAN",
-        "AirlineCode": "TOM",
+        "AirlineCode": "TOM2179",
         "completed_interviews": 2
     },
     {
@@ -34527,7 +34527,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-07-02",
         "Dest": "LGW",
-        "AirlineCode": "U2",
+        "AirlineCode": "EZY8732",
         "completed_interviews": 3
     },
     {
@@ -34773,7 +34773,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-07-07",
         "Dest": "CDG",
-        "AirlineCode": "U2",
+        "AirlineCode": "EJU4686",
         "completed_interviews": 25
     },
     {
@@ -34809,7 +34809,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-07-07",
         "Dest": "GVA",
-        "AirlineCode": "U2",
+        "AirlineCode": "EZS1566",
         "completed_interviews": 29
     },
     {
@@ -34821,7 +34821,7 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-07-07",
         "Dest": "LYS",
-        "AirlineCode": "U2",
+        "AirlineCode": "EJU4470",
         "completed_interviews": 31
     },
     {
@@ -35159,6 +35159,12 @@ let interview_statistics = `[
         "Dest": "CIT",
         "AirlineCode": "DV",
         "completed_interviews": 27
+    },
+    {
+        "Interview_Date": "2025-07-12",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-07-12",
