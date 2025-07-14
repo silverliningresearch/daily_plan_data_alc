@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "14-07-2025 15:06:33"
+        "download_time": "14-07-2025 16:08:05"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -33278,8 +33278,20 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-07-14",
+        "Dest": "BRE",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
         "Dest": "CDG",
         "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "CDG",
+        "AirlineCode": "LH",
         "completed_interviews": 1
     },
     {
@@ -33314,6 +33326,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-07-14",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "HEL",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
         "Dest": "IAD",
         "AirlineCode": "",
         "completed_interviews": 6
@@ -33328,7 +33352,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-07-14",
         "Dest": "LHR",
         "AirlineCode": "LH",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-07-14",
@@ -33368,7 +33392,19 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-07-14",
+        "Dest": "VRN",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-07-14",
         "Dest": "YVR",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "ZAG",
         "AirlineCode": "LH",
         "completed_interviews": 1
     }
