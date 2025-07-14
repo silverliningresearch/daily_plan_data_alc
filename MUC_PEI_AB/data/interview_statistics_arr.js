@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "14-07-2025 14:08:00"
+        "download_time": "14-07-2025 15:06:33"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -33278,9 +33278,39 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-07-14",
+        "Dest": "CDG",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "DUB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "DUS",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "EMPTY",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-07-14",
         "Dest": "EMPTY",
         "AirlineCode": "LH",
-        "completed_interviews": 4
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "FCO",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-07-14",
@@ -33292,7 +33322,25 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-07-14",
         "Dest": "IAD",
         "AirlineCode": "LH",
-        "completed_interviews": 3
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "OSI",
+        "AirlineCode": "OU",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "PMO",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-07-14",
@@ -33302,8 +33350,26 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-07-14",
+        "Dest": "SAN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "SEA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
         "Dest": "VCE",
         "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-07-14",
+        "Dest": "YVR",
+        "AirlineCode": "LH",
         "completed_interviews": 1
     }
 ]    
