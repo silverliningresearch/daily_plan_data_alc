@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H02",
-        "download_time": "02-08-2025 22:07:58"
+        "download_time": "02-08-2025 23:06:29"
     },
     {
         "aodbUniqueId": "20250802575119",
@@ -199,6 +199,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G19"
+    },
+    {
+        "aodbUniqueId": "20250802575134",
+        "Date": "02-08-2025",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H08"
+    },
+    {
+        "aodbUniqueId": "20250802574184",
+        "Date": "02-08-2025",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H38"
     },
     {
         "aodbUniqueId": "20250802574959",
@@ -689,16 +709,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C05"
-    },
-    {
-        "aodbUniqueId": "20250802574184",
-        "Date": "02-08-2025",
-        "Flight": "LH 2558",
-        "Dest": "TBS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H38"
     },
     {
         "aodbUniqueId": "20250802574191",
@@ -2161,6 +2171,16 @@ let MUC_Gate_Info = `[
         "Gate": "G14"
     },
     {
+        "aodbUniqueId": "20250802574544",
+        "Date": "02-08-2025",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G04"
+    },
+    {
         "aodbUniqueId": "20250802574535",
         "Date": "02-08-2025",
         "Flight": "OS 112",
@@ -2189,16 +2209,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K19"
-    },
-    {
-        "aodbUniqueId": "20250802574544",
-        "Date": "02-08-2025",
-        "Flight": "LH 1626",
-        "Dest": "KRK",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20250802574545",
@@ -4249,16 +4259,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L21"
-    },
-    {
-        "aodbUniqueId": "20250802575134",
-        "Date": "02-08-2025",
-        "Flight": "LH 726",
-        "Dest": "PVG",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20250802575135",
