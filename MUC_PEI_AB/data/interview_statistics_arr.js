@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "02-08-2025 09:06:35"
+        "download_time": "02-08-2025 10:08:14"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -34196,6 +34196,24 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-02",
+        "Dest": "BLR",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-02",
+        "Dest": "BLR",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-08-02",
+        "Dest": "BOM",
+        "AirlineCode": "lh",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-02",
         "Dest": "BRU",
         "AirlineCode": "SN",
         "completed_interviews": 1
@@ -34214,9 +34232,27 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-02",
+        "Dest": "IAH",
+        "AirlineCode": "UA",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-08-02",
+        "Dest": "MLA",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-08-02",
         "Dest": "NAP",
         "AirlineCode": "LH",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-02",
+        "Dest": "ORD",
+        "AirlineCode": "UA",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2025-08-02",
@@ -34232,8 +34268,26 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-02",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-02",
         "Dest": "ZAG",
         "AirlineCode": "OU",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-02",
+        "Dest": "ZRH",
+        "AirlineCode": "",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-08-02",
+        "Dest": "ZRH",
+        "AirlineCode": "LH",
         "completed_interviews": 1
     }
 ]    
