@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H28",
-        "download_time": "10-08-2025 19:06:32"
+        "download_time": "10-08-2025 20:07:57"
     },
     {
         "aodbUniqueId": "20250810614174",
@@ -221,6 +221,16 @@ let MUC_Gate_Info = `[
         "Gate": "G33"
     },
     {
+        "aodbUniqueId": "20250810613539",
+        "Date": "10-08-2025",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C06"
+    },
+    {
         "aodbUniqueId": "20250810614045",
         "Date": "10-08-2025",
         "Flight": "LH 2060",
@@ -328,7 +338,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K30"
+        "Gate": "K28"
     },
     {
         "aodbUniqueId": "20250810614102",
@@ -801,6 +811,36 @@ let MUC_Gate_Info = `[
         "Gate": "C10"
     },
     {
+        "aodbUniqueId": "20250810613261",
+        "Date": "10-08-2025",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G26"
+    },
+    {
+        "aodbUniqueId": "20250810613628",
+        "Date": "10-08-2025",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K03"
+    },
+    {
+        "aodbUniqueId": "20250810613518",
+        "Date": "10-08-2025",
+        "Flight": "LH 726",
+        "Dest": "PVG",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H08"
+    },
+    {
         "aodbUniqueId": "20250810614094",
         "Date": "10-08-2025",
         "Flight": "LH 1902",
@@ -1151,6 +1191,16 @@ let MUC_Gate_Info = `[
         "Gate": "L24"
     },
     {
+        "aodbUniqueId": "20250810614138",
+        "Date": "10-08-2025",
+        "Flight": "OU 437",
+        "Dest": "ZAG",
+        "AirlineCode": "OU",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G33"
+    },
+    {
         "aodbUniqueId": "20250810613255",
         "Date": "10-08-2025",
         "Flight": "EZY2198",
@@ -1231,16 +1281,6 @@ let MUC_Gate_Info = `[
         "Gate": "G02"
     },
     {
-        "aodbUniqueId": "20250810613261",
-        "Date": "10-08-2025",
-        "Flight": "LH 119",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G26"
-    },
-    {
         "aodbUniqueId": "20250810613262",
         "Date": "10-08-2025",
         "Flight": "SN 2648",
@@ -1308,7 +1348,17 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K28"
+        "Gate": "K26"
+    },
+    {
+        "aodbUniqueId": "20250810614054",
+        "Date": "10-08-2025",
+        "Flight": "LH 1616",
+        "Dest": "WAW",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K26"
     },
     {
         "aodbUniqueId": "20250810613310",
@@ -1348,7 +1398,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G26"
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250810613659",
@@ -2301,16 +2351,6 @@ let MUC_Gate_Info = `[
         "Gate": "G29"
     },
     {
-        "aodbUniqueId": "20250810613518",
-        "Date": "10-08-2025",
-        "Flight": "LH 726",
-        "Dest": "PVG",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H08"
-    },
-    {
         "aodbUniqueId": "20250810613534",
         "Date": "10-08-2025",
         "Flight": "LH 1670",
@@ -2359,16 +2399,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K30"
-    },
-    {
-        "aodbUniqueId": "20250810613539",
-        "Date": "10-08-2025",
-        "Flight": "EK 052",
-        "Dest": "DXB",
-        "AirlineCode": "EK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20250810613545",
@@ -2458,7 +2488,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "OU",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K26"
+        "Gate": "K30"
     },
     {
         "aodbUniqueId": "20250810613579",
@@ -2839,16 +2869,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G63"
-    },
-    {
-        "aodbUniqueId": "20250810613628",
-        "Date": "10-08-2025",
-        "Flight": "LH 1788",
-        "Dest": "OPO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K03"
     },
     {
         "aodbUniqueId": "20250810613932",
@@ -3911,16 +3931,6 @@ let MUC_Gate_Info = `[
         "Gate": "G71"
     },
     {
-        "aodbUniqueId": "20250810614054",
-        "Date": "10-08-2025",
-        "Flight": "LH 1616",
-        "Dest": "WAW",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K26"
-    },
-    {
         "aodbUniqueId": "20250810614055",
         "Date": "10-08-2025",
         "Flight": "VL 1976",
@@ -4279,16 +4289,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H02"
-    },
-    {
-        "aodbUniqueId": "20250810614138",
-        "Date": "10-08-2025",
-        "Flight": "OU 437",
-        "Dest": "ZAG",
-        "AirlineCode": "OU",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G33"
     },
     {
         "aodbUniqueId": "20250810614144",
