@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "18-08-2025 14:07:27"
+        "download_time": "18-08-2025 15:06:50"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -34970,8 +34970,44 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-18",
+        "Dest": "ARN",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-08-18",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-18",
+        "Dest": "BIO",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-08-18",
+        "Dest": "BSL",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-18",
+        "Dest": "CDG",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-08-18",
         "Dest": "DLM",
         "AirlineCode": "X3",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-08-18",
+        "Dest": "DUB",
+        "AirlineCode": "LH",
         "completed_interviews": 2
     },
     {
@@ -34994,6 +35030,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-18",
+        "Dest": "LIN",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-18",
+        "Dest": "MAD",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-18",
         "Dest": "OLB",
         "AirlineCode": "",
         "completed_interviews": 1
@@ -35003,6 +35051,12 @@ let interview_statistics_arr = `[
         "Dest": "PMI",
         "AirlineCode": "",
         "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2025-08-18",
+        "Dest": "RZE",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
     }
 ]    
 
