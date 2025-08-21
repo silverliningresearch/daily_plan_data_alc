@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G23",
-        "download_time": "21-08-2025 22:06:40"
+        "download_time": "21-08-2025 23:06:37"
     },
     {
         "aodbUniqueId": "20250821661385",
@@ -1231,16 +1231,6 @@ let MUC_Gate_Info = `[
         "Gate": "K05"
     },
     {
-        "aodbUniqueId": "20250821660619",
-        "Date": "21-08-2025",
-        "Flight": "LH 2022",
-        "Dest": "DUS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G26"
-    },
-    {
         "aodbUniqueId": "20250821660620",
         "Date": "21-08-2025",
         "Flight": "VL 2504",
@@ -1249,6 +1239,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L23"
+    },
+    {
+        "aodbUniqueId": "20250821660619",
+        "Date": "21-08-2025",
+        "Flight": "LH 2022",
+        "Dest": "DUS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G26"
     },
     {
         "aodbUniqueId": "20250821660626",
@@ -1289,6 +1289,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G18"
+    },
+    {
+        "aodbUniqueId": "20250821661364",
+        "Date": "21-08-2025",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L15"
+    },
+    {
+        "aodbUniqueId": "20250821661556",
+        "Date": "21-08-2025",
+        "Flight": "LH 1654",
+        "Dest": "OTP",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250821660648",
@@ -3821,16 +3841,6 @@ let MUC_Gate_Info = `[
         "Gate": "A27"
     },
     {
-        "aodbUniqueId": "20250821661364",
-        "Date": "21-08-2025",
-        "Flight": "LH 772",
-        "Dest": "BKK",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L15"
-    },
-    {
         "aodbUniqueId": "20250821661367",
         "Date": "21-08-2025",
         "Flight": "LH 2394",
@@ -4389,16 +4399,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C10"
-    },
-    {
-        "aodbUniqueId": "20250821661556",
-        "Date": "21-08-2025",
-        "Flight": "LH 1654",
-        "Dest": "OTP",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250821661558",
