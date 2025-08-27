@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A23",
-        "download_time": "27-08-2025 20:07:32"
+        "download_time": "27-08-2025 21:06:03"
     },
     {
         "aodbUniqueId": "20250827680307",
@@ -881,6 +881,16 @@ let MUC_Gate_Info = `[
         "Gate": "G24"
     },
     {
+        "aodbUniqueId": "20250827680882",
+        "Date": "27-08-2025",
+        "Flight": "LH 2142",
+        "Dest": "FMO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K27"
+    },
+    {
         "aodbUniqueId": "20250827680904",
         "Date": "27-08-2025",
         "Flight": "TK 1642",
@@ -1111,6 +1121,26 @@ let MUC_Gate_Info = `[
         "Gate": "B09"
     },
     {
+        "aodbUniqueId": "20250827680998",
+        "Date": "27-08-2025",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G40"
+    },
+    {
+        "aodbUniqueId": "20250827680286",
+        "Date": "27-08-2025",
+        "Flight": "LH 2420",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G45"
+    },
+    {
         "aodbUniqueId": "20250827680447",
         "Date": "27-08-2025",
         "Flight": "LH 2482",
@@ -1208,7 +1238,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G28"
+        "Gate": "G27"
     },
     {
         "aodbUniqueId": "20250827680544",
@@ -1358,7 +1388,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11"
+        "Gate": "D12"
     },
     {
         "aodbUniqueId": "20250827680194",
@@ -1619,16 +1649,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16"
-    },
-    {
-        "aodbUniqueId": "20250827680286",
-        "Date": "27-08-2025",
-        "Flight": "LH 2420",
-        "Dest": "ARN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G45"
     },
     {
         "aodbUniqueId": "20250827680289",
@@ -2109,16 +2129,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
-    },
-    {
-        "aodbUniqueId": "20250827680882",
-        "Date": "27-08-2025",
-        "Flight": "LH 2142",
-        "Dest": "FMO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K27"
     },
     {
         "aodbUniqueId": "20250827680890",
@@ -3601,16 +3611,6 @@ let MUC_Gate_Info = `[
         "Gate": "G65"
     },
     {
-        "aodbUniqueId": "20250827680998",
-        "Date": "27-08-2025",
-        "Flight": "LH 2222",
-        "Dest": "TLS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G40"
-    },
-    {
         "aodbUniqueId": "20250827681001",
         "Date": "27-08-2025",
         "Flight": "DE 1810",
@@ -3758,7 +3758,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G02"
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20250827680240",
@@ -4261,6 +4261,16 @@ let MUC_Gate_Info = `[
         "Gate": "G71"
     },
     {
+        "aodbUniqueId": "20250827681111",
+        "Date": "27-08-2025",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C01"
+    },
+    {
         "aodbUniqueId": "20250827681060",
         "Date": "27-08-2025",
         "Flight": "XQ 135",
@@ -4369,16 +4379,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H40"
-    },
-    {
-        "aodbUniqueId": "20250827681111",
-        "Date": "27-08-2025",
-        "Flight": "EI 357",
-        "Dest": "DUB",
-        "AirlineCode": "EI",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C01"
     }
 ]    
 
