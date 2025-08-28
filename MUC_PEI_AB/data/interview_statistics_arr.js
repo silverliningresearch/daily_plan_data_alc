@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "28-08-2025 21:06:08"
+        "download_time": "28-08-2025 22:07:50"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -35414,6 +35414,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-28",
+        "Dest": "BHX",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-28",
         "Dest": "BIO",
         "AirlineCode": "BT",
         "completed_interviews": 1
@@ -35432,9 +35438,21 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-28",
+        "Dest": "DEB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-28",
         "Dest": "EMPTY",
         "AirlineCode": "",
         "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2025-08-28",
+        "Dest": "FAO",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-08-28",
@@ -35468,6 +35486,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-08-28",
+        "Dest": "HEL",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-08-28",
         "Dest": "HER",
         "AirlineCode": "",
         "completed_interviews": 3
@@ -35495,6 +35519,12 @@ let interview_statistics_arr = `[
         "Dest": "LYS",
         "AirlineCode": "LH",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-28",
+        "Dest": "MAD",
+        "AirlineCode": "",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-08-28",
@@ -35536,6 +35566,12 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-08-28",
         "Dest": "SUF",
         "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-08-28",
+        "Dest": "TRD",
+        "AirlineCode": "LH",
         "completed_interviews": 1
     },
     {
