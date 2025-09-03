@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A27",
-        "download_time": "03-09-2025 22:07:38"
+        "download_time": "03-09-2025 23:06:09"
     },
     {
         "aodbUniqueId": "20250903703750",
@@ -1749,16 +1749,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G26"
-    },
-    {
-        "aodbUniqueId": "20250903703225",
-        "Date": "03-09-2025",
-        "Flight": "LH 2646",
-        "Dest": "ADB",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L26"
     },
     {
         "aodbUniqueId": "20250903703227",
@@ -4559,6 +4549,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K06"
+    },
+    {
+        "aodbUniqueId": "20250903703225",
+        "Date": "03-09-2025",
+        "Flight": "LH 2646",
+        "Dest": "ADB",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L26"
     },
     {
         "aodbUniqueId": "20250903703979",
