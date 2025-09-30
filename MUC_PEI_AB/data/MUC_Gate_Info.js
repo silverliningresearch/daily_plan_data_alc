@@ -8,7 +8,17 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G43",
-        "download_time": "30-09-2025 04:07:50"
+        "download_time": "30-09-2025 05:06:25"
+    },
+    {
+        "aodbUniqueId": "20250930801058",
+        "Date": "30-09-2025",
+        "Flight": "EN 8192",
+        "Dest": "FLR",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G37"
     },
     {
         "aodbUniqueId": "20250930799482",
@@ -438,7 +448,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UA",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H02"
+        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20250930799686",
@@ -3578,7 +3588,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UA",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H08"
+        "Gate": "H02"
     },
     {
         "aodbUniqueId": "20250930801049",
@@ -3599,16 +3609,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G48"
-    },
-    {
-        "aodbUniqueId": "20250930801058",
-        "Date": "30-09-2025",
-        "Flight": "EN 8192",
-        "Dest": "FLR",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G37"
     },
     {
         "aodbUniqueId": "20250930801069",
@@ -3727,8 +3727,8 @@ let MUC_Gate_Info = `[
         "Dest": "ATH",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G27"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20250930801350",
@@ -3977,8 +3977,8 @@ let MUC_Gate_Info = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B10"
+        "GateArea": "T1C",
+        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20250930801178",
