@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06",
-        "download_time": "14-10-2025 22:07:49"
+        "download_time": "14-10-2025 23:06:50"
     },
     {
         "aodbUniqueId": "20251014862707",
@@ -1231,16 +1231,6 @@ let MUC_Gate_Info = `[
         "Gate": "G02"
     },
     {
-        "aodbUniqueId": "20251014862815",
-        "Date": "14-10-2025",
-        "Flight": "LH 768",
-        "Dest": "SIN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H02"
-    },
-    {
         "aodbUniqueId": "20251014862818",
         "Date": "14-10-2025",
         "Flight": "LH 1632",
@@ -1299,16 +1289,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G27"
-    },
-    {
-        "aodbUniqueId": "20251014862841",
-        "Date": "14-10-2025",
-        "Flight": "VL 1654",
-        "Dest": "OTP",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20251014862846",
@@ -3291,16 +3271,6 @@ let MUC_Gate_Info = `[
         "Gate": "L25"
     },
     {
-        "aodbUniqueId": "20251014863551",
-        "Date": "14-10-2025",
-        "Flight": "EY 128",
-        "Dest": "AUH",
-        "AirlineCode": "EY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B15"
-    },
-    {
         "aodbUniqueId": "20251014863552",
         "Date": "14-10-2025",
         "Flight": "LH 2148",
@@ -4281,6 +4251,16 @@ let MUC_Gate_Info = `[
         "Gate": "G26"
     },
     {
+        "aodbUniqueId": "20251014862815",
+        "Date": "14-10-2025",
+        "Flight": "LH 768",
+        "Dest": "SIN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H02"
+    },
+    {
         "aodbUniqueId": "20251014862896",
         "Date": "14-10-2025",
         "Flight": "LH 1830",
@@ -4329,6 +4309,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K26"
+    },
+    {
+        "aodbUniqueId": "20251014862841",
+        "Date": "14-10-2025",
+        "Flight": "VL 1654",
+        "Dest": "OTP",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G04"
+    },
+    {
+        "aodbUniqueId": "20251014863551",
+        "Date": "14-10-2025",
+        "Flight": "EY 128",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B15"
     },
     {
         "aodbUniqueId": "20251014863328",
