@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G33",
-        "download_time": "24-10-2025 21:06:36"
+        "download_time": "24-10-2025 22:08:03"
     },
     {
         "aodbUniqueId": "20251024896397",
@@ -854,7 +854,7 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20251024896252",
         "Date": "24-10-2025",
         "Flight": "BT 926",
-        "Dest": "VNO",
+        "Dest": "RIX",
         "AirlineCode": "BT",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
@@ -4321,6 +4321,16 @@ let MUC_Gate_Info = `[
         "Gate": "G10"
     },
     {
+        "aodbUniqueId": "20251024896941",
+        "Date": "24-10-2025",
+        "Flight": "LH 1666",
+        "Dest": "SBZ",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G81"
+    },
+    {
         "aodbUniqueId": "20251024896838",
         "Date": "24-10-2025",
         "Flight": "LH 1706",
@@ -4619,16 +4629,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G29"
-    },
-    {
-        "aodbUniqueId": "20251024896941",
-        "Date": "24-10-2025",
-        "Flight": "LH 1666",
-        "Dest": "SBZ",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G81"
     },
     {
         "aodbUniqueId": "20251024896971",
