@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "CDG",
         "AirlineCode": "AF",
         "completed_interviews": 7,
-        "download_time": "27-10-2025 17:07:53"
+        "download_time": "27-10-2025 18:07:53"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -49358,6 +49358,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-10-27",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-10-27",
         "Dest": "ARN",
         "AirlineCode": "LH",
         "completed_interviews": 3
@@ -49366,7 +49372,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-10-27",
         "Dest": "BER",
         "AirlineCode": "LH",
-        "completed_interviews": 4
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2025-10-27",
@@ -49389,6 +49395,12 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-10-27",
         "Dest": "DUS",
+        "AirlineCode": "EW",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-10-27",
+        "Dest": "DUS",
         "AirlineCode": "Lh",
         "completed_interviews": 1
     },
@@ -49402,25 +49414,43 @@ let interview_statistics = `[
         "Interview_Date": "2025-10-27",
         "Dest": "FMO",
         "AirlineCode": "LH",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-10-27",
+        "Dest": "FMO",
+        "AirlineCode": "Lh",
         "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-10-27",
         "Dest": "FRA",
         "AirlineCode": "LH",
-        "completed_interviews": 4
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2025-10-27",
+        "Dest": "FRA",
+        "AirlineCode": "Lh",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-10-27",
         "Dest": "HAM",
         "AirlineCode": "LH",
-        "completed_interviews": 5
+        "completed_interviews": 8
     },
     {
         "Interview_Date": "2025-10-27",
         "Dest": "LIS",
         "AirlineCode": "TP",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-10-27",
+        "Dest": "MAD",
+        "AirlineCode": "UX",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2025-10-27",
