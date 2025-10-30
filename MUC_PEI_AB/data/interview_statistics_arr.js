@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "30-10-2025 21:07:51"
+        "download_time": "30-10-2025 22:08:39"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -38624,6 +38624,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-10-30",
+        "Dest": "BEG",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-10-30",
+        "Dest": "BHX",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-10-30",
         "Dest": "BLQ",
         "AirlineCode": "",
         "completed_interviews": 3
@@ -38642,9 +38654,27 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-10-30",
+        "Dest": "DEB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-10-30",
+        "Dest": "FCO",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-10-30",
         "Dest": "FRA",
         "AirlineCode": "",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-10-30",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-10-30",
@@ -38660,6 +38690,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-10-30",
+        "Dest": "JNB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-10-30",
         "Dest": "LIN",
         "AirlineCode": "",
         "completed_interviews": 1
@@ -38667,6 +38703,12 @@ let interview_statistics_arr = `[
     {
         "Interview_Date": "2025-10-30",
         "Dest": "MRS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-10-30",
+        "Dest": "OSL",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
