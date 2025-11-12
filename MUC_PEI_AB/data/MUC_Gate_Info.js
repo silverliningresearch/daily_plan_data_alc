@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H24",
-        "download_time": "12-11-2025 09:07:23"
+        "download_time": "12-11-2025 10:07:03"
     },
     {
         "aodbUniqueId": "20251112152126",
@@ -91,6 +91,16 @@ let MUC_Gate_Info = `[
         "Gate": "C01"
     },
     {
+        "aodbUniqueId": "20251112151894",
+        "Date": "12-11-2025",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D15"
+    },
+    {
         "aodbUniqueId": "20251112151969",
         "Date": "12-11-2025",
         "Flight": "VL 1972",
@@ -99,6 +109,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G10"
+    },
+    {
+        "aodbUniqueId": "20251112152123",
+        "Date": "12-11-2025",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L24"
     },
     {
         "aodbUniqueId": "20251112152374",
@@ -401,16 +421,6 @@ let MUC_Gate_Info = `[
         "Gate": "G20"
     },
     {
-        "aodbUniqueId": "20251112151894",
-        "Date": "12-11-2025",
-        "Flight": "EW 7171",
-        "Dest": "HAM",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D15"
-    },
-    {
         "aodbUniqueId": "20251112151895",
         "Date": "12-11-2025",
         "Flight": "LH 1674",
@@ -518,7 +528,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H34"
+        "Gate": "H33"
     },
     {
         "aodbUniqueId": "20251112151758",
@@ -618,7 +628,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K06"
+        "Gate": "K10"
     },
     {
         "aodbUniqueId": "20251112151835",
@@ -787,8 +797,8 @@ let MUC_Gate_Info = `[
         "Dest": "BRU",
         "AirlineCode": "SN",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K18"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G31"
     },
     {
         "aodbUniqueId": "20251112151908",
@@ -1407,8 +1417,8 @@ let MUC_Gate_Info = `[
         "Dest": "TSR",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K09"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G38"
     },
     {
         "aodbUniqueId": "20251112151998",
@@ -1997,8 +2007,8 @@ let MUC_Gate_Info = `[
         "Dest": "NCE",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K15"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20251112152095",
@@ -2089,16 +2099,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G40"
-    },
-    {
-        "aodbUniqueId": "20251112152123",
-        "Date": "12-11-2025",
-        "Flight": "LH 452",
-        "Dest": "LAX",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L24"
     },
     {
         "aodbUniqueId": "20251112152124",
@@ -3588,7 +3588,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K04"
+        "Gate": "K15"
     },
     {
         "aodbUniqueId": "20251112152575",
@@ -3607,8 +3607,8 @@ let MUC_Gate_Info = `[
         "Dest": "BEG",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L10"
+        "GateArea": "T2 Main E5",
+        "Gate": "H41"
     },
     {
         "aodbUniqueId": "20251112152487",
