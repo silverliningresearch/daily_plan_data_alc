@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "24-11-2025 12:07:08"
+        "download_time": "24-11-2025 13:09:08"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -39914,6 +39914,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-11-24",
+        "Dest": "DWC",
+        "AirlineCode": "EK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-24",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-11-24",
         "Dest": "EBL",
         "AirlineCode": "TK",
         "completed_interviews": 1
@@ -39922,11 +39934,17 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-11-24",
         "Dest": "FAO",
         "AirlineCode": "LH",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-11-24",
         "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-24",
+        "Dest": "GRU",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -39940,18 +39958,24 @@ let interview_statistics_arr = `[
         "Interview_Date": "2025-11-24",
         "Dest": "HAM",
         "AirlineCode": "LH",
-        "completed_interviews": 2
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2025-11-24",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-11-24",
         "Dest": "IST",
         "AirlineCode": "XQ",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-24",
+        "Dest": "JNB",
+        "AirlineCode": "QR",
         "completed_interviews": 1
     },
     {
@@ -39965,6 +39989,18 @@ let interview_statistics_arr = `[
         "Dest": "LIN",
         "AirlineCode": "LH",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-11-24",
+        "Dest": "LIS",
+        "AirlineCode": "TP",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-24",
+        "Dest": "LIS",
+        "AirlineCode": "Tap",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-11-24",
