@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "25-11-2025 15:09:13"
+        "download_time": "25-11-2025 16:07:20"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -40166,6 +40166,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-11-25",
+        "Dest": "AMS",
+        "AirlineCode": "AT",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-25",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-25",
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 1
@@ -40232,6 +40244,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-11-25",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-25",
         "Dest": "DOH",
         "AirlineCode": "QR",
         "completed_interviews": 2
@@ -40262,6 +40280,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-11-25",
+        "Dest": "ICN",
+        "AirlineCode": "AT",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-25",
         "Dest": "IST",
         "AirlineCode": "Ajek",
         "completed_interviews": 1
@@ -40287,6 +40311,12 @@ let interview_statistics_arr = `[
     {
         "Interview_Date": "2025-11-25",
         "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-11-25",
+        "Dest": "LHR",
         "AirlineCode": "LH",
         "completed_interviews": 2
     },
@@ -40295,6 +40325,12 @@ let interview_statistics_arr = `[
         "Dest": "LIS",
         "AirlineCode": "LH",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-11-25",
+        "Dest": "LTN",
+        "AirlineCode": "BA",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-11-25",
