@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16",
-        "download_time": "30-11-2025 17:08:20"
+        "download_time": "30-11-2025 18:07:05"
     },
     {
         "aodbUniqueId": "20251130202437",
@@ -431,6 +431,16 @@ let MUC_Gate_Info = `[
         "Gate": "G48"
     },
     {
+        "aodbUniqueId": "20251130202504",
+        "Date": "30-11-2025",
+        "Flight": "EN 8256",
+        "Dest": "TRN",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
+    },
+    {
         "aodbUniqueId": "20251130202251",
         "Date": "30-11-2025",
         "Flight": "LH 2372",
@@ -438,7 +448,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G12"
+        "Gate": "G10"
     },
     {
         "aodbUniqueId": "20251130202739",
@@ -1021,16 +1031,6 @@ let MUC_Gate_Info = `[
         "Gate": "G34"
     },
     {
-        "aodbUniqueId": "20251130202504",
-        "Date": "30-11-2025",
-        "Flight": "EN 8256",
-        "Dest": "TRN",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
-    },
-    {
         "aodbUniqueId": "20251130202393",
         "Date": "30-11-2025",
         "Flight": "LH 2072",
@@ -1288,7 +1288,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G26"
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20251130202470",
@@ -2961,16 +2961,6 @@ let MUC_Gate_Info = `[
         "Gate": "G65"
     },
     {
-        "aodbUniqueId": "20251130202897",
-        "Date": "30-11-2025",
-        "Flight": "OS 188",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K20"
-    },
-    {
         "aodbUniqueId": "20251130202900",
         "Date": "30-11-2025",
         "Flight": "LH 2446",
@@ -3191,6 +3181,26 @@ let MUC_Gate_Info = `[
         "Gate": "G26"
     },
     {
+        "aodbUniqueId": "20251130202941",
+        "Date": "30-11-2025",
+        "Flight": "B4 073",
+        "Dest": "DWC",
+        "AirlineCode": "B4",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B14"
+    },
+    {
+        "aodbUniqueId": "20251130202897",
+        "Date": "30-11-2025",
+        "Flight": "OS 188",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K20"
+    },
+    {
         "aodbUniqueId": "20251130202975",
         "Date": "30-11-2025",
         "Flight": "BA 955",
@@ -3229,16 +3239,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K27"
-    },
-    {
-        "aodbUniqueId": "20251130202941",
-        "Date": "30-11-2025",
-        "Flight": "B4 073",
-        "Dest": "DWC",
-        "AirlineCode": "B4",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B14"
     },
     {
         "aodbUniqueId": "20251130202949",
@@ -3477,8 +3477,8 @@ let MUC_Gate_Info = `[
         "Dest": "SAW",
         "AirlineCode": "PC",
         "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B17"
+        "GateArea": "T1C",
+        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20251130202870",
