@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B14",
-        "download_time": "09-12-2025 23:08:49"
+        "download_time": "10-12-2025 00:07:10"
     },
     {
         "aodbUniqueId": "20251209231949",
@@ -931,6 +931,16 @@ let MUC_Gate_Info = `[
         "Gate": "G16"
     },
     {
+        "aodbUniqueId": "20251209231922",
+        "Date": "09-12-2025",
+        "Flight": "VL 2108",
+        "Dest": "HAJ",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K04"
+    },
+    {
         "aodbUniqueId": "20251209231255",
         "Date": "09-12-2025",
         "Flight": "KL 1858",
@@ -1539,16 +1549,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L11"
-    },
-    {
-        "aodbUniqueId": "20251209231922",
-        "Date": "09-12-2025",
-        "Flight": "VL 2108",
-        "Dest": "HAJ",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K04"
     },
     {
         "aodbUniqueId": "20251209231948",
