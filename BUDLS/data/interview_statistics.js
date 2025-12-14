@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "14-12-2025 16:14:40"
+        "download_time": "14-12-2025 17:15:54"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -500,6 +500,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-14",
+        "Dest": "AMS",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-14",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2025-12-14",
         "Dest": "BER",
         "AirlineCode": "FR",
         "completed_interviews": 5
@@ -518,6 +530,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-14",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-12-14",
         "Dest": "DTM",
         "AirlineCode": "W6",
         "completed_interviews": 6
@@ -533,6 +551,12 @@ let interview_statistics = `[
         "Dest": "FRA",
         "AirlineCode": "LH",
         "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2025-12-14",
+        "Dest": "GHV",
+        "AirlineCode": "W6",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-12-14",
@@ -580,7 +604,19 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-14",
         "Dest": "MUC",
         "AirlineCode": "LH",
-        "completed_interviews": 5
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2025-12-14",
+        "Dest": "MXP",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-14",
+        "Dest": "MXP",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-14",
@@ -598,7 +634,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-14",
         "Dest": "STR",
         "AirlineCode": "W6",
-        "completed_interviews": 3
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2025-12-14",
