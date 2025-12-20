@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "20-12-2025 12:07:20"
+        "download_time": "20-12-2025 13:10:19"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -770,6 +770,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-20",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-20",
         "Dest": "ATH",
         "AirlineCode": "FR",
         "completed_interviews": 4
@@ -788,6 +794,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-20",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-12-20",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-12-20",
         "Dest": "CPH",
         "AirlineCode": "W6",
         "completed_interviews": 2
@@ -800,9 +818,39 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-20",
+        "Dest": "KUT",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-20",
+        "Dest": "LGW",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-20",
+        "Dest": "LGW",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-20",
+        "Dest": "NAP",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-20",
         "Dest": "VIE",
         "AirlineCode": "OS",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-12-20",
+        "Dest": "W6 2222",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
     }
 ]    
 
