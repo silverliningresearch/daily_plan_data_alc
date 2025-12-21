@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "CDG",
         "AirlineCode": "AF",
         "completed_interviews": 7,
-        "download_time": "21-12-2025 10:06:33"
+        "download_time": "21-12-2025 11:06:37"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -52850,6 +52850,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-21",
+        "Dest": "AGA",
+        "AirlineCode": "DE",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-21",
         "Dest": "AYT",
         "AirlineCode": "XQ",
         "completed_interviews": 4
@@ -52859,6 +52865,12 @@ let interview_statistics = `[
         "Dest": "BIO",
         "AirlineCode": "LH",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-12-21",
+        "Dest": "FLR",
+        "AirlineCode": "EN",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-12-21",
@@ -52876,13 +52888,19 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-21",
         "Dest": "HRG",
         "AirlineCode": "DE",
-        "completed_interviews": 9
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2025-12-21",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 1
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-21",
+        "Dest": "LGW",
+        "AirlineCode": "EZ",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2025-12-21",
@@ -52892,9 +52910,33 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-21",
+        "Dest": "LYS",
+        "AirlineCode": "LH",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-12-21",
+        "Dest": "LYS",
+        "AirlineCode": "Lh",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-21",
         "Dest": "SAW",
         "AirlineCode": "PC",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-12-21",
+        "Dest": "SGN",
+        "AirlineCode": "VN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-21",
+        "Dest": "TAS",
+        "AirlineCode": "HY",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-12-21",
