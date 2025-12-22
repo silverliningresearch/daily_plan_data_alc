@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "CGN",
         "AirlineCode": "EW",
         "completed_interviews": 3,
-        "download_time": "22-12-2025 18:06:28"
+        "download_time": "22-12-2025 19:06:56"
     },
     {
         "Interview_Date": "2023-01-31",
@@ -42014,15 +42014,39 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-12-22",
+        "Dest": "EMPTY",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-22",
         "Dest": "FNC",
         "AirlineCode": "",
         "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-22",
+        "Dest": "FRA",
+        "AirlineCode": "",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-12-22",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-22",
+        "Dest": "HEL",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-22",
         "Dest": "HND",
         "AirlineCode": "",
-        "completed_interviews": 1
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-12-22",
@@ -42044,6 +42068,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2025-12-22",
+        "Dest": "MAD",
+        "AirlineCode": "",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-22",
+        "Dest": "MAD",
+        "AirlineCode": "UX",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-12-22",
         "Dest": "MLA",
         "AirlineCode": "LH",
         "completed_interviews": 2
@@ -42051,6 +42087,12 @@ let interview_statistics_arr = `[
     {
         "Interview_Date": "2025-12-22",
         "Dest": "ORD",
+        "AirlineCode": "",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-22",
+        "Dest": "ZRH",
         "AirlineCode": "",
         "completed_interviews": 1
     }
