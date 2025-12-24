@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D04",
-        "download_time": "24-12-2025 10:06:24"
+        "download_time": "24-12-2025 11:07:51"
     },
     {
         "aodbUniqueId": "20251224325800",
@@ -151,6 +151,26 @@ let MUC_Gate_Info = `[
         "Gate": "G65"
     },
     {
+        "aodbUniqueId": "20251224326072",
+        "Date": "24-12-2025",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H28"
+    },
+    {
+        "aodbUniqueId": "20251224325729",
+        "Date": "24-12-2025",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D02"
+    },
+    {
         "aodbUniqueId": "20251224325789",
         "Date": "24-12-2025",
         "Flight": "VL 2138",
@@ -211,6 +231,16 @@ let MUC_Gate_Info = `[
         "Gate": "D15"
     },
     {
+        "aodbUniqueId": "20251224325818",
+        "Date": "24-12-2025",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
+    },
+    {
         "aodbUniqueId": "20251224325830",
         "Date": "24-12-2025",
         "Flight": "VL 2516",
@@ -241,6 +271,26 @@ let MUC_Gate_Info = `[
         "Gate": "G46"
     },
     {
+        "aodbUniqueId": "20251224325695",
+        "Date": "24-12-2025",
+        "Flight": "LH 1636",
+        "Dest": "POZ",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G63"
+    },
+    {
+        "aodbUniqueId": "20251224326121",
+        "Date": "24-12-2025",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C06"
+    },
+    {
         "aodbUniqueId": "20251224325755",
         "Date": "24-12-2025",
         "Flight": "OU 4437",
@@ -251,6 +301,16 @@ let MUC_Gate_Info = `[
         "Gate": "G27"
     },
     {
+        "aodbUniqueId": "20251224325835",
+        "Date": "24-12-2025",
+        "Flight": "EY 126",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C03"
+    },
+    {
         "aodbUniqueId": "20251224325900",
         "Date": "24-12-2025",
         "Flight": "AF 1723",
@@ -259,6 +319,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03"
+    },
+    {
+        "aodbUniqueId": "20251224326112",
+        "Date": "24-12-2025",
+        "Flight": "KL 1850",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D05"
     },
     {
         "aodbUniqueId": "20251224325606",
@@ -358,7 +428,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "5F",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C10"
+        "Gate": "C02"
     },
     {
         "aodbUniqueId": "20251224325623",
@@ -409,16 +479,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G26"
-    },
-    {
-        "aodbUniqueId": "20251224325729",
-        "Date": "24-12-2025",
-        "Flight": "AY 1402",
-        "Dest": "HEL",
-        "AirlineCode": "AY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D02"
     },
     {
         "aodbUniqueId": "20251224325735",
@@ -888,17 +948,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H28"
-    },
-    {
-        "aodbUniqueId": "20251224325695",
-        "Date": "24-12-2025",
-        "Flight": "LH 1636",
-        "Dest": "POZ",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G63"
+        "Gate": "H40"
     },
     {
         "aodbUniqueId": "20251224325697",
@@ -1121,16 +1171,6 @@ let MUC_Gate_Info = `[
         "Gate": "L11"
     },
     {
-        "aodbUniqueId": "20251224325818",
-        "Date": "24-12-2025",
-        "Flight": "LH 1702",
-        "Dest": "SOF",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
-    },
-    {
         "aodbUniqueId": "20251224325901",
         "Date": "24-12-2025",
         "Flight": "4Y 212",
@@ -1249,16 +1289,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G20"
-    },
-    {
-        "aodbUniqueId": "20251224325835",
-        "Date": "24-12-2025",
-        "Flight": "EY 126",
-        "Dest": "AUH",
-        "AirlineCode": "EY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C03"
     },
     {
         "aodbUniqueId": "20251224325836",
@@ -1698,7 +1728,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "GF",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C02"
+        "Gate": "C04"
     },
     {
         "aodbUniqueId": "20251224325940",
@@ -2081,16 +2111,6 @@ let MUC_Gate_Info = `[
         "Gate": "C10"
     },
     {
-        "aodbUniqueId": "20251224326112",
-        "Date": "24-12-2025",
-        "Flight": "KL 1850",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D05"
-    },
-    {
         "aodbUniqueId": "20251224326113",
         "Date": "24-12-2025",
         "Flight": "LH 2090",
@@ -2199,16 +2219,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H46"
-    },
-    {
-        "aodbUniqueId": "20251224326072",
-        "Date": "24-12-2025",
-        "Flight": "TG 925",
-        "Dest": "BKK",
-        "AirlineCode": "TG",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H28"
     },
     {
         "aodbUniqueId": "20251224326073",
@@ -2428,7 +2438,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G40"
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20251224326162",
@@ -2449,16 +2459,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K18"
-    },
-    {
-        "aodbUniqueId": "20251224326121",
-        "Date": "24-12-2025",
-        "Flight": "DL 131",
-        "Dest": "ATL",
-        "AirlineCode": "DL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20251224326123",
