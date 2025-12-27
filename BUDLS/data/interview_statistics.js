@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "27-12-2025 15:09:27"
+        "download_time": "27-12-2025 16:10:52"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -1376,9 +1376,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-27",
-        "Dest": "CPH",
+        "Dest": "CDG",
         "AirlineCode": "EMPTY",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "CPH",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "CPH",
+        "AirlineCode": "SK",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1430,6 +1442,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-27",
+        "Dest": "HHN",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-27",
         "Dest": "IST",
         "AirlineCode": "TK",
         "completed_interviews": 1
@@ -1442,9 +1460,33 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-27",
+        "Dest": "MAD",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-27",
         "Dest": "STN",
         "AirlineCode": "FR",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "Tirgu mures",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "Torino",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-27",
