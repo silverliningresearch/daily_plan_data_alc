@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "27-12-2025 20:09:55"
+        "download_time": "27-12-2025 21:10:50"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -1342,7 +1342,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-27",
         "Dest": "ATH",
         "AirlineCode": "FR",
-        "completed_interviews": 3
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1379,6 +1379,12 @@ let interview_statistics = `[
         "Dest": "BSL",
         "AirlineCode": "W6",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1444,13 +1450,13 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-27",
         "Dest": "EIN",
         "AirlineCode": "W6",
-        "completed_interviews": 2
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2025-12-27",
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
-        "completed_interviews": 3
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1544,9 +1550,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-27",
+        "Dest": "OPO",
+        "AirlineCode": "FR",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2025-12-27",
         "Dest": "STN",
         "AirlineCode": "FR",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "TLS",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1580,9 +1598,15 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-27",
+        "Dest": "WAW",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-27",
         "Dest": "ZRH",
         "AirlineCode": "LX",
-        "completed_interviews": 3
+        "completed_interviews": 4
     }
 ]    
 
