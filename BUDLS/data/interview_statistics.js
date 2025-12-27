@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "27-12-2025 14:10:49"
+        "download_time": "27-12-2025 15:09:27"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -1328,6 +1328,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-27",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-27",
         "Dest": "ATH",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1
@@ -1343,6 +1349,12 @@ let interview_statistics = `[
         "Dest": "BCN",
         "AirlineCode": "W6",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1384,13 +1396,19 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-27",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-12-27",
         "Dest": "DUB",
         "AirlineCode": "EMPTY",
         "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1408,7 +1426,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-27",
         "Dest": "FRA",
         "AirlineCode": "LH",
-        "completed_interviews": 7
+        "completed_interviews": 8
     },
     {
         "Interview_Date": "2025-12-27",
@@ -1424,6 +1442,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-27",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-12-27",
         "Dest": "VIE",
         "AirlineCode": "EMPTY",
         "completed_interviews": 2
@@ -1433,6 +1457,12 @@ let interview_statistics = `[
         "Dest": "VLC",
         "AirlineCode": "FR",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2025-12-27",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 3
     }
 ]    
 
