@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "28-12-2025 19:11:01"
+        "download_time": "28-12-2025 20:07:30"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -1712,6 +1712,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-12-28",
+        "Dest": "FMM",
+        "AirlineCode": "W6",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-12-28",
         "Dest": "FRA",
         "AirlineCode": "LH",
         "completed_interviews": 13
@@ -1721,6 +1727,18 @@ let interview_statistics = `[
         "Dest": "HAM",
         "AirlineCode": "EW",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-28",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-28",
+        "Dest": "LTN",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-12-28",
@@ -1738,6 +1756,18 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-28",
         "Dest": "MAD",
         "AirlineCode": "IB",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-28",
+        "Dest": "MAN",
+        "AirlineCode": "LS",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2025-12-28",
+        "Dest": "MAN",
+        "AirlineCode": "W6",
         "completed_interviews": 1
     },
     {
@@ -1774,7 +1804,19 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-28",
         "Dest": "PRG",
         "AirlineCode": "FR",
-        "completed_interviews": 4
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2025-12-28",
+        "Dest": "PSA",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-28",
+        "Dest": "TLV",
+        "AirlineCode": "6H",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2025-12-28",
