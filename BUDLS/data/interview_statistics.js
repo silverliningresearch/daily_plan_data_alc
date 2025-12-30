@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "30-12-2025 14:07:43"
+        "download_time": "30-12-2025 15:10:28"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -2038,12 +2038,24 @@ let interview_statistics = `[
         "Interview_Date": "2025-12-30",
         "Dest": "BER",
         "AirlineCode": "W6",
-        "completed_interviews": 1
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-12-30",
+        "Dest": "BGY",
+        "AirlineCode": "FR",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-12-30",
         "Dest": "BLQ",
         "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-30",
+        "Dest": "BRI",
+        "AirlineCode": "EMPTY",
         "completed_interviews": 1
     },
     {
@@ -2073,8 +2085,14 @@ let interview_statistics = `[
     {
         "Interview_Date": "2025-12-30",
         "Dest": "FRA",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-30",
+        "Dest": "FRA",
         "AirlineCode": "LH",
-        "completed_interviews": 4
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2025-12-30",
@@ -2129,6 +2147,12 @@ let interview_statistics = `[
         "Dest": "SOF",
         "AirlineCode": "FR",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-12-30",
+        "Dest": "Tirgu mures",
+        "AirlineCode": "W6",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2025-12-30",
