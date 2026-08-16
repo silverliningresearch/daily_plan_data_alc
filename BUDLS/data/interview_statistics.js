@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "16-08-2026 15:12:07"
+        "download_time": "16-08-2026 16:11:14"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -5528,6 +5528,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-16",
+        "Dest": "BHX",
+        "AirlineCode": "FR",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-08-16",
         "Dest": "DUB",
         "AirlineCode": "EI",
         "completed_interviews": 1
@@ -5630,6 +5636,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-16",
+        "Dest": "SAW",
+        "AirlineCode": "VF",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-08-16",
         "Dest": "SNN",
         "AirlineCode": "FR",
         "completed_interviews": 4
@@ -5638,6 +5650,12 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-16",
         "Dest": "STN",
         "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-16",
+        "Dest": "TGD",
+        "AirlineCode": "W6",
         "completed_interviews": 1
     },
     {
