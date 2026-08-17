@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "17-08-2026 16:11:09"
+        "download_time": "17-08-2026 17:12:02"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -5744,6 +5744,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-17",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-17",
         "Dest": "BCN",
         "AirlineCode": "FR",
         "completed_interviews": 3
@@ -5758,13 +5764,25 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-17",
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-17",
         "Dest": "MAD",
         "AirlineCode": "IB",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-17",
+        "Dest": "MRS",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-17",
+        "Dest": "MRS",
+        "AirlineCode": "Fr",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-17",
@@ -5780,8 +5798,32 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-17",
+        "Dest": "NTE",
+        "AirlineCode": "Easy jet",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-17",
+        "Dest": "PMI",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-17",
+        "Dest": "PRG",
+        "AirlineCode": "DE",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-17",
         "Dest": "SKG",
         "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-17",
+        "Dest": "SOF",
+        "AirlineCode": "W6",
         "completed_interviews": 1
     },
     {
