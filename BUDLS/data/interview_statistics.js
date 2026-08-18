@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "18-08-2026 12:11:03"
+        "download_time": "18-08-2026 13:12:13"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -5948,6 +5948,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-18",
+        "Dest": "AGP",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
         "Dest": "AMS",
         "AirlineCode": "KL - KLM Royal Dutch Airlines",
         "completed_interviews": 1
@@ -5966,6 +5972,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-18",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-18",
         "Dest": "DUB",
         "AirlineCode": "EI",
         "completed_interviews": 1
@@ -5975,6 +5987,12 @@ let interview_statistics = `[
         "Dest": "DUB",
         "AirlineCode": "Ei",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "EIN",
+        "AirlineCode": "W6 - Wizz Air",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-18",
@@ -6032,6 +6050,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-18",
+        "Dest": "LTN",
+        "AirlineCode": "W6",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "LTN",
+        "AirlineCode": "W62202",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
         "Dest": "MAD",
         "AirlineCode": "FR",
         "completed_interviews": 1
@@ -6044,14 +6074,38 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-18",
+        "Dest": "OSL",
+        "AirlineCode": "DY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-18",
         "Dest": "STN",
         "AirlineCode": "FR",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "TLV",
+        "AirlineCode": "6h",
         "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-18",
         "Dest": "TLV",
         "AirlineCode": "LY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
         "completed_interviews": 1
     }
 ]    
