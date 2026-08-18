@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "18-08-2026 14:11:47"
+        "download_time": "18-08-2026 15:12:32"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -5955,6 +5955,12 @@ let interview_statistics = `[
     {
         "Interview_Date": "2026-08-18",
         "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "AMS",
         "AirlineCode": "KL - KLM Royal Dutch Airlines",
         "completed_interviews": 1
     },
@@ -5969,6 +5975,24 @@ let interview_statistics = `[
         "Dest": "AYT",
         "AirlineCode": "XQ",
         "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "Brasov",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-18",
@@ -6131,6 +6155,18 @@ let interview_statistics = `[
         "Dest": "TLV",
         "AirlineCode": "W6",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "VIE",
+        "AirlineCode": "Os",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2026-08-18",
