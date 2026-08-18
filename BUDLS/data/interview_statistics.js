@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "18-08-2026 15:12:32"
+        "download_time": "18-08-2026 16:11:05"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -5990,6 +5990,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-18",
+        "Dest": "BLL",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
         "Dest": "Brasov",
         "AirlineCode": "W6",
         "completed_interviews": 2
@@ -6014,6 +6020,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-18",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
         "Dest": "EIN",
         "AirlineCode": "W6 - Wizz Air",
         "completed_interviews": 1
@@ -6022,7 +6034,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-18",
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-18",
@@ -6041,6 +6053,12 @@ let interview_statistics = `[
         "Dest": "FRA",
         "AirlineCode": "LH",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "GHV",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-18",
@@ -6098,6 +6116,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-18",
+        "Dest": "MAD",
+        "AirlineCode": "Ib",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "NAP",
+        "AirlineCode": "FR",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-18",
         "Dest": "NCE",
         "AirlineCode": "W6",
         "completed_interviews": 1
@@ -6107,6 +6137,12 @@ let interview_statistics = `[
         "Dest": "OSL",
         "AirlineCode": "DY",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-18",
+        "Dest": "RHO",
+        "AirlineCode": "A3",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-08-18",
