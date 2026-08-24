@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "24-08-2026 11:11:59"
+        "download_time": "24-08-2026 12:34:37"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -7316,9 +7316,27 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-24",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-24",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-24",
+        "Dest": "DUB",
+        "AirlineCode": "EI - Aer Lingus",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-24",
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-24",
@@ -7334,8 +7352,32 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-24",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8731",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-24",
+        "Dest": "ORY",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-24",
         "Dest": "STN",
         "AirlineCode": "FR",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-24",
+        "Dest": "WRO",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-24",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
         "completed_interviews": 1
     }
 ]    
