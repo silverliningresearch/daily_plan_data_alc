@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "26-08-2026 10:11:14"
+        "download_time": "26-08-2026 11:11:10"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -7712,9 +7712,27 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-26",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-26",
         "Dest": "DOH",
         "AirlineCode": "QR",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-26",
+        "Dest": "EIN",
+        "AirlineCode": "W6",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-26",
+        "Dest": "FRA",
+        "AirlineCode": "DE",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-08-26",
@@ -7732,7 +7750,13 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-26",
         "Dest": "JSI",
         "AirlineCode": "FR",
-        "completed_interviews": 2
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-26",
+        "Dest": "KRK",
+        "AirlineCode": "W6",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-08-26",
@@ -7742,9 +7766,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-26",
+        "Dest": "VIE",
+        "AirlineCode": "Os",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-26",
         "Dest": "YYZ",
         "AirlineCode": "AC",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-26",
+        "Dest": "ZRH",
+        "AirlineCode": "SN",
+        "completed_interviews": 1
     }
 ]    
 
