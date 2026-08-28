@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "28-08-2026 10:23:44"
+        "download_time": "28-08-2026 11:05:55"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -8228,6 +8228,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-28",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-28",
         "Dest": "BER",
         "AirlineCode": "FR",
         "completed_interviews": 3
@@ -8240,8 +8246,20 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-28",
+        "Dest": "CHQ",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-28",
         "Dest": "CPH",
         "AirlineCode": "D8",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-28",
+        "Dest": "FCO",
+        "AirlineCode": "W6",
         "completed_interviews": 1
     },
     {
@@ -8249,6 +8267,12 @@ let interview_statistics = `[
         "Dest": "FRA",
         "AirlineCode": "LH",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-28",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-28",
@@ -8260,7 +8284,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-28",
         "Dest": "LUX",
         "AirlineCode": "LG",
-        "completed_interviews": 1
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-08-28",
@@ -8285,6 +8309,24 @@ let interview_statistics = `[
         "Dest": "OTP",
         "AirlineCode": "RO",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-28",
+        "Dest": "PHL",
+        "AirlineCode": "AA",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-28",
+        "Dest": "VNO",
+        "AirlineCode": "W6",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-08-28",
+        "Dest": "VNO",
+        "AirlineCode": "W6 - Wizz Air",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-28",
