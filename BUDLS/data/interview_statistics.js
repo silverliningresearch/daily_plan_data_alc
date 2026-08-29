@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "29-08-2026 10:10:17"
+        "download_time": "29-08-2026 11:05:27"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -8570,6 +8570,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-29",
+        "Dest": "ADB",
+        "AirlineCode": "XQ",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "AGP",
+        "AirlineCode": "FR",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-08-29",
         "Dest": "AYT",
         "AirlineCode": "4M",
         "completed_interviews": 1
@@ -8578,6 +8590,24 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-29",
         "Dest": "BGY",
         "AirlineCode": "FR",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "CPH",
+        "AirlineCode": "Fr",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "EMPTY",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "FRA",
+        "AirlineCode": "DE",
         "completed_interviews": 2
     },
     {
@@ -8596,6 +8626,18 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-29",
         "Dest": "IST",
         "AirlineCode": "Tk",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "JSI",
+        "AirlineCode": "FR",
         "completed_interviews": 1
     },
     {
@@ -8624,9 +8666,27 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-29",
+        "Dest": "SKG",
+        "AirlineCode": "W6",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "SKG",
+        "AirlineCode": "W6 - Wizz Air",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-29",
         "Dest": "TIA",
         "AirlineCode": "FR",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-08-29",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-29",
