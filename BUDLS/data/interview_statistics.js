@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "30-08-2026 13:05:50"
+        "download_time": "30-08-2026 14:05:29"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -8978,6 +8978,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-30",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-30",
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 1
@@ -8992,7 +8998,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-30",
         "Dest": "AYT",
         "AirlineCode": "W6",
-        "completed_interviews": 3
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9026,9 +9032,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-30",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-30",
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
-        "completed_interviews": 3
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "EVN",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9046,7 +9064,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-30",
         "Dest": "FRA",
         "AirlineCode": "LH",
-        "completed_interviews": 5
+        "completed_interviews": 8
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9080,9 +9098,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-30",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-30",
         "Dest": "PHL",
         "AirlineCode": "AA",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2026-08-30",
