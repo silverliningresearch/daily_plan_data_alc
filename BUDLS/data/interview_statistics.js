@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "30-08-2026 11:06:41"
+        "download_time": "30-08-2026 12:06:01"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -8978,8 +8978,20 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-30",
+        "Dest": "ATH",
+        "AirlineCode": "A3",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-30",
         "Dest": "AYT",
         "AirlineCode": "4m",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "BRU",
+        "AirlineCode": "FR",
         "completed_interviews": 1
     },
     {
@@ -8996,9 +9008,15 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-30",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-30",
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9010,7 +9028,19 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-30",
         "Dest": "FRA",
         "AirlineCode": "DE",
-        "completed_interviews": 4
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "FRA",
+        "AirlineCode": "Lh",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9041,6 +9071,12 @@ let interview_statistics = `[
         "Dest": "TLL",
         "AirlineCode": "W6",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "TLV",
+        "AirlineCode": "EMPTY",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-30",
