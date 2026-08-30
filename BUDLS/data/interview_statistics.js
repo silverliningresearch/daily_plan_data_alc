@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
         "completed_interviews": 1,
-        "download_time": "30-08-2026 21:05:29"
+        "download_time": "30-08-2026 22:05:16"
     },
     {
         "Interview_Date": "2025-12-04",
@@ -8978,6 +8978,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-30",
+        "Dest": "ALC",
+        "AirlineCode": "FR",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-30",
         "Dest": "AMS",
         "AirlineCode": "KL",
         "completed_interviews": 2
@@ -9005,6 +9011,12 @@ let interview_statistics = `[
         "Dest": "BCN",
         "AirlineCode": "FR",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "BER",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9050,6 +9062,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-30",
+        "Dest": "DBV",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-30",
         "Dest": "DUB",
         "AirlineCode": "EI",
         "completed_interviews": 7
@@ -9059,6 +9077,12 @@ let interview_statistics = `[
         "Dest": "DUB",
         "AirlineCode": "FR",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9076,7 +9100,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-30",
         "Dest": "EMPTY",
         "AirlineCode": "EMPTY",
-        "completed_interviews": 4
+        "completed_interviews": 11
     },
     {
         "Interview_Date": "2026-08-30",
@@ -9155,6 +9179,12 @@ let interview_statistics = `[
         "Dest": "PHL",
         "AirlineCode": "AA",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-30",
+        "Dest": "PMI",
+        "AirlineCode": "FR",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-30",
