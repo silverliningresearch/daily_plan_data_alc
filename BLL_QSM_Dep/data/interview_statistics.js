@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "AMS",
         "AirlineCode": "KL1346",
         "completed_interviews": 5,
-        "download_time": "23-10-2026 10:26:30"
+        "download_time": "23-10-2026 11:26:18"
     },
     {
         "Interview_Date": "2023-02-01",
@@ -21322,7 +21322,13 @@ let interview_statistics = `[
         "Interview_Date": "2026-10-23",
         "Dest": "AYT",
         "AirlineCode": "XQ575",
-        "completed_interviews": 2
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2026-10-23",
+        "Dest": "BGO",
+        "AirlineCode": "WF283",
+        "completed_interviews": 9
     },
     {
         "Interview_Date": "2026-10-23",
